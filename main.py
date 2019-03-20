@@ -38,16 +38,6 @@ def download_trans_zip_from_paratranz(project_id,
     return out_file_path
 
 
-# TODO: フォント側を調整する必要がある。
-def filter_f(item):
-    if item.startswith("aoyagireisyo60-aoyagi") or \
-            item.startswith("aoyagireisyo60-appb") or \
-            item.startswith("tuikafont1"):
-        return False
-    else:
-        return True
-
-
 def assembly_app_mod_zip_file(resource_image_file_path,
                               resource_paratranz_trans_zip_file_path,
                               out_file_path):
@@ -89,13 +79,11 @@ def generate_dot_mod_file(mod_title_name,
                           mod_file_name,
                           mod_tags,
                           mod_image_file_path,
-                          out_dir_path,
-                          mod_user_dir_name=None):
+                          out_dir_path):
     """
-    .mod.modファイルを作る
+    .modファイルを作る
     :param mod_title_name:
     :param mod_file_name: zipファイルの名前（.zipを含まない）
-    :param mod_user_dir_name:ユーザ作業ディレクトリ名
     :param mod_tags: Set<String>型
     :param mod_image_file_path:
     :param out_dir_path: 出力ディレクトリのパス
@@ -104,17 +92,13 @@ def generate_dot_mod_file(mod_title_name,
 
     os.makedirs(out_dir_path, exist_ok=True)
 
-    out_file_path = _(out_dir_path, "{}.mod.mod".format(mod_file_name))
-
-    if mod_user_dir_name is None:
-        mod_user_dir_name = mod_file_name
+    out_file_path = _(out_dir_path, "{}.mod".format(mod_file_name))
 
     with open(out_file_path, "w", encoding="utf-8") as fw:
         lines = [
             'name="{}"'.format(mod_title_name),
             'archive="mod/{}.zip"'.format(mod_file_name),
-            'user_dir="{}"'.format(mod_user_dir_name),
-            'tags={}'.format("{" + " ".join(mod_tags) + "}"),
+            'tags={}'.format("{" + " ".join(map(lambda c: '"{}"'.format(c), mod_tags)) + "}"),
             'picture="{}"'.format(mod_image_file_path)
         ]
 
@@ -176,15 +160,13 @@ def pack_mod(out_file_path,
              mod_title_name,
              mod_file_name,
              mod_tags,
-             mod_image_file_path,
-             mod_user_dir_name=None):
+             mod_image_file_path):
     with tempfile.TemporaryDirectory() as temp_dir_path:
-        # .mod.modファイルを作成する
+        # .modファイルを作成する
         generate_dot_mod_file(
             mod_title_name=mod_title_name,
             mod_file_name=mod_file_name,
             mod_tags=mod_tags,
-            mod_user_dir_name=mod_user_dir_name,
             mod_image_file_path=mod_image_file_path,
             out_dir_path=temp_dir_path)
 
@@ -201,7 +183,7 @@ def main():
 
     # 翻訳の最新版をダウンロードする
     p_file_path = download_trans_zip_from_paratranz(
-        project_id=91,
+        project_id=76,
         secret=os.environ.get("PARATRANZ_SECRET"),
         out_file_path=_(".", "tmp", "paratranz.zip"))
 
@@ -217,13 +199,12 @@ def main():
 
     # packする
     mod_pack_file_path = pack_mod(
-        out_file_path=_(".", "out", "ck2_ap1_mod"),
+        out_file_path=_(".", "out", "eu4_ap1_mod"),
         mod_file_name="jpmod_ap1_mod",
         mod_zip_path=app_mod_zip_file_path,
         mod_title_name="JPMOD Main 2: Text",
         mod_tags={"Translation", "Localisation"},
-        mod_image_file_path="title.jpg",
-        mod_user_dir_name="JLM")
+        mod_image_file_path="title.jpg")
 
     print("mod_pack_file_path:{}".format(mod_pack_file_path))
 
@@ -231,7 +212,7 @@ def main():
     from datetime import datetime as dt
     cdn_url = upload_mod_to_s3(
         upload_file_path=mod_pack_file_path,
-        name=dt.now().strftime('%Y-%m-%d_%H-%M-%S-{}'.format("ck2-ap1")),
+        name=dt.now().strftime('%Y-%m-%d_%H-%M-%S-{}'.format("eu4-ap1")),
         bucket_name="triela-file",
         access_key=os.environ.get("AWS_S3_ACCESS_KEY"),
         secret_access_key=os.environ.get("AWS_S3_SECRET_ACCESS_KEY"),
