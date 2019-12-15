@@ -56,23 +56,35 @@ def assembly_app_mod_zip_file(resource_image_file_path,
         # localisation
         salvage_files_from_paratranz_trans_zip(out_dir_path=_(temp_dir_path, "localisation"),
                                                folder_list=["localisation"],
-                                               paratranz_zip_path=resource_paratranz_trans_zip_file_path)
+                                               paratranz_zip_path=resource_paratranz_trans_zip_file_path,
+                                               head_folder_name="special")
 
         # zip化する
         return shutil.make_archive(out_file_path, 'zip', root_dir=temp_dir_path)
 
 
+def update_source(resource_paratranz_trans_zip_file_path):
+    shutil.rmtree("source", ignore_errors=True)
+    os.makedirs("source", exist_ok=True)
+
+    salvage_files_from_paratranz_trans_zip(out_dir_path=_("source", "localisation"),
+                                           folder_list=["localisation"],
+                                           paratranz_zip_path=resource_paratranz_trans_zip_file_path,
+                                           head_folder_name="utf8")
+
+
 def salvage_files_from_paratranz_trans_zip(out_dir_path,
                                            paratranz_zip_path,
-                                           folder_list=[]):
+                                           folder_list,
+                                           head_folder_name):
     with zipfile.ZipFile(paratranz_zip_path) as paratranz_zip:
-        special_files = filter(lambda name: name.startswith("special/"), paratranz_zip.namelist())
+        special_files = filter(lambda name: name.startswith(head_folder_name + "/"), paratranz_zip.namelist())
 
         with tempfile.TemporaryDirectory() as temp_dir_path:
             paratranz_zip.extractall(path=temp_dir_path, members=special_files)
 
             for folder in folder_list:
-                shutil.copytree(_(temp_dir_path, "special", folder), out_dir_path)
+                shutil.copytree(_(temp_dir_path, head_folder_name, folder), out_dir_path)
 
 
 def generate_dot_mod_file(mod_title_name,
@@ -230,6 +242,9 @@ def main():
     generate_distribution_file(url=cdn_url,
                                out_file_path=_(".", "out", "dist.v2.json"),
                                mod_file_path=mod_pack_file_path)
+
+    # utf8ファイルを移動する（この後git pushする）
+    update_source(resource_paratranz_trans_zip_file_path=p_file_path)
 
 
 if __name__ == "__main__":
