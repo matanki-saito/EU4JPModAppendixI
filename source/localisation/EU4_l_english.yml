@@ -1242,7 +1242,7 @@
  DOMINANT_TERRAIN:0 "地形：$TERRAIN|Y$"
  OTHER_TERRAINS:0 "この州の他の地形："
  CURRENT_COMBAT_WIDTH:0 "現在の戦闘幅：§Y$WIDTH$§!"
- IDEAGROUP_SWAPPED:0 "新しい伝統＆野望を得る\n"
+ IDEAGROUP_SWAPPED:0 "新たな伝統と宿願を得る\n"
  WE_SUBJECT:0 "我々は従属国です。"
  THEY_SUBJECT:0 "彼らは従属国です。"
  RESOURCE_PRICE_DATA2:0 "現在の価格は§Y$PRICE$§!¤です。"
