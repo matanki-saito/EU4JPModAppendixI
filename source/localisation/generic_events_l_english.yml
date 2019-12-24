@@ -1848,7 +1848,7 @@
  china_events.42.c:0 "宮廷の時間を無駄にしたとして両者を非難する。"
  china_events.43.t:0 "[Root.GetName]帝国の首都"
  china_events.43.d:0 "中国の新しい支配者にふさわしいように、今こそ、我々の王朝の新しい所在地を選ぶ時だ。我々の首都の位置は、今後数年間、[Root.GetName]の政治に影響を与える可能性がある。"
- china_events.43.a:0 "[Root.Monarch.GetDaughterSon]の天命は北の国境を守らなければならない。"
+ china_events.43.a:0 "天子は北方の辺境を守らなければならない。"
  china_events.43.b:0 "黄金の丘の都市！"
  china_events.43.c:0 "永遠の平和の古代都市へ。"
  china_events.43.e:0 "洛陽の洛水沿いに。"
