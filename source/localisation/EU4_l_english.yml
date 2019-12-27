@@ -4709,7 +4709,7 @@
  CULTURE_ADJACENT_TO:0 "$X$に隣接した文化"
  CULTURE_SEA_ADJACENT_TO:0 "$X$に海によって隣接した文化"
  COUNTRYS_LD_IS:0 "$COUNTRY$の独立欲求は$LD|Y$です。"
- TOOLTIP_TOGGLE_GO_HOME_WAR:0 "戦争中は友軍の港へ移動します。戦争が集結すると任務が再開されます。"
+ TOOLTIP_TOGGLE_GO_HOME_WAR:0 "戦争中は友軍の港へ移動します。戦争が終結すると任務が再開されます。"
  TOOLTIP_TOGGLE_ALLOW_ATTACH_ARMY:0 "友軍がこの軍隊に接触することを許可"
  TOOLTIP_TOGGLE_ALLOW_ATTACH_NAVY:0 "友軍の艦隊がこの艦隊に接触することを許可"
  PRODUCTION_MODIFIER_EXCEPTION:0 "この州は§Y$NAME$§!を生産します、これは生産補正の影響を受けません。"
