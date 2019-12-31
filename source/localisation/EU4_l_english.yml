@@ -20,7 +20,7 @@
  PIETY_TOO_LOW_FOR_LEGALISM:1 "§Y篤い信心の強制§!を実行するには、我々は少なくとも$NEED|Y$の律法主義が必要です。これは汚職に$CORRUPTION$の影響があります。"
  PIETY_LEGALISM_BONUS:1 "我々の律法主義の伝統は大きな強みです。§Y篤い信心の強制§!を実施すると、神秘主義へと$COST|Y$動きますが、汚職が$CORRUPTION$減少します。"
  PIETY_TOO_HI_FOR_MYSTICISM:1 "「§Y信者の招集§!」を実行するには、少なくとも$NEED|Y$の神秘主義が必要です。これは我々に以下の影響を与えます：\n$GAIN$"
- PIETY_MYSTICISM_BONUS:1 "我々の神秘主義の伝統は大きな強みです。§Y信者の招集§!を実施すると、律法主義へと$COST|Y$動きますが、人的資源が$GAIN$増加します。"
+ PIETY_MYSTICISM_BONUS:1 "我々の神秘主義の伝統は大きな強みです。§Y信者の招集§!を実施すると、律法主義へと$COST|Y$動きますが、$GAIN$"
  PIETY_MYSTICISM_COOLDOWN:0 "あなたは$YEARS|Y$年間に一度だけ「§Y信者の招集§!」を行うことができます。\nあなたは$UNTIL|Y$になるとそれを再び行うことができます。"
  PIETY_LEGALISM_COOLDOWN:0 "あなたは$YEARS|Y$年間に一度だけ「§Y篤い信心の強制§!」を行うことができます。\nあなたは$UNTIL|Y$になるとそれを再び行うことができます。"
  CONFIRM_ACTION_T:0 "アクションを確認"

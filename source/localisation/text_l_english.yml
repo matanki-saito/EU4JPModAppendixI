@@ -926,7 +926,7 @@
  colonial_governor_desc:0 "我々の植民地の統治を担当する、海外における我々の政府の代表である。"
  diplomat_desc:0 "外国における、我々の政府の代表者である。"
  REPAYLOAN:0 "借金返済"
- EXTENDLOAN:0 "借金の拡大"
+ EXTENDLOAN:0 "借金の繰り延べ"
  ACCEPTLOAN:0 "受け入れる"
  DECLINELOAN:0 "拒否する"
  REFUSEPAY:0 "支払いを拒否"

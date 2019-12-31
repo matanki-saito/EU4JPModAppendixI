@@ -125,7 +125,7 @@
  russian_tsardom_events.3.c:0 "この土地は、自由コサックに属する。"
  russian_tsardom_events.4.t:0 "逆茂木線の隙間"
  russian_tsardom_events.4.d:0 "何世紀にもわたってタタール人は我々の集落を襲撃し、それがためにステップ地帯との境界に沿って防御線を建設することとなった。逆茂木線はステップ地帯を越えやってくる襲撃を止めようとする要塞と守備隊の体制である。だが、この体制に隙間があればすぐに、境界線を突き抜けてタタール人が襲撃してくる危険性がある。\n[tatar_raided_province.GetName]での最近の襲撃は我らの防御を突破し、守られていない居住地を荒廃させてしまった。"
- russian_tsardom_events.4.a:0 "我等はタタールに支払わなくてはならない！"
+ russian_tsardom_events.4.a:0 "タタールに代償を支払わせねばならない！"
  russian_tsardom_events.5.t:0 "$YEAR$年のソボール"
  russian_tsardom_events.5.d:0 "必要な時に、[Root.GetName]の統治者が[Root.Capital.GetCapitalName]の人々へ、[Root.GovernmentName]の続く将来に関しての重要な決定において、彼らの力を貸してくれるよう求めることが可能であった。そのような集まりやソボールへの参加は、[Root.Monarch.GetTitle]の立派な臣民の義務であり、困難な時における国家的決意を強固としうる。\n恐らく、この危険に満ちた時代に、国民の助けを借りて前へと進むために、ソボールを招集する時が来たのだ。"
  russian_tsardom_events.5.a:0 "素晴らしいアイデアだ。"
