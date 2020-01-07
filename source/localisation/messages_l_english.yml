@@ -6142,7 +6142,7 @@
  ASK_PROT_DECLINE_1:0 "$RECIPIENT$"
  ASK_PROT_DECLINE_2:0 "彼らは"
  ASK_PROT_DECLINE_3:0 "我々を保護国とする要請を拒否しました。"
- ASK_PROT_DECLINE_5:0 "別の方法の一つの方法は、我々が彼らが無駄な軽蔑の代償を支払う方法を見つけることでしょう。"
+ ASK_PROT_DECLINE_5:0 "別の方法として、我々が彼らが無駄な軽蔑の代償を支払う方法を見つけることでしょう。"
  ASK_PROT_DECLINE_LOG:0 "$RECIPIENT$は我々を保護国とすることを拒否しました。"
  ASK_PROT_DECLINE_BTN1:0 "悲しいことだ。"
  ASK_PROT_DECLINE_BTN2:0 "悲しいことだ。"
