@@ -1236,7 +1236,7 @@
  consort_events.53.a.tt:0 "§Y[Root.Consort.GetName]§!を信頼しています。誰が卑しい顧問たちを気にしているのでしょう？"
  consort_events.53.b:0 "距離を置くことは傷にはならない。"
  consort_events.53.b.tt:0 "[Root.Monarch.GetTitle]は、[Root.Monarch.GetHerHis]の配偶者が国家の問題に口出しすることを禁じます。"
- without_spouse_advice:0 "いくつかの愛は失われた"
+ without_spouse_advice:0 "愛がいくらかなくなってしまった"
  desc_without_spouse_advice:0 "貴族や顧問からの圧力の後、我々の支配者は公然と配偶者の信頼を疑うことを選択した。"
  consort_events.54.t:0 "[Root.Consort.GetTitle]の能力"
  consort_events.54.da:0 "[Root.Consort.GetName]が宮廷に到着して以来、[Root.Consort.GetSheHe]は[Root.GetName]の統治業務に大きな関心を寄せている。それは[Root.Consort.GetTitle]が[Root.Monarch.GetTitle][Root.Monarch.GetHerselfHimself]だけでなく、一般的に貴族たちにも信頼され、職員との関係や城内の運用といった問題について、一種の権威のようなものになっている段階に達している。[Root.GovernmentName]がこのような効率性を持ったことは珍しいことである。"
