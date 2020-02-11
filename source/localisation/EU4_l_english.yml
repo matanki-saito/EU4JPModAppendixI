@@ -581,7 +581,7 @@
  NO_REVANCHISM_IRO:0 "あらゆるレベルの報復主義を持っていません。"
  REVANCHISM_IRO:0 "§Y報復主義§!\n$NAME$は現在、報復主義を経験しており、これにより以下の効果を与えます：\n$EFF$"
  non_core:0 "中核州ではありません"
- OCCUPATION_OF:0 "占領中："
+ OCCUPATION_OF:0 "の占領"
  NO_FORT_WILL_FALL_AFTER_N_DAYS:0 "$NAME|Y$を保護している要塞はなく、したがって$DATE|Y$には完全に占領されるでしょう。"
  NOAS_NO_BREACH:0 "壁が崩れていない要塞には突撃できません。"
  NOAS_NO_FORT:0 "要塞が無いので突撃もできません。"
