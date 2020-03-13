@@ -420,7 +420,7 @@
  shogunate_mechanic_explanation:0 "§M京都を保有すると、幕府を開きすべての従属大名の君主となることができます。§!"
  wokou_pirate_stronghold_indifferent:0 "海賊の拠点"
  desc_wokou_pirate_stronghold_indifferent:0 "この州には、我々の支配の外で繁栄している海賊たちの拠点がある。"
- wokou_pirate_stronghold_friendly:0 "有効的な海賊の拠点"
+ wokou_pirate_stronghold_friendly:0 "友好的な海賊の拠点"
  desc_wokou_pirate_stronghold_friendly:0 "この州には、隣人たちのすべてが非常に悔しがる、我々の保護下にある海賊たちの拠点がある。"
  wokou_pirate_stronghold_hostile:0 "敵対的な海賊の拠点"
  desc_wokou_pirate_stronghold_hostile:0 "繁栄している事業は、この州を中心地とした。しかし、彼らは海上交通路で権力を共有することにはほとんど関心を持っていない。"
