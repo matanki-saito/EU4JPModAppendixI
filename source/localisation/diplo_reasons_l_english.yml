@@ -136,7 +136,7 @@
  DIPLO_WAR_CAPACITY_TOO_HIGH:0 "$WHO$の継戦能力はとても高い："
  DIPLO_OFFERS_WARSCORE:0 "提案内容と戦勝点の比較："
  DIPLO_WAR_DURATION:0 "戦争期間："
- DIPLO_DESPERATE:0 "$WHO$は平和を切望してる："
+ DIPLO_DESPERATE:0 "$WHO$は平和を切望している："
  DIPLO_PEACE_ABOVE_WAR_SCORE:0 "和平提案が戦勝点より大きい："
  DIPLO_PEACE_SCORE_UNDER:0 "和平提案が$SCORE$より小さい："
  DIPLO_PEACE_SCORE_OVER:0 "和平提案が$SCORE$より大きい："

@@ -323,7 +323,7 @@
  CANCEL_FABRICATE_CLAIM_REQUEST:0 "請求権の捏造を中止し、外交官を帰還させますか？"
  CANCEL_JUSTIFY_TRADE_CONFLICT_REQUEST:0 "交易紛争の正当化を中止し、外交官を帰還させますか？"
  ALREADY_JUSTIFIED_TRADE_CONFLICT:0 "我々はすでに§Y$TARGET$§!に対する§Y交易紛争§!の開戦事由を持っています。これは§Y$DATE$§!まで有効です。"
- IS_FABRICATING_CLAIM:0 "請求権を捏造してる。"
+ IS_FABRICATING_CLAIM:0 "請求権を捏造している。"
  IS_NOT_FABRICATING_CLAIM:0 "請求権を捏造していない。"
  IS_JUSTIFYING_TRADE_CONFLICT:0 "交易紛争を正当化している。"
  IS_NOT_JUSTIFYING_TRADE_CONFLICT:0 "交易紛争を正当化していない。"
