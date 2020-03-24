@@ -244,7 +244,7 @@
  CANT_SEPPUKU_REGENT:0 "$MONARCH$は切腹を命じることができません。"
  CANT_SEPPUKU_PEACEFUL:0 "$DAIMYO$は単独の戦争を宣言していません。"
  RETURN_LAND_TITLE:0 "土地を返還"
- RETURN_LAND_DESCRIPTION:0 "彼等は正当な領有権を持たない土地を保持しています。この状態を正しましょう。"
+ RETURN_LAND_DESCRIPTION:0 "彼らは正当性のない土地を所有している。それを正そう。"
  RETURN_LAND_SPECIFIC_DESC:1 "$PROVINCE|Y$を$TAKER|Y$に返還します。$GIVERS|Y$の独立欲求は$LD$増加し$LD_TOTAL$になるでしょう。"
  RETURN_LAND_NO_ELIGBLE:0 "返還するのに適した州はありません。"
  RETURN_LAND_EFFECT:0 "彼らは$PROVINCE$を$WHO$に返還し、"

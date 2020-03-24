@@ -141,7 +141,7 @@
  russian_tsardom_events.8.t:0 "人の不足"
  russian_tsardom_events.8.d:0 "州の数の増加に対応するために、我が国の支配のもと、官庁の事務員を任命するにあたって幾分かの自由裁量を州知事に与えなくてはならない。[state_with_problems.GetAreaName]では、この結果税を払う農民と兵役を果たすものが減少した。\n行政において事業を行うことができる者たちを規制するように動いて、我が国の軍隊と財源に人が不足しないことを確実にするよう、中央政府から強く提案されている。"
  russian_tsardom_events.8.a:0 "我等は官僚集団が必要だ。"
- russian_tsardom_events.8.b:0 "行政に職を持つものから兵士と農民を締め出しましょう。"
+ russian_tsardom_events.8.b:0 "兵士と農民が行政に従事することを制限しよう。"
  russian_tsardom_events.9.t:0 "外国人将校"
  russian_tsardom_events.9.d:0 "他の欧州諸国からきた将校にとって、[Root.GetName]で雇用を探すことはますます一般的になってきた。有る面では、これは他日戦争における優位に繋がるだろうが、一方で彼らの求める給与は安くなく、我が国の将校にとっては軍内部で地位を得られずに自分たちが軽視されていると感じるかも知れない。"
  russian_tsardom_events.9.a:0 "彼らを雇うとしよう。"
