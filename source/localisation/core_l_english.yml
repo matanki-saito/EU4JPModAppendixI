@@ -286,7 +286,7 @@
  SORT_BY_TAX:0 "税で並べ替え"
  SORT_BY_DEVELOPMENT:0 "開発で並べ替え"
  SORT_BY_CULTURE:0 "文化で並べ替え"
- SORT_BY_PRIMARY_CULTURE_GROUP:0 "主要な文化グループで並べ替え"
+ SORT_BY_PRIMARY_CULTURE_GROUP:0 "主要な文化グループで並べ替えます。"
  BUTTON_EMBRACE:0 "受容"
  INSTI_NOT_ACTIVE:0 "$NAME|Y$はまだ発見されていません。"
  INSTI_PRIMITIVE_CANNOT_EMBRACE_RELIGION:0 "原始国家は、制度を受容する前に宗教を変更しなければなりません。"
