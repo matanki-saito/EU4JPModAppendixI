@@ -7869,7 +7869,7 @@
  ND_RANDOM_IDEAS:0 "ランダムなアイデア"
  ND_GOVERNMENT_RANK_DESC:0 "より高い政府ランクはより強力な利益を得られ、またナショナルフォーカスを変更するのに必要な時間を減らせます。"
  same_culture:0 "同文化"
- LD_TOO_HIGH_FOR_CONSTRUCTION:0 "独立欲求はここで雇用しあるいは建設するために$MAX|Y$以上にはなりません（現在$VAL|R$）。"
+ LD_TOO_HIGH_FOR_CONSTRUCTION:0 "ここで雇用あるいは建設するには、独立欲求が$MAX|Y$を超えてはいけません（現在$VAL|R$）。"
  SUBJECT_BUILD_TIME_INCREASE:0 "属国の州の$NUM|Y$を乗じた時間"
  TARGET_MUST_BE_A_SUBJECT:0 "目標は属国でなければなりません。"
  CANT_TARGET_OWN_SUBJECT:0 "属国を目標とすることはできません。"
