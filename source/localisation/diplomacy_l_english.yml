@@ -690,7 +690,7 @@
  AGGRESSIVE_EXPANSION_FACTOR:0 "侵略的拡大補正："
  PEACE_EFFECTS_BADBOY:1 "開戦事由$THE$$CASUS$により、$ACTIVE$は$BADBOY$を基本値とする侵略的拡大の関係ペナルティを受けます。"
  PEACE_DEFENDER_EFFECTS_BADBOY:1 "$ACTIVE$は防衛側のため、$BADBOY$を基本値とする侵略的拡大の関係ペナルティを受けます。"
- ENFORCE_PEACE_INVALID_TARGET:0 "$WHO$と$TARGET$の同君連合の下位国間の戦争に対して、和平を強制することはできません。"
+ ENFORCE_PEACE_INVALID_TARGET:0 "$WHO$と$TARGET$のように、戦争における非主戦国家同士に対して、和平を強制することはできません。"
  ENFORCE_PEACE_INVALID_TARGET_NOT_WAR:0 "$WHO$と$TARGET$は戦争中ではないため和平を強制することはできません。"
  ENFORCE_PEACE_NOT_WINNING_2:0 "戦局劣勢の国は和平を強制させられません。彼らが勝利するためには少なくとも$VAL$の戦勝点が必要です。"
  ENFORCE_PEACE_NOT_ATTACKER:0 "防衛側の国に和平を強制することはできません。この戦争では$TARGET$が$WHO$に対して攻撃を行いました。"
