@@ -545,7 +545,7 @@
  MAKESTATE_MAKE:0 "$NAME$は§Yテリトリー§!です。\n（クリックするとステートに変換されます）"
  ABANDONSTATE_NO_REGION:0 "$NAME$は関係する地方を持っていません。"
  ABANDONSTATE_ALREADY:0 "$NAME$はステートではありません！"
- ABANDONSTATE_NOT_OUR:0 "$NAME$を領有してないため、テリトリーにすることはできません。\n"
+ ABANDONSTATE_NOT_OUR:0 "$NAME$を領有していないため、テリトリーにすることはできません。\n"
  ABANDONSTATE_CAPITAL:1 "我々の首都があるステートを放棄することはできません。\n"
  ABANDONSTATE_MAKE:0 "$NAME$は§Yステート§!です。\n（クリックするとテリトリーに変換されます）"
  ABANDONSTATE_HAS_ESTATE:2 "$PROVINCENAME|Y$が階級に属している間は、ステートを放棄することはできません。\n"
