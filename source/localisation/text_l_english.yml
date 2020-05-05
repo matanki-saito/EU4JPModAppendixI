@@ -3549,7 +3549,7 @@
  CONFIRMSAVETEXT:0 "本当に上書きしてもよろしいですか？"
  bg_war_A_1:0 "$MONARCHNAME$は$ADJECTIVE1$、§Y$WARNAME$§Wを$ADJECTIVE2$。"
  bg_war_A_2:0 "$MONARCHNAME$は§Y$ADJECTIVE3$$WARNAME$§Wを$ADJECTIVE2$。"
- bg_war_A_3:0 "$YEAR$年、 我々は$ADJECTIVE1$、$WARNAME$§Wを§Y$ADJECTIVE2$。"
+ bg_war_A_3:0 "$YEAR$年、我々は$ADJECTIVE1$、$WARNAME$§Wを§Y$ADJECTIVE2$。"
  bg_war_A_adj_1_1:0 "公正に"
  bg_war_A_adj_1_2:0 "壮麗に"
  bg_war_A_adj_1_3:0 "潔く"
