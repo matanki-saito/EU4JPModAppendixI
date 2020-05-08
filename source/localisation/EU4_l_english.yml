@@ -149,7 +149,7 @@
  sanction_holy_war_desc:0 "これにより、異端者または異教徒であり、かつ中立または敵である国が現在領有しているすべての隣接州に対して請求権が得られます：\n$LIST$"
  AND_N_MORE:0 "他$N|Y$"
  INVITE_MINORITIES_NOT_OWNED:0 "これを行うには、首都のある地域の州をすべて保持、管理をしている必要がある。\n"
- INVITE_MINORITIES_NO_MINORITY:0 "このことをするために、異教徒や異端者が保持している国教の海外の州について知っている必要がある。\n"
+ INVITE_MINORITIES_NO_MINORITY:0 "これを行うには、異教徒や異端者が保持している国教の海外の州について知っている必要がある。\n"
  SANCTION_HOLY_WAR_NO_PROVINCES:0 "全ての効果のある州に請求権が存在する、または中核州。\n"
  unconditional_surrender:0 "無条件降伏"
  UNCONDITIONAL_UNSPORTING:0 "開戦から$VAL|Y$ヶ月経過するまでは無条件降伏は不可能です。 "

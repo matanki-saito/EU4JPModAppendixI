@@ -330,7 +330,7 @@
  muslim_school_events.8.a:0 "[Root.Capital.GetCapitalName]において、彼らが必要だ。"
  muslim_school_events.8.b:0 "彼らは我が国全体で彼らの場所を見つけるだろう。"
  muslim_school_events.9.t:0 "[scholar_country.GetReligiousSchool]の神学者"
- muslim_school_events.9.d:0 "我々のマドラサに[scholar_country.GetAdjective]の学者を提供することによって、我々は我が国における神学的議論を改善するだけでなく、[scholar_country.GetName] [scholar_country.GovernmentName]との関係をも改善している。"
+ muslim_school_events.9.d:0 "我々のマドラサに[scholar_country.GetAdjective]の学者を提供することによって、我々は我が国における神学的議論を改善するだけでなく、[scholar_country.GetName][scholar_country.GovernmentName]との関係をも改善している。"
  muslim_school_events.9.a:0 "素晴らしい。"
  muslim_school_events.10.t:0 "宗教学者の不合意"
  muslim_school_events.10.d:0 "すべての神学者の意見が一致するわけではない。一般的には、学問の世界では問題とならない意見の不一致が存在する可能性があるため、これは大きな問題ではない。時には不一致がより個人的な形をとることもあるが、招待された学者が我々の宗教施設の多くと対立し、国際的な評判に多大な害を及ぼしていると主張する者もいる。"
