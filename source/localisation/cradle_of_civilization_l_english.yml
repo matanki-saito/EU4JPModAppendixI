@@ -70,7 +70,7 @@
  army_professionalism_events.3.d:0 "[Root.GetCapitalName]の都市が敵の手に落ちると[From.GetAdjective]の前進した軍は数日間の略奪を開始した。都市の城壁の中には、かつての繁栄した都市の残り物すべてがくすぶっている。生存者はできるだけ遠くに安住の地を探している。"
  army_professionalism_events.3.a:0 "人々は[From.GetName]の残虐行為を忘れることはあるまい！"
  army_professionalism_events.4.t:0 "給与の遅延"
- army_professionalism_events.4.d:0 "[enemy_country.GetName]の作戦では、いくつかの重大な問題が発生している。給与支払いの時期が近づくにつれて、すべての軍隊に支払うことができないということが明らかになりつつある。我々の将軍は、軍の貨物への絶え間ない敵の襲撃を非難し、彼らはすべてを詳細に計画していると主張しているが、問題は今や[Root.Monarch.GetName]が解決すべきものである。\n我々が兵士のほんの一部にしか支払いをしない場合、脱走兵の増加は疑う余地がない。\n我々は、彼らのどれにも支払わず土地で自給自足するよう言うこともできるが、それはおそらく全域を荒廃させるだろう。"
+ army_professionalism_events.4.d:0 "[enemy_country.GetName]の作戦では、いくつかの重大な問題が発生している。給与支払いの時期が近づくにつれ、すべての軍隊に支払うことができないことが明らかになりつつある。我々の将軍は、軍の貨物への絶え間ない敵の襲撃を非難し、彼らはすべてを詳細に計画していると主張しているが、問題は今や[Root.Monarch.GetName]が解決すべきものである。\n我々が兵士のほんの一部にしか支払いをしない場合、脱走兵の増加は疑う余地がない。\n我々は、彼らのどれにも支払わず土地で自給自足するよう言うこともできるが、それはおそらく全域を荒廃させるだろう。"
  army_professionalism_events.4.a:0 "精鋭部隊には支払うべきだ。"
  army_professionalism_events.4.b:0 "その土地の物を食べて暮らしてもらおう。"
  army_professionalism_events.5.t:0 "兵士たちの多くの仕事"

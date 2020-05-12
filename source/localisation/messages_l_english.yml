@@ -2738,7 +2738,7 @@
  WEVASALLBREAK_3:0 "属国状態を許すことに疲れました。"
  WEVASALLBREAK_4:0 "我々は"
  WEVASALLBREAK_5:0 "$RECIPIENT$"
- WEVASALLBREAK_6:0 "彼らは我々が与えた機会に感謝しなければならりません。"
+ WEVASALLBREAK_6:0 "彼らは我々が与えた機会に感謝しなければなりません。"
  WEVASALLBREAK_LOG:0 "我々は$RECIPIENT$との属国を解消しました。"
  WEVASALLBREAK_BTN1:0 "OK"
  WEVASALLBREAK_BTN2:0 "OK"
