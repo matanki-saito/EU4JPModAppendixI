@@ -4527,7 +4527,7 @@
  desc_trade_post_modifier:0 "この州は、地方の交易の支配を助ける交易所を持っています。"
  CTPOS_ALREADY:0 "我々はすでに$NAME|Y$にある$NODE|Y$に交易所を持っています。"
  CTPOS_NOT_OUR_PROVINCE:0 "交易所を作成するには、$NAME|Y$を所有し、支配する必要があります。"
- CONFIRCREATETRADEPOST:0 "交易書を作成"
+ CONFIRCREATETRADEPOST:0 "交易所を作成"
  CONFIRCREATETRADEPOSTTEXT:0 "$NAME$に交易所を作成すると、以下の効果を持つようになります：\n$EFFECTS$"
  CONFIRCREATETRADEPOSTCOST:0 "これには$COST|Y$の$TYPE$点が必要です。"
  CTPOS_DO:0 "交易所の作成は§Y$COST$§!の$TYPE$点が必要であり、そこに以下の効果をもたらします：\n$EFFECTS$"
