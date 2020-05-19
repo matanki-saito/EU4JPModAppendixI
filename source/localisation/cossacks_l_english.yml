@@ -776,7 +776,7 @@
  new_world_missions:0 "新世界での布教"
  desc_new_world_missions:0 "我々は聖職者と緊密に協力し、植民地における布教活動を奨励している。"
  dhimmi_nobles:0 "ズィンミー貴族"
- desc_dhimmi_nobles:0 "我々は、ウラマーと既存の貴族主義の怒りにもかかわらず、数多くの著名で崇高なズィンミーたちを貴族に列し、我々自身の貴族に統合しようと積極的に努めてきた。"
+ desc_dhimmi_nobles:0 "我々は、ウラマーと既存の貴族階級の怒りにもかかわらず、数多くの著名で崇高なズィンミーたちを貴族に列し、我々自身の貴族に統合しようと積極的に努めてきた。"
  religious_intolerance_enforced:0 "宗教的不寛容の強制"
  desc_religious_intolerance_enforced:0 "宗教的な狂信者たちは、宗教的に理想的な国家がどのようなものであるべきかという解釈に基づいて、多くの法律や規制を採用するよう強制してきた。"
  no_tribal_leaders:0 "将軍数の減少"
