@@ -7,7 +7,7 @@
  famous_icon:0 "地方で著名な聖像"
  desc_famous_icon:0 "地域の聖像は、地域の大聖堂において簡単に外国の商人の改宗を見込めるほどに評判が上がっている。この改宗者はすぐに重要な教会の後援者となり、聖像の名声はこの州により多くの人を引き寄せる。"
  orthodox_icon_events.1.t:0 "ハリストスの母"
- orthodox_icon_events.1.d:0 "一家と田舎の農地を失ったことに嘆き、[eleusa_church_province.GetName]の戦争で荒廃した州から来た人は、伝えるところによると、[eleusa_church_province.GetCapitalName]の大聖堂にあるエレウサの前で祈りながら昼夜を過ごしている。都市が占領下にあるが故に、彼の悲しみも多くの[Root.GetAdjective]の信仰の同胞が共にしている。正に次の日聖像が彼の祈りを聞き届けたかのようだった。[eleusa_church_province.GetName]の高貴なる方々が立ち上がり、残っていた敵を立ち退かせた。\nこの州で幸運が続くかわからないが、戦争と荒廃が[Root.GetAdjective]の辺境で屡発生するため、我らの市民は教会に赴き、慰めや心の支えを得ている。"
+ orthodox_icon_events.1.d:0 "一家と田舎の農地を失ったことに嘆き、[eleusa_church_province.GetName]の戦争で荒廃した州から来た人は、伝えるところによると、[eleusa_church_province.GetCapitalName]の大聖堂にあるエレウサの前で祈りながら昼夜を過ごした。都市が占領下にあるが故に、彼の悲しみを多くの[Root.GetAdjective]の信仰の同胞が共にしていた。まさに次の日聖像が彼の祈りを聞き届けたかのようだった。[eleusa_church_province.GetName]の高貴なる方々が立ち上がり、残っていた敵を立ち退かせた。\nこの州で幸運が続くかわからないが、戦争と荒廃が[Root.GetAdjective]の辺境でたびたび発生するため、我らの市民は教会に赴き、慰めや心の支えを得ている。"
  orthodox_icon_events.1.a:0 "奇跡だ！"
  orthodox_icon_events.2.t:0 "[eleusa_church_province.GetName]で反乱"
  orthodox_icon_events.2.d:0 "[eleusa_church_province.GetName]の住人は地元の聖職者の周りに集まり、我々の占領に対し、反乱を起こした。"

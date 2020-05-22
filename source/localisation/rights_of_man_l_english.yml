@@ -160,7 +160,7 @@
  INTERVENE_AGREE_TEXT:0 "開戦だ！"
  cb_forced_break_alliance:0 "同盟破棄の強要"
  cb_forced_break_alliance_desc:0 "この許しがたい外交的裏切りに対して奴らを処罰しなければならない。"
- FORCEBREAKALLIANCEDESC:1 "彼らが受け入れる場合、両国における我々への評価は減少し$WITH|Y$は我々への開戦事由を得るでしょう。\n我々と$COUNTRY|Y$は停戦状態となるばかりではなく、$TRUSTCOST|R$の我々への信頼の低下をもたらします。それ以外の場合は$PRESTIGE$の威信を失います。"
+ FORCEBREAKALLIANCEDESC:1 "彼らが受け入れた場合、両国における我々への評価は減少し$WITH|Y$は我々への開戦事由を得ます。\nまた、我々と$COUNTRY|Y$は停戦状態となり、我々への信頼が$TRUSTCOST|R$低下します。受け入れなかった場合、我々は威信を$PRESTIGE$失います。"
  BREAKALLIANCETITLE:0 "同盟破棄"
  BREAKALLIANCE_DESC:0 "我々は$THEM|Y$に$WITH|Y$との同盟を破棄するよう要求します。"
  BREAKALLIANCE_CB_DESC:0 " "

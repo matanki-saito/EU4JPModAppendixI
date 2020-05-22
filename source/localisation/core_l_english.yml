@@ -149,7 +149,7 @@
  CANCEL_MISSION_DESC:0 "現在のミッションをキャンセルすると§Y$DATE$§Wまで新しいミッションを選択できません。"
  CONFIRMCANCELMISSION:0 "ミッションをキャンセル"
  CONFIRMCANCELMISSION_TEXT:0 "このミッションをキャンセルしてもよろしいですか？"
- WAR_SCORE_99_DESC:0 "100％の戦勝点（完全勝利）は勝利側が敗北側のすべての州を支配し、敗北側が一つも州を支配していない時のみ、可能性です。"
+ WAR_SCORE_99_DESC:0 "100％の戦勝点（完全勝利）は勝利側が敗北側のすべての州を支配し、敗北側が一つも州を支配していない時のみ、可能です。"
  WAR_OVERVIEW_ENEMY_TROOPS_LOST:1 "敵は合計$NUM|Y$の軍勢を失った。"
  WAR_OVERVIEW_ENEMY_TROOPS_ATTRIT:0 "敵は損耗によって$NUM|Y$の死傷者を出しました。"
  WAR_OVERVIEW_ENEMY_SHIPS_LOST:0 "敵は$NUM|Y$隻の船を失いました。"

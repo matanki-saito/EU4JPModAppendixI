@@ -317,7 +317,7 @@
  devotion_events.118.a:0 "免罪符の販売は[Root.Religion.GetName]を引き起こしたものだ！それらを隠しておけ。"
  devotion_events.118.b:0 "それらのための部屋を作ろう。私は[Root.Monarch.GetTitle]が天国に行ったかどうか心配だ…"
  devotion_events.119.t:0 "噂好きの人々"
- devotion_events.119.d:0 "[Root.Monarch.GetSheHe]が[Root.Capital.GetName]の通りを歩いているとき、[Root.Monarch.GetTitle][Root.Monarch.GetName]への囁き声や目線は、不穏な噂によって引き起こされている。人々は[Root.Monarch.GetTitle][Root.Monarch.GetName]は聖書で聖別されましたが、厳粛に聖別されていないと実際に信じており、評判の悪い居酒屋の中で[Root.Monarch.GetHerHis]は頭を抱えている！"
+ devotion_events.119.d:0 "[Root.Monarch.GetSheHe]が[Root.Capital.GetName]の通りを歩いているとき、[Root.Monarch.GetTitle][Root.Monarch.GetName]への囁き声や目線は、不穏な噂によって引き起こされている。人々は[Root.Monarch.GetTitle][Root.Monarch.GetName]は聖書で聖別されたが、厳粛に聖別されていないと実際に信じており、評判の悪い居酒屋の中で[Root.Monarch.GetHerHis]は頭を抱えている！"
  devotion_events.119.a:0 "問題を無視し、それが消えるよう祈る。"
  devotion_events.119.b:0 "熱心に否定する。"
  dev_confiscated_reformed_church:0 "改革派の教会が没収された。"
