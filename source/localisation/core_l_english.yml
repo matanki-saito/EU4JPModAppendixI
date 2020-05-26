@@ -689,7 +689,7 @@
  PLAYER_AI_PREFS_OPTION_DESC_send_missionaries:0 "AIが宣教師を送ることができるかどうかを制御する"
  PLAYER_AI_PREFS_OPTION_DESC_convert_cultures:0 "AIが州の文化を変えるかどうかを制御する"
  PLAYER_AI_PREFS_OPTION_DESC_promote_cultures:0 "AIが文化の登用をするかどうかを制御する"
- PLAYER_AI_PREFS_OPTION_DESC_braindead:0 "AIが完全に無効になっているかどうかを制御します（これが他のすべてを上書きします）"
+ PLAYER_AI_PREFS_OPTION_DESC_braindead:0 "AIが完全に無効になっているかどうかを制御します（これは他のすべてを上書きします）"
  PLAYER_AI_PREFS_OPTION_DESC_timeout:0 "時間が経過すると、AI設定がデフォルトに戻されます。"
  PLAYER_AI_PREFS_TIMEOUT_NEVER:0 "絶対ない"
  DEFAULT:0 "デフォルト"
