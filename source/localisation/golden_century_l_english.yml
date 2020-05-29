@@ -213,7 +213,7 @@
  mechanic_admirals_become_rulers_no:0 ""
  pirates.1.t:0 "[Root.GovernmentName]の選挙"
  pirates.1.desc:0 "盗人や人殺しの国を支配する[Root.Monarch.GetTitle]の唯一の政治思想は何者にも支配されないことだ。それはサメを放牧するような仕事だが、勇敢なあるいは愚鈍な魂によってその役割を果たさなければなりません。\n\n[Root.Monarch.GetTitle]を再び選択する時だ。[Root.Monarch.GetName]は[Root.Monarch.GetHerHis]の権限を放棄することを考えていない。[Root.Monarch.GetName]は集まった海賊たちに説得か恫喝によって[Root.Monarch.GetHerHis]による統治が[Root.Monarch.GetHerHis]の対立候補の統治よりも優れていることを納得させなくてはならない。"
- pirates.1.desc2:0 "[Root.Monarch.GetName]は、ほとんどの海賊が辿るであろう運命を迎えた。残酷で早すぎる最期を。 乗組員は新しい[Root.Monarch.GetTitle]を選ぶための集会に呼ばれた。\n\n盗人や人殺しの国を支配する[Root.Monarch.GetTitle]の唯一の政治思想は何者にも支配されないことだ。それはサメを放牧するような仕事だが、勇敢なあるいは愚鈍な魂によってその役割を果たさなければなりません。"
+ pirates.1.desc2:0 "[Root.Monarch.GetName]は、ほとんどの海賊が辿るであろう運命を迎えた。残酷で早すぎる最期を。 乗組員は新しい[Root.Monarch.GetTitle]を選ぶための集会に呼ばれた。\n\n盗人や人殺しの国を支配する[Root.Monarch.GetTitle]の唯一の政治思想は何者にも支配されないことだ。それはサメを放牧するような仕事だが、勇敢なあるいは愚鈍な魂によってその役割を果たさなければならない。"
  pirates.1.keep:0 "$MONARCH$の留任"
  historical_pirate_tooltip:0 "この支配者を再選することには、共和的伝統を消費しない。"
  pirates.1.a:0 "やり手の海賊だ。"

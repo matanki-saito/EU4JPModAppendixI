@@ -766,7 +766,7 @@
  alert_too_many_leaders_instant:0 "§Y過剰な軍事指揮官！§W"
  alert_too_many_leaders_delayed:0 "指揮官の無料枠を越えた指揮官につきそれぞれ\n毎月1£mil£のコストがかかります。\n現在毎月、$AMT$£mil£のコストがかかっています。"
  alert_can_vote_for_cardinal_instant:0 "§Y枢機卿に投資可能！§W"
- alert_can_vote_for_cardinal_delayed:0 "未来の枢機卿に投資するのに十分な教皇の影響力を持っています。"
+ alert_can_vote_for_cardinal_delayed:0 "未来の枢機卿に投資するのに十分な教皇への影響力を持っています。"
  alert_can_convert_province_instant:0 "§Y州を$RELIGION$に改宗可能！§W"
  alert_can_convert_province_delayed:0 "宣教師を1人送ることによって国教に改宗させることができる州があります。"
  alert_can_core_province_instant:0 "§Y中核化されていない州！§W"

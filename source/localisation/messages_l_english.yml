@@ -3426,7 +3426,7 @@
  COLONYDAMAGED_3:0 "$PROVINCE$"
  COLONYDAMAGED_4:0 "我々の植民地を攻撃しました。"
  COLONYDAMAGED_5:0 "多数の入植者を殺害し、建物を破壊しました。"
- COLONYDAMAGED_6:0 "この野蛮人共を文明に導く努力は価値があるのでしょうか？"
+ COLONYDAMAGED_6:0 "この野蛮人どもを文明に導く努力は価値があるのでしょうか？"
  COLONYDAMAGED_LOG:0 "$PROVINCE$で我々の植民地は原住民による被害を受けました！"
  COLONYDAMAGED_BTN1:0 "何ということだ！"
  COLONYDAMAGED_BTN2:0 "何ということだ！"
