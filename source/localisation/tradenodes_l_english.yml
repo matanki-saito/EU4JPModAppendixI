@@ -2,7 +2,7 @@
  ON_TRADE_MISSION_IRO:0 " §Y$WHERE$§! における我が国の交易の利益を §Y$COUNT$§! の小型船によって守ります。"
  ON_PRIVATEER_MISSION_IRO:0 "§Y$WHERE$§! における敵の交易の利益を §Y$COUNT$§! の小型船によって妨害します。"
  TRADEMAP_OUTGOING:0 "§Y$VAL$§W¤分の価値が§Y$NAME$§Wへ送られています。"
- TRADEMAP_OUTGOING_BASE:0 "国家によって交易価値が増加する前に、$BASEVAL$¤が$FROMNODE$から減少しています"
+ TRADEMAP_OUTGOING_BASE:0 "国家によって交易価値が増加する前に、$BASEVAL$¤が$FROMNODE$から減少しています。"
  TRADEMAP_OUTGOING_SMALL:0 "流出：-§Y$VAL$§W¤"
  TRADEMAP_INCOMING:0 "流入：+§Y$VAL$§W¤"
  TRADEMAP_LOCAL:0 "地方：+§Y$VAL$§W¤"

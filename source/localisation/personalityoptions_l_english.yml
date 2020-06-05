@@ -35,7 +35,7 @@
  personality_options.837.a:0 "より多くの職業への機会を作成することを試みる。"
  personality_options.850.a:0 "耳を傾けるすべての人にそれを知らせよう。"
  personality_options.851.a:0 "非常識だ！"
- personality_options.851.a.tt:0 "当主の個人的な人気のおかげで、これらの下劣な噂を霧視する事が簡単にできる。"
+ personality_options.851.a.tt:0 "当主個人の人望のおかげで、こういった下劣な噂は容易に無視できる。"
  personality_options.852.a:0 "我々はそれよりも優れたことを行う必要がある！"
  personality_options.852.b:0 "[Root.Monarch.GetTitle]は政府を強化することが許されるべきだ！"
  personality_options.853.a:0 "[Root.Monarch.GetTitle]がより多くの資源でできることを想像してみよう…"
