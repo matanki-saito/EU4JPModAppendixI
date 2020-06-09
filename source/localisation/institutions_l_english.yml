@@ -109,7 +109,7 @@
  growth_of_global_trade:0 "世界交易の拡大"
  desc_growth_of_global_trade:0 "この州は世界交易の繋がりの中で我々が果たす役割を受け入れ、我々から利益を得ている。"
  rapid_collapse_of_society:0 "急速な社会の崩壊"
- desc_rapid_collapse_of_society:0 "欧州勢力との最初の接触の結果起きた伝染病は我々の国を荒廃させている。かつてなき死者と病人の数の増加は、我々の国家の秩序や規律、全体の組織の崩壊を起こしている。"
+ desc_rapid_collapse_of_society:0 "欧州勢力との最初の接触の結果起きた伝染病は我々の国を荒廃させている。かつてない死者と病人の数の増加は、我々の国家の秩序や規律、全体の組織の崩壊を引き起こしている。"
  rapid_collapse_of_society_tooltip:0 "ヨーロッパ人の持ち込んだ病気は25年以下、[Root.GetName]を苦しめた。"
  tooltip_center_of_trade_spread:1 "州がレベル2以上の交易中心地である"
  tooltip_province_protestant_RB:0 "州がプロテスタント、聖公会、改革派 のいずれかである"

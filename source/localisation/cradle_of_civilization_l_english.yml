@@ -529,7 +529,7 @@
  chiefs_with_pretensions:0 "地元有力者の虚勢"
  desc_chiefs_with_pretensions:0 "地元の族長は、自身をスルタンと称することを始めており、自身を独立した支配者とみなしている。"
  rejection_of_syncretism:0 "習合主義の拒絶"
- desc_rejection_of_syncretism:0 "我々は、我が国おけるイスラムの習合主義の普及に対抗し、積極的な取り組みを続けている。"
+ desc_rejection_of_syncretism:0 "我々は、我が国におけるイスラムの習合主義の普及に対抗し、積極的な取り組みを続けている。"
  helped_clear_out_bandits:0 "盗賊たちと戦った"
  propagate_religion_events.1.t:0 "[trade_province.GetCapitalName]の交易商"
  propagate_religion_events.1.d:0 "イスラム教徒の交易商は、人々にとっては我々の港における一般的な風景となりつつあり、我々は彼らとその宗教に慣れてきた。[trade_province.GetName]州の港、特に[trade_province.GetCapitalName]の港では、これらの商人は非常に一般的なものとなり、現在は都市の人口に欠かすことのできないものである。\n最近、これらの交易商のうちのいくつかは[Root.Monarch.GetTitle]に接触し、[trade_province.GetCapitalName]の外に適切な自身の居留地を構築することを許可するよう求めた。"
