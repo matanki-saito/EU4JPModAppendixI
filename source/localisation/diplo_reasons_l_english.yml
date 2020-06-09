@@ -1,5 +1,5 @@
 ﻿l_english:
- DIPLO_CANCELED_TRIBUTARY:0 "放棄された朝貢"
+ DIPLO_CANCELED_TRIBUTARY:1 "Abandoned Tributary: "
  DIPLO_NO_FIGHTING:0 "現在進行中の戦闘はない："
  DIPLO_UNCONDITIONALLY_SURRENDERED:1 "$WHO$は$THEM$に§Y無条件降伏§!した："
  DIPLO_SET_PROVINCES_AS_VITAL:0 "$THEM$は$WE$の州に重大な権益を有していると考えている："
@@ -371,3 +371,5 @@
  DIPLO_COLONY_NO_NATIVE:0 "$COLONY$は植民地国家であり、決して我々と同盟しないでしょう："
  DIPLO_ESCALATED_COLONIAL_WAR:0 "植民地戦争に巻き込まれることを望んでいない："
  DIPLO_THREATHENING_MANDATE:0 "天命が脅かされている："
+ DIPLO_TRADECITY:0 "$WHO$ is a trade city who wants to avoid alliances."
+ DIPLO_RESTRICTED_REGION:0 "Tradecharter Regional Scepticism"

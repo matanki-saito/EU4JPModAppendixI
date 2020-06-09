@@ -257,3 +257,4 @@
  nomad_group_desc:0 "遊牧民技術グループでは、技術レベルが75%高め（175%）です。"
  sub_saharan_desc:0 "西アフリカ技術グループでは、技術レベルが60%高め（160%）です。"
  new_world_desc:0 "新世界技術グループでは、技術レベルが150%高め（250%）です。"
+ FROM_TECH_NON_PERC:0 "From Technology: $VAL|=+0$\n"

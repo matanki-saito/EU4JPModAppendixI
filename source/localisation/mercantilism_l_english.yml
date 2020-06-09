@@ -22,7 +22,7 @@
  mercantilism_events.3.a:0 "我々は自らの力のために鉄を輸入する必要がある。"
  mercantilism_events.3.b:0 "我々は自らの資源に頼る必要がある。心は鉄よりも重要である。"
  mercantilism_events.4.t:0 "海軍用品の輸入"
- mercantilism_events.4.d:0 "我が国の海軍を進歩させるという野望は近年停滞している。[Root.GetAdjective]の造船技師たちはアイデアや計画が欠けているわけではない。物資が足りないのだ。彼らの主張によれば、隣国には豊富な資材があり、これがあれば近代的な海軍を整備するのに役立つだろうと痛感しているというのだ。我が艦隊が外国に依存することは望ましくないが、そのようなこだわりが進歩の障害となるのであれば、新たな造船技術をテストするに足る分だけなら輸入しても良いかもしれない。"
+ mercantilism_events.4.d:0 "Ambitions to improve our nation's navy have recently come to a halt. The [Root.GetAdjective] shipbuilders don't lack ideas or plans, but supplies. Some of them cannot help but notice, they claim, that our neighbor has an abundance of materials that would be useful in equipping a modern navy. We try not to make our fleet dependent on foreign support, but if these policies stand in the way of progress, perhaps we could import just enough to test the new shipbuilding techniques."
  mercantilism_events.4.a:0 "我々の計画を進めることを任せられるのであれば、妥協は可能だ。"
  mercantilism_events.4.b:0 "外国の木材で船を造るだと？それなら岩でつくったほうがよっぽど安全だ！"
  mercantilism_events.5.t:0 "$TRADER$、議論好きの保護主義者"

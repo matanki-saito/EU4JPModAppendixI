@@ -129,7 +129,7 @@
  SKIP_LINK_ACCOUNTS:0 "リンクをスキップ"
  AGREE_LINK_ACCOUNTS:0 "アカウントをリンク"
  CREATE_PROFILE_TITLE:0 "ユーザー名を選択"
- CREATE_PROFILE_DESCRIPTION:0 "万物には名前が必要です。このユーザー名は、すべてのParadoxゲームおよびオンライン機能で使用され、決定後に変更することはできません。\n\n慎重に選びましょう！"
+ CREATE_PROFILE_DESCRIPTION:1 "Every general needs a name. This username will be used across all Paradox games and online features and cannot be changed after it's been decided.\n\nChoose wisely!"
  CREATE_PROFILE_USERNAME:0 "ユーザー名"
  CREATE_PROFILE_CONFIRM:0 "確認"
  SOCIAL_JOIN_REQUEST_SENT:0 "参加リクエストを送りました"

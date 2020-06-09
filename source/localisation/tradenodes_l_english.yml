@@ -174,7 +174,7 @@
  NO_TRADE_COMPANY_OVERSEAS:0 "交易会社を開設できるのは海外だけです。"
  TRADE_NAME_SORT_TOOLTIP:0 "国別で並び替え"
  WHO_HAS_TRADE_COMPANY_IN:0 "$WHO|Y$は$REGION|Y$に交易会社を所有しています。"
- GOODS_PRODUCED_BONUS:0 "この地域の交易会社は非西洋諸国の交易品の生産物の量を$VAL|1Y%$増やします。"
+ GOODS_PRODUCED_BONUS:1 "§YProduction Increase§!\nThe Trade Companies in this region boost the amount of goods produced in all non trade company provinces by $VAL|2+=%$ due to:\n$WHY$"
  TRADE_SHIPS_IN_NODE:0 "この交易ノードでは、$COUNT|Y$隻の小型船が交易を保護しており、\n交易力を$TRADEPOWER|Y$生み出しています。"
  PRIVATEERS_IN_NODE:0 "この交易ノードでは、合計$PRIVATEERTRADEPOWER|Y$の交易力を有した小型船$PRIVATEERCOUNT|Y$隻が\n私掠任務に当たっています。"
  aleppo:0 "アレッポ"

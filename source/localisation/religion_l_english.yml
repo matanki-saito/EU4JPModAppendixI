@@ -92,3 +92,6 @@
  zoroastrian_rebels_name:0 "$RELIGION$の狂信者"
  zoroastrian_rebels_desc:0 "宗教の狂信者は異なる信仰の国家に支配された州で蜂起する傾向にあります。彼らはその信仰を広め、不信心者を打倒しようとします。"
  zoroastrian_rebels_army:0 "$RELIGION$軍"
+ catholic_neutral:0 "Neutral in Council of Trent"
+ catholic_concilatory:0 "Conciliatory in Council of Trent"
+ catholic_harsh:0 "Harsh in Council of Trent"

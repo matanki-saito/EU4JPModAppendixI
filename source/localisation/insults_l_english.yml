@@ -1,6 +1,6 @@
 ﻿l_english:
  insult_default:1 "お前の母親は、むかし、ハムスターだったし、お前の父親はニワトリの食べる木の実の匂いがしたもんだ！"
- insult_default2:0 "裁きの日がやってくるぞ！ルシファーの手先が地上を闊歩しているーああ、ただの[Root.GetAdjective]か。"
+ insult_default2:0 "Judgment day is upon us! The minions of Lucifer walk upon the earth- Oh. No, it is merely the [Root.GetAdjective]."
  insult_default3:0 "さらに、[Root.Capital.GetCapitalName]を破壊してやる！"
  insult_default4:0 "後世の人々によって我々の時代が記述される時、お前には哀れみと嫌悪の混ざった同情が向けられるだろう。"
  insult_default5:0 "最後にトイレに行った時の方が、[Root.GetAdjective]大使との会食よりもずっと楽しいものだったな。"
@@ -17,7 +17,7 @@
  insult_no_army:0 "その首を刎ねろと言うのか？"
  insult_bookkeeping:0 "いつかは[Root.GetAdjective]商人でさえ簿記を理解する日が訪れるかもしれんな。"
  insult_rome:0 "我が軍が本当に全ての道がローマに通じているか確かめに行くだろう。"
- insult_heir_hunter:0 "貴方の後継ぎは、狩りに夢中のようだね。気をつけたほうがいいよ、予期せぬ事故が起こるかもしれないからね。"
+ insult_heir_hunter:0 "I've heard your heir enjoys hunting. Do be careful, it would be such a shame if an unforeseen accident would happen."
  insult_monarchy:1 "お前の誇大妄想のせいでお前の兵士は苦労しているな。"
  insult_european_indian:0 "ここで胡椒を栽培しているのか？どうやら収穫の時期に間に合ったようだな…"
  insult_diamonds:0 "あなたは、永遠に輝き続けると言われるダイヤモンドを大量に持っているようですね。我々にいくらか分けていただければ、あなたの王朝より長持ちさせられますよ。"
