@@ -7,7 +7,7 @@
  LEADS_TRADE_LEAGUE:0 "貿易同盟を主導"
  ANOTHER_MAX_STATE:0 "別の国家を許可する"
  GOV_MAX_STATES:0 "最大国家：$NUM$"
- MAX_STATE_TITLE_TECH:1 "Governing Capacity"
+ MAX_STATE_TITLE_TECH:1 "統治限界"
  MAKESTATE_NOT_CORE:0 "$NAME$は中核州ではない。\n"
  STATE_MAINTENANCE_MODIFIER:0 "ステート維持費"
  ECONOMY_STATE_MAINTENANCE_DRO:0 "首都以外の州の維持費は毎月支払われる。これは開発度と首都への距離に基いている。"

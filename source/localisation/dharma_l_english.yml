@@ -695,7 +695,7 @@
  LOCKED_REFORM:1 "This is a special Government Reform. You cannot switch to another Reform on this level."
  investment_events.1.t:0 "セポイ"
  investment_events.1.d:0 "[sepoy_province.TradeCompany.GetName]は、軍事経験のある頑強な男を常に雇っている。しかしながら、[Root.Capital.GetName]から募兵する兵站は達成が難しいかもしれない。交易会社の将校は、交易会社の兵を支援するためのより費用対効果の高い方法は、現地インドの民衆からより広く雇用することだろうと提案している。これら「セポイ」連隊は、主にバラモンやラージプートのクシャトリヤといった、インド社会の上位カーストから徴用されたもので、従って、戦争の方法によく精通している。最近のインドでは見かけることが難しい誠実で公正な支払いをすると評判なため、多くのセポイは喜んで交易会社に仕えている。\n\n[Root.GetAdjective]兵のより均一化された軍隊を命令するのはより容易かもしれないが、亜大陸で利用できる膨大な人的資源を無視すべきではない。"
- investment_events.1.a:0 "新たなセポイ連隊の設立する。"
+ investment_events.1.a:0 "新たなセポイ連隊を設立する。"
  investment_events.1.b:0 "原住民を雇用する必要はない"
  investment_events.2.t:0 "交易会社購入に関する相違"
  investment_events.2.d:0 "紛争で取得した場合でも買収で取得した場合でも、[land_purchase_province.GetName]の交易会社の所有権を認めている条約について係争中となっています。[land_purchase_province.TradeCompany.GetName]の土地仲買人は、彼らの正当な領土は現在管理している土地よりも幾分か遠くにある、と主張しています。\n\n彼らの主張は、[land_purchase_country.GetName]が国境地域の交易会社の所有権を認めていると現在主張している仲買人により、問題の土地が特に高く評価されているという事実が動機となっています。[land_purchase_country.GetAdjective]の役人はこの予想外の拡大主義に快い反応をしておらず、彼らの条約の解釈の遵守を要求しています。"

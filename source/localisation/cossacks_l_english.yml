@@ -1473,7 +1473,7 @@
  curtail_estate_dhimmi_title:0 "ズィンミーへの抑圧"
  curtail_estate_dhimmi_desc:0 "ズィンミーが我が政府を支配している。彼らから支配権を取り戻すため、彼らの権力と特権を縮小する必要がある。"
  EST_VAL_DEV:1 "Land Share: $VAL|Y1$§Y%§!"
- ESTATE_LOYALTY_TOOLTIP_EQUILIBRIUM:0 "\nEquilibrium is currently $NEUTRAL|Y$§Y%§! and is affected by:\n$DESC$"
+ ESTATE_LOYALTY_TOOLTIP_EQUILIBRIUM:0 "\n均衡値は現在$NEUTRAL|Y$§Y%§!で、以下の影響を受けます：\n$DESC$"
  JOIN_OFFENSIVE_WARS_TOGGLE_TITLE:0 "§YJoining Offensive Wars§!\n"
  JOIN_OFFENSIVE_WARS_TOGGLE_BLOCK_TITLE:0 "§YWill NOT join Offensive Wars§!\n"
  BLOCK_OFFENSIVE_WARS_ENABLE_DESC:1 "We have told §Y$COUNTRY$§! that we will not join any of their offensive wars. This also prevent the accumulation of any Favors and they might end the alliance if they think they can manage without you. Click to tell them that you will join offensive wars again."
