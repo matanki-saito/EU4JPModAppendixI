@@ -143,7 +143,7 @@
  personality_events.1.b:0 "支配者たるもの、神と人の法を理解していなければならない。"
  personality_events.1.c:0 "そのようなことで、[Root.Monarch.GetHerHis]の時間と金を無駄にしてはならぬ。"
  personality_events.2.t:0 "地図製作法の進歩"
- personality_events.2.d:0 "A devoted student of the world around [Root.Monarch.GetHerHim] [Root.Monarch.GetName] has come to be obsessed with maps. [Root.Monarch.GetHerHisCap] palace in [Root.Owner.Capital.GetCapitalName] has rooms entirely devoted to [Root.Monarch.GetHerHis] map collection and our dear [Root.Monarch.GetTitle] is spending quite some time staring at them and cataloging them.\nWhile this has made [Root.Monarch.GetHerHim] a bit odd in the eyes of [Root.Monarch.GetHerHis] courtiers (and the royal treasurer) our country is benefiting from the great archive [Root.Monarch.GetSheHe] has built up about the world around us."
+ personality_events.2.d:0 "[Root.Monarch.GetHerHim]を取り巻く世界の熱心な研究家である[Root.Monarch.GetName]は地図にこだわるにようになった。[Root.Monarch.GetHerHisCap]にある[Root.Owner.Capital.GetCapitalName]の宮殿には[Root.Monarch.GetHerHis]の地図を所蔵するための専用の部屋があり、高貴なる[Root.Monarch.GetTitle]はそれらを眺め、分類することにかなりの時間を費やしている。\n[Root.Monarch.GetHerHis]の家臣たち（及び王室の会計官）の目には、[Root.Monarch.GetHerHim]が奇妙に映るようになったが、[Root.Monarch.GetSheHe]が蓄積した我らを取り巻く世界についての多大な記録により、我が国は恩恵を受けている。"
  personality_events.2.a:0 "世界はこれほどまでに広いのか。"
  personality_events.3.t:0 "銃整備士の進歩"
  personality_events.3.d:0 "[Root.Monarch.GetName]は、銃の機能と形態に大きな関心を持っている。珍しいまたは革新的な銃器を追跡するためにかなりの努力が費やされており、[Root.Monarch.GetName]は[Root.Monarch.GetHerHim]の元に持ち込まれた武器を喜んで分解し再構築する。\nいくつかの人はこれを魅惑された病気のようなもの（金がかかることは言うまでもなく）だと考えているが、長く継続した事業の結果、[Root.Monarch.GetTitle]は[Root.Monarch.GetSheHe]が完璧な銃器だと主張するものを作り上げた。"
