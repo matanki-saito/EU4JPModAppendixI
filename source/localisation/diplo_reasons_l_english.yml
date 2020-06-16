@@ -59,7 +59,7 @@
  DIPLO_FORM_PERSONAL_UNION:0 "同君連合を形成："
  DIPLO_CAN_BE_ANNEXED:0 "併合可能："
  DIPLO_WAITING_FOR_ANNEXED:0 "併合待ち："
- DIPLO_BETTER_OFFER:0 "他の誰かがより良い案を出している"
+ DIPLO_BETTER_OFFER:0 "他の誰かがより良い案を出している："
  DIPLO_ARE_WINNING:0 "$WHO$が勝っている："
  DIPLO_NOT_LEADER:0 "$WHO$は戦争指導国ではない："
  DIPLO_STRATEGIC_INTERESTS:0 "戦略的利益："
