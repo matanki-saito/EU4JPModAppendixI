@@ -342,7 +342,7 @@ def main():
 
     # git pushするために上書きする
     for source_file_path in pathlib.Path(localisation_dir_path).glob('**/*.yml'):
-        shutil.copy(source_file_path, _(".", "source", source_file_path.name))
+        shutil.copy(str(source_file_path), _(".", "source", "localisation", source_file_path.name))
 
 
 if __name__ == "__main__":
