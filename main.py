@@ -4,15 +4,84 @@
 import hashlib
 import json
 import os
+import pathlib
+import re
 import shutil
 import tempfile
 import urllib.request
 import zipfile
 from os.path import join
 
-from boto3.session import Session
+from pydrive.auth import GoogleAuth
+from pydrive.drive import GoogleDrive
+
+from special_escape import generate_printer, generate_encoder
+
+encoder = generate_encoder("eu4", "txt")
+printer = generate_printer("eu4", "txt")
 
 _ = join
+
+"""
+$ 階級について
+こちら参照のこと：https://gist.github.com/matanki-saito/a2afb80eeeef612a28426af31e226d3d
+"""
+replace_estate_parameter_map_definition = {
+    "GetNobilityName": "Get貴族Name",
+    "GetClergyName": "Get聖職者Name",
+    "GetBurghersName": "Get市民Name",
+
+    "GetCossacksName": "GetコサックName",
+    "GetDhimmiName": "GetズィンミーName",
+    "GetTribesName": "Get部族Name",
+
+    "GetBrahminsName": "GetバラモンName",
+    "GetJainsName": "Getジャイナ教徒Name",
+    "GetMarathasName": "GetマラーターName",
+    "GetRajputsName": "GetラージプートName",
+    "GetVaishyasName": "GetヴァイシャName"
+}
+
+
+def upload_mod_to_google_drive(upload_file_path,
+                               name,
+                               folder_id):
+    """
+    GoogleDriveにファイルをアップロードする
+    :param upload_file_path:
+    :param name:
+    :param folder_id:
+    :return: CDNのURL
+    """
+
+    gauth = GoogleAuth()
+    gauth.LocalWebserverAuth()
+
+    # Create GoogleDrive instance with authenticated GoogleAuth instance.
+    drive = GoogleDrive(gauth)
+
+    file1 = drive.CreateFile({
+        'title': name,
+        'parents': [
+            {
+                "kind": "drive#fileLink",
+                "id": folder_id
+            }
+        ]
+    })
+    file1.SetContentFile(upload_file_path)
+    file1.Upload()
+
+    file1.InsertPermission({
+        'type': 'anyone',
+        'value': 'anyone',
+        'role': 'reader'})
+
+    file1.FetchMetadata()
+
+    return "{}/{}?key={}&alt=media".format("https://www.googleapis.com/drive/v3/files",
+                                           file1['id'],
+                                           "AIzaSyAAt1kNBcu9uiPWPIxAcR0gZefmWHcjjpM")
 
 
 def download_trans_zip_from_paratranz(project_id,
@@ -39,13 +108,13 @@ def download_trans_zip_from_paratranz(project_id,
 
 
 def assembly_app_mod_zip_file(resource_image_file_path,
-                              resource_paratranz_trans_zip_file_path,
-                              out_file_path):
+                              source_dir_path,
+                              out_directory_path):
     """
     Appモッドを作成
-    :param resource_paratranz_trans_zip_file_path: Paratranzからダウンロードできるzipファイルのパス
+    :param source_dir_path:
     :param resource_image_file_path: 画像ファイルパス
-    :param out_file_path: 出力ファイルパス
+    :param out_directory_path: 出力ファイルパス
     :return:
     """
 
@@ -53,30 +122,47 @@ def assembly_app_mod_zip_file(resource_image_file_path,
         # 画像ファイル
         shutil.copy(resource_image_file_path, temp_dir_path)
 
-        # localisation
-        salvage_files_from_paratranz_trans_zip(out_dir_path=_(temp_dir_path, "localisation"),
-                                               folder_list=["localisation"],
-                                               paratranz_zip_path=resource_paratranz_trans_zip_file_path,
-                                               head_folder_name="special")
+        shutil.copytree(source_dir_path, _(temp_dir_path, 'localisation'))
 
         # zip化する
-        return shutil.make_archive(out_file_path, 'zip', root_dir=temp_dir_path)
+        return shutil.make_archive(_(out_directory_path, 'mod'), 'zip', root_dir=temp_dir_path)
 
 
-def update_source(resource_paratranz_trans_zip_file_path):
-    shutil.rmtree("source", ignore_errors=True)
-    os.makedirs("source", exist_ok=True)
+def replace_estate_parameters(replace_estate_parameter_map,
+                              source_dir_path,
+                              output_dir_path):
+    """
+    特殊なパラメータを置き換える
+    :param replace_estate_parameter_map:
+    :param source_dir_path:
+    :param output_dir_path:
+    :return:
+    """
 
-    salvage_files_from_paratranz_trans_zip(out_dir_path=_("source", "localisation"),
-                                           folder_list=["localisation"],
-                                           paratranz_zip_path=resource_paratranz_trans_zip_file_path,
-                                           head_folder_name="utf8")
+    shutil.rmtree(output_dir_path, ignore_errors=True)
+    os.makedirs(output_dir_path, exist_ok=True)
+
+    match_pattern = re.compile("{}".format(
+        r"|".join(replace_estate_parameter_map.keys())
+    ))
+
+    def repl(match_obj):
+        return replace_estate_parameter_map.get(match_obj.group(0))
+
+    for source_file_path in pathlib.Path(source_dir_path).glob('**/*.yml'):
+        with open(str(source_file_path), 'rt', encoding='utf_8_sig', errors='ignore', newline='') as f:
+            replaced_source_file_text = re.sub(match_pattern, repl, f.read())
+            write_file_path = str(_(output_dir_path, source_file_path.name))
+            with open(write_file_path, 'wt', encoding='utf_8_sig') as w:
+                w.write(replaced_source_file_text)
 
 
 def salvage_files_from_paratranz_trans_zip(out_dir_path,
                                            paratranz_zip_path,
                                            folder_list,
                                            head_folder_name):
+    shutil.rmtree(out_dir_path, ignore_errors=True)
+
     with zipfile.ZipFile(paratranz_zip_path) as paratranz_zip:
         special_files = filter(lambda name: name.startswith(head_folder_name + "/"), paratranz_zip.namelist())
 
@@ -144,32 +230,6 @@ def generate_distribution_file(url,
         json.dump(d_new, fw, indent=2, ensure_ascii=False)
 
 
-def upload_mod_to_s3(upload_file_path,
-                     name,
-                     bucket_name,
-                     access_key,
-                     secret_access_key,
-                     region):
-    """
-    S3にファイルをアップロードする
-    :param upload_file_path:
-    :param name:
-    :param bucket_name:
-    :param access_key:
-    :param secret_access_key:
-    :param region:
-    :return: CDNのURL
-    """
-    session = Session(aws_access_key_id=access_key,
-                      aws_secret_access_key=secret_access_key,
-                      region_name=region)
-
-    s3 = session.resource('s3')
-    s3.Bucket(bucket_name).upload_file(upload_file_path, name)
-
-    return "{}/{}".format("https://d3fxmsw7mhzbqi.cloudfront.net", name)
-
-
 def pack_mod(out_file_path,
              mod_zip_path,
              mod_title_name,
@@ -193,24 +253,63 @@ def pack_mod(out_file_path,
         return shutil.make_archive(out_file_path, 'zip', root_dir=temp_dir_path)
 
 
+def special_escape(source_dir_path, output_dir_path):
+    shutil.rmtree(output_dir_path, ignore_errors=True)
+    os.makedirs(output_dir_path, exist_ok=True)
+
+    for source_file_path in pathlib.Path(source_dir_path).glob('**/*.yml'):
+        printer(src_array=encoder(src_array=map(ord, source_file_path.read_text(
+            encoding="utf-8"
+        ))), out_file_path=_(output_dir_path, source_file_path.name))
+
+
 def main():
     # 一時フォルダ用意
-    os.makedirs(_(".", "tmp"), exist_ok=True)
+    tmp_directory_path = _(".", "tmp")
+    os.makedirs(tmp_directory_path, exist_ok=True)
+
+    # 出力フォルダ用意
     os.makedirs(_(".", "out"), exist_ok=True)
 
     # 翻訳の最新版をダウンロードする
-    p_file_path = download_trans_zip_from_paratranz(
-        project_id=76,
-        secret=os.environ.get("PARATRANZ_SECRET"),
-        out_file_path=_(".", "tmp", "paratranz.zip"))
+    p_file_path = _(".", "tmp", "paratranz.zip")
+    if not os.path.exists(p_file_path):
+        download_trans_zip_from_paratranz(
+            project_id=76,
+            secret=os.environ.get("PARATRANZ_SECRET"),
+            out_file_path=p_file_path)
 
     print("p_file_path:{}".format(p_file_path))
 
+    # utf8ファイルを抽出する（この後git pushするのにも使う）
+    localisation_dir_path = _(tmp_directory_path, "source", "localisation")
+    salvage_files_from_paratranz_trans_zip(out_dir_path=localisation_dir_path,
+                                           folder_list=["localisation"],
+                                           paratranz_zip_path=p_file_path,
+                                           head_folder_name="utf8")
+
+    print("Finish extracting localisation dir")
+
+    # 特殊なキーワードを置き換える
+    replaced_localization_dir_path = _(tmp_directory_path, "replaced_localization")
+    replace_estate_parameters(replace_estate_parameter_map=replace_estate_parameter_map_definition,
+                              source_dir_path=localisation_dir_path,
+                              output_dir_path=replaced_localization_dir_path)
+
+    print("Finish replacing special keywords")
+
+    # 特殊エンコードする
+    special_escaped_localization = _(tmp_directory_path, "special_escaped_localization")
+    special_escape(source_dir_path=replaced_localization_dir_path,
+                   output_dir_path=special_escaped_localization)
+
+    print("Finish special encoding")
+
     # AppModを構築する
     app_mod_zip_file_path = assembly_app_mod_zip_file(
-        resource_paratranz_trans_zip_file_path=p_file_path,
+        source_dir_path=special_escaped_localization,
         resource_image_file_path=_(".", "resource", "title.jpg"),
-        out_file_path=_(".", "tmp", "mod"))
+        out_directory_path=tmp_directory_path)
 
     print("app_mod_zip_file_path:{}".format(app_mod_zip_file_path))
 
@@ -226,15 +325,13 @@ def main():
 
     print("mod_pack_file_path:{}".format(mod_pack_file_path))
 
-    # S3にアップロード from datetime import datetime as dt
+    # GoogleDriveにアップロード from datetime import datetime as dt
     from datetime import datetime as dt
-    cdn_url = upload_mod_to_s3(
+
+    cdn_url = upload_mod_to_google_drive(
         upload_file_path=mod_pack_file_path,
         name=dt.now().strftime('%Y-%m-%d_%H-%M-%S-{}.zip'.format("eu4-ap1")),
-        bucket_name="triela-file",
-        access_key=os.environ.get("AWS_S3_ACCESS_KEY"),
-        secret_access_key=os.environ.get("AWS_S3_SECRET_ACCESS_KEY"),
-        region="ap-northeast-1")
+        folder_id='1MUdH6S6O-M_Y5jRUzNrzQ8tPZOhm_aES')
 
     print("cdn_url:{}".format(cdn_url))
 
@@ -243,8 +340,9 @@ def main():
                                out_file_path=_(".", "out", "dist.v2.json"),
                                mod_file_path=mod_pack_file_path)
 
-    # utf8ファイルを移動する（この後git pushする）
-    update_source(resource_paratranz_trans_zip_file_path=p_file_path)
+    # git pushするために上書きする
+    for source_file_path in pathlib.Path(localisation_dir_path).glob('**/*.yml'):
+        shutil.copy(str(source_file_path), _(".", "source", "localisation", source_file_path.name))
 
 
 if __name__ == "__main__":
