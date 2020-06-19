@@ -340,8 +340,9 @@ def main():
                                out_file_path=_(".", "out", "dist.v2.json"),
                                mod_file_path=mod_pack_file_path)
 
-    # git pushするために移動する
-    shutil.copytree("./", )
+    # git pushするために上書きする
+    for source_file_path in pathlib.Path(localisation_dir_path).glob('**/*.yml'):
+        shutil.copy(source_file_path, _(".", "source", source_file_path.name))
 
 
 if __name__ == "__main__":
