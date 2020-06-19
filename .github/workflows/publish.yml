@@ -49,6 +49,8 @@ jobs:
       - name: push translation
         run: |
           dir
+          git config --global user.email "matanki.saito@gmail.com"
+          git config --global user.name "matanki.saito"
           git add -A
           git commit -m "Save/Update files"
           git push origin HEAD:develop
