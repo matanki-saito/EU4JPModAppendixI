@@ -469,4 +469,4 @@
  desc_city_of_the_kings:0 "王がゴンダールに帰ってきた。"
  PROVINCE_IS_NOT_ON_AN_ISLAND:1 "$PROVINCE|Y$は、島にはありません。\n"
  PROVINCE_IS_ON_AN_ISLAND:1 "$PROVINCE|Y$は、島にあります。\n"
- INNOVATIVENESS_INCREASE_DAYS_LEFT:0 " (Gain $VAL|+1$ §YInnovativeness§!, $DAYS|Y$ days left)"
+ INNOVATIVENESS_INCREASE_DAYS_LEFT:0 "（$VAL|+1$の§Y革新性§!を獲得、残り$DAYS|Y$日）"
