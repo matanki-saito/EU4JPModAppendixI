@@ -8,8 +8,6 @@ on:
     types: [test_trigger]
   push:
     branches: [ master,develop ]
-  schedule:
-    - cron:  '30 5 * * tue,fri'
 
 jobs:
   build:
