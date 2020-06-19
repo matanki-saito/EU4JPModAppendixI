@@ -35,6 +35,7 @@ jobs:
         env: # Or as an environment variable
           SETTINGS_YAML: ${{ secrets.SETTINGS_YAML }}
           CREDENTIALS_JSON: ${{ secrets.CREDENTIALS_JSON }}
+          PARATRANZ_SECRET: ${{ secrets.PARATRANZ_SECRET }}
         run: |
           python env2file.py
           dir
