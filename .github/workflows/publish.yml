@@ -5,9 +5,9 @@ name: Python application
 
 on:
   push:
-    branches: [ develop ]
+    branches: [ master ]
   schedule:
-    - cron:  '30 5 * * tue,fri'
+    - cron:  '30 17 * * tue,fri'
 
 jobs:
   build:
@@ -54,7 +54,7 @@ jobs:
           git config --global url."https://${{ secrets.GITHUB_TOKEN }}:x-oauth-basic@github.com/".insteadOf "https://github.com/"
           git add -A
           git commit -m "Save/Update files [ci skip]"
-          git push origin HEAD:develop
+          git push origin HEAD:master
         shell: cmd
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # This token is provided by Actions, you do not need to create your own token
