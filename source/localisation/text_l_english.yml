@@ -8078,7 +8078,7 @@
  estate_loan:0 "Estate Loan"
  ESTATE:0 "階級"
  ATTR_HOSTILE_WATERS:0 "§R$VAL$%§! - Hostile Waters"
- M_PICK_SHORTCUT_BUTTON:0 "キーボードショートカットの選択"
+ M_PICK_SHORTCUT_BUTTON:0 "ショートカットキーの選択"
  MAPMODE_SUPER_REGION:0 "Subcontinents"
  TARIFF_EXTRA:1 "Then that is increased by $VAL|+=$ due to:\n$WHY$"
  CONVREL_STAB_NO_NEGATIVE:0 "改宗するには少なくとも§G0§!の安定度が必要です。"

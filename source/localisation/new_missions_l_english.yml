@@ -494,7 +494,7 @@
  gen_eur_defender_faith_desc:0 "異端を許容してはならない。[Root.Religion.GetName]教会は道を照らすため、敬虔な模範となる人物が必要である。"
  gen_hre_electors_title:0 "帝国の野望"
  gen_hre_electors_desc:0 "神聖ローマ帝国のあらゆる君主と同様に、我々は王座に目を向ける。我々は、選帝侯から何らかの支援を得る必要がある。"
- gen_hre_electors.tooltip:2 " Electors backing §Y[Root.GetName]§! to become Emperor."
+ gen_hre_electors.tooltip:2 "の選帝侯が§Y[Root.GetName]§!が皇帝となることを支持している。"
  gen_hre_emperor_title:0 "シャルルマーニュの遺産"
  gen_hre_emperor_desc:1 "太古の時代、カロリング朝の王は偉大な神聖ローマ帝国を統治した。彼らの遺産は忘れられておらず、野心もまたそうである。我々は皇帝を戴冠させる必要がある。"
  gen_hre_imperial_ban_title:0 "帝国の守護"

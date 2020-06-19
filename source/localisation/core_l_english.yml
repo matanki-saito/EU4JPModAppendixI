@@ -919,7 +919,7 @@
  MAPMODE_SUPER_REGION_DESC:0 "所属する亜大陸に応じて州を色分けします。州をマウスオーバーすると、属する地域、地方、亜大陸が表示されます。"
  PLAYER_AI_PREFS_OPTION_TITLE_manage_estates:0 "階級を管理"
  PLAYER_AI_PREFS_OPTION_DESC_manage_estates:0 "Controls whether the AI may take any actions to manage your Estates"
- ACHIEVEMENTS_DISABLED_ENDGAME_TAGS_BLOCKED:0 "§Y- 'Limited Country Forming' Option must be set to 'Yes'.§!"
+ ACHIEVEMENTS_DISABLED_ENDGAME_TAGS_BLOCKED:0 "§Y-「国家形成の制限」オプションが「はい」に設定されている必要があります。§!"
  SETTINGS_ACCESSIBILITY:0 "アクセシビリティ"
  SETTINGS_ACCESSIBILITY_TTS:0 "マルチプレイヤーのテキストチャットを読み上げる"
  SETTINGS_ACCESSIBILITY_STT:0 "マルチプレイヤーのテキストチャットを読み上げる"
