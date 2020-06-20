@@ -17,8 +17,8 @@ from pydrive.drive import GoogleDrive
 
 from special_escape import generate_printer, generate_encoder
 
-encoder = generate_encoder("eu4", "txt")
-printer = generate_printer("eu4", "txt")
+encoder = generate_encoder("eu4", "yml")
+printer = generate_printer("eu4", "yml")
 
 _ = join
 
@@ -153,7 +153,7 @@ def replace_estate_parameters(replace_estate_parameter_map,
         with open(str(source_file_path), 'rt', encoding='utf_8_sig', errors='ignore', newline='') as f:
             replaced_source_file_text = re.sub(match_pattern, repl, f.read())
             write_file_path = str(_(output_dir_path, source_file_path.name))
-            with open(write_file_path, 'wt', encoding='utf_8_sig') as w:
+            with open(write_file_path, 'wt', encoding='utf_8') as w:
                 w.write(replaced_source_file_text)
 
 
@@ -259,7 +259,7 @@ def special_escape(source_dir_path, output_dir_path):
 
     for source_file_path in pathlib.Path(source_dir_path).glob('**/*.yml'):
         printer(src_array=encoder(src_array=map(ord, source_file_path.read_text(
-            encoding="utf-8"
+            encoding="utf_8"
         ))), out_file_path=_(output_dir_path, source_file_path.name))
 
 
@@ -282,6 +282,7 @@ def main():
     print("p_file_path:{}".format(p_file_path))
 
     # utf8ファイルを抽出する（この後git pushするのにも使う）
+    # この時点ではbomがついている（paratranzがつけてくれている）
     localisation_dir_path = _(tmp_directory_path, "source", "localisation")
     salvage_files_from_paratranz_trans_zip(out_dir_path=localisation_dir_path,
                                            folder_list=["localisation"],
@@ -291,6 +292,7 @@ def main():
     print("Finish extracting localisation dir")
 
     # 特殊なキーワードを置き換える
+    # この後で特殊エンコードするためにbomは取る
     replaced_localization_dir_path = _(tmp_directory_path, "replaced_localization")
     replace_estate_parameters(replace_estate_parameter_map=replace_estate_parameter_map_definition,
                               source_dir_path=localisation_dir_path,
@@ -299,6 +301,7 @@ def main():
     print("Finish replacing special keywords")
 
     # 特殊エンコードする
+    # bomつける
     special_escaped_localization = _(tmp_directory_path, "special_escaped_localization")
     special_escape(source_dir_path=replaced_localization_dir_path,
                    output_dir_path=special_escaped_localization)
