@@ -3,25 +3,28 @@ import os
 import pathlib
 
 eu4_escape_targets = [
-    0xA4,
-    0xA3,
-    0xA7,
-    0x24,
-    0x5B,
-    0x00,
-    0x5C,
-    0x20,
-    0x0D,
-    0x0A,
-    0x22,
-    0x7B,
-    0x7D,
-    0x40,
-    0x3B,
+    ord("¤"),
+    ord("£"),
+    ord("§"),
+    ord("$"),
+    ord("["),
+    ord("]"),
+    0x00,  # null character
+    ord("\\"),
+    ord(" "),
+    0x0D,  # 改行
+    0x0A,  # 改行
+    ord("\""),
+    ord("/"),
+    ord("{"),
+    ord("}"),
+    ord("@"),
+    ord(";"),
     0x80,
     0x7E,
-    0xBD,
-    0x5F
+    ord("½"),
+    ord("_"),
+    ord("#")  # ymlのコメント
 ]
 
 ck2_escape_targets = [
