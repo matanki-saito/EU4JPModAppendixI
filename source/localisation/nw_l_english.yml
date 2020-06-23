@@ -1,8 +1,8 @@
 ﻿l_english:
  LIBERTY_DESIRE_CURRENT:0 "現在の独立要求：§Y$VAL$%§!"
  LIB_OUR_TARIFF:0 "私たちは収入の§Y$VAL$%§!を関税として$MOTHER$に支払っています。関税が独立要求より大きい場合、独立要求は毎年§G+$INC$%§!増加します。"
- LIBERTY_DESIRE_CURRENT_DESC:0 "独立要求は植民地がどれほど独立を望んでいるのかを表します。関税を上げるなどの行為は徐々にそれを増加させていきます。"
- LIBERTY_DESIRE_CURRENT_LIMITS:0 "独立要求は植民地がどれほど独立を望んでいるのかを表します。独立要求が§Y$VAL$%§!を超える場合、植民地は反抗的になります。"
+ LIBERTY_DESIRE_CURRENT_DESC:0 "独立要求は植民地がどれほど独立を望んでいるのかを表します。中でも関税を上げると徐々に増加します。"
+ LIBERTY_DESIRE_CURRENT_LIMITS:0 "独立要求はその国がどれほど独立を望んでいるのかを表します。独立要求が§Y$VAL$%§!を超えると、反抗的になります。"
  INCREASE_TARIFFS:0 "関税を上げる"
  INCREASE_TARIFFS_DESC:1 "$POINTS|R$ $TYPE$を支払うことによって関税を$TARIFFS|%0G$上げます（現在月$WORTH|Y$¤）これは$COUNTRY|Y$の独立要求を§R$LIBERTY|0$%§!増加させます。"
  INCREASE_TARRIF_MAX:0 "関税はすでに最大値になっています。"

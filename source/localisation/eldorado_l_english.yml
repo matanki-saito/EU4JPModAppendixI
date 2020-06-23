@@ -1104,5 +1104,5 @@
  custom_idea_possible_mil_policy_desc:0 "我々は現代で最高の軍事知性を国境を越えて見つけるべきだ。"
  seven_cities_events.500.t:1 "[long_pig_country.GetName]の人食いコンキスタドール"
  seven_cities_events.500.d:1 "[long_pig_country.GetName]の征服者が、遠征の途中で人肉を食したことを認めた！訪れた部族の一つで勧められ、何の肉か分からないと言ってごまかそうとは試みたのだが。彼らが与えられた名前は「長い豚」を意味するという。"
- custom_idea_mercenary_manpower:0 "Mercenary Recruitment Centers"
- custom_idea_mercenary_manpower_desc:0 "Creating centers all over our country for the recruitment of mercenaries has increased the amount of mercenary companies available to us."
+ custom_idea_mercenary_manpower:0 "傭兵雇用の中心地"
+ custom_idea_mercenary_manpower_desc:0 "傭兵の募集のための中心地を国全体に設立することで、我々が利用できる傭兵団の数が増加している。"

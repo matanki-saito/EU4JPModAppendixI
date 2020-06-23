@@ -355,7 +355,7 @@
  CONFIRM_CANCEL_MISSIONARIES_DESC:0 "これにより宣教師は以下の州での作業を中止します：\n§Y$PROVS$§!\n"
  CONFIRM_HARMONIZATION_DESC:2 "調和を行っている間、調和は毎年$HARMONY|R$減少します。\n調和は$MONTH_YEAR|Y$に終了するでしょう。"
  CANCEL_HARMONIZATION_DESC:0 "キャンセルした場合、あなたはこれまでの調和の進捗すべてを失うでしょう（現在$PROGRESS|%|Y|0$）"
- REFUSED_CALL_LIBERTY_DESIRE:0 "我々が拒否した場合、$SUBJECT$の独立欲求は§R$VAL$§!増加します。"
+ REFUSED_CALL_LIBERTY_DESIRE:0 "拒否した場合、$SUBJECT$の独立欲求が§R$VAL$§!増加します。"
  overlord_refused_call:0 "宗主国は参戦要請を拒否した"
  RELIGIOUS_GROUP:0 "$NAME$グループ"
  THE_RELIGIOUS_GROUP:0 "§Y$NAME$§!宗教グループ"

@@ -160,7 +160,7 @@
  MANAGE_ATTITUDE_CANNOT_ALLY:0 "§R同盟国の外交姿勢の管理を有効にすることはできません。§!"
  MANAGE_ATTITUDE_CANNOT_RIVAL:0 "§Rライバルの外交姿勢の管理を有効にすることはできません。§!"
  BLOCK_OFFENSIVE_WARS_CANNOT_NOT_ALLY:0 "§Rあなたは§Y$COUNTRY$§!と同盟を結んでいません。§!"
- BLOCK_OFFENSIVE_WARS_DESC:2 "このボックスをクリックすることで、§Y$COUNTRY$§!のあなたに対する彼らの攻撃的な戦争への参戦要請を防ぐことができます。しかし、そのようにすることで、好感度の蓄積は止まり、彼らがあなたなしでも管理できると思考えれば、同盟を終了する可能性があります。"
+ BLOCK_OFFENSIVE_WARS_DESC:2 "このボックスをクリックすることで、§Y$COUNTRY$§!のあなたに対する彼らの攻撃的な戦争への参戦要請を防ぐことができます。しかし、そのようにすることで、好感度の蓄積は止まり、彼らがあなたなしでも管理できると考えれば、同盟を終了する可能性があります。"
  INCREASE_TRUST_CANNOT_COST:0 "§R§Y$COUNTRY_ADJ$§!の§Y$PLAYER$§!に対する信頼度を高めるには少なくとも§Y$COST$§!の好感度が必要です。§!"
  INCREASE_TRUST_CANNOT_NOT_ALLY:0 "§Rあなたは§Y$COUNTRY_ADJ$§!の§Y$PLAYER$§!に対する信頼度を高めるには§Y$COUNTRY$§!と同盟を結ぶ必要があります。§!"
  INCREASE_TRUST_TOO_TRUSTY:0 "§R$COUNTRY|Y$はすでに$PLAYER|Y$に対して最高の信頼度を持っています。§!"

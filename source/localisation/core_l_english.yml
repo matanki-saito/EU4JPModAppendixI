@@ -776,7 +776,7 @@
  alert_can_embrace_instant:0 "§Y制度の受容が可能§!"
  alert_can_embrace_delayed:0 "以下の制度が受容できます：\n"
  alert_over_diplomatic_relations_instant:0 "§Y多すぎる外交関係§W"
- alert_over_diplomatic_relations_delayed:0 "外交枠を越えた関係につきそれぞれ\n毎月1£dip£のコストがかかります。\n現在毎月、$VAL$£dip£のコストがかかっています。"
+ alert_over_diplomatic_relations_delayed:0 "外交枠を越えた関係につきそれぞれ\n毎月1£dip£のコストがかかります。\n現在、毎月$VAL$£dip£のコストがかかっています。"
  alert_low_stability_instant:0 "§Y安定度が低い！§W"
  alert_low_stability_delayed:0 "安定度が低いと不穏度が上昇し、収入が減り、あなたの国に国難が発生する可能性があります。安定度を上げるために統治ポイントを消費することを検討してください。"
  alert_large_merchant_republic_instant:0 "§Y大きすぎる商人共和国§W"

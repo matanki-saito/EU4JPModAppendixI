@@ -209,7 +209,7 @@
  HINT_TOLERANCEHERETIC_TITLE:0 "異端"
  HINT_TOLERANCEHERETIC_TEXT:0 "異端への寛容度はあなたの国教と似ているが、同一ではない宗教を信仰する州の不穏度に影響を与えます。"
  HINT_TOLERANCEHEATHEN_TITLE:0 "異教"
- HINT_TOLERANCEHEATHEN_TEXT:0 "異教への寛容度は、あなたの国境とは異なる宗教を信仰する州の不穏度に影響を与えます。"
+ HINT_TOLERANCEHEATHEN_TEXT:0 "異教への寛容度は、自国の国教とは異なる宗教を信仰する州の不穏度に影響を与えます。"
  HINT_REFORMDESIRE_TITLE:0 "改革欲求"
  HINT_REFORMDESIRE_TEXT:0 "改革欲求は、信仰を改革するためのカトリック内の圧力の強さを表しています。高い改革欲求は最終的に宗教改革を発生させ、カトリックの国と州をプロテスタントまたは改革派信仰に改宗させます。改革欲求は通常はランダムイベントで増加し、あなたの国だけでなく、全カトリック宗教に対してグローバルに影響します。"
  HINT_PAPALINFLUENCE_TITLE:0 "教皇への影響力"

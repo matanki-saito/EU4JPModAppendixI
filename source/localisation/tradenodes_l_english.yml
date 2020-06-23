@@ -38,7 +38,7 @@
  TRADE_POWER_TAKE:0 "§Y$COUNTRY$§Wの商人はこの交易ノードから§Y$VAL$§W¤を徴収します。"
  TRADE_POWER_PIRATES_TAKE:0 "§Y$COUNTRY$§Wはこの交易ノードから§Y$VAL$§W¤を徴収します。"
  TRADE_POWER_TAKE_STATE:0 "これを原資に経営した結果、国への収入§Y$VALOTHER$§W¤を生み出しました。"
- TRADE_POWER_PUSH:0 "§Y$COUNTRY$§Wは交易力を使用して§Y$VAL$§W¤を次の交易ノードに送っています。"
+ TRADE_POWER_PUSH:0 "§Y$COUNTRY$§Wは交易力を§Y$VAL$§W¤の転送に使っています。"
  TRADE_VALUE_RETAINED:0 "交易価値の§Y$VAL$§W%が残った。"
  TRADE_BASE_VALUE:0 "基本：§Y$VAL$§W"
  TRADE_RETENTION_RESULT:0 "交易力：$VAL$"
