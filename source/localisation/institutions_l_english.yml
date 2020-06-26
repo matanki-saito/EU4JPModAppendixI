@@ -50,7 +50,7 @@
  GROWTH_MODIFIER:0 "伝播の効果"
  SCALED_INSTITUTION_DESC:0 "*がついた効果はその州の開発度に応じて変化し、もし開発度が増えたならば効果も増える。"
  MODIFIERS_AFFECTING_INSTITUTION_SPREAD:0 "$INSTITUTION|Y$の広がりに影響を与えるすべての効果：\n"
- FRIENDLY_NEIGHBOR_OR_COAST_PROVINCE_HAS_EMBRACED:0 "近隣の友好州が§Y封建制§!を受容している"
+ FRIENDLY_NEIGHBOR_OR_COAST_PROVINCE_HAS_EMBRACED:0 "隣接する友好州が§Y封建制§!を受容している"
  tooltip_global_trade_burghers:1 "Adjacent has Global Trade & Loyal Burghers with 30% Land Share Present"
  tooltip_printing_press_clergy:1 "Adjacent has Printing Press & Loyal Clergy with 30% Land Share Present"
  tooltip_any_neighbor_has_embraced_renaissance:0 "隣接する州が§Yルネサンス§!を受容している"

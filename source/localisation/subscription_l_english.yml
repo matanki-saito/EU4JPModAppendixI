@@ -70,5 +70,5 @@
  RESTART:0 "再起動"
  PURCHASE:0 "購入"
  GS_MESSAGE_OPEN_URL:0 "続きを読む"
- SUB_VIEW_OVERLAY_DISABLED_TITLE:0 "Steam Overlay Disabled"
- SUB_VIEW_OVERLAY_DISABLED_DESC:0 "To proceed with the purchase you need to enable the Steam overlay for Europa Universalis IV."
+ SUB_VIEW_OVERLAY_DISABLED_TITLE:0 "Steamオーバーレイ無効"
+ SUB_VIEW_OVERLAY_DISABLED_DESC:0 "購入を続行するには、Europa Universalis IVのSteamオーバーレイを有効にする必要があります。"
