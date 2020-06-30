@@ -142,7 +142,7 @@
  anglican_events.3.a:0 "これらの非国教徒の説教を禁止する。"
  anglican_events.3.b:0 "彼らが望むように説教させよう。"
  anglican_events.4.t:0 "教義に関する議会での議論"
- anglican_events.4.d:2 "The [Root.GetAdjective] [Root.GetParliamentName] is often called upon to debate matters of religion. Typically, the [Root.Monarch.GetTitle] will propose a new wave of reforms for the Anglican Church and [Root.GetParliamentWithGrammer] will take a stance along established factional lines; the Members in the Commons more likely to support radical or even Puritan measures, the Lords temporal more likely to favour a more conservative approach. Rarely does the [Root.Monarch.GetTitle] get [Root.Monarch.GetHerHis] way precisely, and when [Root.Monarch.GetSheHe] does, coercive measures are often involved."
+ anglican_events.4.d:2 "[Root.GetAdjective][Root.GetParliamentName]は、しばしば宗教問題を議論するために召集される。一般的には、[Root.Monarch.GetTitle]は、聖公会の新しい改革の波を提案し、[Root.GetParliamentWithGrammer]は、確立された派閥の主張に沿った姿勢を取るだろう。庶民院の議員たちは、急進的な、あるいは清教徒の方策を支持する可能性がより高く、貴族院はより保守的な姿勢を支持する可能性が高い。稀に[Root.Monarch.GetTitle]が的確に思い通りに実行すると、彼らは強制的な措置を講じるときに多くの場合関与する。"
  anglican_events.4.a:0 "[Root.Monarch.GetTitle]が提案したとおりに改革案を可決する。"
  anglican_events.4.b:0 "貴族院が勝利を得る。"
  anglican_events.4.c:0 "庶民院が我を通す。"
