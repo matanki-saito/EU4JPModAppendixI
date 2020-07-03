@@ -2302,7 +2302,7 @@
  desc_mor_looks_inward:0 "モロッコの宮廷は、もっぱら首都のことにのみ関心を向けることにした。"
  oe_jesuit_unrest:1 "イエズス会の動揺"
  desc_oe_jesuit_unrest:1 "我が国が神学論争へ介入したことでこの地域のイエスズ会は動揺している。"
- MODIFIER_RELATION_WITH_HERETICS:1 "Opinion of Heretics"
+ MODIFIER_RELATION_WITH_HERETICS:1 "異端の評価"
  MODIFIER_REFORM_PROGRESS_GROWTH_BUILDING:1 "Reform Progress Contribution"
  MODIFIER_SPECIAL_UNIT_FORCELIMIT:0 "Special Unit Force Limit"
  desc_adu_conservative_backlash:0 "Our people greatly appreciate our efforts to stand with them, despite the wave of rediscovery touring our nation."

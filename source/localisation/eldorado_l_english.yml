@@ -104,7 +104,7 @@
  seven_cities_events.8.a:0 "そのキビラの黄金の杯を見つけろ！"
  seven_cities_events.8.b:0 "知っているさ、それは無駄な努力だと。"
  seven_cities_events.100.t:0 "征服者の死"
- seven_cities_events.100.d:1 "The expedition sent forth a scout with the instructions of sending back crosses to the main party with the size of the cross equal to the wealth discovered. Soon, a cross as tall as a person arrived and the main party picked up their pace, scenting their prize. As they entered a large settlement in $PROVINCENAME$, they found that the natives had killed the scout and were waiting for the rest of the party. Most fell to the savages, but a desperate few managed to escape. They tell us that the conquistador was one of the first to die, and that the scout was to blame. He had offered a gift of a gourd with a red feather, which turned out to be the natives' symbol for war."
+ seven_cities_events.100.d:1 "探検隊は発見された富と同じ大きさの十字架を隊に戻せと命じ、斥候を送り出した。すぐに、人の背ほどの十字架が到着し、報酬の匂いを感じて隊はペースを上げた。彼らが$PROVINCENAME$の大規模な入植地に入ると、原住民が斥候を殺し、隊を待ち構えていることが明らかとなった。大部分は未開人に殺され、死に物狂いで逃げ切った者はわずかであった。彼らは、征服者が最初の死者の一人であり、また、責めを負うべき人間であると伝えた。彼は赤い羽を持つひょうたんを贈り物として贈ったが、それは原住民にとって戦争を意味していた。"
  seven_cities_events.100.a:0 "偉大な征服者の死を悼もう。"
  seven_cities_events.101.t:0 "革を食うか、餓死するか"
  seven_cities_events.101.d:0 "我々が$PROVINCENAME$に入る前でさえ、探検隊の補給は乏しかったが、今はともかくこの土地で手に入るもので生き残らなければならない。たとえそれがあまりないにしても。ヘビの味は鶏肉と革製品のようだ…剣や鎧から煮込んだ革を噛みながら強く目を閉じれば、噛んでいるものが牛肉のジャーキーだと感じられるかもしれない。助けを送ってくれ、さもなければ我々は目的地に達することはない。"

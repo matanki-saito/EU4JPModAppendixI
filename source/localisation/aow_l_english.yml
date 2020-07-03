@@ -2358,4 +2358,4 @@
  flavor_mor.13.b:0 "彼らのやりたいようにさせておけばいい。"
  incan_nation_empire_custom_tooltip:0 "§Y[Root.GetName]§!の政府ランクを§Y帝国§!に変更します。"
  TRADE_COMPANY_MOLUCCAS_Indonesia_Trade_Company:0 "モルッカ交易会社"
- REVOLUTIONARY_SHORT_NAME:0 "Rev. $NAME$"
+ REVOLUTIONARY_SHORT_NAME:0 "革命$NAME$"
