@@ -170,7 +170,7 @@
  PREPARE_WAR_CANNOT_ALREADY_PREPARING:0 "§R§Y$COUNTRY$§!はすでに$WHO|Y$の要請により戦争の準備をしています。§!"
  PREPARE_WAR_CANNOT_ALREADY_PREPARING_US:0 "§R§Y$COUNTRY$§!は我々の要請で戦争の準備をしています。彼らは自身では戦争を開始せず、$DATE|Y$まで戦争に参加する意思があります。§!"
  PREPARE_WAR_CANNOT_NOT_ALLY:0 "§R戦争の準備を要請するには§Y$COUNTRY$§!と同盟しなければなりません。§!"
- PREPARE_WAR_DESC:1 "Spend §Y$COST$§! Favors to ask §Y$COUNTRY$§! to Prepare for War. They will avoid starting any wars of their own for $MONTHS|Y$ months and will gain §Y20§! reason to join your war."
+ PREPARE_WAR_DESC:1 "§Y$COST$§!の好感度を費やして§Y$COUNTRY$§!に戦争の準備をするよう要請します。彼らは今後$MONTHS|Y$ヶ月間、自ら戦争を始めるのを避け、我々の戦争に参加する理由を§Y20§!獲得します。"
  HOSTILE_ATTITUDE_DESC:0 "あなたの外交姿勢を§Y敵対的§!に設定することは§Y$COUNTRY$§!を征服すべき敵と考えていることを示します！彼らはあなたからの外交的提案のほとんどを拒否します。あなたの同盟国は、あなたが彼らとの戦争に参加する意志があると考え、あなたの従属国は彼らの州への請求権を偽造するでしょう。"
  NEUTRAL_ATTITUDE_DESC:0 "あなたの外交姿勢を§Y中立§!に設定することは§Y$COUNTRY$§!を適切な関心がある国家と考えていないことを示します！彼らは一般的にあなたと外交的にやりとりすることを避け、あなたの同盟国はこれを、あなたが彼らに無関心であるという兆候とみなします。"
  FRIENDLY_ATTITUDE_DESC:0 "あなたの外交姿勢を§Y友好的§!に設定することは§Y$COUNTRY$§!と同盟したいと望んでいることを示しています。あなたの同盟国は、あなたが彼らへの攻撃を望んでいない兆候とみなします。"

@@ -256,7 +256,7 @@
  seven_cities_events.305.d:0 "$PROVINCENAME$の原住民は、我々の探検隊に対して必ずしも友好的であったわけではない。我々が出会った原住民は、夜中や、2人の原住民が殺された闘争の中で我々の武器を盗もうとした。隊員は安全のため再び野営を行う前に1日で100マイル以上を逃げた。原住民が再び隊員のすぐ後ろに迫っている兆候があり、彼らは促されれば、長距離の行進をもう一度行う力を絞り出すかもしれない…"
  seven_cities_events.305.a:0 "逃げろ、まぬけが！"
  seven_cities_events.306.t:0 "白旗を振るんだ"
- seven_cities_events.306.d:1 "The [Root.Owner.GetName] and [rival_tribe.GetName] tribes are rivals, something our conquistador didn't realize until too late. They both demanded tribute from the expedition to allow them passage. By offering one native chief gifts first, our conquistador insulted and angered the other chief. The gifts offered were not to the chiefs' satisfaction and some warriors tried to take the expedition's provisions. The conquistador took a firm stand, and he and his second in command brandished their swords and threatened violence. The chiefs backed down and better gifts were presented to them both."
+ seven_cities_events.306.d:1 "[Root.Owner.GetName]と[rival_tribe.GetName]の部族は互いにライバルであったのだが、我々の征服者は手遅れになるまでこれを認識していなかった。両者は探検隊の通行を許可するための貢物を要求した。一方の部族の族長へ最初に贈り物を提供したことで、我々の征服者は他方の族長を侮辱し怒らせた。さらに、提供された贈り物は族長が満足するものではなく、部族の戦士は探検隊の食糧を奪おうとした。征服者は毅然とした態度で武器を示し、彼と彼の副官は剣を振るい、暴力による脅しをかけた。族長たちは今度は引き下がり、両方の族長により良い贈り物が提示された。"
  seven_cities_events.306.a:0 "彼らの和睦を試みよう。"
  seven_cities_events.306.b:0 "よくやった！"
  seven_cities_events.307.t:0 "出血する歯茎と抜け落ちる歯"

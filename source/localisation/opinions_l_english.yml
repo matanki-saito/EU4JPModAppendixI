@@ -54,7 +54,7 @@
  spa_supported_rebels:0 "反乱軍を支援した"
  claimed_italy:0 "イタリアを主張した"
  fightinginside_realm:0 "領内の違法な戦争"
- catholic_obstructing_church:1 "Refused to pay Indulgences"
+ catholic_obstructing_church:1 "免罪符への支払いを拒否した"
  opinion_irritated:0 "苛立たせた"
  opinion_gossip:0 "噂"
  opinion_daimyo_gift:0 "貴重な贈り物"

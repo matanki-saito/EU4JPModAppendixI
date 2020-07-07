@@ -371,5 +371,5 @@
  DIPLO_COLONY_NO_NATIVE:0 "$COLONY$は植民地国家であり、決して我々と同盟しないでしょう："
  DIPLO_ESCALATED_COLONIAL_WAR:0 "植民地戦争に巻き込まれることを望んでいない："
  DIPLO_THREATHENING_MANDATE:0 "天命が脅かされている："
- DIPLO_TRADECITY:0 "$WHO$ is a trade city who wants to avoid alliances."
- DIPLO_RESTRICTED_REGION:0 "Tradecharter Regional Scepticism"
+ DIPLO_TRADECITY:0 "$WHO$は交易都市で同盟を避けようとします。"
+ DIPLO_RESTRICTED_REGION:0 "交易勅許地域の懐疑論"

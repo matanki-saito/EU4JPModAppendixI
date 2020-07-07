@@ -1550,7 +1550,7 @@
  revolutionary_republic_factions.8.a:0 "これは避けられないが、無害だ。"
  revolutionary_republic_factions.8.b:0 "より脅威のある指揮官の一部を縮小することを試みる。"
  revolutionary_republic_factions.9.t:0 "[GetMonth]の虐殺"
- revolutionary_republic_factions.9.d:1 "Fearing the influence of crypto-monarchists and counter-revolutionaries among the ruling elite, the people of [Root.Capital.GetCapitalName] have taken to the streets to defend the spirit of the revolution. Everyone associated with the old order, from [Root.Owner.Religion.GetName] priests, to members of the lesser nobility, or even those already imprisoned for their crimes against the state have been targeted. Radical $RR_JACOBINS$ do their best to inflame the hearts and minds of the masses.\nThis leaves the government in a somewhat precarious situation. Some of the persons being targeted are members of their own ranks, and these uncontrolled massacres are making us appear weak, as it severely harms the well-being of our once beautiful city. Should we do anything to stop it, however, it will play right into the hands of the Jacobins..."
+ revolutionary_republic_factions.9.d:1 "[Root.Capital.GetCapitalName]の人々は、統治者のエリート層の間の隠れた君主主義者と反革命派の影響を恐れ、革命の精神を守るため街頭へと繰り出した。[Root.Owner.Religion.GetName]の司祭から、身分の低い貴族の一族、または国家に対する彼らの犯罪のためにすでに投獄されている人々まで、古い秩序に関連するすべての人が標的にされた。急進的な$RR_JACOBINS$は、大衆の心と精神を燃え上がらせることに力を尽くしている。\nこれにより、政府はやや不安定な状況に置かれている。標的にされた人々の一部は、彼ら自身の階級の一員であり、これらの無制限の虐殺は、かつての美しい都市の幸福をひどく傷つけることで、我々を弱く見せている。しかし、それを止めるために我々が何かをする必要があるなら、それはジャコバン派の策略にはまることになるだろう..."
  revolutionary_republic_factions.9.a:0 "革命の敵は死ななければならない！"
  revolutionary_republic_factions.9.b:0 "軍隊を用いる時だ。"
  clerical_pragmatism:0 "聖職者の支配"
