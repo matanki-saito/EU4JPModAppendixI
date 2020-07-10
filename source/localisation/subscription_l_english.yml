@@ -64,7 +64,7 @@
  SUB_VIEW_VALID_TO:0 "サブスクリプションが解除されています。サブスクリプションは$DATE$までアクティブです"
  SUB_VIEW_LOADING:0 "ロード中"
  SUB_VIEW_WAITING_ON_RESPONSE_TITLE:0 "応答を待っています。"
- SUB_VIEW_WAITING_ON_RESPONSE_DESC:0 "サーバからの応答を待っています。\nお待ちください..."
+ SUB_VIEW_WAITING_ON_RESPONSE_DESC:0 "サーバからの応答を待っています。\nお待ちください…"
  SUB_ACTIVE_UNSUBSCRIBED:0 "本サービスのサブスクリプションを解除しました。\n\n"
  SUB_ACTIVE_SUBSCRIBED_NEWLY:0 "おめでとうございます、サブスクリプションが完了しました！\n\n"
  RESTART:0 "再起動"
