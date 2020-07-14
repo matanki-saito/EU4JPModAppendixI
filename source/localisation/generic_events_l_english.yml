@@ -1720,7 +1720,7 @@
  china_events.15.t:0 "後継者は耳を貸す"
  china_events.15.d:0 "我々は、後継者が宮廷で競争する派閥の系統である特定の廷臣や役人に近づいたことに気付いた。[Root.Heir.GetName]が皇位の政敵に強く共感するようになる大きな懸念がある。これらの友情が成長するのを止めようとすることもできるが、宮廷で強力な友人を持つことは、彼が王位を取ったときに我々の[Root.Heir.GetHerHim]にとっては良いことだろう。"
  china_events.15.a:1 "[Root.Heir.GetName]は書記官たちと手を組むべきだ。"
- china_events.15.b:1 "[Root.Heir.GetName]は軍の指揮官たちと手を組みべきだ。"
+ china_events.15.b:1 "[Root.Heir.GetName]は軍の指揮官たちと手を組むべきだ。"
  china_events.15.c:1 "[Root.Heir.GetName]は交易機関と手を組むべきだ。"
  china_events.15.e:0 "[Root.Heir.GetName]は宮廷の政治からは離れているべきだ。"
  china_events.15.f:0 "[Root.Heir.GetName]は[Root.Heir.GetHerHis]の自らの道を見つけ出すべきだ。"

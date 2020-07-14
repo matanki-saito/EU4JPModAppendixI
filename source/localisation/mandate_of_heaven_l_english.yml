@@ -401,7 +401,7 @@
  empire_of_china_in_name:0 "名ばかりの中華帝国"
  desc_empire_of_china_in_name:0 "我々は中国の上で皇帝の称号を確保することに成功しているが、我々の帝国は中国をほとんど含んでいない。我々が外国の皇帝以外の何者かと見なされるためには、我々は政府の一部として中国を統合する必要がある。"
  less_than_two_chinese_cultures_accepted_tooltip:0 "中国文化グループで2つ未満の文化を受け入れます。"
- atleast_two_chinese_cultures_accepted_tooltip:0 "中国文化グループの少なくとも2つの文化を受容しています。"
+ atleast_two_chinese_cultures_accepted_tooltip:0 "中国文化グループの少なくとも2つの文化を受容している。"
  disaster_active_for_10_years_tooltip:0 "国難は10年間有効です。"
  empire_of_china_in_name.1.t:0 "名ばかりの中華皇帝"
  empire_of_china_in_name.1.d:0 "我々は中国の新しい帝国として一般に認知されるに至ったが、まだ中国人の尊敬を獲得していない。我々の軍隊と政権が文明化されていない外国人に大きく依存していることから、王朝の天命に疑問が投げかけられている。\n真の中華帝国となるための措置を講じない限り、我々は名ばかりの帝国のままであり、天命を失ったとみなされるだろう。"
