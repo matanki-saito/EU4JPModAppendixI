@@ -114,7 +114,7 @@
  DIP_MAINT_RM:0 "王室間の婚姻：（§Y$COUNTRY$§W）：§Y-$VAL$§W"
  DIP_MAINT_VASSAL:0 "属国がある：（§Y$COUNTRY$§W）：§Y-$VAL$§W"
  alert_agreement_fail_instant:0 "§Y協定はパワーが低いため失敗するだろう！§W"
- alert_agreement_fail_delayed:0 "$LIST$との協定は外交君主点が低いため失敗するでしょう。"
+ alert_agreement_fail_delayed:0 "$LIST$との協定は外交力が低いため失敗するでしょう。"
  UPKEEP_EXPLANATION:0 "$CURR$/$ALLOW$ 外交関係：$COST$\n$LIST$"
  UPKEEP_MOD_DESC:0 "私たちは以下によって$NUM|Y$の国々との外交関係を支援することが出来ます："
  DIP_MAINT:0 "$RELATION$：（§Y$COUNTRY$§W）：§Y-$VAL$§W"
