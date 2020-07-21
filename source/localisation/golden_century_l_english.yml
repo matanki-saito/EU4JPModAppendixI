@@ -473,7 +473,7 @@
  expel_minority_events.3.a:0 "完全に計画通りという訳ではないな。"
  expel_minority_events.4.t:0 "[expelling_province.Culture.GetName]文化難民の[expelling_province.GetName]からの逃亡"
  expel_minority_events.4.d:0 "[expelling_province.Culture.GetName]文化の大部分の人々は、彼らを[expelling_colony.GetName]にある植民地へ転居させる取り組みに従っているが、中にはこの状況から抜け出す方法を模索している者もいる。[expelling_province.GetName]が我々の取り組みの第一目標であるため、隣の州へ逃げることは一つの方法である。\n\nこれは明らかに我々の計画の邪魔をしようという試みではあるが、その者たちが近隣に移住するのを阻止しようとした所で、それは彼らが元々の計画に従うことを意味するわけではない。それどころか彼らは別の場所に散り散りとなり、その状況は我が支配からさらに遠くへ逃れることになるだろう。"
- expel_minority_events.4.a:0 "少なくともこのように、我々は彼らがどこへ行こうとしてるか分かっている。"
+ expel_minority_events.4.a:0 "少なくともこのように、我々は彼らがどこへ行こうとしているか分かっている。"
  expel_minority_events.4.b:0 "そんな反逆の試み、大目に見るわけなかろう！"
  expel_minority_events.5.t:0 "追放された行政官"
  expel_minority_events.5.d:0 "[expelling_province.GetName]から[expelling_colony.GetName]にある植民地へ移動している人々は、一般庶民だけではない。彼らの多くは、時には[Root.GetAdjective]の指導者と地元住民との間の架け橋として、[expelling_province.GetName]の管理において重要な役割を果たしてきた。今や彼らが追放されたことで、州の管理はより難しくなり、いくつか譲歩を強いられるだろう。その立場を埋めることができるまで、すぐに[expelling_province.GetName]の管理に対してより早急な取り組みを行うか、もしくは管理人数を減らすための計画を急ぐかのいずれかである。"

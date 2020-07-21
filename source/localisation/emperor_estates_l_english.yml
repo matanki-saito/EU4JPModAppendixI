@@ -996,7 +996,7 @@
  estate_jains_protect_against_piracy_desc:0 "[Root.GetJainsName]は、[agenda_trade_node_sea.GetName]における海賊行為による損失を嘆いている。彼らは我々に彼らの交易船を略奪している海賊と私掠船を追い払うための行動を起こすよう要請している。"
  estate_brahmins_land_rights_desc:0 "ヒンドゥー教の司祭カーストが宗教的および世俗的な義務を果たすことは安くはない。[Root.GetBrahminsName]が、より多くの土地を自由に利用できるようになることで、はるかに優れた役割を果たすことができる。"
  estate_nobles_land_rights_desc:0 "[Root.Get貴族Name]は、国内で最も優れた人々であり、確実にその土地を最も強く主張している人々である。"
- estate_church_land_rights_desc:1 "彼らが与えられた土地で自活するすることができない場合、[Root.Get聖職者Name]は彼らの宗教的な義務を果たすことができなくなるでしょう。"
+ estate_church_land_rights_desc:1 "彼らが与えられた土地で自活することができない場合、[Root.Get聖職者Name]は彼らの宗教的な義務を果たすことができなくなるでしょう。"
  estate_maratha_land_rights_desc:1 "[Root.GetMarathasName]に土地を与えることで、国の統治を支援する有能な戦士がすぐに手に入ることが保証されるだろう。"
  estate_burghers_land_rights_desc:0 "我々の社会の中流階級である[Root.Get市民Name]は、何よりも領土を望んでいることで、彼らは最終的に貴族と同じだと見なされている。彼らのこの希望を叶えることは彼らの計り知れない感謝を得るだろう。"
  estate_vaisyas_land_rights_desc:0 "我々の社会の中流階級である[Root.GetVaishyasName]は、何よりも領土を望んでいることで、彼らは最終的に貴族と同じだと見なされている。彼らのこの希望を叶えることは彼らの計り知れない感謝を得るだろう。"
