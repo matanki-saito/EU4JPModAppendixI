@@ -39,7 +39,7 @@
  MBRACE_INSTITUTI_NOT_POSS:0 "このために広がることがない：\n$WHY$"
  INSTI_PROVIDES:0 "国が受容する際に、以下の効果を得る。\n$BONUS$"
  MAPMODE_INSTITUTIONS:0 "制度"
- MAPMODE_INSTITUTIONS_DESC:0 "色は、その州がすべての制度を受容しているかによって変わる。緑は全ての制度を受け入れており、黄色は現在その途中であり、赤は全く受け入れていない。"
+ MAPMODE_INSTITUTIONS_DESC:0 "その州がすべての制度を受容しているかで色分けされます。緑は全ての制度を受容しており、黄色は受容の途中であり、赤は全く受容していません。"
  HAS_EMBRACED_INSTITUTION:0 "$NAME$：§YPresent§!"
  EMBRACING_INSTITUTION:0 "$NAME$：§Y$VAL$%§!"
  NOT_EMBRACED:0 "受容されていない："

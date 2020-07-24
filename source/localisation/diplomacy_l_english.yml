@@ -22,7 +22,7 @@
  same_dynasty:0 "同じ王朝"
  have_claim:0 "請求権を持っている"
  have_core:0 "中核州を持っている"
- getting_subsidies:0 "援助を受けている"
+ getting_subsidies:0 "補助金を受けている"
  has_cb:0 "開戦事由を持っている"
  creating_claim:0 "請求権の捏造"
  is_vassal:0 "属国"

@@ -154,7 +154,7 @@
  INTERVENE_ENEMY_WARALLY:1 "あなたは敵側の$WARALLY|Y$と共に戦争を戦っています。"
  INTERVENE_NOT_LESS_POWERS:0 "列強の不均衡があり、あなたが弱い立場の方に加わる場合にのみ介入することができます。"
  INTERVENE_NO_POWERS:0 "戦争の両陣営に少なくとも1か国の列強が必要です。"
- INTERVENE_NOT_WAR_LEADER:0 "$RECIPIENT|Y$は、この戦争の戦争指導国ではありません。"
+ INTERVENE_NOT_WAR_LEADER:0 "$RECIPIENT|Y$は、この戦争の戦争主導国ではありません。"
  INTERVENE_CHOOSE_TARGET:0 "介入する戦争を選択："
  INTERVENE_LONG_DESC:0 "両陣営に少なくとも1か国の列強がおり、我々の参加するであろう側の方が列強が少ない場合に戦争に介入することができます。"
  INTERVENE_AGREE_TEXT:0 "開戦だ！"

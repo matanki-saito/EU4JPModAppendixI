@@ -140,7 +140,7 @@
  military_zeal_act:0 "軍事的熱意に関する法律"
  desc_military_zeal_act:0 "我々の軍隊の階級における司祭の数を増やすことは、神が戦争で我々の側にいること、そして彼らは神のために仕事をしているということを兵士たちに納得させるのに役立つ。"
  new_model_army_policy:0 "ニューモデル軍法"
- desc_new_model_army_policy:0 "共和国を守るため、完全に専門的な将校たちが指揮する、十分に訓練されたプロの軍隊を維持しなければならない。"
+ desc_new_model_army_policy:0 "共和国を守るため、完全に専門的な将校たちが指揮する、十分に訓練された職業軍を維持しなければならない。"
  levee_en_masse:0 "国民皆兵"
  desc_levee_en_masse:0 "共和国が危険にさらされている場合、全ての健常な男性は、国を守るために兵役に入ることが義務付けられる。"
  professional_diplomatic_corps:0 "専門的な外交団"
