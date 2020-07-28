@@ -589,7 +589,7 @@
  hun_ottoman_borders_three_title:0 "ブルガリアの確保"
  hun_ottoman_borders_three_desc:0 "ブルガリアの人々は何年もの間、何らかの外国の占領下にあった。最初は自称ローマ帝国、そして確実に残忍な宗主国であったトルコ。彼らを解放しよう。"
  hun_ottoman_borders_four_title:0 "コンスタンティノープルへの進軍"
- hun_ottoman_borders_four_desc:0 "偉大なる都市コンスタンティノープルを征服し、バルカン半島への請求権を主張せよ!"
+ hun_ottoman_borders_four_desc:0 "偉大なる都市コンスタンティノープルを征服し、バルカン半島への請求権を主張せよ！"
  secure_the_imperial_crown.tooltip:1 " の選帝侯が：\n§Y[Root.GetName]§!が皇帝となることを支持している。\n§Y[Root.GetName]§!に対する評価が§Y100§!以上である。"
  building_alliances.tooltip:0 "以下に該当する国家が§Y2§!以上である：\n§Y[Root.GetName]§!と同盟を結んでいる。\n§Y[Root.GetName]§!に対する評価が§Y150§!以上である。"
  conquer_warmia_title:1 "プロイセンの奪還"

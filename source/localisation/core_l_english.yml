@@ -341,7 +341,7 @@
  MAPMODE_PATRIARCHS_DESC:1 "これは、奉献された主教座の状況を表示します。黄色の州には主教座があり、緑色の州は主教座を割り当てることができ、赤色の州は主教座を持つことができません。"
  MAPMODE_DEVASTATION_DESC:1 "州がどれだけ荒廃しているか示します。赤が明るいほど州が荒廃し、灰色は荒廃していません。"
  MAPMODE_DYNASTY:0 "王朝"
- MAPMODE_DYNASTY_DESC:0 "君主の王朝に応じて州を色分けし、王朝の名前を表示します。"
+ MAPMODE_DYNASTY_DESC:0 "君主の王朝に応じて州を色分けし、王朝名を表示します。"
  MAPMODE_TRADE_LEAGUES:0 "貿易同盟"
  MAPMODE_TRADE_LEAGUES_DESC:0 "所属する貿易同盟によって州は色分けされています。あなたが貿易同盟のリーダーであれば、貿易同盟に参加できる国と希望する相手国が示されます。"
  MAPMODE_GREAT_POWERS:0 "列強"
