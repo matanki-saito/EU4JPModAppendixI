@@ -5018,7 +5018,7 @@
  alert_max_monarch_power_reached_3_delayed:0 "$POW1|Y$君主力、$POW2|Y$君主力と§Y$POW3$君主力§!が最大値に達しています。"
  AND_X_PROV_MORE:0 "そして、さらに$VAL|Y$州において..."
  PAPAL_CURIA_TREASURY_NOT_ENOUGH:0 "§Rこの行動を取るには少なくとも$COST|Y0$¤の教皇資金が必要です。§!"
- PAPAL_CURIA_TREASURY_COST:0 "教皇資金から$COST|Y0$¤が必要です。\n"
+ PAPAL_CURIA_TREASURY_COST:0 "教皇資金から$COST|Y0$¤が必要。\n"
  WHEN_CONQUERED:0 "\nこれはこの州を征服したときに中核化するのにかかるおおよそのコストです：\n"
  MODIFIER_GLOBAL_HEATHEN_MISSIONARY_STRENGTH:0 "異教に対する布教強度"
  MACRO_BATTLE_IN_PROGRESS:0 "$PROVINCE$で戦闘が進行中です。"

@@ -8041,7 +8041,7 @@
  NEXT:0 "次"
  CHARTERCOMPANY_EXPENSEDESC:0 "あなたは、自分の植民範囲を基とされる$BASE|Y$¤の最小費用を支払わなければならず、金銭的魅力を高めるために$GAIN|Y$¤をさらに追加で支払います。"
  janissary_event_tooltip_devs:0 "§Yイェニチェリ§!イベントが§Y12年§!後に起こる"
- CW_WARNTRADELEAGUE:1 "$ENEMY$は$COUNTRY$との貿易同盟に属しており、おそらく彼らを保護するでしょう。"
+ CW_WARNTRADELEAGUE:1 "$ENEMY$は$COUNTRY$との貿易同盟に属しており、貿易同盟はおそらく彼らを保護するでしょう。"
  CW_WARNLEAGUE:1 "$ENEMY$は同盟の一員である$COUNTRY$に参戦を要請するでしょう。"
  CW_WARNCOALITION:1 "$ENEMY$は包囲網の一員である$COUNTRY$に参戦を要請するでしょう。"
  CW_WARNFEDERATION:1 "$ENEMY$は$COUNTRY$の連邦に参加しています。"
