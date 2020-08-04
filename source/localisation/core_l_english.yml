@@ -369,7 +369,7 @@
  ABANDON_CORE_OWNER:0 "あなたが所有者である州の中核は放棄することはできません。"
  CONSTRUCTION_QUEUE:0 "待機列"
  CONSTRUCTION_QUEUE_NONE:0 "なし。"
- DISMANTLE_HRE_PRESTIGE_DESC:0 "神聖ローマ帝国を解体することで、§G$VAL$§!威信を得られます。"
+ DISMANTLE_HRE_PRESTIGE_DESC:0 "神聖ローマ帝国を解体することで、§G$VAL$§!の威信を得られます。"
  DEFENDER_HAVE_POSITIVE_PRESTIGE:0 "現在の防御側はポジティブな威信を持っています。"
  PROVVIEW_OCCUPIED_BY:0 "§Y$WHO$に占領されています§!"
  PROVVIEW_OCCUPIED_BY_YOU:0 "§Yあなたが占領している§!"

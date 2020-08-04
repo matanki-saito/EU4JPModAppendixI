@@ -4692,7 +4692,7 @@
  DICTATORS:0 "独裁主義"
  OUR_RULER:0 "我らが統治者"
  THEIR_RULER:0 "彼らの統治者"
- TRUST0:0 "§Y$FIRST$§!は適切な死のために§Y$SECOND$§!を信用しないでしょう。"
+ TRUST0:0 "§Y$FIRST$§!は§Y$SECOND$§!を信頼しません。死んで当然の輩です。"
  TRUST1:0 "§Y$FIRST$§!は§Y$SECOND$§!があらゆる協定や同盟を破棄すると予想しています。"
  TRUST2:0 "§Y$FIRST$§!は§Y$SECOND$§!にひどい不信感を持っています。"
  TRUST3:0 "§Y$FIRST$§!は§Y$SECOND$§!を不信の目で見ています。"
