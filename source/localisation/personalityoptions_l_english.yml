@@ -183,7 +183,7 @@
  just_settlement_modifier:0 "紛争は解決した"
  desc_just_settlement_modifier:0 "我々は、我が国の一つの州で地元の紛争を正当に解決し、我が国のあらゆる階級に強い印象を与えている。"
  personality_events.11.t:0 "正義の[Root.Monarch.GetTitle]"
- personality_events.11.d:0 "そのような熱心な支持者の基盤を[Root.Monarch.GetName]のように誇れる君主はほとんどいない。しかしながら、[Root.Monarch.GetHerHisCap]の代理人は必ずしも幸運というわけではなく、場合によっては、特定の知事、徴税人または他の政府の役人が[Root.Monarch.GetName]の代理として行動していることへの受け入れを拒否する場合もある。そのような知事について、請願が我々の元に届いている。人気のある信念に従って、我々の善意を乱用し、人々を苦しめている。"
+ personality_events.11.d:0 "[Root.Monarch.GetName]ほど熱烈に支持されていることを誇れる君主はめったにいない。しかしながら、[Root.Monarch.GetHerHisCap]の代理人は必ずしも恵まれているわけではない。場合によっては、知事、徴税人その他政府の役人が[Root.Monarch.GetName]の代理として行動するのを臣民が受け入れないこともある。そのような知事について、請願が我々の元に届いている。民の言い分では、この者は我々の信頼を良いことに人々を苦しめているというのだ。"
  personality_events.11.a:0 "知事を叱責する。"
  personality_events.11.a.tt:0 "この§Y地域§!は30年の間、不穏度が§G-2§!、税が§R25%§!それぞれ減少します。"
  personality_events.11.b:0 "知事を擁護しようとする。"
