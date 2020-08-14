@@ -13,7 +13,7 @@
  MERCENARY_COMPANY_NOT_TO_BANKRUPTED:0 "破産した国家は傭兵を雇用できません。"
  MERC_WHY_NOT:0 "\n以下の理由によりこの団は募集できません:\n$WHY$"
  MERCENARY_COMPANY_TOO_FAR:1 "$COMPANY|Y$は我々が雇用できる§R範囲外§!です。我々の交易範囲中に対してのみ雇用できます。"
- MERCENARY_COMPANY_TOO_FAR_PROVINCE:2 "$COMPANY|Y$は我々が雇用できるプロビンス$PROVINCE|Y$$RANGE$の§R範囲外§!です"
+ MERCENARY_COMPANY_TOO_FAR_PROVINCE:2 "プロビンス$PROVINCE|Y$で我々が雇用できる範囲内に$COMPANY|Y$は§Rいません§!。$RANGE$"
  MERC_RANGE_EXPLAINED:0 "$ORIGIN|Y$から$WHERE$への距離は$DISTANCE|Y$で、我々が傭兵を雇用できる範囲は$RANGE|Y$です。傭兵を雇える範囲は、我々の交易範囲が広がるにつれ広がっていきます。"
  MERC_ENTRY_IN_RANGE:0 "\n$NAME|Y$はここでは募集できません！"
  MERCENARY_COMPANY_ORIGIN:0 "発祥地：$PROVINCE|Y$"
