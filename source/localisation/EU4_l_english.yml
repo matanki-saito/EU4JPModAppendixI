@@ -443,7 +443,7 @@
  CUL_BENEFIT_PROV:0 "$CUL$は$WHERE$に$EFF$を与えます。"
  CUL_BENEFIT_PROV_X:0 "$CUL$は所有する州に$EFF$を与えます。"
  CUL_BENEFIT_COUNTRY:0 "$CUL$が主要文化の間$EFF$を我が国へもたらします。"
- in_capital_state:0 "首都のある州"
+ in_capital_state:0 "首都のあるステート"
  DEVOTION_TO_RELIGIOUS_UNITY:0 "§R信仰は変更後、あなたの宗教統一度の値まで減少します。§!\n"
  RETURNING:0 "戻る"
  DIPLO_TRADE_POWER_MECHANT_REPUBLIC:0 "商人共和制："

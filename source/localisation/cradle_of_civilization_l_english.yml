@@ -488,7 +488,7 @@
  trade_policy_events.9.t:1 "[Root.prominent_merchant.GetName]とその家族"
  trade_policy_events.9.d:0 "[merchant_family_province.GetName]出身の商人の一家は、[foreign_province_owner.GetName]での長距離交易で大成功を収めた。彼らは[foreign_province_owner.Capital.GetCapitalName]と[foreign_province_owner.GetAdjective]の奥地それぞれの地域で大きな影響力を持ち、裕福になっている。この状況を、我々が利用する手はないものか…"
  trade_policy_events.9.a:0 "彼らの伝手で、[foreign_province_owner.GetAdjective]の奥地の地図を手に入れよう。"
- trade_policy_events.9.b:0 "彼らにわざわざ物を頼むべきではない。彼らの利益は、そのまま我らの得にもなるのだ。"
+ trade_policy_events.9.b:0 "彼らに何かを頼まずともよい。彼らの利益は我らの利益だ。"
  trade_policy_events.9.c:0 "[Root.prominent_merchant.GetName]を交易政策の新しい創造者としよう。"
  trade_policy_events.10.t:0 "[trade_province.GetFancyTradeGood]への需要の増加"
  trade_policy_events.10.d:1 "[trade_province.GetName]で産出する[trade_province.GetFancyTradeGood]に対して、国内外の市場でとても良い値がつくようになってきている。そのおかげで新しい起業家や投資家の類が台頭しつつある。"
