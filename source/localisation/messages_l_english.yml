@@ -1790,7 +1790,7 @@
  DEBASE_CURRENCY_SETUP:0 "あなたが通貨価値の切り下げをした時"
  DEBASE_CURRENCY_HEADER:0 "通貨価値の低下"
  DEBASE_CURRENCY_1:0 "我々は通貨価値を"
- DEBASE_CURRENCY_2:0 "§Y$VALUE$§!¤落としました。"
+ DEBASE_CURRENCY_2:0 "§Y$VALUE$§!¤低下させました。"
  DEBASE_CURRENCY_3:0 "一方で§R$CORRUPTION$%§!の汚職が与えられます。"
  DEBASE_CURRENCY_LOG:0 "我々は通貨価値を低下させました。"
  DEBASE_CURRENCY_BTN1:0 "OK"

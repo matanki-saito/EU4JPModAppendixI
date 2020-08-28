@@ -4766,7 +4766,7 @@
  REPAIR_HIGH_DAMAGE:0 "激しい損傷"
  REPAIR_NEVER:0 "修理しない"
  ALREADY_DEMANDED_UNLAWFUL:0 "すでに不法な領土の返還を要求しました"
- MONOPOLIZATION_PRIVATEER_BONUS:0 "ノードで最大の交易力の占有率（$COUNTRY|Y$）は、ここでの私掠船の効率を$VAL$にします。"
+ MONOPOLIZATION_PRIVATEER_BONUS:0 "ノードで交易力占有率が最大の国家（$COUNTRY|Y$）は、ここでの私掠船の効率が$VAL$になります。"
  MISSION_SETTINGS_REPAIR_DESC:0 "修理のしきい値は、どれほどの損傷を受けた時に艦隊が修理のため港へ向かうかを決定します。"
  MISSION_SETTINGS_AGGRESSIVENESS_DESC:0 "攻撃性は、艦隊が任務中に敵艦にどのように反応するかに影響します。\n値が高いほど、艦隊はより強い敵に挑戦しようとします。\n\n（探検、回避、損傷した船を修理する任務ではこの設定の影響を受けません。）"
  MISSION_SETTINGS_AGGRESSIVENESS_DESC_CAUTIOUS:0 "慎重な設定では、艦隊は一般に圧倒的な敵の軍隊を避け、自分の損失を減らすだけでなく、消耗を回避しようとします。\n\n§Y捜索任務§!：\n合理的な勝利の可能性がある場合は、強力な敵の艦隊を避けて戦います。\n\n§Y封鎖任務§!：\n封鎖中は大規模な交戦を避けます。\n\n§Y迎撃任務§!：\nあなたの海岸の近くで合理的な大きさの敵艦隊を迎撃します。\n\n§Y回避§!、§Y探検§!、§Y修復§!：\n影響を受けません。"
