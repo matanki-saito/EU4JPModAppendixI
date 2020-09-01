@@ -324,7 +324,7 @@
  JAP_californian_colonization:0 "§Y[Root.GetName]§!あるいは彼らの従属国が、カリフォルニア植民地域に、完全に植民地化された州を1州でも領有する。"
  JAP_build_a_factroy:0 "§Y[Root.GetName]§!の州に任意の種類の工場が§Y12§!以上建設されている。"
  JAP_toughed_it_out_MoH:1 "§Y[Root.GetName]§!に関して、幕府関連以外全ての事件が解決しているか、もしくは国教が神道ではない。"
- JAP_toughed_it_out_no_MoH:0 "§Y[Root.GetName]§!に関して、キリシタンの到来に対応済みか、もしくは国教が神道ではない。"
+ JAP_toughed_it_out_no_MoH:0 "§Y[Root.GetName]§!に関して、切支丹の到来に対応済みか、もしくは国教が神道ではない。"
  JAP_cn_in_rnw:0 "新世界にある州を§Y10§!州以上自国か非朝貢国である従属国が領有する。"
  JAP_no_corruption:0 "汚職が§Y0.1%§!未満である。"
  lost_control_of_beijing:1 "中華皇帝が北京の領有も支配もしていない"

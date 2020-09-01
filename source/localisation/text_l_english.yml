@@ -2943,7 +2943,7 @@
  ESTATE_LOYALTY_LOSS_TEMP:2 "§Y$ESTATE$§!階級は$DATE|Y$までの間、§R$LOYALTY$%§!の忠誠の忠誠均衡値を失います。\n"
  FACTION_INFLUENCE_GAIN:0 "§Y$FACTION$§Wは§Y$INFLUENCE$§Wの影響力を獲得します。\n"
  christian_daimyo_title:0 "吉利支丹への改宗"
- christian_daimyo_desc:0 "ヨーロッパからの新しいキリシタン宗教が藩の中に広がって以来、我々はこの新しい信条への改宗を検討した。我々の先祖の信仰を放棄することの意味を軽く考えるべきではない。"
+ christian_daimyo_desc:0 "ヨーロッパからの新しい切支丹宗教が藩の中に広がって以来、我々はこの新しい信条への改宗を検討した。我々の先祖の信仰を放棄することの意味を軽く考えるべきではない。"
  EMPEROR:0 "皇帝"
  FACTION_INFLUENCE:0 "派閥の影響：§Y$INF$§W"
  a_batch_of_western_muskets:0 "一束の西洋式火縄銃"
