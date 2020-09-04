@@ -204,7 +204,7 @@
  can_give_agendas_without_interaction:1 "階級はいつでも議題を追求可能"
  CONDITIONAL_MODIFIER_DESC:0 "条件\n$CONDITIONS$が満たされている時：\n$MODIFIERS$"
  FAILED_ESTATE_AGENDA_TITLE:0 "階級の議題が失敗"
- FAILED_ESTATE_AGENDA_DESC:0 "国家の変更により階級はもはや$NAME|Y$を追求しなくなり、それは以下の影響があります：\n$EFFECT$"
+ FAILED_ESTATE_AGENDA_DESC:0 "国内状況の変化にともない、階級はもはや$NAME|Y$を追求しなくなり、それは以下の影響があります：\n$EFFECT$"
  TIMED_OUT_ESTATE_AGENDA_DESC:0 "議題$NAME|Y$の完了見込みは、$EXPIRY|Y$だったのですが、階級はこれ以上我慢できなくなりました。このことにより、以下の効果がもたらされます：\n$EFFECT$"
  LAND_OWNERSHIP_MODIFIER:1 "$PERCENT|Y0&$の地権から獲得：\n$MODIFIERS$\n"
  estate_privilege_cannot_be_revoked:0 "この階級特権は取り消された。"
