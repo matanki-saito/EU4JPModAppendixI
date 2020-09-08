@@ -4704,7 +4704,7 @@
  TRUST_HUMAN:0 "§Y$SECOND$§! はプレイヤーであるため信頼すべきではありません。"
  FAVORS_HUMAN:0 "彼らはプレイヤーであり、無視できます。"
  OCCUPIED_PROVINCES:0 "占領された州"
- CREATE_REBELS:0 "§R$SIZE$§Yの$TYPE$§Wの連隊が§Y$WHERE$§Wにおいて反乱に立ち上がります。\n"
+ CREATE_REBELS:0 "§Y$TYPE$§R$SIZE$§W個連隊が§Y$WHERE$§Wにて蜂起します。\n"
  CREATE_REBELS_CULTURE:0 "彼らは$CULTURE|Y$の文化になるでしょう。\n"
  CREATE_REBELS_RELIGION:0 "彼らは$RELIGION|Y$の宗教になるでしょう。\n"
  NATIONALISM_LOWER_THAN:0 "分離主義が右記より低い："
