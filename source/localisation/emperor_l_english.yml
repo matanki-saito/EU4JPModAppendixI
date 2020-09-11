@@ -1015,3 +1015,4 @@
  force_peasant_republic_desc:0 "[From.GetName]は農民共和国となります。"
  CB_ALLOWED_force_peasant_republic:0 "農民による支配を強制"
  PEACE_force_peasant_republic:0 "農民による支配を強制"
+ ESTATE_PRIVILEGE_MAX_GRANTED:0 "§R階級に4個を超える特権を与えることはできません。§!"

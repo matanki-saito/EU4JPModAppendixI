@@ -892,3 +892,4 @@
  BENEFIT_FOR_ELECTOR_PER_PRINCE:1 "選帝侯が以下を得る（諸侯の数による）：\n$MODIFIER$"
  BENEFIT_FOR_EVERYONE:1 "帝国の全ての国家が以下を得る：\n$MODIFIER$"
  ENEMY_STRENGTH_UNACCOUNTED:0 "参戦要請される可能性のある国の兵力について一切の情報を持ち合わせていません。"
+ CURIA_BUY_INDULGENCE_AT_WAR:0 "§R現在あなたの破門を巡る戦争を戦っています。§!"

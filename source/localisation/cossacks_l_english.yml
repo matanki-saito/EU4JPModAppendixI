@@ -1101,7 +1101,7 @@
  church_estate_events.7.d:0 "多くの支配者が$ESTATE_CHURCH$の支持に頼ることができたが、我々と同じくらい強力な支持者はほどんどいない。我々と$ESTATE_CHURCH$の間の緊密な協力と忠誠の長い伝統は、教会が独立した主体ではなく国家行政の一部と考える状況をもたらした。我々の国家全体で、$ESTATE_CHURCH$が[Root.Monarch.GetTitle]の卓越性と精神的な強さに関する言葉を広めている。"
  church_estate_events.7.a:0 "素晴らしい"
  church_estate_events.8.t:0 "土地の盗用"
- church_estate_events.8.d:0 "土地の寄進の多くはかなり古くから行われてきたものであり、初めて寄付について書かれて以降、変わるであろう景色と所有者を常に書き留めている。最近、$ESTATE_CHURCH$は、遠い昔に$ESTATE_CHURCH$に寄進された土地を侵害したとして、何人かの$ESTATE_NOBLES$をあからさまな土地窃盗の罪で訴えている。一方で$ESTATE_NOBLES$は、権利を有していない土地を奪い取ろうとしているのは$ESTATE_CHURCH$であると主張している。\n我々が支持することにした側がその地域の支配的な土地所有者となるだろう。"
+ church_estate_events.8.d:0 "土地の寄進の多くはかなり古くから行われてきたものであり、常に地勢と地名の両方を記録してはいるものの、それらは寄進が実際に行われたときから大きく変化していることがある。最近、$ESTATE_CHURCH$は、遠い昔に$ESTATE_CHURCH$に寄進された土地を侵害したとして、何人かの$ESTATE_NOBLES$をあからさまな土地窃盗の罪で訴えている。一方で$ESTATE_NOBLES$は、権利を有していない土地を奪い取ろうとしているのは$ESTATE_CHURCH$であると主張している。\n我々が支持することにした側がその地域の支配的な土地所有者となるだろう。"
  church_estate_events.8.a:0 "$ESTATE_CHURCH$に味方する。"
  church_estate_events.8.b:0 "$ESTATE_NOBLES$に味方する。"
  church_estate_events.8.c:0 "いずれの当事者も支持しない。"

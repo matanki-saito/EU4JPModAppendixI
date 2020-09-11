@@ -427,7 +427,7 @@
  estate_burghers_get_cash:0 "国庫の拡大"
  estate_burghers_discover_X_in_america:0 "[agenda_province.GetAreaName]の発見"
  estate_burghers_colonise_X:0 "[agenda_province.GetAreaName]への入植"
- estate_burghers_colonise_X_requirements:1 "§Y[agenda_province.GetAreaName]§!地域の任意の州を植民地するか、それらを完全に植民地化した植民地の従属国を持つ。"
+ estate_burghers_colonise_X_requirements:1 "§Y[agenda_province.GetAreaName]§!地域のいずれかの州を植民地化するか、それを完全に植民地化した植民地国家を従属国に持つ。"
  estate_burghers_colonise_more_X:1 "[agenda_province.GetAreaName]地域への植民"
  estate_burghers_colonise_more_X_requirements:0 "§Y[agenda_province.GetAreaName]§!地域の全ての州を植民地化するか、それらを完全に植民地化した従属国を持つ。"
  estate_burghers_colonial_nation:1 "[agenda_province.GetColonialRegionName]の植民地拡大"
