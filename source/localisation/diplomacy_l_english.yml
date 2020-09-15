@@ -168,7 +168,7 @@
  SELECT_RIVAL_COST_DESC:0 "\n新しいライバルを指定するには§Y$VAL$§W£dip£のコストがかかります。"
  CLICK_TO_SELECT_RIVAL:0 "\nここをクリックし、リストからライバルに指定する国を選びます。"
  CLICK_NO_RIVAL_SELECTED:0 "ライバルが選択されていません。"
- CLICK_CHANGE_RIVAL:0 "\nライバルを変更するにはクリックします。"
+ CLICK_CHANGE_RIVAL:0 "\nライバルを変更するにはクリックしてください。"
  CLICK_SET_RIVAL:0 "\nライバルを設定します。"
  RIVAL_REMOVE_NOT_ENOUGH_POWER:0 "ライバル指定解除に必要な§Y$VAL$§W£dip£がありません。"
  ENFORCEPEACETITLE:0 "和平を強制"

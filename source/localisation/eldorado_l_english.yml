@@ -1085,7 +1085,7 @@
  ND_SAVE_ERROR_LOADING:0 "国家読み込みエラー"
  ND_SAVE_ERROR_LOADING_CORRUPT:0 "カスタム国家の設定の読み込みに失敗しました。ファイルが破損しています。"
  ND_SAVE_ERROR_WRITING:0 "国家書き込みエラー"
- ND_SAVE_ERROR_WRITING_UNKNOWN:0 "原因は不明ですが、カスタム国家の保存に失敗しました。\n\n十分な空き領域があるか確認して下さい。"
+ ND_SAVE_ERROR_WRITING_UNKNOWN:0 "原因は不明ですが、カスタム国家の保存に失敗しました。\n\n十分な空き領域があるか確認してください。"
  seven_cities_events.1000.t:0 "足跡は冷たく育つ"
  seven_cities_events.1000.d:0 "我々がかつて発見するために着手した伝説の宝物は、我々の手の届かないところにあるようだ。長い間何も聞かず、見ていないことで、我々の征服者たちは絶望し始めている。"
  seven_cities_events.1000.a:0 "我々は代わりに他の宝物を探す必要がある。"
