@@ -69,7 +69,7 @@
  DIPLO_COALITION:0 "包囲網戦争："
  DIPLO_IS_REVOLUTION_TARGET:0 "$WHO$は革命目標である："
  DIPLO_NOT_HAVE_LOCATION:0 "$NAME$を支配していない："
- DIPLO_WAR_PEACE_SCORE:0 "戦勝点が和平内容よりも大きいです："
+ DIPLO_WAR_PEACE_SCORE:0 "戦勝点が和平提案より大きい："
  DIPLO_QUIET_BONUS:0 "戦争に貢献していない："
  DIPLO_PEACE_SCORE_TOO_HIGH:0 "不当に重い和平条件："
  DIPLO_PEACE_OFFER_TOO_MUCH:0 "寛大すぎる和平条件："

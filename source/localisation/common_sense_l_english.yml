@@ -1012,7 +1012,7 @@
  opinion_export_bad:0 "経済は交易の転換により苦しんでいます"
  returned_province:0 "我々に州を返還しました"
  FREE_CITY_NOT_SUBJECT:0 "自由都市は従属国になることはできません。"
- NO_FREE_CITY_DICTATORSHIP:0 "独裁は自由都市となることができません。"
+ NO_FREE_CITY_DICTATORSHIP:0 "独裁国は自由都市となることができません。"
  TOO_LITTLE_DEV_FOR_FREE_CITY:0 "彼らの首都である§Y$CAPITAL$§!は、自由都市となるために開発度が§Y$AMT$§!以上必要です。"
  RETURN_PROVINCE_TOOLTIP:0 "州を§Y$COUNTRY$§!に返還します。§R$AMT$§!の威信を失いますが、彼らからの評価は高まります。"
  RETURN_PROVINCE_TOOLTIP_HORDE:0 "州を§Y$COUNTRY$§!に返還します。彼らからの評価が高まります。"

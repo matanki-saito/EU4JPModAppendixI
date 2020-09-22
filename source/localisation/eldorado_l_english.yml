@@ -1025,7 +1025,7 @@
  inti_events.36.b:0 "貴族を許す。"
  ENABLE:0 "有効にする"
  DISABLE:0 "無効にする"
- ND_COST_START:0 "あなたの国の現在のコストは以下の要因によります："
+ ND_COST_START:0 "自国の現在のコストは以下の要因によります："
  ND_DISABLED_BY_GOVERNMENT:0 "§Rあなたの政体はこれを許可していません§!"
  ND_TOGGLE_USE_HEIR:0 "これはあなたが後継者を持った状態でスタートするかどうかを切り替えます。"
  ND_TOGGLE_USE_CONSORT:0 "これはあなたが配偶者を持った状態でスタートするかどうかを切り替えます。"
