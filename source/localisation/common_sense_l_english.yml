@@ -1647,7 +1647,7 @@
  ADVISOR_DISCOUNTED:0 "この顧問を採用することはあなたの国家にとって$AMT$安上がりです。"
  PICK_ASPECT:0 "§Y現在、信仰の新たなアスペクトを選択できます！§!"
  PICK_ASPECT_DESC:0 "信仰のアスペクトを選ぶことで、あなたの宗教に特有のボーナスを獲得します。あなたが十分な教会権力を蓄積した後で、すでに選択されているアスペクトが最大数よりも少ない場合にのみ、それを行うことができます。"
- PEACE_NEED_TO_CONTROL_PROVINCE:0 "§Rあなた、またはあなたの同盟国によって支配されていないので、州は要求できません。§!"
+ PEACE_NEED_TO_CONTROL_PROVINCE:0 "§R自国または同盟国に支配されていないので、州を要求できません。§!"
  PEACE_PROVINCE_NOT_ALLOWED_WARGOAL:0 "§R戦争目標としてこの州は要求できません。§!"
  PEACE_PROVINCE_OCCUPIED_IN_OTHER_WAR:0 "§R州は別の戦争で敵に占領されているため要求することはできません。§!"
  PEACE_NEED_OCCUPY_ALLY:0 "§R戦争における二次的な参戦国だけが、占領された州を要求できます。§!"

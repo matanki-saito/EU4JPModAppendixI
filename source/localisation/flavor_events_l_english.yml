@@ -323,7 +323,7 @@
  flavor_boh.1.a:0 "ヤン・フスは真実を知っていた。"
  flavor_boh.1.b:0 "ローマに忠実であれ！"
  flavor_boh.2.t:0 "異端王"
- flavor_boh.2.d:1 "[Root.Monarch.GetName]はフス派の献身的な信者であり、[Root.Monarch.GetHerselfHimself]をカトリック教会と対立させている。教皇は、自ら慈悲深い王を信じ、教会との完全な和解と、我々がフス派信仰を放棄してローマとの一致に戻った場合、穏やかな譲歩さえも提案している。"
+ flavor_boh.2.d:1 "敬虔なフス派の信徒である[Root.Monarch.GetName][Root.Monarch.GetHerselfHimself]は、 カトリック教会と対立している。教皇は自らの慈悲深さを示すため、我々がフス派信仰を放棄するならば、教皇との完全な和解に加え、さらなる譲歩を行うとさえ提案した。"
  flavor_boh.2.a:0 "ローマに膝を屈する。"
  flavor_boh.2.b:0 "キリストに忠実たれ！"
  flavor_boh.2.3:0 "ボヘミアは結局、カトリックの反響に直面することになるだろう。"

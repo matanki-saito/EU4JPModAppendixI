@@ -462,7 +462,7 @@
  IS_NOT_CAPITAL_OF:1 "$PROVINCE|Y$は$COUNTRY|Y$の首都ではない\n"
  NO_CONFORM_TO_TEMPLATE_MOVE_LOCKED:0 "§R動きがロックされている間、陸軍をテンプレートに適合させることはできません。§!"
  NO_CONFORM_TO_TEMPLATE_MOVE_LOCKED_NAVY:0 "§R動きがロックされている間、艦隊をテンプレートに適合させることはできません。§!"
- REFILL_GARRISON_NOT_CONTROLLED:0 "要塞はあなた、またはあなたの同盟国によって支配されていません。"
+ REFILL_GARRISON_NOT_CONTROLLED:0 "要塞が自国または同盟国に支配されていません。"
  COMMONS_REFORM_CHURCH:1 "教会の一般的な改革：§Y$VAL$%§!"
  EST_VAL_PUBLIC_SCHOOLS:1 "公立学校: §Y$VAL$%§!"
  PHYSIOCRACY:1 "重農主義：§Y$VAL$%§!"
