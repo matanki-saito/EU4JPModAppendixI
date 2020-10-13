@@ -5167,7 +5167,7 @@
  DEFENSIVENESS:0 "要塞の防衛"
  PEACE_WILL_ACCEPT:0 "彼らはこの提案を受け入れるでしょう。"
  PEACE_WILL_NOT_ACCEPT:0 "彼らはこの提案を受け入れないでしょう。"
- NO_WAR_ON_OTHER_VASSALS:0 "あなたは別の国家の従属国に戦争を宣言することはできません。"
+ NO_WAR_ON_OTHER_VASSALS:0 "他国の従属国に宣戦を布告することはできません。"
  reconquer_breda_title:0 "ブレダの獲得"
  reconquer_breda_desc:0 "ブレダの要塞は、オランダの中心部に短剣のように突き立っている。それがスペインの支配下にある限り、我々は決して安全ではなく、取り戻さなければならない。"
  the_netherlands_discover_the_carribean_title:0 "カリブ海の発見"
