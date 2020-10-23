@@ -2397,7 +2397,7 @@
  GOLDEN_BULL_INSTANT:0 "$NAME|Y$\n$EFFECT$\n§Y教皇資金§!から$COST|Y$¤を投資して、この金印勅書を選択します。"
  PAPACY_GOLDEN_BULLS:0 "金印勅書"
  GOLDEN_BULL_PICKED_TITLE:0 "選択された金印勅書"
- GOLDEN_BULL_PICKED_SETUP:0 "教皇の支配者が金印勅書を選択した時"
+ GOLDEN_BULL_PICKED_SETUP:0 "教皇の支配者が金印勅書を選択したとき"
  GOLDEN_BULL_PICKED_HEADER:0 "$MESSENGER$"
  GOLDEN_BULL_PICKED_1:0 "教皇の支配者が金印勅書を選択しました！"
  GOLDEN_BULL_PICKED_2:0 "$MONARCHTITLE$、神が彼に与えたもうた力により、"

@@ -26,7 +26,7 @@
  INF_SHO_INCREASE:0 "歩兵白兵：§G+$VALUE$§W\n"
  CAV_SHO_INCREASE:0 "騎兵白兵：§G+$VALUE$§W\n"
  ART_SHO_INCREASE:0 "砲兵白兵：§G+$VALUE$§W\n"
- TECH_SETUP:0 "技術レベルを増加しているとき。"
+ TECH_SETUP:0 "我が国の技術レベルを増加したとき"
  WESTERN_NAVAL_TECH:0 "海軍ユニット"
  TECH_HEADER:0 "$MESSENGER$"
  TECH_1:0 "$TYPE$が進んだ！"
