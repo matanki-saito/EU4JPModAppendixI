@@ -98,7 +98,7 @@
  UNIT_IS_SHATTERED:0 "このユニットは損傷しています、回復するのを待ちましょう。"
  JANISSARY_LIMIT_RELIGION:0 "$PROVINCE$は$RELIGION$の州のため、イェニチェリはここでは召集できません。"
  JOIN_TRADE_LEAGUE_EFFECT:0 "§Y$WHO$§Wは我々の貿易同盟に参加します。\n"
- TRANSFER_TRADE_POWER_EFFECT:0 "§Y$WHO$§Wは我々に交易力を転送するでしょう。\n"
+ TRANSFER_TRADE_POWER_EFFECT:0 "§Y$WHO$§Wは我々に交易力の移譲をするでしょう。\n"
  custom_mercantilism_cost:0 "重商主義的傾向"
  custom_mercantilism_cost_desc:0 "対立する国家権力を犠牲にして国家権力を追加する目的で、国家経済を政府が規制すること。政治的絶対主義とは経済的対極にあった。"
  custom_allowed_marine_fraction:0 "海兵隊"

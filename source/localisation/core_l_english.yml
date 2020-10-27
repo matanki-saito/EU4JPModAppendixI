@@ -271,7 +271,7 @@
  TRANSFER_OTHERS_TRADE_POWER_TO_DESC:0 "$FROM$はもはや $ORG$に交易力を転送しません。彼らは代わりに両国が交易力を持つ交易ノードにおいて、§Y$AMOUNT|Y%1$§!の交易力を$TO$に転送します。これは、停戦期間中も有効です。"
  HUMILIATE_PEACE_DESC:0 "$FROM$は威信を$AMOUNT|0Y$失い、$TO$は各君主力を$POWER|0Y$得るでしょう。"
  HUMILIATE_RIVAL_PEACE_DESC:0 "$FROM$に屈辱を与える"
- PEACE_TRANSFER_TRADE_POWER:0 "交易力を転送"
+ PEACE_TRANSFER_TRADE_POWER:0 "交易力を送出"
  PEACE_TRANSFER_OTHERS_TRADE_POWER:0 "$WHOS$の交易力を転送"
  PEACE_SHOW_STRENGTH:0 "強さを示す"
  PEACE_HUMILIATE:0 "屈辱"

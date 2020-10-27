@@ -7899,7 +7899,7 @@
  WOULD_JOIN_TRADE_LEAGUE:0 "$COUNTRY|Y$は$LEADERS|Y$の貿易同盟に参加します。\n"
  WOULDNT_JOIN_TRADE_LEAGUE:0 "$COUNTRY|Y$は$LEADERS|Y$の貿易同盟に§R参加しません。§!\n"
  CANNOT_DEMAND_WITH_CB:0 "攻撃者は$CB$の開戦事由でこれを要求することはできません。"
- CB_TRADE_POWER:0 "交易力を伝播"
+ CB_TRADE_POWER:0 "交易力の移譲を強要"
  CB_DEMAND_PROVS:0 "州の征服"
  CB_DISABLED_DESC_HEAD:0 "以下の講和項目は無効です："
  MODIFIER_LOCAL_NAVAL_ENGAGEMENT:0 "海軍交戦幅州補正"

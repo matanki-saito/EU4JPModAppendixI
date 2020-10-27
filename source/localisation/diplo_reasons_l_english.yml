@@ -331,7 +331,7 @@
  DIPLO_LOAN_EXPIRY_SOON:0 "有効期限が早すぎる："
  DIPLO_LOAN_COST_SOON:0 "借金の費用が高く、早すぎる："
  DIPLO_LOAN_TOO_SMALL:0 "借金の額が小さすぎる："
- DIPLO_ALREADY_HAVE_LOAN:0 "すでに $LENDER$ はお金を $WHO$ に貸しています。"
+ DIPLO_ALREADY_HAVE_LOAN:0 "すでに$LENDER$は$WHO$に金を貸しています。"
  DIPLO_TOO_MANY_RELATIONS:0 "$WHO$が持つ外交関係が多すぎる："
  DIPLO_BASE:0 "基本："
  DIPLO_DIP_POWER_COST_ABOVE:0 "$WHO$は$VAL|Y$を超える外交点を消費している："
