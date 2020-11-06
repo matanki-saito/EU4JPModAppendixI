@@ -156,7 +156,7 @@
  objectives_title:0 "目標"
  daimyo_subject:0 "従属大名"
  COALITION_WILL_FORM:1 "この内容で条約を結ぶとあなたを対象とした対抗同盟が形成されます。"
- COALITION_WILL_FORM_THEM:0 "この内容で条約を結ぶと彼等を対象とした対抗同盟が形成されます。"
+ COALITION_WILL_FORM_THEM:0 "この条約により、彼らを対象とした包囲網が形成されるでしょう。"
  SHIP_DURABILITY_SHORT:0 "あなたの船の現在の耐久性は$VAL$です。"
  SHIP_DURABILITY_LONG:1 "艦船の耐久性は、船が沈没するまでに耐えられるダメージの量を表す。高ければ高いほど良い。"
  achievement_tear_down_this_wall_tooltip:0 "ベルリンで砲兵射撃を使用"

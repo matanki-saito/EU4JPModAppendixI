@@ -43,4 +43,4 @@
  GOTO_HOME:0 "本国の首都に行きます"
  CONNECT_TO_SHIP_LOW_MORALE:0 "ユニットの士気が低下しています。"
  FE_IRONMAN_GAMENOTOK:0 "鉄人モードは変更されておらず検証されたEU4を必要とします。"
- CW_WARNSUBJECTS:1 "$ENEMY$には支配下の$COUNTRY$があり、彼らを支援するでしょう。"
+ CW_WARNSUBJECTS:1 "$ENEMY$は$COUNTRY$を支配しており、彼らは援軍として参戦するでしょう。"

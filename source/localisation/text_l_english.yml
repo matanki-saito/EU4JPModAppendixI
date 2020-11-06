@@ -8108,7 +8108,7 @@
  ANNUL_TREATIES_CANT_GUARANTEE:0 "条約無効化により§Y$DATE$§!まで独立保障することはできません"
  ANNUL_TREATIES_CANT_ALLIANCE:0 "条約無効化により§Y$DATE$§!まで同盟を締結することができません"
  ANNUL_TREATIES_CANT_MIL_ACCESS:0 "条約無効化により§Y$DATE$§!まで軍事通行権の取得、付与はできません。"
- CW_WARNSUBJECTS:1 "$ENEMY$には支配下の$COUNTRY$があり、彼らを支援するでしょう。"
+ CW_WARNSUBJECTS:1 "$ENEMY$は$COUNTRY$を支配しており、彼らは援軍として参戦するでしょう。"
  DIPLO_NEED_MORE_MILITARY_POWAH:0 "$WHO$は必要な§Y$NEEDED$§!£mil£の§Y$CURRENT$§!£mil£を持っています："
  ATTR_TRADE_MISSION:0 "0%－交易任務の小型船"
  ATTR_NAVAL_BASE:0 "0%－友好港に隣接"

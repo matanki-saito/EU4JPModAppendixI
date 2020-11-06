@@ -46,7 +46,7 @@
  privateers.7.b:0 "これは恐喝だ。我々は海賊どもと取引することはない。"
  privateers.7.b.tt:0 "海賊たちは代わりに[This.GetName]の[This.Monarch.GetTitle]の商売に取りかかるでしょう。"
  privateers.8.t:0 "海賊団からの同盟の申し出"
- privateers.8.d:0 "最近になって、海賊の一団が我々の私掠船団に接触し、破壊と略奪のために[Root.GetAdjective]の支援を要請してきた。当然、彼等を支援すれば我々の船団は彼等の脅威から逃れられる。どうやら、彼等は[From.GetAdjective][From.Monarch.GetTitle]に同じ申し出を行ったものの、拒絶されたばかりか侮辱まで受けたため、[From.GetName]の交易路を襲撃することを熱望しているようだ。"
+ privateers.8.d:0 "最近になって、海賊の一団が我々の私掠船団に接触し、破壊と略奪のために[Root.GetAdjective]の支援を要請してきた。当然、支援すれば我々の船団は彼らの脅威から逃れられる。どうやら、彼らは[From.GetAdjective][From.Monarch.GetTitle]に同じ申し出を行ったものの、拒絶されたばかりか侮辱まで受けたため、[From.GetName]の交易路を襲撃することを熱望しているようだ。"
  privateers.8.a:0 "我らには制限などない。彼らは我らの私掠船として含めてよい。"
  privateers.8.b:0 "[From.Monarch.GetTitle][From.Monarch.GetName]がこの誠実な交易商への災難を拒絶したのは正しかった。"
  privateers.9.t:0 "奴隷船の拿捕"
