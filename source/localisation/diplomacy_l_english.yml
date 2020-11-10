@@ -175,7 +175,7 @@
  ENFORCEPEACEDESC:0 "対象国とその交戦国の間に白紙和平を強制します。対象国が和平を拒否した際、あなたは対象国の敵方として参戦します。"
  ENFORCPEACEDESC_OVERLORD:0 "§R彼らが拒否した場合、彼らの宗主国がこの戦争に参戦します！§!"
  ENFORCEPEACE_CHOOSE_TARGET:0 "味方する国を選択："
- enforced_peace_against:0 "次に対し和平を強制"
+ enforced_peace_against:0 "敵に対する和平を強制"
  enforced_peace_for:0 "和平を強制"
  improved_imperial_relations:0 "皇帝との関係を改善"
  IMPROVERELATIONTITLE:0 "関係の改善"
