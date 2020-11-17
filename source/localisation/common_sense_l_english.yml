@@ -1667,7 +1667,7 @@
  HEADER_TOTAL:0 "総合"
  TOTAL_DEVELOPMENT:0 "総開発レベル"
  horde_development:0 "総開発度"
- integrating_minorities_parliament_tooltip:0 "議会の議席は、適格でない誤った文化の州に割り当てられます。"
+ integrating_minorities_parliament_tooltip:0 "議会の議席は、資格のある異文化州に割り当てられます。"
  GOVERNMENT_EFFECTS_DUE_TO_DUCHY_RANK:0 "政府ランク§Y公国§!にはボーナスがありません。"
  CANNOT_UPGRADE_RANK_FIXED_RANK:1 "§R－政府改革$REFORM|Y$により現在の政府ランクを変更することはできません。§!\n"
  CANNOT_UPGRADE_RANK_FIXED_RANK_GENERIC:0 "§R－現在の政府ランクを変更することはできません。§!\n"

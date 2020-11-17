@@ -82,7 +82,7 @@
  HRE_OFFICIAL_RELIGION:0 "§Y$RELIGION$§!が支配的な信仰です。"
  HRE_OFFICIAL_RELIGION_DESC:0 "§Y$RELIGION$§!が神聖ローマ帝国の支配的な信仰です。§Y$RELIGION$§!を信仰する統治者のみ、皇帝となる資格があります。"
  HRE_PERMANENT_RELIGION:0 "§Y$RELIGION$§!が公式な信仰です。"
- HRE_PERMANENT_RELIGION_DESC:0 "§Y$RELIGION$§!が神聖ローマ帝国の公式な信仰です。§Y$RELIGION$§!を信仰する統治者のみ皇帝となる資格があり、同様に、すべての選帝侯は§Y$RELIGION$§!でなければなりません。皇帝は異なる告白の加盟国に、外交行動「宗教統一の強制」を取ることができます。"
+ HRE_PERMANENT_RELIGION_DESC:0 "§Y$RELIGION$§!が神聖ローマ帝国の公式な信仰です。§Y$RELIGION$§!を信仰する統治者のみ皇帝となる資格があり、同様に、すべての選帝侯は§Y$RELIGION$§!でなければなりません。皇帝は異宗派の領邦に、外交行動「宗教統一の強制」を取ることができます。"
  HRE_LEAGUE_MEMBER:0 "§Y$COUNTRY$§!は§Y$RELIGION$連盟§!の一員です。"
  HRE_LEAGUE_LEADER:0 "§Y$COUNTRY$§!は§Y$RELIGION$連盟§!の指導国です。"
  HRE_LEAGUES_ENABLED:0 "§Yプロテスタント§!及び§Yカトリック§!連盟が有効になっています。"
