@@ -3713,7 +3713,7 @@
  SIEGEOVER_1:0 "$NAME$が終結！"
  SIEGEOVER_2:0 "$MONARCHTITLE$、我々は$RESULT$しました、"
  SIEGEOVER_3:0 "$NAME$において！"
- SIEGEOVER_4:0 "包囲攻撃は最終的に$TIME$日間続けられ、守備隊は最終的に壊滅しました。$REASON$"
+ SIEGEOVER_4:0 "包囲攻撃は$TIME$日間続けられ、守備隊は最終的に$REASON$で壊滅しました。"
  SIEGEOVER_5:0 "$WINNER$"
  SIEGEOVER_6:0 "今から、この州を支配します。守備隊は$RESDESC$"
  SIEGEOVER_LOG:0 "我々は$NAME$に$RESULT$しました。"
