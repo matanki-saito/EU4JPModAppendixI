@@ -35,7 +35,7 @@
  TECH_4:0 "$DESC$"
  TECH_5:0 "ボーナス効果："
  TECH_6:0 "$BONUSEFFECT$"
- TECH_LOG:0 "我々の$TYPE$技術レベルは、$LEVEL$に上がりました。"
+ TECH_LOG:0 "$TYPE$技術レベルが$LEVEL$に"
  TECH_BTN1:0 "OK"
  TECH_BTN2:0 "OK"
  TECH_BTN3:0 "詳細"
