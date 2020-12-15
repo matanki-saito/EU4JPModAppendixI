@@ -588,7 +588,7 @@
  desc_agenda_looting_zeal:0 "部族の略奪への欲求が刺激されている。彼らは自身のためさらにそれを得るためには手段を選ばないだろう。"
  agenda_republicanism_restored:0 "共和主義の徳は回復した"
  desc_agenda_republicanism_restored:0 "国内紛争と不安定な期間を経て、秩序は回復し、市民は再び完全に共和国の後ろにいる。"
- no_coalition_against_us_tooltip:0 "§Y[Root.GetName]§!に対する包囲網に参加している国はありません。"
+ no_coalition_against_us_tooltip:0 "対§Y[Root.GetName]§!包囲網に参加している国はありません。"
  no_one_has_15_ae_on_us_tooltip:0 "§Y[Root.GetName]§!への侵略的拡大が§R-15§!を超える国はありません。"
  agenda_cultural_conversion_help:0 "入植者の流入"
  desc_agenda_cultural_conversion_help:0 "大量の入植者がこの州に向かって移動している。"

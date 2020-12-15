@@ -1599,7 +1599,7 @@
  karma_too_low:0 "低いカルマ"
  TOTAL_OF:0 "合計"
  AE_TOOLTIP_HEADER_0:0 "これにより§Y$WHO$§!は§Y$TOTAL$§!ヶ国との間に§R$HIGHEST$§!〜§R$LOWEST$§!の侵略的拡大による関係ペナルティが発生します。"
- AE_TOOLTIP_HEADER_1:0 "これらの国々は§Y$WHO$§!に対する包囲網に参加する可能性があります：\n"
+ AE_TOOLTIP_HEADER_1:0 "以下の国々は対§Y$WHO$§!包囲網に参加する可能性があります：\n"
  AE_TOOLTIP_HEADER_2:0 "§Y$WHO$§!は低い関係のため以下の同盟国を失います：\n"
  AE_TOOLTIP_HEADER_NO_AE:0 "§Y$WHO$§!は侵略的拡大のペナルティを何ら受けないでしょう。"
  KARMA_JUST_RIGHT_DESC:0 "カルマが$LOW$と$HIGH$の間"

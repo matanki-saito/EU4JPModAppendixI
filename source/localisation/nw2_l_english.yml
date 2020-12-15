@@ -388,7 +388,7 @@
  TRADE_COMPANY_SOUTH_CHINA_China_Trade_Company:0 "華南交易会社"
  TRADE_COMPANY_EAST_CHINA_China_Trade_Company:0 "華東交易会社"
  TRADE_COMPANY_NORTH_CHINA_China_Trade_Company:0 "華北交易会社"
- TRADE_COMPANY_WEST_AFRICA_Root_Culture_GetName:1 "[Root.Culture.GetName]ギニア会社"
+ TRADE_COMPANY_WEST_AFRICA_Root_Culture_GetName:1 "[Root.Culture.GetName]・ギニア会社"
  TRADE_COMPANY_SOUTH_AFRICA_Root_Culture_GetName:0 "[Root.Culture.GetName]南アフリカ会社"
  TRADE_COMPANY_EAST_AFRICA_Root_Culture_GetName:0 "[Root.Culture.GetName]東アフリカ会社"
  TRADE_COMPANY_WEST_INDIA_Root_Culture_GetName:0 "[Root.Culture.GetName]西インド会社"

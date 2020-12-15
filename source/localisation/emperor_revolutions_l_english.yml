@@ -9,7 +9,7 @@
  french_revolution.301.name:0 "革命に対する裏切り"
  french_revolution.301.desc1:0 "[Root.GetUsableName]の主席[Root.GetEventAdvisorTitle]である[Root.GetEventAdvisorName]は、[Root.Monarch.GetTitle][Root.Monarch.GetName]と革命的な政府によって制御を解かれた恐怖政治を批判することがよくある。公安委員会の目から見て、これは[Root.GetEventAdvisorHerHim]を、生かしておくには危険な反動主義と人民の敵にしてしまっている。"
  french_revolution.301.desc2:0 "主席[Root.GetEventAdvisorTitle]の[Root.GetEventAdvisorName]が何をやらかして[Root.Monarch.GetTitle][Root.Monarch.GetName]の怒りを招いたのかは明らかになっていないが、公安委員会は、それでも[Root.GetEventAdvisorHerHim]を潜在的な反動主義者として特定した。彼らの疑惑が正しい場合に備えて、彼らはギロチンによる処刑を勧めている。"
- french_revolution.301.desc3:0 "[Root.GetUsableName]の顧問 [Root.GetEventAdvisorTitle]が反革命の疑いのある者に不利な発言をしているのを公安委員会のメンバーの1人が耳にしたようだ。 これが報告されるやいなや、委員会は[Root.GetEventAdvisorHerHim]を民衆の敵と烙印を押し、ギロチンによる処刑を推奨するという措置を取った。"
+ french_revolution.301.desc3:0 "[Root.GetUsableName]の顧問で[Root.GetEventAdvisorTitle]の[Root.GetEventAdvisorName]が反革命の疑いのある者に不利な発言をしているのを公安委員会のメンバーの1人が耳にしたようだ。 これが報告されるやいなや、委員会は[Root.GetEventAdvisorHerHim]を民衆の敵と烙印を押し、ギロチンによる処刑を推奨するという措置を取った。"
  french_revolution.301.A:0 "マダムギロチンの犠牲者"
  french_revolution.301.B:0 "[Root.GetEventAdvisorHerHim]の予備を取っておく"
  french_revolution.303.name:0 "テロルによる支配"

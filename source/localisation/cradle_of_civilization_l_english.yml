@@ -791,7 +791,7 @@
  STATE_JANISSARIES_MIL_POWER:0 "$AMOUNT|Y$ £mil£のコスト"
  CREATEJANISSARIES_TEXT:0 "$EFFECT$"
  STATE_JANISSARIES_CREATED_REGIMENTS:0 "$NUM|Y$のイェニチェリが$PROV|Y$に現れます。"
- STATE_JANISSARIES_HEATHEN_PROVINCES:1 "国家は、あなたに支配され、完全に中核化された異教徒信仰の開発度が$AMOUNT|Y$以上必要です。"
+ STATE_JANISSARIES_HEATHEN_PROVINCES:1 "自国が支配し、完全に中核化された異教徒信仰のステートで、開発度が$AMOUNT|Y$以上であることが条件です。"
  STATE_JANISSARIES_BATTLE_OR_SIEGE:0 "戦闘あるいは包囲が進行中の州でイェニチェリを徴集することはできません。"
  ALREADY_BULDING_TO_UNIT:0 "§Rユニットはすでにこのユニットと結合するため構築されています。§!\n"
  CONFORM_TO_TEMPLATE_BUILD_DESC_ARMY:0 "$PROVS|Y$州が構築に利用されます：\n$INF$£infantry_icon_small£/$CAV$£cavalry_icon_small£/$ART$£artillery_icon_small£"
