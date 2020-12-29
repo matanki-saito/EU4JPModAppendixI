@@ -106,7 +106,7 @@
  religious_events.15.a:0 "宋明理学を推進する"
  religious_events.15.b:0 "宋明理学を否定する"
  religious_events.16.t:0 "[Root.Monarch.GetName]への反対"
- religious_events.16.d:1 "[Root.GetName]の大規模なイスラム教徒コミュニティは、[Root.Monarch.GetName]の戴冠式に反対しています。古いイスラム教徒の貴族や聖職者は私たちの国家に非常に影響力を持ち、依然として私たちの国家内に多くの権力を持っているので、これは小さな問題ではありません。おそらく、この状況は[Root.Monarch.GetName]がイスラム教に改宗するか、親類縁者に王位を譲ることによって解消されるかもしれません。この方法なら、[Root.Monarch.Dynasty.GetName]家の権威を維持しながら、ウラマーと貴族達の顔も立ててやることができます。しかし、[Root.Monarch.GetName]が我が国を支配し続けるならば、彼らはイスラムに対してより好意的な候補者を擁立しようとする可能性が高いでしょう。"
+ religious_events.16.d:1 "[Root.GetName]の大規模なムスリム共同体は、[Root.Monarch.GetName]の戴冠式に反対しています。古いムスリム貴族や聖職者は私たちの国家に非常に影響力を持ち、依然として国家内に多くの権力的地位を保持しているため、これは小さな問題ではありません。おそらく、この状況は[Root.Monarch.GetName]がイスラム教に改宗するか、親類縁者に王位を譲ることによって解消されるかもしれません。この方法なら、[Root.Monarch.Dynasty.GetName]家の権威を維持しながら、ウラマーと貴族達の顔も立ててやることができます。しかし、[Root.Monarch.GetName]が我が国を支配し続けるならば、彼らはイスラムに対してより好意的な候補者を擁立しようとする可能性が高いでしょう。"
  religious_events.16.a:0 "[Root.Monarch.GetName]は退位する。"
  religious_events.16.b:0 "我らが異教徒に屈することなどない！"
  religious_events.17.t:0 "[From.GetName]のクーデター"

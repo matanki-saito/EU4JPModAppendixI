@@ -73,7 +73,7 @@
  industrialization_events.9.t:0 "経済発展"
  industrialization_events.9.d:0 "機械分野における最近の技術革新を採用することによって、地元の企業家は、[industrialization_province.GetName]での生産性を大幅に改善し始めている。その結果として、多くの人々が周辺の田舎から州へ行き、[industrialization_province.GetCapitalName]の成長する都市で新しい仕事を熱心に探している。"
  industrialization_events.9.a:0 "[industrialization_province.GetCapitalName]は、彼らの素晴らしい故郷になるだろう。"
- industrialization_events.10.t:0 "[industrialization_province.GetName]の繊維産業の成長"
+ industrialization_events.10.t:0 "[industrialization_province.GetName]の繊維工業の成長"
  industrialization_events.10.d:0 "近代的な機械と作業方法を採用することで、[industrialization_province.GetName]の製織事業は、はるかに大規模なものに成長した。かつて地味な織物だけが輸出されていたところに、繁栄している布地生産部門があり、地元の経済に大きく貢献している。\nしかしながら、誰もがこの発展に満足しているわけではなく、[old_cloth_province.GetName]の職人たちは、市場に溢れている「低品質の製品」を取り締まるよう[old_cloth_province.Owner.GetAdjective]政府当局に陳情している。"
  industrialization_events.10.a:0 "時間は誰も待ってはくれない。"
  industrialization_events.11.t:0 "製紙産業の成長"

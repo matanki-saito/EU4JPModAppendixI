@@ -694,7 +694,7 @@
  ALERT_UNCONTESTED_CLAIMS_ENTRY:0 "$PROV$：$EXPIRES|Y$\n"
  LEADER_CURRENTLY_DRILLING:0 "指揮官は現在割り当てられた軍隊を訓練しています。"
  OPINION_YEARLY_CHANGE_SUM:0 "\n評価の年間変化合計：$CHANGE|+1$"
- alert_piety_interaction_instant:0 "イスラム教の信仰心の相互作用を利用可能"
+ alert_piety_interaction_instant:0 "ムスリムの信仰心の相互作用を利用可能"
  alert_piety_interaction_delayed:0 ""
  CROWN_LAND_NO_EFFECT:0 "影響なし"
  CROWN_LAND_NO_EFFECT_TOOLTIP:0 "現在の直轄地のレベルによる影響はありません。"
