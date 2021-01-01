@@ -359,7 +359,7 @@
  pretty_colonial_borders.3.desc:0 "[pretty_colonial_province.GetName]をめぐって、[colonial_country_1.GetName]と[colonial_country_2.GetName]は激しい言い争いの渦中にあります。[colonial_country_1.GetName]は現在その州を所有していますが、[colonial_country_2.GetName]は自身の植民地特許について言及しています。どうやら植民地特許というのはこれら地域に対する彼らの権利を確立しているもののようです。このことは最近、国境付近に集結している現地市民軍が関わったいくつかの国境での事件で頂点に達しました。両国の植民地行政当局は、戦争の勃発を避けようとしており、[Root.GetName]に仲裁を求めています。"
  pretty_colonial_borders.3.A:0 "[colonial_country_1.GetName]を支持する。"
  pretty_colonial_borders.3.B:0 "[colonial_country_2.GetName]を支持する。"
- pretty_colonial_borders.3.B.tooltip:0 "§Y[colonial_country_2.GetName]§!の§Y植民地方§!内にある§Y[colonial_country_1.GetName]§!が領有している§Y[pretty_colonial_province.GetName]§!及びその隣接州は§Y[colonial_country_2.GetName]§!へ譲渡されます。"
+ pretty_colonial_borders.3.B.tooltip:0 "§Y[pretty_colonial_province.GetName]§!及び、§Y[colonial_country_2.GetName]§!の§Y植民地方§!内にある§Y[colonial_country_1.GetName]§!が領有している近隣の州が§Y[colonial_country_2.GetName]§!へ譲渡されます。"
  annex_country_japan:0 "国家の併合"
  annex_country_japan_desc:0 "戦争目標は首都占領です。そうすれば例え他のルールで許可されていなかったとしても対象国を併合することができるようになります。"
  kor_conquer_changbai_title:0 "白頭山への交通路"
