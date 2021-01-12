@@ -1,7 +1,7 @@
 ﻿l_english:
  insult_default:1 "お前の母親は、むかし、ハムスターだったし、お前の父親はニワトリの食べる木の実の匂いがしたもんだ！"
  insult_default2:0 "裁きの日がやってくるぞ！ルシファーの手先が地上を闊歩しているーああ、違った。ただの[Root.GetAdjective]か。"
- insult_default3:0 "ともあれ、[Root.Capital.GetCapitalName]は滅びるべきだと考える次第である。"
+ insult_default3:0 "ともあれ、[Root.Capital.GetCapitalName]は滅びるべきだと考える次第である！"
  insult_default4:0 "後世の人々によって我々の時代が記述される時、お前には哀れみと嫌悪の混ざった同情が向けられるだろう。"
  insult_default5:0 "最後にトイレに行った時の方が、[Root.GetAdjective]大使との会食よりもずっと楽しいものだったな。"
  insult_default6:0 "みて。こっちに素敵な汚物があるわ。"
