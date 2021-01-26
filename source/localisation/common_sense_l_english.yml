@@ -1681,7 +1681,7 @@
  LOGOUT_PDX:0 "現在ログイン中です。ここをクリックするとParadoxアカウントをログアウトします。"
  LOGIN_PDX:0 "現在ログインしていません。ここをクリックするとParadoxアカウントにログインします。"
  fc_imperial_coronation:0 "帝国戴冠式"
- desc_fc_imperial_coronation:0 "皇室の戴冠式の会場に選ばれたこの街では、市民が有頂天となっています！"
+ desc_fc_imperial_coronation:0 "皇帝の戴冠式の会場に選ばれたこの街では、市民の喜びに満ち溢れています！"
  fc_mercenary_contracts:0 "傭兵契約"
  desc_fc_mercenary_contracts:0 "この国では、傭兵とのより安価な契約によって国防に注力している。"
  MOVE_CANT_RETREAT_FROM_COMBAT:0 "戦闘中のため、$VAL|Y$日はここを離れることは出来ない！"

@@ -46,7 +46,7 @@
  theocracy.1.i:0 "それならそれでよい。"
  new_flavour_bav.10.t:0 "プファルツ選帝侯のバイエルンへの移管？"
  new_flavour_bav.10.d:0 "[From.Monarch.GetHerHis]自身によりヴィッテルスバッハ家の所有地を再統一したことで、[From.GetUsableName]の[From.Monarch.GetTitle][From.Monarch.GetName]は選帝侯位に対する[From.Monarch.GetHerHis]の権利が尊重されるよう我々に訴えている。[From.GetUsableName]とプファルツの両方の正当な支配者として、[From.Monarch.GetSheHe]は[From.GetUsableName]の選帝侯位に対する歴史的な主張（[From.Monarch.GetSheHe]が広く吹聴してきた）に従って、選帝侯位がプファルツから[From.GetUsableName]に移されることを要求している。"
- new_flavour_bav.10.d.bav:0 "我々の領土にプファルツ選帝侯の領土を加えたことで、ウィッテルスバッハ家のプファルツに保持していた請求権を自分たちのために主張するのに理想的な瞬間となったようだ。"
+ new_flavour_bav.10.d.bav:0 "プファルツ選帝侯の称号を我々のものとしたことで、ウィッテルスバッハ家のプファルツに保持していた請求権を我々が請求する理想的な環境が整ったように思える。"
  new_flavour_bav.10.a:0 "[From.GetUsableName]選帝侯万歳！"
  new_flavour_bav.10.a2:0 "そうしよう。"
  new_flavour_bav.10.b:0 "選帝侯位はプファルツに留まるものとする。"
