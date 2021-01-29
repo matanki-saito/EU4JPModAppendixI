@@ -31,7 +31,7 @@
  TRADELEAGUE_WELEFT_BADLEAD:0 "我々はもはやそれを率いる資格がありません。\nリーダーは名声のある商人共和国でなければなりません。"
  TRADELEAGUE_WELEFT_TP:0 "我々は交易力を\n貿易同盟の外の$TO|Y$へ伝播し始めました。"
  TRADELEAGUE_WELEFT_WAR:0 "我が国は彼らと戦争中です。"
- TRADELEAGUE_THEYLEFT_VOLUNTARILY:0 "彼らは希望により離脱しました。"
+ TRADELEAGUE_THEYLEFT_VOLUNTARILY:0 "彼らは自ら望んで離脱しました。"
  TRADELEAGUE_THEYLEFT_GONE:0 "彼の国はもはや存在しません。"
  TRADELEAGUE_THEYLEFT_SUBJECT:0 "彼らは従属国になり、離脱する必要があります。"
  TRADELEAGUE_THEYLEFT_TOOLARGE:0 "彼らはあまりにも大きく成長しています。\nリーダーは一つの州のみ保持することができます。"
