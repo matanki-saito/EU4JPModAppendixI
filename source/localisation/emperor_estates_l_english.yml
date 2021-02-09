@@ -31,7 +31,7 @@
  estate_dhimmi_dhimmi_nobles:0 "ズィンミーの貴族を昇格させる"
  estate_dhimmi_manpower:0 "ズィンミーからの徴兵"
  estate_dhimmi_manpower_effect_tooltip:0 "領有する全ての非§Yムスリム§!州は§Y「ズィンミーの徴兵」§!を獲得し、下記の効果を得ます：\n州人的資源補正: §G+20.0%§!"
- estate_dhimmi_manpower_revoke_effect_tooltip:0 "§Y「ズィンミーの徴兵」§!の補正は、所有する全ての非§Yイスラム教§!の州から取り除かれます。"
+ estate_dhimmi_manpower_revoke_effect_tooltip:0 "§Y「ズィンミーの徴兵」§!の補正は、所有する全ての非§Yムスリム§!の州から取り除かれます。"
  estate_dhimmi_manpower_mod:0 "ズィンミーの徴兵"
  desc_estate_dhimmi_manpower_mod:0 "国はズィンミーの徴兵を増やした。"
  estate_dhimmi_tolerance:0 "保証された宗教的少数派の権利"

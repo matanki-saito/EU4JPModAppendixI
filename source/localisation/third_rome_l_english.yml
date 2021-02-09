@@ -103,7 +103,7 @@
  russian_principality_events.9.t:0 "タタール人の封土"
  russian_principality_events.9.d:0 "タタールの土地の獲得で、我らは長い間隷属していた人々たちの支配者となった。この勝利は[Root.GetAdjective]の人々の勝利である一方で、一つの機会でもある。\n我らが数世紀にも渡って、痛いほど知っていたように、タタール人は素晴らしき騎馬民族であり他の誰よりもステップ地帯をよく知っている。もし、地域の長が、我々の名で、その人々を統治することを許しておけば、彼らは軍に貢献するという考えに至るのではないか。"
  russian_principality_events.9.a:0 "素晴らしいアイデアだ！"
- russian_principality_events.9.b:0 "我々の国内ではイスラム教徒にそのような権利は与えられない。"
+ russian_principality_events.9.b:0 "我々の国内ではムスリムにそのような権利は与えられない。"
  russian_principality_events.10.t:0 "[kremlin_here.GetCapitalName]のクレムリン"
  russian_principality_events.10.d:0 "我が[Root.GovernmentName]が成長するに伴い、[kremlin_here.GetCapitalName]にある我が国の首都の重要性もまた増大している。多くのロシアにある都市の様に[kremlin_here.GetCapitalName]の中核は上流階級、管理当局、軍事部局をおさめるその城砦なるクレムリンである。城壁の外では拡大し続ける商業ポサード（入植地）の管区や普通の郊外が広がる。\n全体の配置はクレムリンの大きさと強さによって決まるが、多くの者は我々のそれが不適当に小さく古めかしいものとなるのではないかと危惧している。我が国の如き大望有る国家ならばそのクレムリンは絶えず増築し、拡張し、よく整備されているようにしなければならない。"
  russian_principality_events.10.a:0 "これは多くの人的資源を必要とする。"
