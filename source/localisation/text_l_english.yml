@@ -6248,7 +6248,7 @@
  use_highland_charge_desc:0 "ウィリアム・ウォレスの時代から、ハイランド軍の突撃は壊滅的な恐怖を与えてきた。しかし、飛び道具の利用が増加するにつれ、大量の突撃はより危険にさらされているため、我々はより多くの拒まれることのない突撃を命令し、ハイランドが少なくとも10人の低地兵、あるいはそれ以上の価値があることを世界に示すべきである。"
  highland_charge:0 "ハイランド突撃"
  desc_highland_charge:0 "緩い規律で突撃する、それほど訓練されていないハイランドの歩兵である。正しく雇用された場合、それを止めるものはないと考える者もいた。"
- establish_british_merchant_navy_title:0 "イギリス商船隊の確立"
+ establish_british_merchant_navy_title:0 "イギリス商船隊の設立"
  establish_british_merchant_navy_desc:0 "島国である我々は、常に交易のために海に依存している。したがって我々は交易の繁栄を確実にするため商船を促進しなければならない。"
  acknowledge_britanna_rules_the_waves_title:0 "「ブリタニア、大海原を統治せよ」を歌おう"
  acknowledge_britanna_rules_the_waves_desc:0 "統べよ、ブリタニア！\nブリタニア、大海原を統治せよ。\nブリトンの民は、断じて、断じて、断じて、奴隷とはならじ。"

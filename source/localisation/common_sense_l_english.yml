@@ -1678,7 +1678,7 @@
  desc_si_scutage_unwilling_vassals:0 "最近、軍役代納金を超えた多くの従属があり、期待されている金のすべてが我々の国庫にその道を見出すわけではないことが明らかとなった…"
  MP_DISABLED_NO_STEAM:0 "マルチプレイヤー機能にアクセスするにはSteamを起動してください。"
  MP_DISABLED_NO_PDX_LOGIN:0 "マルチプレイヤー機能にアクセスするにはParadoxアカウントにログインしてください。"
- LOGOUT_PDX:0 "現在ログイン中です。ここをクリックするとParadoxアカウントをログアウトします。"
+ LOGOUT_PDX:1 "現在$ACCOUNT$アカウントでログイン中です。ここをクリックするとParadoxアカウントをログアウトします。"
  LOGIN_PDX:0 "現在ログインしていません。ここをクリックするとParadoxアカウントにログインします。"
  fc_imperial_coronation:0 "帝国戴冠式"
  desc_fc_imperial_coronation:0 "皇帝の戴冠式の会場に選ばれたこの街では、市民の喜びに満ち溢れています！"

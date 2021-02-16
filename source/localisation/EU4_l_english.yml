@@ -5025,3 +5025,4 @@
  MACRO_NO_SPECIAL_REGIMENTS_AVAILABLE:0 "我々はすでに$MAX|Y$の$NAME|Y$連隊のうち$COUNT|Y$を使用しています。"
  SM_GUI_SCALE:0 "GUIスケール (テスト)"
  EmperorDLC:0 "Emperor"
+ MATCHMAKING_PLAYER_NAME:0 "プレイヤー名\n重複してはいけません"
