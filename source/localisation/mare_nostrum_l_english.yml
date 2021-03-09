@@ -444,4 +444,4 @@
  religious_turmoil_timelimit_tt:0 "§Y宗教的混乱§!を25年間保持していた"
  custom_idea_slave_raiders:1 "沿岸の襲撃者"
  custom_idea_slave_raiders_desc:1 "我が国は、船員や金といった必要なものを得るために、海岸線を襲撃してきた長い伝統を誇っています。"
- AUTO_HEADER:0 "以下により§Y$VAL$％§!未満にはなりません：\n$WHAT$"
+ AUTO_HEADER:0 "以下により§Y$VAL$%§!未満にはなりません：\n$WHAT$"

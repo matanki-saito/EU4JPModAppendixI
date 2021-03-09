@@ -299,7 +299,7 @@
  indian_sultanate_legacy:0 "インド・スルタン国"
  indian_sultanate_legacy_desc:0 "少数派であるムスリムに支配されたインドのスルタン国は、伝統的なムスリム王政に対する考え方を発展させ、拡大しなければならなかった。 彼らがイスラム国家のままでいるために、伝統的にユダヤ人とキリスト教徒を取り扱ってきたズィンミーの役割は、インド宗教にまで拡大された。"
  SUPPORT_LOCAL_HEIR_MONTHLY_GAIN:0 "州の後継者支持獲得：$SUPPORT|+2$/月\n$MODIFIERS$\n"
- permanent_marathas_council_reform:0 "マラーター常任理事会"
+ permanent_marathas_council_reform:0 "常設マラーター評議会"
  permanent_marathas_council_reform_desc:0 "マラーターの将軍と市民団体の指導者は、我が国家の力の均衡の重要な部分である。我々は会合を正式化し、国を導くためのマラーターの常設評議会を設立すべきである。"
  governmental_purbias_register_reform:0 "政府プルビア登録"
  governmental_purbias_register_reform_desc:0 "国家は、インド全土から熟練のラージプート兵を呼び寄せる対策を講じている。彼らをより効果的に配備できるよう、到着次第これらの戦士たちを組織して団結した連隊に編成する措置を講じるべきだ。"
