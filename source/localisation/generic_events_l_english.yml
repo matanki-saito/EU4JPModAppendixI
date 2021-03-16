@@ -2778,7 +2778,7 @@
  EVTDESC863:1 "我々の商人は世界中の交易から金をもたらしている。しかし、彼らはやや過剰に拡張しているようで、[Root.GovernmentName]は[Root.GetUsableName]の外交的な影響力を完全に支援することはできない。我々の交易のどこに注力するかについて選択をしなければならないようだ。"
  EVTOPTA863:0 "アジアはそれほど重要ではない。"
  EVTOPTB863:0 "我々はヨーロッパを無視することができる。"
- EVTOPTC863:0 "とにかく彼らを支援する！"
+ EVTOPTC863:0 "とにかく彼らを支援しろ！"
  EVTNAME864:0 "関係の改善"
  EVTDESC864:1 "我々は[neighbour_country.GetAdjective]の隣人との間に共通性を見出した。[Root.Religion.GetName]信仰を共有しているという事実だ。関係は改善され、両国は今、一つとなって未来を見据えている。"
  EVTOPTA864:0 "$COUNTRY_RELIGION$信仰のために。"
