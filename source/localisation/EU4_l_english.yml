@@ -4836,7 +4836,7 @@
  closed_doors_isolation:0 "鎖国"
  closed_doors_isolation_title:0 "鎖国"
  closed_doors_isolation_desc:0 ""
- PRESS_SAILORS_TITLE:0 "水兵を強制徴募する"
+ PRESS_SAILORS_TITLE:0 "水兵の強制徴募"
  pressed_sailors:0 "水兵を強制徴募した"
  CANT_PRESS_SAILORS_TOO_FEW:0 "彼らが抱える水兵が$NEED|Y$未満の場合は、植民地国家から船員を強制徴募することはできません。彼らは現在$CURR|Y$を持っています。"
  PRESS_SAILORS_TITLE_DESCRIPTION:0 "あなたはそれらから$SAILORS|Y$の水兵を得ます。\n"

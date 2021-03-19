@@ -3572,7 +3572,7 @@
  DIPCHANCE_LIKELY:0 "おそらく"
  bg_move_capital:0 "$MONARCHNAME$の治世において、我々は$PROVINCE$に遷都しました。"
  bg_idle_1:0 "特筆すべき事績がないため、$MONARCHNAME$は$ADJECTIVE1$$MONARCHNAME$として歴史に記されています。"
- bg_idle_2:0 "$MONARCHNAME$の治世は$PRONOUN2$$ADJECTIVE2$とのみ記録されています。"
+ bg_idle_2:0 "$MONARCHNAME$の治世は$PRONOUN2$の$ADJECTIVE2$のみ記録されています。"
  bg_idle_3:0 "$PRONOUN2$の治世の間、$MONARCHNAME$が達成したものは、$ADJECTIVE3$。"
  bg_idle_afj_1_1:0 "退屈な"
  bg_idle_afj_1_2:0 "怠惰な"
