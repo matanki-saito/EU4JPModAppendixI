@@ -83,7 +83,7 @@
  expel_foreign_traders_desc:0 "我々は、交易製作所周辺の土地を統治するため、はるかに広い権利が許されている外国の交易商にあまりにも寛大であった。我々は、これらの土地を国家に戻し、外国の交易商を追放しなければならない。"
  stop_foreign_slave_trade_title:0 "外国との奴隷貿易を禁止"
  stop_foreign_slave_trade_desc:0 "あまりにも長い間、我々はヨーロッパの交易商に市場での権利を許可してきた。奴隷制は、多くの若者が大西洋を渡って出荷されることで、我が国の地方の一部を衰退させてきた。今や、交易は明らかに我々の利益とはならない。これらの縛りを撃ち破り、損失ではなく我々に利益をもたらす者へ置き換えよう！"
- stop_slave_trade_tooltip:0 "州において、奴隷貿易を主な収入源とする地元の有力者は、この布告を15年の間、回避しようと試みるでしょう。"
+ stop_slave_trade_tooltip:0 "奴隷貿易を主な収入源とする地元の有力者は、この布告を15年間、回避しようと試みるでしょう。"
  pagan_conversion_to_christianity_title:0 "キリスト教に改宗"
  pagan_conversion_to_christianity_desc:0 "我が国のクリスチャンはキリスト教を広く布教している。彼らは改宗によって他のキリスト教国との距離が近づくと主張している。"
  pagan_conversion_to_christianity_tooltip:0 "[Root.GetName]は、新しい国教として、彼らの国民によって実践されているキリスト教の信仰を採用する。"
