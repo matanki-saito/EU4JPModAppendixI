@@ -746,7 +746,7 @@
  FE_IRONMAN_NOCLOUD:0 "鉄人モードではSteamにログオンする必要があります。"
  FE_NOT_IRONMAN_AND_OBSERVER:0 "鉄人モードでは観戦者としてプレイできません。"
  MAP_SAVED:0 "地図が保存されました！"
- SCREENSHOT_TAKEN:0 "スクリーンショットを撮影しました!"
+ SCREENSHOT_TAKEN:0 "スクリーンショットを撮影しました！"
  CONFIRMLOADSAVETITLE:0 "ロード"
  CONFIRMLOADSAVETEXT:0 "本当にセーブデータをロードして、現在のゲームを中断しますか？"
  CANNOT_RETURN_PROVINCE_NOT_CONTROLLED:0 "§R支配していない州を返すことはできません§!"

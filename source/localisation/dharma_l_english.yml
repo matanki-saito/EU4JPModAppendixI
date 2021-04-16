@@ -891,7 +891,7 @@
  REFORM_NOT_AVAILABLE_TOOLTIP:0 "§Y以下の理由により制定不可能です：§!\n"
  dutch_republic.33.t:1 "[Root.GetAdjectiveCap]議会の廃止"
  dutch_republic.33.d1:0 "何年もの論争や内紛、法制化の先送りを経て、全員が州議会のあり方について何かせねばならない事に同意しました。\n\n何年もの雌伏を経た古くからの[Root.Monarch.Dynasty.GetName]家は、絶妙なタイミングで動き、州議会を完全に廃止する法案の先頭に立ち、[Root.GetName]の王位について[Root.Monarch.GetName]が復位しました。"
- dutch_republic.33.a:0 "[Root.Monarch.GetName]万歳!"
+ dutch_republic.33.a:0 "[Root.Monarch.GetName]万歳！"
  dutch_republic.33.b:0 "[Root.GovernmentName]万歳！"
  opinion_company_land_purchase:0 "積極的な会社交渉"
  opinion_appropriated_currency:0 "通貨の割り当て"
