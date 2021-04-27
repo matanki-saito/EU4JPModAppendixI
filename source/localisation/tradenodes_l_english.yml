@@ -77,7 +77,7 @@
  TRADE_MISSION_OFFICE_DESC:0 "交易から徴収することで資金を稼ぐことができます。交易首都ノード以外では、商人を駐在させている限り徴収できます。もし商人を召喚した場合、その交易ノードは交易力を送出するだけになります。"
  TRADE_MISSION_TRANSIT_DESC:0 "交易首都を有さない、交易力があるどのノードも中継ノードとなります。あなたの力はそこで交易の繋がり、交易価値を下流へ連鎖させるでしょう。"
  NON_CAPITAL_OFFICE_2:0 "非交易首都での交易からの徴収：$VAL$"
- ENVOY_TRADING_TRADE_MISSION_TRANSIT:0 "$NAME$は§Y$PROV$§Wの交易力を移しています。"
+ ENVOY_TRADING_TRADE_MISSION_TRANSIT:1 "$NAME$ is in §Y$FROMPROV$§W Transferring Trade Power to §Y$TOPROV$§W."
  ENVOY_TRADING_TRADE_MISSION_OFFICE:0 "$NAME$は§Y$PROV$§Wでの交易力を徴収しています。"
  MERCHANT_PRESENT:1 "商人の存在：§Y$VAL$§W"
  TRADE_POWER_PUSH_DESC:0 "交易力の§Y$VAL$§W%が下流ノードへ送るために使われています。"

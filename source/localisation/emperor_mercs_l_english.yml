@@ -24,7 +24,7 @@
  MERCENARY_COMPANY_MANPOWER_DELAYED:1 "傭兵は独自の人的資源から補充されます。利用可能な人的資源は雇用されている間ゆっくりと成長し、フィールドにいない間はより速く回復します。"
  MERCENARY_COMPANY_EFFECTS:0 "$COMPANY|Y$の伝統から：\n"
  REINFORCE_MERCENARY_COMPANY_EXTRA:0 "と$COMPANY|Y$の$VALUE$"
- MERC_COMP_MANPOWER_BASE:0 "最大人的資源$MP|Y$は、$VAL|Y$個連隊からなることより定まります。"
+ MERC_COMP_MANPOWER_BASE:0 "The Maximum Manpower of $MP|Y$ is due to $VAL|Y$ original regiments."
  MERC_COMP_MANPOWER_CHANGE:0 "$VAL|+=2%$によって修正されています：\n$WHY$"
  BUILD_UNIT_NOT_MERCENARY_COMPANY:0 "傭兵団にユニットを追加することはできません。"
  alert_mercenary_company_low_manpower_instant:1 "§Y傭兵団の人的資源が少ない§!"

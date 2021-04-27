@@ -507,3 +507,7 @@
  HEIR_fem:0 "女後継者"
  POPE_ELECTOR:0 "教皇・選帝侯"
  POPETTE_ELECTOR:0 "女教皇・選帝侯"
+ SISTERHOOD:0 "Sisterhood"
+ GRAND_SISTERHOOD:0 "Grand Sisterhood"
+ ABBESS:0 "Abbess"
+ MOTHER_SUPERIOR:0 "Mother Superior"

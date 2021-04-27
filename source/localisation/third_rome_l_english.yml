@@ -387,3 +387,5 @@
  patriarch_events.5.b:0 "この聖職者たちに耳を傾けねば。"
  veche_republic_legacy:0 "民会共和制"
  veche_republic_legacy_desc:0 "この国はヴェーチェと呼ばれる民会によって治められている。ヴェーチェとは司法と立法において最高権力を持つ評議会で、貴族と商人及び庶民を構成員とする。"
+ custom_governing_capacity_modifier:0 "Competent Leadership"
+ custom_governing_capacity_modifier_desc:0 "Some people are just better at leading other people, and thus can lead more people more efficiently."

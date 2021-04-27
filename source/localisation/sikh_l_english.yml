@@ -63,3 +63,5 @@
  sikhism_flavor.13.dnanaknolonger:0 "グルと呼ばれる男が[Root.GetName]に到着しました。彼は、故郷から遠く離れた土地へ旅立ち、唯一神の言葉を広げるという天からの啓示を受けたのだと言っています。\n\n彼の信者たちは、この神こそが [Root.Owner.Religion.GetName]を含む全ての宗教の神であると言い張り、ナーナクこそが信仰の真理を明らかにすると主張しています。しかしながら、これらの教えが我々の儀式や伝統を拒絶し、人々を[Root.Owner.Religion.GetName]の正しい道から逸脱させることは疑いようがありません。"
  sikhism_flavor.13.a:0 "彼らが税を支払う限りは、彼らが信じたいものを信じることができる。"
  sikhism_flavor.13.b:1 "この男を[Root.GetName]から追い出せ！"
+ guru_granth_sahib:0 "Guru Granth Sahib"
+ desc_guru_granth_sahib:0 "The final, sovereign and eternal Guru following the lineage of the ten human gurus of Sikhism."

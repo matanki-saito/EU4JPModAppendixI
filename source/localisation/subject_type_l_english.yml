@@ -20,7 +20,7 @@
  client_vassal_long_desc:0 "衛星国は、一般的な属国のように宗主国の戦争に付き従う必要があり、外交を制限されています。また、宗主国に対して収入の一部を献上しなければいけません。"
  daimyo_vassal_long_desc:0 "従属大名は将軍の戦争に付き従わなければなりません。外交の一部は行うことができず、収入の一部を献上しなければなりません。ただし、従属大名は他の大名と争うことができます。"
  client_march_long_desc:0 "衛星辺境伯は一般的な辺境伯のように宗主国へ収入を献上せず、一般的な属国よりもより多くの軍事力を保有することができます。"
- colony_long_desc:0 "植民地は宗主国の統治に従う植民国家です。植民地は宗主国に対し月々の関税を支払う必要があります。また一定量の交易力を供出しなければいけません。植民地は先住民国家もしくは他の植民地にのみ宣戦布告をすることができます。"
+ colony_long_desc:1 "A colony is a separate colonial state under the rule of their overlord. Colonies are required to pay a monthly tariff based on half of production and trade to their overlord and will submit $TRADE|0%$ amount of their trade power. Colonies can only declare war on primitives or other colonies."
  protectorate_long_desc:0 "保護国は宗主国によって守られており、交易力の半分を提供します。"
  personal_union_long_desc:0 "同君連合において、下位国は上位国の戦争に従う必要があり、外交の一部を制限されています。君主が崩御した際、その連合は続くときも解消されるときもありますが、時に下位国が上位国に継承され、併合されることがあります。"
  vassal_is_our:0 "$NAME|Y$は我が国の属国です。"

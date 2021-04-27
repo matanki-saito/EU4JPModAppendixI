@@ -1117,7 +1117,7 @@
  emp_ita_prosperity_for_all_tt:0 "少なくとも8の州が§Y繁栄§!している必要があります。"
  emp_ita_develop_the_south_tt:0 "§Y南イタリア§!に領有する5以上の州が§Y25§!以上の開発度を持っている必要があります"
  emp_ita_the_gallic_wars_tt:1 "§Yフランス§!地方において§Y50§!以上の州を自身、または非朝貢国である従属国が領有している"
- emp_ita_redeem_tirolo_tt:0 "§Yチロル§!地域を領有する"
+ emp_ita_redeem_tirolo_tt:1 "Own 4 provinces in the §YTirol§! area"
  emp_ven_aldine_monopoly_title:0 "アルドの独占"
  emp_ven_aldine_monopoly_desc:0 "印刷機はヴェネツィアに多くの新しい革新をもたらしており、それには、それが由来する地域にちなんで名付けられた傾斜した筆記体フォントである「イタリック体」、及びギリシャ語で書かれた作品の制作に独占権を与える初期の著作権保護が含まれている。これらの印刷の革新は、高貴なる共和国全体で新しいアイデアを生み出すのに役立つだろう。"
  emp_ven_plague_doctor_training_title:0 "ペスト医の訓練"
