@@ -2636,7 +2636,7 @@
  VASALLACCEPT_3:0 "またとない機会である、"
  VASALLACCEPT_4:0 "我々の属国になることを"
  VASALLACCEPT_5:0 "受諾しました。"
- VASALLACCEPT_6:0 "我々は彼らの毎月の税収入の半分を得ます。"
+ VASALLACCEPT_6:1 "We will now receive a portion of their tax incomes."
  VASALLACCEPT_LOG:0 "$RECIPIENT$は、現在我々の属国です。"
  VASALLACCEPT_BTN1:0 "素晴らしい！"
  VASALLACCEPT_BTN2:0 "素晴らしい！"

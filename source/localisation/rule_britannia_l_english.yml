@@ -441,7 +441,7 @@
  INNOVATIVENESS_AMOUNT:0 "我々は現在$AMOUNT|Y$の革新性を達成しています。"
  INNOVATIVENESS_CHANGE_DESC:0 "我々の革新性は以下によって補正されています：\n"
  INNOVATIVENESS_FULL_MOD_DESC:0 "\n§Y100§!の革新性の効果：\n$MOD$"
- INNOVATIVENESS_DESC:1 "革新性は以下により増加します：\n最初の技術：§G+2§!\n最初のアイデア：§G+1§!\n時代の先行：§G+0.005§!/月\n\n革新性は以下により減少します：\n隣国からの遅れ：§R-0.03§!/月\n"
+ INNOVATIVENESS_DESC:2 "Innovativeness can be increased by:\nFirst in Technology: $FIRSTINTECH|G$\nFirst in Idea: $FIRSTINIDEA|G$\nAhead of Time: $AHEADOFTIME|G$/month\n\nInnovativeness can be decreased by:\nBehind Neighbors: $BEHINDNEIGHBOURS|R$/month\n"
  INNOVATIVENESS_MOD_DESC:0 "\n我々の現在の革新性の効果：\n$MOD$"
  TECH_INNOVATIVENESS_DATE:0 "\n技術レベル$TECH|Y$に最初に到達したのは$DATE|Y$です。"
  TECH_INNOVATIVENESS_DAYS_LEFT:0 "さらに$DAYS|Y$日間利用可能です。"

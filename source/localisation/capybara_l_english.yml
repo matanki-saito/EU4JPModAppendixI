@@ -1,3 +1,7 @@
 ﻿l_english:
  INVITE_ACCEPTED_INGAME_TITLE:0 "マルチプレイに参加できない"
  INVITE_ACCEPTED_INGAME_DESC:0 "マルチプレイへの参加は、「メインメニュー」または「マッチメイキングメニュー」からのみ可能です。ゲームを再起動して、もう一度参加してください。"
+ NAME_INVALID_TITLE:0 "あなたの名前は無効です"
+ NAME_INVALID_DESC:0 "あなたの名前は無効です。空白及び特殊文字を使用した名前は使用できません。別の名前を選択してください。"
+ HAVE_LESS_FREE_EXPLORERS_THAN:0 "Have less free explorers than "
+ HAVE_MORE_FREE_EXPLORERS_THAN:0 "Number of free explorers at least "

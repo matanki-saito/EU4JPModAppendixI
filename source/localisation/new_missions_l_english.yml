@@ -1983,3 +1983,7 @@
  oceania_remove_euro_desc:0 "The invading Europeans are rapidly conquering Oceania, and are even expanding into our traditional homes. They must be driven back to their ships."
  oceania_sunset_invasion_title:0 "日沈む地からの侵略"
  oceania_sunset_invasion_desc:0 "The invaders have fled from our lands. But is that enough? At any time they might return with even more terrible force. Let us pursue them back to Europe itself."
+ colombia_holy_order_alternative_tooltip:0 "§Y25§! provinces owned by §Y[Root.GetName]§! or its subjects in §YColonial Colombia§! are §Y[Root.Religion.GetName]§!"
+ mexico_holy_order_alternative_tooltip:0 "§Y25§! provinces owned by §Y[Root.GetName]§! or its subjects in the §YMexico§! region are §Y[Root.Religion.GetName]§!."
+ native_reductions_alternative_tooltip:0 "§Y75§! provinces owned by §Y[Root.GetName]§! or its subjects in §YNorth America§! and §YSouth America§! are §Y[Root.Religion.GetName]§!."
+ port_jesuits_alternative_tooltip:1 "§Y20§! provinces in §YColonial Brazil§! owned by you or your non-tributary subjects are §Y[Root.Religion.GetName]§!."
