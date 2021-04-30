@@ -8126,7 +8126,7 @@
  GOTO_HOME:0 "本国の首都に移動"
  CONNECT_TO_SHIP_LOW_MORALE:0 "ユニットの士気が低下しています。"
  FE_IRONMAN_GAMENOTOK:0 "鉄人モードにはMODが導入されていない有効なEU4が必要です。"
- war_canoe:0 "War Canoe"
+ war_canoe:0 "戦闘用カヌー"
  BLOCKADE_POWER:0 "Blockade Power"
  LEDGER_BLPW:0 "Blockade"
  BLOCKADE_PENALTY_ALL:0 "All ports are blockaded"

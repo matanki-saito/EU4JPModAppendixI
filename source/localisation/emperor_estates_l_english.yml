@@ -322,7 +322,7 @@
  estate_brahmins_flexible_deities_revoke_tooltip:1 "この決断は§Y25§!の正統性を消費することで、§Y20§!年ごとに個人の主神を変更することを可能にします。"
  estate_maratha_levies:0 "徴兵の拡大"
  estate_maratha_levies_for_muslims:0 "マラーター動員数の増加"
- estate_maratha_levies_for_muslims_effect_tooltip:1 "Every owned province of §YHindu§! faith gains §Y'Increased Maratha Recruitment'§!, giving the following effects:\nLocal Manpower Modifier: §G+30.0%§!"
+ estate_maratha_levies_for_muslims_effect_tooltip:1 "§Yヒンドゥー教§!の領有州はすべて、§Y「マラーター徴兵の増加」§!を獲得し、以下の効果を得ます：\n州人的資源補正：§G+30.0%§!"
  estate_maratha_levies_for_muslims_revoke_tooltip:0 "§Y「マラーター動員数の増加」§!の補正は、領有する全ての§Yヒンドゥー教§!の州から取り除かれます。"
  estate_maratha_levies_for_muslims_mod:0 "マラーター動員数の増加"
  desc_estate_maratha_levies_for_muslims_mod:0 "国はマラーターの動員を増加させている。"

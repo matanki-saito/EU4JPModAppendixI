@@ -1497,7 +1497,7 @@
  parlaments.6.d:2 "[Root.Owner.GetParliamentWithGrammar]における議席はさておき、[Root.GetName]は海外との交易に関わる多くの有力な企業の中心地でもある。これらの多くは、現在議論されている問題が実施されることで、彼らが恩恵を受けると判断し、[Root.Owner.GetParliamentWithGrammar]の議員に対してそうなるよう圧力をかけているようだ。"
  parlaments.6.a:0 "素晴らしい！"
  parlaments.7.t:0 "[Root.GetName]は議論における姿勢を変える！"
- parlaments.7.d:2 "The army is in many ways the most influential internal force in [Root.GetName] and their loyalty to that organization has persuaded the Members of [Root.Owner.GetParliamentWithGrammar] from this seat to vote in favor of the current issue."
+ parlaments.7.d:2 "軍は多くの意味において[Root.GetName]の国内で最も影響力を持った勢力であり、組織に対する彼らの忠誠は、この議席から[Root.Owner.GetParliamentWithGrammar]の議員に対し、現在の問題に賛成票を投じるよう説得している。"
  parlaments.7.a:0 "素晴らしい！"
  parlaments.8.t:0 "[Root.GetName]は議論における姿勢を変える！"
  parlaments.8.d:2 "国の生産を最善の状態で保護する方法についての[Root.Owner.GetParliamentWithGrammar]における現在の議論は、[Root.GetName]の多くの人々の注目を集めている。提案された政策の恩恵を受けることを願って、[Root.Owner.GetParliamentWithGrammar]の議員たちは議論の中で我々を支持するようになった。"

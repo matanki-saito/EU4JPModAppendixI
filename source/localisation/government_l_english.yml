@@ -1,8 +1,8 @@
 ﻿l_english:
- native:1 "Native Tribe"
+ native:1 "先住民部族"
  native_desc:1 "This is a native tribe. It is ruled by a tribal council under the leadership of a chief."
- native_basic_reform:1 "Native Tribe"
- native_basic_reform_name:1 "Native Tribe"
+ native_basic_reform:1 "先住民部族"
+ native_basic_reform_name:1 "先住民部族"
  native_basic_reform_desc:0 "部族評議会は部族連合の首長によって指導される長老たちの集会のようなものである。"
  siberian_tribe:0 "シベリア部族評議会"
  siberian_tribe_desc:0 "シベリア議会は部族連合の首長によって指導される長老たちの集会のようなものである。"

@@ -1,5 +1,5 @@
 ﻿l_english:
- centralize_state:0 "Centralize State"
+ centralize_state:0 "ステートの集権化"
  CENTRALIZE_STATE_DESC:2 "§YCentralize State§!\nSpend $COST|Y$ of government progress to centralize the $STATE|Y$ in the most developed province, reducing it's governing cost by $REDUCTION|0Y$. It will take $YEARS|0Y$ years."
  CENTRALIZE_STATE_COST:0 "You don't have enough goverment progress"
  CENTRALIZE_STATE_TERRITORY:0 "You can only centralize a state, not a territory."
