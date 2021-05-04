@@ -12,7 +12,7 @@
  feudalism_reform_desc:0 "封建国家では、君主権力は従属を宣誓した貴族に支配される土地によって成り立っています。 貴族はしばしば自分の権利を持つ土地所有者であり、その地でかなりの影響力と臣下を持っています。"
  autocracy_reform:0 "専制政治"
  autocracy_reform_desc:0 "専制君主は自らに権力を集中させます。国家はしばしば個人的な財産とみなされます。 支配者が側近や奉仕者を持つことは珍しいことではありませんが、彼らは王家の一部とみなされます。"
- plutocratic_reform:0 "Eastern Plutocracy"
+ plutocratic_reform:0 "東方富豪政治"
  plutocratic_reform_desc:0 "富豪王国は君主が王国の富豪たちにより支えられている政体です。君主はしばしば成功した商業企業のトップであり、多くの支援者を持ちます"
  enforce_trader_privileges_reform:0 "商業特権の施行"
  enforce_trader_privileges_reform_desc:0 "国家と成功した商業企業との関係を強化することで、私たちは世界に広がるだけでなく、自国に持ち込む利益を増やすことができます。"

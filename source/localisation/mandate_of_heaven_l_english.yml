@@ -754,7 +754,7 @@
  shinto_events.57.d:0 "我々の積極的に独立性を主張し、幕府の陰謀に協力する代わりに地方の権威に頼っていくという政策により、我々は激しく独立した強力な大名としての名声を得た。我々の言葉は敬意を持たれ、我々の行動は、彼らの奉仕の限界を押し進めたいと願う日本の大名と国人の多くを共鳴させている。帝国の権威を積極的に損なうことによって、我々は急速に自身の権力基盤を構築している。"
  shinto_events.57.a:0 "行動は言葉よりも雄弁だ。"
  shinto_events.58.t:0 "阿弥陀仏"
- shinto_events.58.d:1 "Our long-standing support of the Ikko-Ikki has not been without friction and in many situations it is as if there are two parallel authorities in Japan. Still, the Ikko-Ikki would arguably not have come as far as they have without our protection according to many.\nWith times of civil strife behind us many expect us to elevate the leaders of the Ikko-Ikkis to high positions and make their faith more officially sponsored by the state. To many this would be a grave insult to our old traditions however..."
+ shinto_events.58.d:1 "我々の長年にわたる一向一揆の支持には、摩擦がなかったわけではなく、多くの場合、まるで日本に二つの権威が並立するような状況を生んでいる。それでも、一向一揆は、多くを与えてきた我々の保護なしには、おそらくここまで来ることはなかったであろう。\n我々の背後にある内乱の時代においては、多くが、一向一揆の指導者を高い地位に昇格させ、信仰を国家によって正式に後援することを期待している。多くの人にとって、これは我々の古い伝統に対する重大な侮辱である…"
  shinto_events.58.a:0 "いや、我々は祖先の代からの伝統に背を向けることはできない。"
  shinto_events.58.b:1 "南無阿弥陀仏。彼らの信念を受け入れ、我が国の法制度に記すべきだ。"
  MAX_TRIBUTE_REACHED:0 "\n毎年$AMOUNT|Y$ $SYMBOL$以上の貢物を支払うことはできません。"
