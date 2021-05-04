@@ -4,10 +4,13 @@
 name: Python application
 
 on:
-  push:
-    branches: [ master ]
   schedule:
     - cron:  '30 17 * * tue,fri'
+  workflow_dispatch:
+    inputs:
+      name:
+        description: 'Description'
+        required: false
 
 jobs:
   build:
