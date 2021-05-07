@@ -919,7 +919,7 @@
  can_become_hegemon_type:0 "You can become the $TYPE|Y$."
  ESTATE_AGENDA_TASK_FAIL_CRITERIA:0 "Will fail if the following is fullfilled:\n$CONDITIONS$\n\n"
  CLOSE_MACROBUILDER_TO_USE:0 "You cannot access custom map modes while the macrobuilder is open. Close the macrobuilder to re-enable these."
- KNOWLEDGE_SHARING_ECOVIEW:0 "Knowledge Sharing"
+ KNOWLEDGE_SHARING_ECOVIEW:0 "知識共有"
  TRADE_FAVORS_FOR_GOLD_DIPLO_ACTION:0 "Trade Favors For Ducats"
  TRADE_FAVORS_FOR_MEN_DIPLO_ACTION:0 "Trade Favors For Soldiers"
  TRADE_FAVORS_FOR_SAILORS_DIPLO_ACTION:0 "Trade Favors For Sailors"
