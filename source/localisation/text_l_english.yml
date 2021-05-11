@@ -7769,7 +7769,7 @@
  ND_CONFIRM_ABORT_DESC:0 "本当に§Y$NAME$§!を削除しますか？"
  ND_NEW:0 "新"
  ND_TRADITIONS:0 "伝統"
- ND_AMBITION:0 "野望"
+ ND_AMBITION:0 "宿願"
  ND_POINTS:0 "消費点"
  ND_CONFIRM_CHANGE_DATE_TITLE:0 "警告！"
  ND_CONFIRM_CHANGE_DATE_DESC:0 "開始日を変更するとあなたによってデザインされたカスタム国家はすべて削除されます。\n本当に実行してもよろしいですか？"
