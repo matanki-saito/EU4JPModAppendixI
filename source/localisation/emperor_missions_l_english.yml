@@ -681,7 +681,7 @@
  emp_bur_league_of_public_weal_effect_tooltip:1 "§Y[This.GetName]§!はフランス地方で§Yフランス§!によって領有されている全ての州に対する恒久的な請求権を得ます。"
  emp_bur_king_of_the_franks_title:0 "フランクの王"
  emp_bur_king_of_the_franks_desc:0 "我々はフランス国王の権力を打ち壊し、彼の称号と領土を自身のために獲得しなければならない。"
- emp_bur_king_of_the_franks_effect_tooltip:0 "§Y50§!以上の独立欲求を持つフランス地方の全ての§Yフランス§!の属国は§Y[Root.GetName]§!の属国となります。"
+ emp_bur_king_of_the_franks_effect_tooltip:1 "All vassals of §YFrance§! in the France region become vassals of §Y[Root.GetName]§!."
  emp_bur_influence_the_princes_title:0 "諸侯への影響力"
  emp_bur_influence_the_princes_desc:0 "過去において、我々は帝国の部外者であった。これは変わらなければならない。我々は帝国諸侯の地位を向上させるため、一丸となって努力する必要がある。"
  emp_bur_influence_the_princes_trigger_tooltip:1 "下記の神聖ローマ帝国加盟国：\n      §Y[Root.GetName]§!の評価が§Y60§!以上である。"
