@@ -1136,7 +1136,7 @@
  expansionist_country:0 "拡張政策"
  desc_expansionist_country:0 "我々の新たな領地の急速な統合は、我々に支配の尊重と価値ある教訓の両方をもたらした。"
  army_enthusiasm:0 "陸軍への熱意"
- desc_army_enthusiasm:1 "Our willingness to invest in the creation of standing armies have led to a wave of enthusiasm for the army. Many are seeking army careers both among commoners and the more well to do and our recruiters now have the luxury of choice where they might in the past have had to accept whoever was interested."
+ desc_army_enthusiasm:1 "常備軍の創設に投資する我々の意欲により、軍隊に対する熱意が波及している。身分を問わず軍隊経歴を求めており、我々の採用担当者は、かつては希望する人を受け入れていたが、今では選択の余地がある。"
  hegemonic_ambition:0 "覇権への野望"
  desc_hegemonic_ambition:0 "我々の領土拡張と自国の疑う余地のない指導力は、国際的な尊敬と国内の団結の強化へ繋がっている。"
  influential_diplomacy:0 "影響力のある外交官"

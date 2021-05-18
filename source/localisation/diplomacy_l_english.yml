@@ -688,7 +688,7 @@
  REDUCED_BADBOY:0 "侵略的拡大の減少："
  AGGRESSIVE_EXPANSION_TITLE:0 "侵略的行為は他の国に基本値で$VAL$増加させます。"
  AGGRESSIVE_EXPANSION_FACTOR:0 "侵略的拡大補正："
- PEACE_EFFECTS_BADBOY:2 "With $THE$$CASUS$ Casus Belli, $ACTIVE$ suffers a maximum of $BADBOY$ Aggressive Expansion relations penalty."
+ PEACE_EFFECTS_BADBOY:2 "開戦事由$THE$$CASUS$により、$ACTIVE$は$BADBOY$を最大値とする侵略的拡大の関係ペナルティを受けます。"
  PEACE_DEFENDER_EFFECTS_BADBOY:1 "$ACTIVE$は防衛側のため、$BADBOY$を基本値とする侵略的拡大の関係ペナルティを受けます。"
  ENFORCE_PEACE_INVALID_TARGET:0 "$WHO$と$TARGET$のように、戦争における非主戦国家同士に対して、和平を強制することはできません。"
  ENFORCE_PEACE_INVALID_TARGET_NOT_WAR:0 "$WHO$と$TARGET$は戦争中ではないため和平を強制することはできません。"
