@@ -1579,7 +1579,7 @@
  alert_pick_church_aspect_delayed:1 "あなたは新たな$ASPECT_LONG|Y$を選択するのに十分な§Y教会権力§!を持っています。"
  CONTINUE_FAILED_TITLE:0 "続行に失敗！"
  CONTINUE_FAILED_DESC:0 "最後のセーブからの続行に失敗しました。これは以下が原因である可能性があります：\n*セーブデータが壊れている\n*セーブが必要なDLCが有効でない\n*セーブが現在のバージョンのゲームで行われていない\n*セーブが鉄人モードであり、実績を防止するため、あなたのゲームが変更されている"
- CULT_HELP_DESC:1 "New Cults can be gained by bordering $RELIGION$ nations with Cults adopted and interactions with nations of other religions."
+ CULT_HELP_DESC:1 "新しいカルトは、カルトを採用している$RELIGION$の国と接したり、他の宗教の国々との交流によって得ることができます。"
  ND_RANDOM_PERSONALITY:0 "ランダムな個性"
  ND_RANDOM_PERSONALITY_DESC:0 "ランダムな個性はゲーム開始時に選択されます。"
  alert_can_intervene_in_war_instant:0 "§Y他の列強間の戦争に介入可能§!"
