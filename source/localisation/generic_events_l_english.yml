@@ -4400,7 +4400,7 @@
  culture_religion_events.23.d:0 "我々の[Root.Monarch.GetTitle]が王位に就いて以来、我々は我が国に移住する[Root.new_monarch_culture.GetCultureName]の移民たちの流入の増加を見てきた。これらは、我々の[Root.GovernmentName]にある機会に惹きつけられた、さまざまな職業及び地位の人々である。特に[cultural_migration_province.GetName]の州は、このような移民が多く暮らす中心地となっている。"
  culture_religion_events.23.a:0 "我々の同胞たちを歓迎しよう。"
  culture_religion_events.23.b:0 "少しでも我らの臣民にそれらを広めるのだ。"
- EVTDESC4021:1 "$PHILOSOPHER$は確かに当時の最前線の哲学者の一人に違いない。[Root.Adm_Advisor.GetSheHeCap]は、おそらく[Root.Adm_Advisor.GetHerHis]哲学的経験主義と懐疑論として最もよく知られている。[Root.Adm_Advisor.GetSheHeCap]は、経験を超える知識があるはずがない、故に現実論はあり得ないと結論を下した。"
+ EVTDESC4021:1 "$PHILOSOPHER$は確かに当時の最前線の哲学者の一人に違いない。[Root.Adm_Advisor.GetSheHeCap]は、おそらくその哲学的経験主義と懐疑論が最もよく知られている。[Root.Adm_Advisor.GetSheHeCap]は、経験を超える知識があるはずがない、故に現実論はあり得ないと結論を下した。"
  EVTDESC700:1 "$MONARCH$の任期が満了する。十分な支援があれば、[Root.Monarch.GetSheHe]は職にとどまることができるが、[Root.Monarch.GetSheHe]は[Root.Monarch.GetHerHis]と対立する3人の主要な競争相手を倒す必要がある…"
  random_event.EVTNAME2:1 "植民地の新興文化"
  random_event.EVTDESC2:1 "時が経つにつれ、以前の故郷と植民地の間のつながりは弱くなる。[american_province.GetName]の定居者たちは、もはや彼ら自身の祖先の故郷に自身を関連付けることはほとんどない。彼らは現在、自身をアメリカ人とみなすことを好んでおり、この感情は[american_province.GetAreaName]中に広がり始めている。"
