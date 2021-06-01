@@ -541,7 +541,7 @@
  protestantism_events.15.d:0 "[Root.Monarch.GetName]がカトリック信仰の偉大な理解者であることは秘密ではなく、おそらくそれは国教会の聖職者が望んでいた以上のものであっただろう。それにもかかわらず、[Root.Monarch.GetHerHis]の戴冠式は人気のある行事であり、人々は新しい支配者を支持しているようだ。間違いなく、外国の信仰の理解は、プロテスタント王国の支配者にとってうまくいくだろうし、隠れカトリックの[Root.Monarch.GetName]を非難する者はほとんどいないだろう。"
  protestantism_events.15.a:0 "[Root.Monarch.GetName]万歳！"
  tolerant_monarch:0 "寛容な君主"
- desc_tolerant_monarch:0 "我々の支配者は他の信仰や宗教的少数派への偉大な理解のために知られており、彼らは彼の治世では、別の治世では決して得られなかったであろう特権を享受している。"
+ desc_tolerant_monarch:0 "我々の支配者は国内の異教徒や異端に対して慈悲深いことで知られており、彼らは他の治世では決して得られなかったであろう特権を享受している。"
  protestantism_events.16.t:0 "[Root.Monarch.GetName]の良心"
  protestantism_events.16.d:0 "年が経過し、[Root.Monarch.GetName]は公平で公正な支配者であることが証明された。聖職者は突然のカトリックのクーデターを恐れることはなく、カトリック教徒の憎しみは、[Root.Monarch.GetName]が宗教を理解することによって改善された。\nしかし、[Root.Monarch.GetName][Root.Monarch.GetHerselfHimself]は問題を抱えている。年月が経つにつれて、[Root.Monarch.GetSheHe]は、独断的な[Root.GetName]の国教会ではなく、[Root.Monarch.GetSheHe]が保護するために非常に多くを行ったカトリック教徒により近いところに[Root.Monarch.GetHerHis]の個人的信仰があることを認識するようになった。"
  protestantism_events.16.a:0 "個人的な退位が唯一の解決策だ。"
