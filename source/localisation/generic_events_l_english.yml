@@ -2574,7 +2574,7 @@
  EVTOPTB6341:0 "たぶん、我々は少しを与えることができるだろう。"
  EVTNAME6400:0 "植民地の拡大"
  EVTDESC6400:2 "我々の辺境地がまだ請求されていないまま、入植者の大規模な一団が宮廷に到着し、既にある植民地努力から独立した植民地の設立許可を要求している。彼らは[Root.Owner.Monarch.GetTitle]の名で[wanderer_province.GetName]を主張し、[Root.Owner.GetAdjective]の支配権を地域に確立し始めることを望んでおり、そのためのわずかな財政支援だけを求めている。"
- EVTOPTA6400:0 "さて、彼らを止める私だろうか？"
+ EVTOPTA6400:0 "まあ、彼らを止める権利などなかろう？"
  EVTNAME6401:0 "植民地の移住"
  EVTDESC6401:1 "驚いたことに、多くの入植者は[Root.GetName]が植民地には適さない場所であると判断し、代わりに[migration_province_target.GetName]の我々の入植地への移住を始めている。[Root.Owner.GetAdjective]の村や町が[migration_province_target.GetAdjective]の後背地にすでに出現し始めていることで、現在、それらを止めるためにできることはほとんどない。"
  EVTOPTA6401:0 "近頃は人に絶えず注意しているのは難しい。"

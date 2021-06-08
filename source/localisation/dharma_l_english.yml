@@ -971,5 +971,5 @@
  jains_estate_events.3.a:0 "Accept"
  mechanic_raze_province_yes:0 "Can Raze Provinces"
  mechanic_raze_province_no:0 "Can NOT Raze Provinces"
- NO_CARPET_SIEGE_MOVING:0 "§RYou cannot manage Carpet Sieging while moving§!\n"
+ NO_CARPET_SIEGE_MOVING:0 "§R移動中に絨毯占領は使用できません§!\n"
  COT_NOT_ENOUGH_DEVELOPMENT:0 "§RUpgrading to a $UPGRADE_NAME|Y$ requires $NEED$ development, but this province only have $CURR$"

@@ -4823,7 +4823,7 @@
  desc_nah_pueblo_merchants:0 "Our trade relationships are now more efficient."
  flavor_nah.5.t:1 "A Moment of Reflection"
  flavor_nah.5.d:1 "Many guests have come today to our village. People from nearby settlements have been invited to one of the most important events in our culture. A great assembly is going to be held this morning, and twenty four of our greatest leaders are going to gather to reach a consensus on the government of our exceptional nation.\nHalf of them we have seen in war, victoriously striking down our enemies, commanding our warriors; the other half, we have seen in peace, wisely guiding our people towards growth and prosperity. Together, today they will make an important decision on our tribe's future."
- flavor_nah.5.a:0 "We must prepare for war."
+ flavor_nah.5.a:0 "戦争に備えねば。"
  flavor_nah.5.b:0 "We shall embrace this time of peace."
  opinion_naachid:0 "Held an Assembly"
  flavor_nah.6.t:0 "Comanche Raiders"
