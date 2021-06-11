@@ -2004,7 +2004,7 @@
  itm_merchant_princes_desc:1 "我々の経済力の高まりにも関わらず、我々の商人たちは依然として地元の交易網に足掛かりを見つけるのに苦労している。我々の交易商の大義を促進することは、我々の商取引を強化し、我々のような商人をより多く作り出すだろう。"
  itm_princely_rule_title:0 "君主の支配"
  itm_princely_rule_desc:0 "隣国と外交を行い、友好関係を築くことで、我々の国民は、我々の政府を他の国々が真剣に受け止めていることを感じ取り、我々の支配と法に対する彼らの尊敬は高まるだろう。"
- itm_princely_rule_marriage:0 "§Y2§!つの同盟国が§Y[Root.GetName]§!との王室間の婚姻を持っている必要があります。"
+ itm_princely_rule_marriage:0 "§Y2§!つの同盟国が§Y[Root.GetName]§!と王室間の婚姻を結んでいる"
  itm_princely_rule_relations:2 "§Y2§!つの同盟国が§Y[Root.GetName]§!の評価で§Y150§!以上を持っている必要があります"
  itm_educated_court_title:0 "教育された宮廷"
  itm_educated_court_desc:0 "賢明な君主はお世辞を軽蔑し、賢明な助言にこそ耳を傾ける必要がある。しかし、そのような助言のためには賢明な助言者が必要であり、我々にはまださらにいくつかのそれが必要である。"

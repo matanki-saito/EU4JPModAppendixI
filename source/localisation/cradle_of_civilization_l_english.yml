@@ -729,7 +729,7 @@
  mamluk_events.0.c:0 "[third_ruler_alternative_province.Culture.GetName]の候補者が、我々の支援を得る。"
  mamluk_events.0.dd:0 "最良の選択肢は[Root.Capital.GetCapitalName]の集団との繋がりがない人物だ。"
  mamluk_events.1.t:0 "[not_ruling_culture_province.Culture.GetName]の兵士たち"
- mamluk_events.1.d:1 "While Mamluks make up the core of our forces not all of our military might consists of warrior slaves. Local [not_ruling_culture_province.Culture.GetName] soldiers make up much of our infantry and they are also used for guard and garrison duties.\nSmall chances of advancement and low pay aren’t the best motivators however and it is not clear how far we can trust these men. Certainly their training and equipment are often neglected by the Amir in charge of them.\nIn [not_ruling_culture_province.GetAreaName] the mistrust between the [not_ruling_culture_province.Culture.GetName] and Mamluk Amirs have led to a mutiny."
+ mamluk_events.1.d:1 "マムルークが軍隊の中核を占める一方で、軍隊のすべてが奴隷の戦士たちで構成されているわけではない。[not_ruling_culture_province.Culture.GetName]の兵士は我々の歩兵の多くを占め、警護や守備隊の任務にも利用されている。\n少ない昇進の機会と低賃金は、しかし、最良の動機づけとはなっておらず、これらの兵士たちをどれだけ信頼できるか明らかではない。確かに彼らの訓練と装備は、多くの場合、彼らを任されたアミールによって無視されている。\n[not_ruling_culture_province.GetAreaName]においては、[not_ruling_culture_province.Culture.GetName]とマムルークのアミールの間の不信が反乱へとつながっている。"
  mamluk_events.1.a:0 "揺籃期において、我々はこれを鎮圧する必要がある！"
  mamluk_events.1.b:0 "彼らの状況を改善するために何ができるかを見てみよう。"
  mamluk_events.2.t:0 "タルフと王室の独占"
