@@ -31,7 +31,7 @@
  ICON_TRIBUTARY:0 "彼らの§Y朝貢国§!となるよう提案されました。"
  ICON_ASK_TRIBUTARY:0 "彼らの§Y宗主国§!となるよう提案されました。"
  TRIBUTARY_MISSION_WAR_NAME:0 "$ORDER$$FIRST$の$SECOND_NAME$朝貢国化戦争"
- cb_force_tributary:0 "朝貢国化を強要"
+ cb_force_tributary:0 "朝貢国化の強制"
  cb_force_tributary_desc:0 "奴らを力づくで朝貢国にしよう。"
  CB_ALLOWED_TRIBUTARY:0 "朝貢国化を強要"
  CONFIRM_SEND_TRIBUTE_TITLE:0 "年間の貢ぎ物を確認"
