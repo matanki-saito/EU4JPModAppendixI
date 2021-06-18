@@ -124,7 +124,7 @@
  LOGIN:0 "ログイン"
  CREATEACCOUNT_CONDITIONS_TEXT:0 "「アカウントの作成」をクリックすることにより、あなたが利用規約及びプライバシーポリシーを読み、その内容を理解し同意したことを確認します。"
  LINK_ACCOUNTS_TITLE:0 "アカウントをリンク"
- LINK_ACCOUNTS:0 "やあ！我々はあなたがSteam経由でプレイしていることに気付きました。 あなたのSteamアカウントをParadoxアカウントにリンクすると、ゲームを開始するたびにParadoxアカウントに自動的にログインできます。"
+ LINK_ACCOUNTS:0 "やあ！我々はあなたがSteam経由でプレイしていることに気付きました。あなたのSteamアカウントをParadoxアカウントにリンクすると、ゲームを開始するたびにParadoxアカウントに自動的にログインできます。"
  LINK_ACCOUNTS_DONT_REMIND:0 "再度通知しない\n（引き続きParadoxのWebサイトでアカウントをリンクできます）"
  SKIP_LINK_ACCOUNTS:0 "リンクをスキップ"
  AGREE_LINK_ACCOUNTS:0 "アカウントをリンク"

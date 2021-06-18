@@ -187,7 +187,7 @@
  curtail_prussian_confederation_desc:0 "手に負えない状況に陥らないよう、プロシア連合を終わらせねばならない。宥和政策か抑圧政策かどちらが正しい道かを決断せねばならない。"
  curtail_prussian_confederation.tooltip:0 "§Yプロシア連合が我々に対して立ち上がることはないでしょう。§!"
  restore_mongol_empire_title:0 "モンゴル帝国の復興"
- restore_mongol_empire_desc:0 "チンギス・ハーンの帝国は崩壊し、多くの国家に分裂した。 大ハーンの征服を再現することにより、彼の遺産を復元せねばならない。我々はモンゴル帝国を取り返すだろう！"
+ restore_mongol_empire_desc:0 "チンギス・ハーンの帝国は崩壊し、多くの国家に分裂した。大ハーンの征服を再現することにより、彼の遺産を復元せねばならない。我々はモンゴル帝国を取り返すだろう！"
  mongolia_decision_tooltip:0 "§Y[Root.GetName]§!がモンゴル地域の植民地化された州を全て領有する。"
  restore_ilkhanate_decision_march_title:0 "イルハン朝の復興"
  restore_ilkhanate_decision_march_desc:0 "大カンがはるか昔にしたように、我々は広大な帝国を支配する負担を軽減するため、ペルシアを下位のカンに委任すべきである。"

@@ -112,6 +112,6 @@
  desc_rapid_collapse_of_society:0 "欧州勢力との最初の接触の結果起きた伝染病は我々の国を荒廃させている。かつてない死者と病人の数の増加は、我々の国家の秩序や規律、全体の組織の崩壊を引き起こしている。"
  rapid_collapse_of_society_tooltip:0 "ヨーロッパ人の持ち込んだ病気は25年以下、[Root.GetName]を苦しめた。"
  tooltip_center_of_trade_spread:2 "州がレベル2以上の交易中心地である"
- tooltip_province_protestant_RB:0 "州がプロテスタント、聖公会、改革派 のいずれかである"
+ tooltip_province_protestant_RB:0 "州がプロテスタント、聖公会、改革派のいずれかである"
  tooltip_owner_protestant:2 "交易会社でなく、国教がプロテスタント、聖公会または改革派"
  desc_birthplace_of_the_renaissance:0 "この州はルネサンスの中核で、今でもその発祥によって恩恵を受けている。"
