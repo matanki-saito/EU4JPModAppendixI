@@ -995,7 +995,7 @@
  IF_COLONY_SIZE_IS_X:0 "植民地が$SIZE|Y$以上の州を持つ場合："
  active_religious_turmoil:0 "Religious Turmoil"
  CONTINUE_BUTTON_STATS:0 "Return to Game"
- CONDOTTIERI_OFFER_ALLIANCE:0 "§R- You cannot rent out Condottieri to a nation that is at war with a nation that you have an Alliance with.§!"
+ CONDOTTIERI_OFFER_ALLIANCE:0 "§R- あなたが同盟を結んでいる国と戦争中の国へコンドッティエーリを貸し出すことはできません。§!"
  HAVE_CONDOTTIERI_WITH:0 "You cannot make an Alliance with a nation that you have Condottieri fighting."
  CANNOT_BUILD_SUPPLY_DEPOT_AT_SEA:0 "It would be crazy to drop a supply depot in the sea."
  CANNOT_AFFORD_GURU_COST:0 "You cannot afford the $POW|Y$ $TYPE$ power needed for this Teaching."

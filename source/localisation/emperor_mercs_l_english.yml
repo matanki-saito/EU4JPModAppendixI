@@ -6,7 +6,7 @@
  MERC_NOT_IN_RANGE_FOR_US_TO_HIRE_IN:0 "\n§Rここは傭兵を雇用できる範囲外です。§!"
  DISBAND_MERC_DRO:1 "傭兵団を解散させると、人的資源が回復する$DATE|Y$になるまで雇用することができません。"
  MACRO_HIRE_MERCENARY_COMPANY:0 "傭兵団"
- MACRO_HIRE_MERCENARY_COMPANY_INFO:0 "- 貴殿らフランス人は金のために戦うが、我らイギリス人は名誉のために戦うのだ。\n- ええ、人というのは己が最も欠いているもののため戦うものです。\n -- Robert Surcouf"
+ MACRO_HIRE_MERCENARY_COMPANY_INFO:0 "- 貴殿らフランス人は金のために戦うが、我らイギリス人は名誉のために戦うのだ。\n- ええ、人というのは己が最も欠いているもののため戦うものです。\n -- ロベール・スルクフ"
  MERCENARY_COMPANY_NOT_AVAILABLE_ANYMORE:0 "選択した傭兵団はもう利用できません。"
  MERCENARY_COMPANY_ALREADY_HIRED:0 "$COMPANY|Y$は既に雇用されています！"
  MERCENARY_COMPANY_NOT_AVAILABLE_UNTIL:1 "$COMPANY|Y$は今は人的資源の回復中であり、$DATE|Y$になるまで再び利用できません。"
