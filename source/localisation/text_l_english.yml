@@ -7019,7 +7019,7 @@
  CB_ALLOWED_ANNUL:0 "条約の破棄"
  PEACE_ANNUL:0 "条約を破棄する"
  TRUCEWITHMASTERDESC:0 "我々は停戦している間、彼らとの間でいかなる条約にも署名することはできません。"
- EXCOM_TARGET_HIGH_REL2:0 "教皇領は（$CURR$）での彼らに対する評価が非常に良好であり、$WANT$以下にする必要があります。"
+ EXCOM_TARGET_HIGH_REL2:0 "教皇領の彼らに対する評価は（$CURR$）と非常に良好であり、$WANT$以下である必要があります。"
  EXCOM_TARGET_HIGH_REL:0 "彼らは教皇領と非常によい関係を持っています。"
  EXCOM_TARGET_HIGH_INF:0 "彼らは非常に高い教皇への影響力を持っています。"
  non_accepted_culture_republic:0 "共和国の文化の許容"
