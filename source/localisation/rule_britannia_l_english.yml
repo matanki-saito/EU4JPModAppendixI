@@ -453,7 +453,7 @@
  MODIFIER_INNOVATIVENESS_GAIN:0 "革新性の増加"
  CHANGE_ASPECT_COST:0 "$COST|Y$の教会権力コスト"
  COMPLETE_MISSION_EFFECT:0 "報酬のないミッションの$MISSION|Y$を完了しました"
- island_provinces_tooltip:0 "ストックホルム、パナマあるいはグーグ・イミディルに直接土地が繋がっていないすべての州を所有するか、あるいはそれを所有する非朝貢国である従属国を持っている。"
+ island_provinces_tooltip:0 "ストックホルム、パナマあるいはグーグ・イミディルに直接土地が繋がっていないすべての州を領有するか、あるいは領有する従属国（非朝貢国）を持っている。"
  CLICK_TO_CENTER_HIGHLIGHTED:0 "クリックすると画面中央に表示"
  HAVE_THE_ACTIVE_PROVINCE_MODIFIER:0 "州補正が有効"
  DONT_HAVE_THE_ACTIVE_PROVINCE_MODIFIER:0 "州補正が無効"

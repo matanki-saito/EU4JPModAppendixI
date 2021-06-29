@@ -200,7 +200,7 @@
  center_of_revolution.3000.desc.no_last_rev:0 "[revolution_center.GetCapitalName]で最初に表現された革命思想によって生み出された動きは、人々の状況を実質的に変えるという彼らの目的に失敗した。かつて根本的な変化を求めていた人々は、今では古い格言に甘んじている。「変われば変わるほど、その根本は同じであり続ける。」"
  center_of_revolution.3000.desc.never_rev:0 "[revolution_center.GetCapitalName]で支持された革命思想は、人々の状況を実質的に変えるのに十分な力を発揮することはできなかった。彼らがかつて計画していた、彼らが国家を打倒することに失敗したことで彼らが生み出した運動である。かつて根本的な変化を求めていた人々は、今では古い格言に甘んじている。「変われば変わるほど、その根本は同じであり続ける。」"
  center_of_revolution.3000.A:0 "良い厄介払いだ！"
- center_of_revolution.3000.A.tt:0 "§Y革命の理想が全ての州から取り除かれます。§!"
+ center_of_revolution.3000.A.tt:0 "§Y革命の理想がすべての州から取り除かれます。§!"
  center_of_revolution.3000.A.tt2:0 "§Yすべての革命の中心地は取り除かれます。§!"
  center_of_revolution.3000.B:0 "悲しい日だ。"
  disaster_active_for_20_years_tooltip:0 "国難は20年間有効です。"

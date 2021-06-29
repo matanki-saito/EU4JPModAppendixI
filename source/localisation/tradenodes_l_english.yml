@@ -123,7 +123,7 @@
  TRADE_MISSION_SORT:0 "商人のミッションで並べ替えます。"
  TRADE_MISSION_SORT_DELAYED:0 "あなたの交易商は、資金を集めるか、下流の収集地点へ送金するか、上流の収集地点へ送金することができます。"
  TRADE_INCOME_MOD_SORT:0 "収入補正で並べ替えます。"
- TRADE_INCOME_MOD_SORT_DELAYED:0 "州が実際に集める収入の補正"
+ TRADE_INCOME_MOD_SORT_DELAYED:0 "ステートが実際に集める収入への補正"
  TRADE_CURRENT_POWER_SORT:0 "現在の交易力で並べ替えます。"
  TRADE_OUR_CURRENT_POWER_SORT:0 "我々の現在の交易力で並べ替えます。"
  TRADE_TOTAL_POWER_SORT:0 "総交易力で並べ替えます。"
