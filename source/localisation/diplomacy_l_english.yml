@@ -577,7 +577,7 @@
  BUILDSPYNETWORK_LONG_DESC_1_SUBJECTS:0 "$COUNTRY|Y$とその従属国（$SUBJECTS$）内にスパイや情報提供者のネットワークを構築するために外交官を送りますか？"
  BUILDSPYNETWORK_LONG_DESC_2:0 "彼らは我々の諜報網規模を毎月$AMT|G$増加させます。\n\n我々の諜報員が活動中で諜報網規模が§Y25§!を超えている場合、発見される可能性が毎月§R$RISK$%§!あります。発覚すれば、対象国との関係が悪化し、諜報網規模は縮小され、しばらくの間規模の成長が妨げられます。"
  CANCEL_BUILDSPYNETWORK_LONG_DESC:0 "$COUNTRY|Y$において諜報網構築と情報収集を行っている諜報員を呼び戻しますか？我々の諜報網は構築を停止している間、規模が徐々に減衰します。"
- COUNTERESPIONAGE_OUTLINER:0 "$NAME$は$PROV|Y$（$COUNTRY|Y$）で防諜活動を行っています。これは彼らが我々へ送っている諜報員を発見する確率を$AMT$増加させます。"
+ COUNTERESPIONAGE_OUTLINER:0 "$NAME$は$PROV|Y$（$COUNTRY|Y$）で防諜活動を行っています。これは彼らが送り込んでいる諜報員を発見する確率を$AMT$増加させます。"
  COUNTERESPIONAGE_NO_SUBJECT:1 "我々は従属国であるため防諜活動を行えません。"
  COUNTERESPIONAGETITLE:0 "防諜活動"
  COUNTERESPIONAGE_DESC:0 "対象国で防諜活動を行う外交官を送ります。"
