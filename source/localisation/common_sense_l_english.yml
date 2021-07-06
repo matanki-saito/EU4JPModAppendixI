@@ -1656,7 +1656,7 @@
  NUM_CUSTOM_NATION_PROVINCES_AT_LEAST:0 "州の数が右記以上："
  CANNOT_ADD_CUSTOM_NATIONS_TO_IRONMAN:0 "§R鉄人モードのセーブゲームにカスタム国家を追加することはできません。§!"
  no_possible_rivals:0 "有効なライバルはありません"
- TRANSFER_OCCUPATION_TITLE:0 "占領の転送"
+ TRANSFER_OCCUPATION_TITLE:0 "占領の移管"
  CANT_BUILD_IN_OCCUPIED:0 "この建築枠は空いていますが、州が占領されているため、建設することはできません。"
  FORT_FLIPPING:2 "$PROV$の支配は$FORT$の要塞によって$FLIPPER$に戻されています。進捗は$PERCENT|Y$%です。"
  FORT_FLIPPING_SLIPPING:0 "$PROV$の支配は再び$FLIPPER$から離れます。進捗は$PERCENT|Y$%です。"
