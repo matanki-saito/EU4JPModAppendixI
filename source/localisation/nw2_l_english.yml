@@ -12,7 +12,7 @@
  PUE_ideas_start:0 "プエブロの伝統"
  PUE_ideas_bonus:0 "プエブロの宿願"
  ancient_pueblo_legacy:0 "プエブロの遺産"
- ancient_pueblo_legacy_desc:0 "すでに入植者たちが、この地域に移住し入植地を建設しています。私たちは彼らを忘れたり見捨てたりなどしません。"
+ ancient_pueblo_legacy_desc:1 "For aeons already, our people have lived and built settlements in this region. Our Elders have a rich story to tell."
  adobe_architecture:0 "アドベ製建築"
  adobe_architecture_desc:0 "乾燥した泥を建築材料として使うことで、固く耐久性のある入植地を建設できます。"
  mesa_settlements:0 "卓上台地入植地"
@@ -440,3 +440,4 @@
  religious_events.18.g:0 "[Root.Monarch.GetTitle]が新教会を導く。"
  religious_events.18.h:0 "フスの教えに従おう"
  religious_events.20.b2:0 "大乗仏教の経典から学ぼう"
+ PROV_ADJ2025:0 "ジョージア"

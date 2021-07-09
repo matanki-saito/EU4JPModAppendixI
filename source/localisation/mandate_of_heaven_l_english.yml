@@ -366,7 +366,7 @@
  MACRO_NO_VALID_DIPLO_ACTIONS:0 "あなたは$CATEGORY$を実行することはできません。"
  ADD_TRUST_EFFECT:0 "§Y$TOWARDS$§!に対する信頼度が$VAL$追加されます\n"
  ADD_TRUST_EFFECT_NEG:0 "§Y$TOWARDS$§!に対する不信度が$VAL$追加されます\n"
- CANCEL_REVOKE_CONDOTTIERI_TITLE:0 "コンドッティエーリのキャンセル/取り消し"
+ CANCEL_REVOKE_CONDOTTIERI_TITLE:0 "コンドッティエーリの中止/取り消し"
  TRIBUTE_INTERACTION:0 "我々の宗主国$OVERLORD|Y$は我々に対して毎年貢物を支払うよう要求できます。"
  TRIBUTE_NOT_ENOUGH_DEV:0 "§Y1§!の$SYMBOL$を与えるため、朝貢国は$MIN|Y$の総開発度が必要です（現在$CURRENT|R$）"
  DIPLO_ACTION_NUM_ACCEPTING:0 "$NUM$ヵ国が受け入れるでしょう。"
