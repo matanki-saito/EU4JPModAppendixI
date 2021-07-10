@@ -26,7 +26,7 @@ _ = join
 $ 階級について
 こちら参照のこと：https://gist.github.com/matanki-saito/a2afb80eeeef612a28426af31e226d3d
 """
-replace_estate_parameter_map_definition = {
+replace_parameter_map_definition = {
     "GetNobilityName": "Get貴族Name",
     "GetClergyName": "Get聖職者Name",
     "GetBurghersName": "Get市民Name",
@@ -39,7 +39,8 @@ replace_estate_parameter_map_definition = {
     "GetJainsName": "Getジャイナ教徒Name",
     "GetMarathasName": "GetマラーターName",
     "GetRajputsName": "GetラージプートName",
-    "GetVaishyasName": "GetヴァイシャName"
+    "GetVaishyasName": "GetヴァイシャName",
+    " ": " "
 }
 
 
@@ -128,12 +129,12 @@ def assembly_app_mod_zip_file(resource_image_file_path,
         return shutil.make_archive(_(out_directory_path, 'mod'), 'zip', root_dir=temp_dir_path)
 
 
-def replace_estate_parameters(replace_estate_parameter_map,
-                              source_dir_path,
-                              output_dir_path):
+def replace_parameters(replace_parameter_map,
+                       source_dir_path,
+                       output_dir_path):
     """
     特殊なパラメータを置き換える
-    :param replace_estate_parameter_map:
+    :param replace_parameter_map:
     :param source_dir_path:
     :param output_dir_path:
     :return:
@@ -143,11 +144,11 @@ def replace_estate_parameters(replace_estate_parameter_map,
     os.makedirs(output_dir_path, exist_ok=True)
 
     match_pattern = re.compile("{}".format(
-        r"|".join(replace_estate_parameter_map.keys())
+        r"|".join(replace_parameter_map.keys())
     ))
 
     def repl(match_obj):
-        return replace_estate_parameter_map.get(match_obj.group(0))
+        return replace_parameter_map.get(match_obj.group(0))
 
     for source_file_path in pathlib.Path(source_dir_path).glob('**/*.yml'):
         with open(str(source_file_path), 'rt', encoding='utf_8_sig', errors='ignore', newline='') as f:
@@ -294,9 +295,9 @@ def main():
     # 特殊なキーワードを置き換える
     # この後で特殊エンコードするためにbomは取る
     replaced_localization_dir_path = _(tmp_directory_path, "replaced_localization")
-    replace_estate_parameters(replace_estate_parameter_map=replace_estate_parameter_map_definition,
-                              source_dir_path=localisation_dir_path,
-                              output_dir_path=replaced_localization_dir_path)
+    replace_parameters(replace_parameter_map=replace_parameter_map_definition,
+                       source_dir_path=localisation_dir_path,
+                       output_dir_path=replaced_localization_dir_path)
 
     print("Finish replacing special keywords")
 
