@@ -12,7 +12,7 @@
  shakti_desc:0 "シャクティは力と強大なエネルギーの女神です。"
  vishnu_desc:0 "ヴィシュヌはあらゆるところに遍在し世界を維持する神です。"
  RV_NO_DEITY_TITLE:0 "主神が選択可能"
- RV_NO_DEITY_DESC:0 "あなたはどの神を主神にするか選択することができます。それぞれの神は君主が変わるまで固有の効果をもたらします。"
+ RV_NO_DEITY_DESC:0 "どの神を主神にするか選択することができます。それぞれの神は君主が変わるまで固有の効果をもたらします。"
  RV_PICK_DEITY_THIS:0 "$NAME|Y$を奉じます。"
  RV_PICK_DEITY:0 "神を選択"
  norse_pagan_reformed:0 "ノルス"

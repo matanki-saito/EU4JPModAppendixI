@@ -238,7 +238,7 @@
  trading_post_modifier:0 "海外交易の高まり"
  desc_trading_post_modifier:0 "アジアに向かう交易路を探している探検家たちは、探索艦隊のための係留港を設立した。これは近隣に住む原住民たちとの交易の増加につながっている。"
  complete_mission:0 "このミッションを完了すると、報酬を受け取ります"
- mission_already_completed:0 "あなたは、既にこのミッションを完了しています"
+ mission_already_completed:0 "既にこのミッションを完了しています"
  HEADER_MISSIONS:0 "ミッション"
  secure_the_imperial_crown_title:0 "選帝侯の確保"
  secure_the_imperial_crown_desc:0 "ハプスブルク伯爵家はルドルフ以降、神聖ローマ帝国の皇帝に戴冠し、オーストリア公国を一門で支配し、全ての公爵たちは自身が皇帝になることを目指しています。我々は、帝国が必要とする安定性を確保するためにできること、すなわちオーストリアが皇帝を務めなければなりません。"

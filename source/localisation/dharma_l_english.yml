@@ -914,7 +914,7 @@
  DEATH_STATES_GENERAL:0 "新しい$MONARCH_TITLE$が選出されました"
  EMPTY_TEAM_NAME:0 "§Rチーム名を入力してください!§!"
  TEAM_NAME_TAKEN:0 "§Rチーム名はすでに使われています!§!"
- CREATE_TEAM_TOOLTIP:0 "あなたはプレイヤーが参加可能なチームを作成することができます。これにより、チームメンバー間の同盟が強制され、スコアシステムの仕組みが変更されます。ホストはいつでもチーム編集・削除ができます。"
+ CREATE_TEAM_TOOLTIP:0 "プレイヤーが参加可能なチームを作成することができます。これにより、チームメンバー間の同盟が強制され、スコアシステムの仕組みが変更されます。ホストはいつでもチームの編集・削除ができます。"
  CREATE_TEAM_DISABLED_TOOLTIP:0 "§Rホストはフリーチームの作成を無効にしています。§!"
  LEAVE_TEAM_TOOLTIP:0 "チームを去る"
  ASSIMILATED_CULTURES_TOOLTIP_MOD_PENALTY:0 "\n\n同化していない文化を持つ州には、以下のペナルティが課せられます。\n$MODIFIER$"

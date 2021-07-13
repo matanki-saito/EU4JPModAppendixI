@@ -434,7 +434,7 @@
  alert_condottieri_at_peace_delayed_free:1 "現在、以下からコンドッティエーリを借りています："
  alert_condottieri_country:0 "@$TAG$ $COUNTRY$－$COST|Y$¤/月"
  alert_condottieri_can_be_cancelled_instant:0 "§Y後退可能なコンドッティエーリの存在§!"
- alert_condottieri_can_be_cancelled_delayed:0 "あなたは今、以下からコンドッティエーリを後退させることができます："
+ alert_condottieri_can_be_cancelled_delayed:0 "今、以下からコンドッティエーリを後退させることができます："
  alert_condottieri_participation:0 "@$TAG$ $COUNTRY$－$MONTHS|Y$ヶ月"
  alert_condottieri_low_participation_instant:0 "§Yコンドッティエーリの顧客が失望！§!"
  alert_condottieri_low_participation_delayed:0 "あなたの軍隊の奉仕に対して支払う国家は、彼らが包囲戦に十分参加することを期待しています。我々がこれを実行しなければ、彼らの忍耐は以下で終わるでしょう："

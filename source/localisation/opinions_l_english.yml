@@ -95,7 +95,7 @@
  opinion_accepted_primas_germaniae:0 "ドイツにおける最高位聖職者の称号を受け入れた"
  opinion_supported_primas_germaniae:0 "新たにドイツにおける最高位聖職者として選ばれた者を支援していた"
  opinion_lost_primas_germaniae:0 "新たにドイツにおける最高位聖職者として選ばれた者を支援していなかった"
- opinion_improved_relations:0 "関係の改善をした"
+ opinion_improved_relations:0 "関係の改善"
  opinion_eased_tension:0 "緊張を和らげた"
  opinion_granted_privileges:0 "貴族に特権を与えた"
  opinion_not_grant_privileges:0 "貴族に特権を与えなかった"

@@ -25,7 +25,7 @@
  SUB_VIEW_SURVEY_BREAK_TEXT:0 "サブスクリプションを中断しているから"
  SUB_VIEW_SURVEY_OTHER_TEXT:0 "その他"
  SUB_VIEW_UNSUB_CONFIRM_TITLE:0 "サブスクリプションの解除"
- SUB_VIEW_UNSUB_CONFIRM_MSG:0 "サブスクリプションを解除しますか?\nあなたがいなくなるなんて私寂しいわ！"
+ SUB_VIEW_UNSUB_CONFIRM_MSG:0 "サブスクリプションを解除しますか？\nあなたがいなくなるなんて私寂しいわ！"
  SUBSCRIPTION_ERROR_DISK_WRITE:0 "ディスク書き込みエラー、空き容量を確認してください。"
  SUBSCRIPTION_ERROR_DOWNLOAD_FAILED:0 "ダウンロードできません。インターネット接続を確認してください。"
  SUB_DLC_OWNED:0 "§Yサブスクリプション済み§!"
