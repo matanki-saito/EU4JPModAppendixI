@@ -400,7 +400,7 @@
  REFORM_CONFIRM_TITLE:0 "政府改革の確認"
  ENACT_REFORM_CONFIRM_DESC:0 "$COST|Y$の政府改革進捗度を払い、政府改革$REFORM|Y$を制定しようとしています。以下のボーナスが得られます：\n$BENEFITS$"
  ENACT_REFORM_DESC:0 "政府改革$REFORM|Y$を制定すると政府改革進捗度が$COST|Y$減少し、以下のボーナスが得られます：\n$BENEFITS$"
- ENACT_REFORM_NOT_ENOUGH_PROGRESS:0 "§R十分な政府改革進捗度がありません。§!"
+ ENACT_REFORM_NOT_ENOUGH_PROGRESS:0 "§R改革を制定するのに十分な政府改革進捗度がありません。§!"
  ENACT_PREVIOUS_LEVEL_BEFORE:0 "§Rこの改革を制定する前に、前列を制定する必要があります。§!"
  VACANT_REFORM_DESC:0 "この政府改革はコストなしで選択でき、以下のボーナスが得られます：\n$BENEFITS$"
  CHANGE_REFORM_DESC:3 "政府改革$REFORM|Y$に変更すると、政府改革進捗度が$COST|R$減少し、以下のボーナスが得られます：\n$BENEFITS$"

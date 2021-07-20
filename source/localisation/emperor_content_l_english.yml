@@ -424,7 +424,7 @@
  new_court_flavour_events.1.B:0 "奴らとの友好関係など必要ない。"
  new_court_flavour_events.2.name:0 "[From.GetUsableName]との関係改善"
  new_court_flavour_events.2.desc:0 "[Root.Culture.GetName]文化の[From.GetEventAdvisorTitle]であり、[From.GetAdjective]の宮廷で雇われている[From.GetEventAdvisorName]は[From.GetEventAdvisorHerHis]の以前の同僚である[Root.Dip_Advisor.GetName]、つまり我々の[Root.Dip_Advisor.GetTitle]に対して、[From.GetUsableName]と[Root.GetUsableName]の関係を改善するための計画を進めることを働きかけている。[Root.Dip_Advisor.GetName]は、[From.GetAdjective]のメッセージとともに[Root.Monarch.GetTitle][Root.Monarch.GetName]に接触しており、これには、我々の人々の間の友情に対する彼らの願望が述べられている。"
- new_court_flavour_events.2.A:0 "かの国との友好関係は我が国の利益となるだろう。"
+ new_court_flavour_events.2.A:0 "彼の国との友好関係は我が国の利益となるだろう。"
  new_court_flavour_events.2.B:0 "奴らとの友好関係など必要ない。"
  new_court_flavour_events.2.C:0 "友情だと？失せろ！！"
  new_court_flavour_events.3.name:0 "関係改善の成功"

@@ -2346,7 +2346,7 @@
  advance_our_interests.tooltip:1 "は§Y[Root.GetName]§!と同じ§Y貿易同盟§!に参加している。"
  hsa_united_league.tooltip:0 "平和な状態にあり、以下の都市を領有しているハンザ同盟の全ての加盟国を属国化します：§Yアントウェルペン§!、§Yブレーメン§!、§Yブリュッセル§!、§Yダンツィヒ§!、§Yゴットランド§!、§Yフローニンゲン§!、§Yハンブルク§!、§Yケルン§!、§Yリューネブルク§!、§Yリガ§!、§Yシュテティーン§!及び§Yユトレヒト§!"
  hsa_united_league_no_valid_targets.tooltip:0 "§R属国となる国はありません！§!"
- adler_von_lubeck.tooltip:0 "§Y「アドラー・フォン・リューベック」§!の決断を実施している。"
+ adler_von_lubeck.tooltip:0 "§Y「アドラー・フォン・リューベック」§!の決断を制定している。"
  adler_von_lubeck_supreme.tooltip:0 "§Y[Root.GetName]§!より多くの大型船を持つ、§Yバルト海§!または§Y北海§!に港がある国家がない。"
  form_hanseatic_league.tooltip:0 "評価が§G200§!で独立欲求が§R50%§!未満の交易力を転送している全ての属国と辺境伯を併合します。"
  HANSEATIC_LEAGUE:0 "ハンザ同盟"

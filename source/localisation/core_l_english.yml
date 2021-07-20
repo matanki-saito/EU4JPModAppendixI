@@ -379,7 +379,7 @@
  TRANSFER_NOT_CONTROLLER:0 "支配者だけが、その州の支配権を他の国に移譲することができます。"
  TRANSFER_VALID_ALLIES:0 "$LIST$に支配権を移譲することができます。"
  CANCEL_MISSIONARY:0 "宣教師の派遣をキャンセル"
- CANCEL_CULTURE_CONVERT:0 "文化の転向をキャンセル"
+ CANCEL_CULTURE_CONVERT:0 "文化転向を中止"
  CANCEL_CORE_PROGRESS:0 "中核州作成をキャンセル"
  CANCEL_BUILDING:0 "建造をキャンセル"
  CANCEL_UNIT_PRODUCTION:0 "ユニットの生産をキャンセル"
