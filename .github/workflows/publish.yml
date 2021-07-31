@@ -43,6 +43,7 @@ jobs:
           type settings.yaml
         shell: cmd
       - name: Pack mod and upload
+        id: create_mod
         run: |
           python main.py
         env:
