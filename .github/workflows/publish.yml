@@ -69,6 +69,7 @@ jobs:
           release_name: Release ${{ github.run_number }}
           body: |
             new mod released!
+            URL: ${{ steps.create_mod.outputs.download_url }}
           draft: false
           prerelease: false
       - name: Upload Release Asset
