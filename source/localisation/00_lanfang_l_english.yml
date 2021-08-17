@@ -327,7 +327,7 @@
  estate_nobles_command_of_the_military:0 "軍隊の指揮権"
  estate_nobles_command_of_the_military_desc:0 "貴族が統帥権を握っており、軍を動かせるかどうかは、彼らの賛成次第だ。"
  estate_nobles_command_of_the_military_tt:0 "§Y指揮官§!を採用すると、§Y貴族階級の影響力が5§!増加する"
- EST_VAL_NOBLE_LEADER:0 "軍隊の指揮権：§Y$VAL$%§!"
+ EST_VAL_NOBLE_LEADER:0 "軍隊の指揮権: §Y$VAL$%§!"
  restore_dai_viet_title:0 "大越の再興"
  restore_dai_viet_desc:0 "大越は貴族の反目によってバラバラになってしまった。ベトナム人を団結させ、王国を回復しなければならない。"
  northern_and_southern_dynasties:0 "北朝と南朝"

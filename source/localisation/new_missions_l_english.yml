@@ -970,7 +970,7 @@
  metropolis_of_the_deccan_desc:0 "西方派とデカン派、つまり外国人と現地人を団結させることによって、強く耐久性のある国家の中核を作り出した。しかし、長く持つように作られる王国にはまた威厳のある首都が必要であり、[Root.Capital.GetCapitalName]をまさにデカンの大都市にする時が来た。"
  bng_conquer_malwa_title:0 "マールワー征服"
  bng_conquer_malwa_desc:0 "我々の執拗な西への圧力からどうにかして反らしているけれども、マールワーは我々にとって無視すべきでない戦略的位置を占有している。我々の手にあれば、それはデカンから勃興する帝国に対する防壁や、南からの侵略者に対する防護遮蔽物となるだろう。"
- EST_VAL_BNG_RAJPUTS_WEAKENED:0 "ラージプートの卑下：§Y$VAL$%§!"
+ EST_VAL_BNG_RAJPUTS_WEAKENED:0 "ラージプートの卑下: §Y$VAL$%§!"
  bng_conquer_multan_title:0 "アラビア海への進出"
  bng_conquer_multan_desc:0 "ベンガル湾の豊かな貿易路を利用できるが、アラビア海もまた好況の市場となるかもしれない。ムルターンを侵略し、そこから海岸に至るまでシンドに向かって突き進むべきだ。"
  bng_army_title:0 "火薬戦"
