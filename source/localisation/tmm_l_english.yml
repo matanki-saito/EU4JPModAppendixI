@@ -998,7 +998,7 @@
  CONDOTTIERI_OFFER_ALLIANCE:0 "§R- あなたが同盟を結んでいる国と戦争中の国へコンドッティエーリを貸し出すことはできません。§!"
  HAVE_CONDOTTIERI_WITH:0 "コンドッティエーリが戦っている国との同盟はできません。"
  CANNOT_BUILD_SUPPLY_DEPOT_AT_SEA:0 "海上に補給拠点なんてイカれてますよね。"
- CANNOT_AFFORD_GURU_COST:0 "この教義に必要な$POW|Y$$TYPE$がありません。"
+ CANNOT_AFFORD_GURU_COST:0 "この教義に必要な$POW|Y$$TYPE$力がありません。"
  CANNOT_PICK_TEACHING_NEW_GURU:0 "一人のグルから複数の教義を選択することはできません。"
  GURU_APPOINTED:0 "$GURU|Y$をグルにします。"
  NEW_GURU_SETUP:0 "新しいグルを任命したとき"

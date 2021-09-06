@@ -875,7 +875,7 @@
  SUBSIDY_POWERPROJ_EFFECT:0 "1つまたは複数のライバル（$RIVALS$）の敵国に補助金を与えることにより、戦力投射を合計$TOTAL$得ます。"
  MUST_WAIT_UNTIL_NEXT_ALLIANCE_OFFER:0 "別の提案を送れるようになるまで、一日待たなければなりません。"
  GUARANTEEING_THEIR_INDEPENDENCE:0 "彼らの独立を保障しています。"
- PEACE_PROVINCE_CORING_COST:0 "$COUNTRY$が割譲された州をすべて中核化するには、§Y$ADM$§!£adm£かかります。"
+ PEACE_PROVINCE_CORING_COST:0 "$COUNTRY$が割譲された州をすべて中核化するには、§Y$ADM$§! £adm かかります。"
  PEACE_OPTION_REQUIRES_DEMANDING_INDPENDENCE:1 "独立の要求をせずにこの要求を行うことはできません。"
  MUST_WAIT_UNTIL_NEXT_PEACE_OFFER:0 "別の和平案を送れるようになるまで、一日待たなければなりません。"
  PEACE_SUBJECT_WILL_CALL:0 "§R選択した場合、彼らの別の戦争へ参戦要請されます。§!"

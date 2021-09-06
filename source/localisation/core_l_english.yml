@@ -581,7 +581,7 @@
  CONTENTVIEW_MOD:0 "Mod"
  TRADE_GOODS:0 "世界交易品サイズ"
  TRADEGOODS_LEADER_BONUS:0 "生産の先導者ボーナス："
- MUSIC_CUR_PLAYING:0 "再生中の音楽：$MUSIC|Y$"
+ MUSIC_CUR_PLAYING:0 "現在再生中の音楽：'$MUSIC|Y$'"
  MUSIC_NO_CUR_PLAYING:0 "音楽停止中"
  TARIFF_BASE_MODIFIER:0 "関税基本効率：$VAL|%1+$"
  PROV_TRADEPOWER_DESCR:0 "交易力は、交易ノード内の州から、州の支配者がどのくらいの力を受け取れるかに影響を与える。"
