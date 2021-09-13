@@ -622,7 +622,7 @@
  CONFIRM_NATIVE_POLICY_FIRST_TIME_DESC:0 "我々の植民地で§Y$NAME$§!に変更することで以下の効果があります：\n"
  NATIVE_UPRISING_CHANCE:0 "月ごとに原住民が蜂起する可能性が§Y$CHANCE$§!%あります。"
  POTENTIAL_NATIVE_UPRISING_CHANCE:0 "我々がこの州の植民地化を開始する場合、原住民が蜂起する確率が毎月§Y$CHANCE$§!%あります。"
- NATIVE_UPRISING_CHANCE_DELAYED:0 "原住民の蜂起は§Y$BASE$§!%の基本的な可能性があり、以下によって補正されます：\n$MOD$"
+ NATIVE_UPRISING_CHANCE_DELAYED:0 "原住民の蜂起の基本確率は§Y$BASE$§!%で、以下により補正されます：\n$MOD$"
  MODIFIER_NATIVE_UPRISING_CHANCE:0 "原住民の反乱可能性"
  MODIFIER_NATIVE_ASSIMILATION:0 "原住民の同化"
  native_policy_coexist:0 "原住民共存政策"

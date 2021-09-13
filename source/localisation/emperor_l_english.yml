@@ -814,7 +814,7 @@
  DURATION:0 "期間"
  MIL_UPKEEP_WAR_TAXES:0 "戦争税：-$COST|R$\n"
  WAR_TAXES_TOOLTIP_START:0 "戦争中に以下が与えられます：\n"
- WAR_TAXES_TOOLTIP_COST:0 "キャンセルされるまで戦争中は毎月$COST|Y$£mil£がかかります。"
+ WAR_TAXES_TOOLTIP_COST:0 "中止されるまで戦争中は毎月$COST|Y$£mil£がかかります。"
  ALLY_FORCES_UNKNOWN:0 "???"
  ALLY_FORCE_ENTRY:0 "$ADJ$$TYPE$：$AMOUNT|Y0$\n"
  ALLY_FORCE_TOTAL_ENTRY:0 "$COUNTRY$は$DEPLOYED|0Y$を配備し、$MANPOWER|0Y$を予備として持っています。\n"

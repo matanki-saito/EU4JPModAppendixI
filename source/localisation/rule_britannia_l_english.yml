@@ -366,7 +366,7 @@
  WE_SHARING_KNOWLEDGE:1 "我々はすでに$EXPIRY$までの間、@$TAG$$NAME$と知識を共有しています。"
  WE_HAVE_KNOWLEDGE_SHARED:0 "我々は@$TAG$$NAME$と知識を共有している間、知識の共有を提案することはできません。"
  THEY_HAVE_KNOWLEDGE_SHARING:1 "彼らはすでに$EXPIRY$までの間@$TAG$$NAME$との知識共有に関与しています。"
- ONLY_CANCELLED_BY_WAR_OR_EXPIRY:0 "それが$DATE|Y$に期限を迎えるまでは、戦争によってのみキャンセルできます。"
+ ONLY_CANCELLED_BY_WAR_OR_EXPIRY:0 "$DATE|Y$に期限を迎えるまでは、戦争によってのみ中断できます。"
  KNOWLEDGE_SHARING:0 "知識共有"
  KNOWLEDGESHARETITLE:0 "知識共有"
  KNOWLEDGESHAREDESC:1 "（すでに彼らと$EXPIRY$まで知識を共有しています。）"

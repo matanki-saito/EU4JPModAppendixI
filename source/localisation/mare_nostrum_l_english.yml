@@ -95,7 +95,7 @@
  WEUNCONDITIONALLYSURRENDEREDOTHER:1 "我々は第三国に§Y無条件降伏§!しています。"
  THEYUNCONDITIONALLYSURRENDEREDOTHER:1 "$COUNTRY$は第三国に§Y無条件降伏§!しています。"
  REASON_UNCONDITIONAL_SURRENDER_OFFER_BLOCKED:1 "§R彼らは§Y無条件降伏§!したため、提案することはできません。§!"
- LEAGUE_TRADE_EMBARGO:0 "貿易同盟のリーダーである$LEADER$が$TARGET$に対し交易制限をしているため、キャンセルできません。"
+ LEAGUE_TRADE_EMBARGO:0 "貿易同盟の指導国である$LEADER$が$TARGET$に対し禁輸をしているため、中止できません。"
  restore_roman_empire_title:0 "ローマ帝国の復興"
  restore_roman_empire_desc:0 "2世紀にかのローマ帝国が地中海全域とその彼方を制するひとつの帝国を築き上げて以来、誰もその偉業を再現できなかった。これらの土地を請求すれば、偽物共がコンスタンティノポリスや神聖ローマ帝国で叫びたてている主張を一笑に付し、我々こそがローマの真の後継者であると宣言できるだろう。"
  restore_roman_empire_tt:0 "あなたの所有するすべての州が、神聖ローマ帝国の一部でなくなります。"
