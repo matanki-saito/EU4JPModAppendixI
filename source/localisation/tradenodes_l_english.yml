@@ -63,7 +63,7 @@
  TRADE_DISTANCE:0 "$FROM$から$TO$までの距離：$VAL$"
  TRADE_INCOME_FACTORS:0 "実際の収入に与える影響："
  TRADE_COUNTRY_RETAIN:0 "$COUNTRY$の商人は§Y$VAL$§W¤をノードにとどめています。"
- TRADE_NAVY_NO_SHIPS:0 "私涼を行うか交易を保護するために小型船を持つ必要があります"
+ TRADE_NAVY_NO_SHIPS:0 "私涼・交易の保護をするには小型船がなければなりません。"
  TRADE_NAVY_NOT_PORT:0 "艦隊は交易を保護する指示を出す前に止まっていなければなりません。"
  TRADE_NAVY_MOVEMENT_LOCKED:0 "移動先がロックされている場合、私涼もしくは交易保護の指示は送れません。移動先に到着するまで待ってください。"
  TRADE_NAVY_CANCEL:0 "交易保護を解除します"

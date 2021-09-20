@@ -1,7 +1,7 @@
 ﻿l_english:
  SUPPORTS_INDEPENDENCE_OF:0 "$SUPPORTER|Y$が$SUPPORTED|Y$の独立を支援\n"
  NOT_SUPPORTS_INDEPENDENCE_OF:0 "$SUPPORTER|Y$が$SUPPORTED|Y$の独立を支援しない\n"
- REV_EST_LOYALTY_WILL_DROP:0 "忠誠度が$VAL|+=0$変化するでしょう"
+ REV_EST_LOYALTY_WILL_DROP:0 "忠誠度が$VAL|+=0$変化"
  at_peace_revolutionary:0 "平和な革命国家"
  mechanic_revolutionary_yes:0 "この国は革命国家であり、旧秩序に反対している！"
  revolutionary_guard_regiment:0 "革命衛兵"
@@ -759,7 +759,7 @@
  USE_CURIA_TREASURY:0 "教皇資金を使う"
  CURIA_TREASURY_NOT_CURIA_CONTROLLER:0 "§R教皇資金を使用できるのは教皇の支配者だけです！§!"
  USE_CURIA_TREASURY_DESC:0 "教皇の支配者として、あなたは教皇資金を使用できます。"
- REFORM_DESIRE_SCALE_EFFECT:0 "改革欲求の成長を$PERC|%-0$$DIRECTION$。\n"
+ REFORM_DESIRE_SCALE_EFFECT:0 "改革欲求の成長を$PERC|%-0$$DIRECTION$します。\n"
  REFORM_DESIRE_SCALE_TOOLTIP:0 "改革者を動揺させた我々の行動により、§Y改革欲求§!の成長が$SCALE|%-0$加速します。"
  investigate_heresy:0 "異端の調査"
  MIL_CONST_MERCENARY_TIP:0 "$MERC|Y$は$DATE|Y$にここに出現するでしょう。"

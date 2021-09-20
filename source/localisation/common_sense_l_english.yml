@@ -1312,7 +1312,7 @@
  fortify_march_desc2:0 "$COST$のコストで§Y$PROV$§!の要塞を§Y$NAME$§!にアップグレードします。"
  enforce_culture_desc:0 "同君連合下位国の主要文化を自国の文化（§Y$CULTURE$§!）に変更します。彼らの独立欲求は$LD$増加します。また、彼らの総開発度により、$DIP$£dip£のコストもかかります。"
  siphon_income_desc:0 "彼らの年間収入（$AMOUNT$）の$VAL$を吸い上げます、これは関係を$OPINION$悪化させ、独立欲求を$LD$増加させます。"
- support_loyalists_desc:1 "彼らの毎月の収入の$PERCENT$（現在$AMOUNT|Y$¤）と引き換えに、独立欲求を$LD$減少させます。"
+ support_loyalists_desc:1 "彼らの月間収入の$PERCENT$（現在$AMOUNT|Y$¤）と引き換えに、独立欲求を$LD$減少させます。"
  send_officers_desc:0 "士官と軍事指導者を送ります。これには彼らの陸軍維持費の$VAL$（現在は毎月$AMOUNT|Y$¤）がかかります。独立欲求が$LD$変化するでしょう。"
  divert_trade_desc:1 "従属国はその交易力の$VAL$を宗主国に移譲しなければなりません。独立欲求が$LD$変化します。"
  seize_territory_desc:0 "コアの範囲内の州の一つを強制的に奪います。これは彼らを怒らせるでしょう。"

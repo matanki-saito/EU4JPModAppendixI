@@ -347,7 +347,7 @@
  OTHERS_STEER_TRADE_TO_DESC:0 "$FROM$はもはや$ORG$への交易を誘導しないでしょう。それらの商人は代わりに$TO$への交易を誘導します。これは停戦期間中、有効であり続けるでしょう。"
  KNOWLEDGE_SHARING_INTERACT_WHAT:0 "知識共有の開始"
  KNOWLEDGE_SHARING_INTERACT_EFFECT:0 "$INSTITUTION$の採用は$SUBJECT$の首都地域において加速されるでしょう。"
- KNOWLEDGE_SHARING_INTERACT_OVERLORD_EFFECT:0 "我々は$SUBJECT$の毎月の収入の§R$PERCENT$%§!を支払うでしょう。"
+ KNOWLEDGE_SHARING_INTERACT_OVERLORD_EFFECT:0 "我々は$SUBJECT$の月間収入の§R$PERCENT$%§!を支払うでしょう。"
  NO_KNOWLEDGE_SHARING_FEES:0 "知識共有のための支払いはありません。"
  NO_KNOWLEDGE_SHARING:0 "知識共有のため我々に金を支払っている国家はありません。"
  KS_REASON_WAR:0 "戦争は始まっており、以前のあらゆる合意は無効となります！"

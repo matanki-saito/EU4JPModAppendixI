@@ -92,7 +92,7 @@
  franciscan_order:0 "フランシスコ会"
  franciscan_order_desc:0 "アシジの聖フランシスコの継承者たちは、信心者たちに模範を通して正しい行動をするよう求めている。不信心者のため、彼らは神の法を課すのに必要なことを行う非常に厳格な者たちだ。"
  HOLY_ORDER_WHEN_ESTABLISHED:0 "右記の修道会を設立した時："
- HOLY_ORDER_WHEN_ESTABLISHED_IN_PROVINCES:0 "右記を設立した時、州は変化します："
+ HOLY_ORDER_WHEN_ESTABLISHED_IN_PROVINCES:0 "設立すると、州は以下のように変化します："
  HOLY_ORDER_WHEN_ESTABLISHED_PERMANENT:0 "州への恒久的な効果："
  HOLY_ORDERS:0 "修道会"
  HOLY_ORDER_NOT_AVAILABLE:0 "§Rこの修道会を設立できません：§!"

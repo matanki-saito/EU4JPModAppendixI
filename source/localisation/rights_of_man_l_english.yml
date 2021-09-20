@@ -1204,7 +1204,7 @@
  consort_events.5.a.tt.5:0 "[Root.Monarch.Dynasty.GetName]一族の士官は、功績にかかわらず、昇進において有利になるでしょう。"
  consort_events.5.a.tt.6:0 "[Root.Monarch.Dynasty.GetName]一族の士官は、功績にかかわらず、昇進において有利になるでしょう。"
  consort_events.5.a.tt.6b:0 "新しい法律を作成する際に、[Root.Monarch.Dynasty.GetName]の利益を高めるでしょう。"
- consort_events.5.b:0 "我々は、[Root.Monarch.GetHerHim]が、[Root.Monarch.GetHerHis]の官職を悪用するのを決して許さないだろう。"
+ consort_events.5.b:0 "[Root.Monarch.GetHerHim]が官職を悪用するのを決して許さないだろう。"
  consort_events.5.b.tt:0 "我々の摂政の一族はこれを非常に悪いものとして受け止めるでしょう。"
  consort_events.6.t:0 "相思相愛"
  consort_events.6.d:0 "王室間の婚姻はめったに愛が問題とはならない。むしろ、それは無駄にしてはならない外交的な機会である。将来の配偶者が適切な地位を得ていることは非常に重要であり、国内政治の均衡を邪魔しないため、彼女または彼が外国人であることは有利である。\n\nしかし、[Root.Monarch.GetTitle]でさえ、愛にのめり込むことができる。そしてそんなものは少なくとも[Root.Monarch.GetHerHis]の視点からは今や消えているようだ。[consort_home.GetName]州出身の一人の住民が[Root.Monarch.GetName]の目に止まった。[Root.Monarch.GetSheHeCap]はこれまで以上に幸せであり、ほとんど無限に魅了されているようだ。我々の貴族や顧問はあまり満足していないが、[Root.Monarch.GetName]と[Root.Monarch.GetHerHis]の愛する人との結婚は、領土の庶民たちの間で強い支持を得ている。"
