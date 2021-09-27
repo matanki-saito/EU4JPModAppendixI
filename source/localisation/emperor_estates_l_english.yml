@@ -1,7 +1,7 @@
 ﻿l_english:
  estate_nobles_land_rights:0 "$ESTATE_NAME$の地権"
  estate_nobles_nobility_primacy:0 "$ESTATE_NAME$の優位性"
- estate_nobles_officer_corp:0 "士官部隊の$ESTATE_NAME$"
+ estate_nobles_officer_corp:0 "将校団内の$ESTATE_NAME$"
  estate_nobles_levies:0 "徴兵の拡大"
  estate_nobles_advisors:0 "貴族顧問"
  estate_nobles_right_of_counsel:0 "顧問の権利"
@@ -70,7 +70,7 @@
  estate_rajput_military:0 "ラージプートの優位性"
  estate_rajput_advisor:0 "ラージプート訓練教官の募集"
  estate_rajput_loyalty_privilege:0 "ラージプート自治の拡大"
- estate_rajput_officer_corp:0 "ラージプートの士官"
+ estate_rajput_officer_corp:0 "ラージプート将校団"
  estate_rajput_look_up_purbias:1 "プルビアの徴募"
  estate_vaisyas_loyalty_privilege:0 "ヴァイシャへの支援"
  estate_vaisyas_advisor:0 "ヴァイシャ諮問機関"

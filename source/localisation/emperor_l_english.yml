@@ -89,7 +89,7 @@
  HAS_HIGHER_DEV_THAN:0 "$THIS|$の開発度が$OTHER|Y$よりも高い。\n"
  HAS_NOT_HAD_GOLDEN_AGE:0 "$NAME|Y$にまだ黄金時代が発生していない。\n"
  HAS_HAD_GOLDEN_AGE:0 "$NAME|Y$にすでに黄金時代が発生している。\n"
- DETSIEG_HOLD_SHIFT:0 "\n§Gまた、シフトキーを押したままにすると、指揮官がアタッチ解除されます。§!"
+ DETSIEG_HOLD_SHIFT:0 "\n§Gまた、Shiftキーを押したままにすると、指揮官が切り離されます。§!"
  MODIFIER_LOCAL_HEIR_ADMIN:0 "後継者の統治スキル"
  MODIFIER_LOCAL_HEIR_DIPLOMATIC:0 "後継者の外交スキル"
  MODIFIER_LOCAL_HEIR_MILITARY:0 "後継者の軍事スキル"
