@@ -699,7 +699,7 @@
  aqmola_area:0 "アクモラ"
  aqmola_area_name:0 "アクモラ"
  aqmola_area_adj:0 "アクモラ"
- JAP_siberian_intervention_tt:0 "§Y東シベリア§!地方の領有州はすべて、§Y10§!年間「§Yシベリアの活況§!」を獲得し、以下の効果を得ます：\n州内交易品生産量：§G+15.0%§!"
+ JAP_siberian_intervention_tt:0 "§Y東シベリア§!地方の領有州はすべて、§Y10§!年間「§Yシベリアの活況§!」を獲得し、以下の効果を得ます：\n州生産力補正：§G+15.0%§!"
  desc_JAP_siberian_boom:0 "シベリアへの投資は、この地域に多くの探鉱者や冒険家を呼び寄せ、生産性を高めている。"
  desc_JAP_gokaido_stations:0 "国土の主要道に沿った宿駅は、移動を楽にするだけでなく、辺境地を中央集権化する手助けにもなる。"
  desc_JAP_sankin_kotai_modifier:1 "首都において、広く絶えず変化する領主の支持層に順応することで、政府は一度に多くの外交問題の処理に長けている。"
