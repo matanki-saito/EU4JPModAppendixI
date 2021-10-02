@@ -3,7 +3,7 @@
 
 on:
   repository_dispatch:
-    types: [publish]
+    types: [ publish ]
   workflow_dispatch:
     inputs:
       name:
@@ -17,7 +17,7 @@ jobs:
     if: "! contains(github.event.head_commit.message, '[ci skip]')"
     strategy:
       matrix:
-        python-version: [3.8]
+        python-version: [ 3.8 ]
 
     steps:
       - uses: actions/checkout@v2
@@ -43,10 +43,14 @@ jobs:
           type settings.yaml
         shell: cmd
       - name: Pack mod and upload
+        id: create_mod
         run: |
           python main.py
         env:
           PARATRANZ_SECRET: ${{ secrets.PARATRANZ_SECRET }}
+          AWS_S3_ACCESS_KEY: ${{ secrets.AWS_S3_ACCESS_KEY }}
+          AWS_S3_SECRET_ACCESS_KEY: ${{ secrets.AWS_S3_SECRET_ACCESS_KEY }}
+          FILE_REPOSITORY: ${{ secrets.FILE_REPOSITORY }}
       - name: push translation
         run: |
           dir

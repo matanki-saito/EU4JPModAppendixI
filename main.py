@@ -10,8 +10,10 @@ import shutil
 import tempfile
 import urllib.request
 import zipfile
+from datetime import datetime as dt
 from os.path import join
 
+from boto3.session import Session
 from pydrive.auth import GoogleAuth
 from pydrive.drive import GoogleDrive
 
@@ -42,6 +44,32 @@ replace_parameter_map_definition = {
     "GetVaishyasName": "GetヴァイシャName",
     " ": " "
 }
+
+
+def upload_mod_to_s3(upload_file_path,
+                     name,
+                     bucket_name,
+                     access_key,
+                     secret_access_key,
+                     region):
+    """
+    S3にファイルをアップロードする
+    :param upload_file_path:
+    :param name:
+    :param bucket_name:
+    :param access_key:
+    :param secret_access_key:
+    :param region:
+    :return: CDNのURL
+    """
+    session = Session(aws_access_key_id=access_key,
+                      aws_secret_access_key=secret_access_key,
+                      region_name=region)
+
+    s3 = session.resource('s3')
+    s3.Bucket(bucket_name).upload_file(upload_file_path, name)
+
+    return "{}/{}".format("https://d3fxmsw7mhzbqi.cloudfront.net", name)
 
 
 def upload_mod_to_google_drive(upload_file_path,
@@ -329,19 +357,25 @@ def main():
 
     print("mod_pack_file_path:{}".format(mod_pack_file_path))
 
-    # GoogleDriveにアップロード from datetime import datetime as dt
-    from datetime import datetime as dt
-
-    cdn_url = upload_mod_to_google_drive(
-        upload_file_path=mod_pack_file_path,
-        name=dt.now().strftime('%Y-%m-%d_%H-%M-%S-{}.zip'.format("eu4-ap1")),
-        folder_id='1MUdH6S6O-M_Y5jRUzNrzQ8tPZOhm_aES')
-
-    print("cdn_url:{}".format(cdn_url))
+    if os.environ.get("FILE_REPOSITORY") == 'S3':
+        # S3にアップロード from datetime import datetime as dt
+        cdn_url = upload_mod_to_s3(
+            upload_file_path=mod_pack_file_path,
+            name=dt.now().strftime('%Y-%m-%d_%H-%M-%S-{}'.format("eu4-ap1")),
+            bucket_name="triela-file",
+            access_key=os.environ.get("AWS_S3_ACCESS_KEY"),
+            secret_access_key=os.environ.get("AWS_S3_SECRET_ACCESS_KEY"),
+            region="ap-northeast-1")
+    else:
+        # GoogleDriveにアップロード from datetime import datetime as dt
+        cdn_url = upload_mod_to_google_drive(
+            upload_file_path=mod_pack_file_path,
+            name=dt.now().strftime('%Y-%m-%d_%H-%M-%S-{}.zip'.format("eu4-ap1")),
+            folder_id='1MUdH6S6O-M_Y5jRUzNrzQ8tPZOhm_aES')
 
     # URLはリンク先に置く
     print("::set-output name=download_url::{}".format(cdn_url))
-    
+
     # distributionファイルを生成する
     generate_distribution_file(url=cdn_url,
                                out_file_path=_(".", "out", "dist.v2.json"),
