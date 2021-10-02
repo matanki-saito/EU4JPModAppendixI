@@ -338,7 +338,7 @@
  ALL_COALITION_MEMBER_STARTS:0 "すべての包囲網参加国"
  HAS_AT_LEAST_COALITION_MEMBERS:0 "$VAL$以上の包囲網参加国を持っている。"
  HAS_FEWER_COALITION_MEMBERS:0 "$VAL$未満の包囲網参加国を持っている。"
- achievement_tooltip_colonial_management:0 "少なくとも3人の植民地総督は直接任命してください。"
+ achievement_tooltip_colonial_management:0 "3人の植民地総督が直接任命されている。"
  ALL_NEIGHBOR_COUNTRY_STARTS:0 "すべての隣接国"
  ALL_PROVINCES_IN_REGION:0 "$REGION$地方のすべての州"
  NOT_ALL_PROVINCES_IN_REGION:0 "$REGION$地域のすべての州ではない"

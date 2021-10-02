@@ -24,7 +24,7 @@
  estate_cossacks_establish_the_cossack_regiments:0 "コサック連隊の設立"
  estate_cossacks_expand_the_cossack_regiments:0 "コサック連隊の拡張"
  estate_dhimmi_lighter_dhimmi_taxes:1 "ズィンミー税の増税"
- estate_dhimmi_lighter_dhimmi_taxes_effect_tooltip:2 "非§Yムスリム§!州の領有州はすべて、§Y「ズィンミー税の増税」§!を獲得し、以下の効果を得ます：\n州税収補正：§G15.0%§!"
+ estate_dhimmi_lighter_dhimmi_taxes_effect_tooltip:2 "非§Yムスリム§!州の領有州はすべて、§Y「ズィンミー税の増税」§!を獲得し、以下の効果を得ます：\n州税補正：§G15.0%§!"
  estate_dhimmi_lighter_dhimmi_taxes_revoke_effect_tooltip:1 "§Y「ズィンミー税の増税」§!の補正は、領有する全ての非§Yムスリム§!州から取り除かれます。"
  estate_dhimmi_lighter_dhimmi_taxes_privilege_mod:1 "ズィンミー税の増税"
  desc_estate_dhimmi_lighter_dhimmi_taxes_privilege_mod:1 "国は通常の国民よりもズィンミーにより多くの税金を要求します。"
