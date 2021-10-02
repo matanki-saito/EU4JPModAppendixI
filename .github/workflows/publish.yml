@@ -28,10 +28,11 @@ jobs:
       - name: Update pip
         run: |
           python -m pip install --upgrade pip
-      - name: Install PyDrive and pillow
+      - name: Install PyDrive, pillow and boto3
         run: |
           pip install PyDrive
           pip install pillow
+          pip install boto3
       - name: Install secure file
         env: # Or as an environment variable
           SETTINGS_YAML: ${{ secrets.SETTINGS_YAML }}
