@@ -819,7 +819,7 @@
  SAVEGAME_ERROR_LOADING:0 "セーブデータの読み込みエラー"
  SAVEGAME_ERROR_LOADING_CORRUPT:0 "セーブデータの読み込みに失敗しました。ファイルが破損しています。"
  SAVEGAME_WARNING_OLD_VERSION_TITLE:0 "古いセーブデータ"
- SAVEGAME_WARNING_OLD_VERSION_DESC:1 "ロードされたセーブゲーム$NAME$は、EU4の異なるバージョンからのものです。\n\nこれはゲーム内で問題を引き起こす可能性があり、§Rもしかすると鉄人モードでのセーブを破壊するかもしれません。§!\nランダムな新世界でのゲームは特に脆弱です。\n\n再びセーブし、ゲームを閉じて再ロードすることは役立つかもしれません。"
+ SAVEGAME_WARNING_OLD_VERSION_DESC:1 "ロードされたセーブゲーム$NAME$は、EU4の異なるバージョンからのものです。\n\nこれはゲーム内で問題を引き起こし、§R鉄人モードのセーブデータを台無しにするかもしれません。§!\n「ランダムな新世界」でのゲームは特に脆弱です。\n\n再度セーブし、ゲームを終了してから再ロードすると解決することがあります。"
  CHECKBOX_COMPRESSED_SAVEGAMES:0 "ゲームデータの圧縮"
  CHECKBOX_COMPRESSED_SAVEGAMES_RNW:0 "ゲームデータを圧縮する\nランダムな新世界で遊ぶときはゲームデータを圧縮する必要があります"
  RANDOM_NEW_WORLD:0 "ランダムな新世界の使用"
