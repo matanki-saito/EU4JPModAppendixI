@@ -9,7 +9,7 @@
  supply_depot_area:0 "地域の補給拠点"
  BUILD_SUPPLY_DEPOT:0 "§Y補給拠点を建設§!"
  BUILD_SUPPLY_DEPOT_DESC:1 "$PROV|Y$に補給拠点を建設するには$COST|Y$£mil£のコストがかかり、$AREA|Y$地域の友軍に以下の効果を与えます：\n兵員補充に関しては自身の所有する領土として計算されます\n$MOD$\n\n補給拠点は$DATE|Y$まで、あるいは敵が州を占領するか奪うまで機能します。"
- SUPPLY_DEPOT_ALREADY_BUILT:0 "§Rあなたは既にこの地域で補給拠点を建設しています§!\n"
+ SUPPLY_DEPOT_ALREADY_BUILT:0 "§R既にこの地域に補給拠点を建設しています§!\n"
  SUPPLY_DEPOT_NOT_OWNED_OR_CONTROLLED:0 "§Rあなたが補給拠点を建設できるプロビンスはあなたの支配地域と君主か同盟軍のみです§!\n"
  SUPPLY_DEPOT_NEED_ARMY_PRO:0 "補給拠点を建設するには軍熟練度が$LIMIT|Y%1$必要です（現在 $VAL|R%1$）。\n"
  SUPPLY_DEPOTS_LIST:0 "§Y補給拠点§!\n補給拠点は同じ地域にいる友軍にも以下の影響を与えます：\n$MOD$\n\n以下の国家がこの地域に補給拠点を建設しています：\n"

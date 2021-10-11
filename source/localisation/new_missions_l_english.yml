@@ -1706,7 +1706,7 @@
  gc_por_triangle_trade_title:0 "三角貿易"
  gc_por_triangle_trade_desc:0 "アフリカの奴隷は、新世界の大農園で働くために送られる。この奴隷労働の製品は、その後ヨーロッパに送り返され、法外な利益率で売却される。これが大西洋の三角貿易であり、我々はこれを支配しなければならない。"
  por_triangle_trade_mission_tooltip:0 "§Y奴隷§!を産出する§Yアフリカ§!大陸の領有州はすべて、§Y20§!年間「§Y三角貿易§!」を獲得し、以下の効果を得ます：\n交易品生産量：§G+10%§!"
- por_indian_investment_tooltip:1 "§Yインド§!亜大陸で領有するステートに、交易会社投資が1以上ある"
+ por_indian_investment_tooltip:1 " §Yインド§!亜大陸で領有するステートに、交易会社投資が1以上ある"
  gc_portugal_discovers_india_title:0 "インドへ前進"
  gc_portugal_discovers_india_desc:0 "我々はプレスター・ジョンの王国の兆候を見つけられていないが、香辛料貿易を手にしてムーア人に打撃を与えることができる。我々は、我々がキリスト教世界を守るために少しでも何かできるように、インドを発見する必要がある。"
  gc_portugal_discovers_the_far_east_title:0 "キャセイへ進め"

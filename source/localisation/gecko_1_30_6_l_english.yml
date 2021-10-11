@@ -1,3 +1,4 @@
 ﻿l_english:
  MATCHMAKING_MISMATCH_TITLE:1 "マルチプレイヤーシステムが正しくありません"
  MATCHMAKING_MISMATCH_DESC:1 "他のユーザーが異なるマルチプレイヤーシステムを使用しています。ゲームを再起動して$NAME$を選択してください。"
+ MATCHMAKING_MISMATCH_DESC_EGS:0 "他のユーザーがSteamバックエンドを使用してホストしていますが、Epic版はこれをサポートしていません。"
