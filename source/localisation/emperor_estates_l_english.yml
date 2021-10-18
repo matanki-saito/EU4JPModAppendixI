@@ -83,7 +83,7 @@
  estate_nobles_junker_primacy:1 "ユンカーの優越"
  estate_nobles_strong_duchies:0 "強力な公爵領"
  estate_nobles_golden_liberty:0 "黄金の自由"
- estate_nobles_veto_heir_apparent:0 "ビートーの法定推定相続人"
+ estate_nobles_veto_heir_apparent:0 "継承者への拒否権"
  estate_burghers_the_great_privilege:0 "大特許状"
  estate_burghers_the_great_privilege_effect_tooltip:0 "§Y低地諸国§!の領有州はすべて、§Y大特許状§!を獲得し、以下の効果を得ます：\n最小州自治率：§R+50.00§!"
  estate_burghers_the_great_privilege_revoke_effect_tooltip:0 "§Y「大特許状」§!の補正は、領有する全ての§Y低地諸国§!の州から取り除かれます。"

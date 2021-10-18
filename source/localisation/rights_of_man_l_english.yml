@@ -147,7 +147,7 @@
  CANCEL_BUILD_IN_SUBJECT:0 "建物の建設が中止されました。"
  CANCEL_BUILD_IN_SUBJECT_WHAT:0 "建築作業を中止します。"
  CANCEL_BUILD_IN_SUBJECT_EFFECT:0 "$PROVINCE$における$BUILDING|Y$の建設が停止されました。"
- INTERVENEINWARTITLE:0 "戦争にの介入する"
+ INTERVENEINWARTITLE:0 "戦争に介入する"
  INTERVENE_IN_WAR_TEXT:0 "我々は競合する列強と彼らとの間の戦争において彼らを助けるつもりです。"
  INTERVENE_ENEMY_SUBJECT:1 "我々の従属国の$SUBJECT|Y$は敵側にいます。"
  INTERVENE_TRUCE:1 "敵側の$ENEMY|Y$とは停戦中です。"

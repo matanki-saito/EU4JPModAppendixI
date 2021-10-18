@@ -345,7 +345,7 @@
  desc_pol_merkuriusz_polski_ordynaryjny:0 "メルクリウス・ポルスキ・オルデュナリーナは現代政治、ヨーロッパの王朝問題、そして君主の軍事行動に向けられたポーランドの新聞である。"
  pol_sejm_refuse_troops:0 "セイムが軍隊を拒否"
  desc_pol_sejm_refuse_troops:0 "セイムは、我々の君主の活動に対して軍隊を提供することを拒否している。"
- pol_sejm_veto:0 "セイムの拒否"
+ pol_sejm_veto:0 "セイムの拒否権"
  desc_pol_sejm_veto:0 "セイムは、君主の政策を拒否している。"
  pol_sejm_comply_policies:0 "セイムの追従"
  desc_pol_sejm_comply_policies:0 "セイムは、君主の政策に追従している。"

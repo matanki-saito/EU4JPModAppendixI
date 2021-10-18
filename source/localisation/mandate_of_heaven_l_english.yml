@@ -414,7 +414,7 @@
  empire_of_china_nomadic_border_events.1.a:0 "[Root.GetTributaryOverlord]のために！"
  empire_of_china_nomadic_border_events.2.t:0 "秩序は回復した"
  empire_of_china_nomadic_border_events.2.d:0 "我々の国境が強力な遊牧民の脅威にさらされなければ、その土地は繁栄し、もはや我々の支配に疑問が持たれることはない。かつて[Root.GetTributaryOverlord]に向けられていた批判はなくなり、帝国は新たな繁栄の時代を享受している。"
- empire_of_china_nomadic_border_events.2.db:0 "中華帝国は失われた。我々のかつての強大な国家の一般的な破滅は、かつて人々が遠い記憶として持っていた国境の遊牧民に対する懸念を再び作り出している。"
+ empire_of_china_nomadic_border_events.2.db:0 "中華帝国は失われた。かつて強大であった国家は全域に渡って崩壊し、かつて人々が遠い記憶として持っていた国境の遊牧民に対する懸念が再び関心事となった。"
  empire_of_china_nomadic_border_events.2.a:0 "それは天の意志だ。"
  empire_of_china_nomadic_border:0 "国境の遊牧民への無防備"
  shogunate_mechanic_explanation:0 "§M京都を保有すると、幕府を開きすべての従属大名の君主となることができます。§!"
