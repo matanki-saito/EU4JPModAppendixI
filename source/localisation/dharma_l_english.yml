@@ -390,7 +390,7 @@
  SUPPRESSION_AREA_NOT_ADJACENT:0 "§R鎮圧地域に隣接する地域しか追加できません§!"
  SUPPRESSED_AREAS:0 "鎮圧地域"
  MAX_UNREST:0 "最高の不穏度：$MAX$"
- AREA_REBEL_SUPPRESSION_EXPLANATION:1 "不穏度減少の合計$TOTAL|G$：\n連隊からの不穏度減少：$BASE|G$\n不穏度減少は以下により変更されます：\n自動的な反乱軍鎮圧：$MULT$\n\n不穏度減少は、不穏度を抱えている州の中で均等に広がり、$PROVS|Y$州で$PER_PROV|G$の不穏度を減少させます。\n不穏度は州ごとに$MAX_UNREST_REDUCTION|G$以上減少させることはできません。"
+ AREA_REBEL_SUPPRESSION_EXPLANATION:1 "不穏度減少の合計$TOTAL|G$：\n連隊からの不穏度減少：$BASE|G$\n不穏度減少に対する補正：\n自動的な反乱軍鎮圧：$MULT$\n\n不穏度減少は、不穏度を抱えている州の中で均等に広がり、$PROVS|Y$州で$PER_PROV|G$の不穏度を減少させます。\n不穏度は州ごとに$MAX_UNREST_REDUCTION|G$以上減少させることはできません。"
  CLICK_MAP_TO_ADD_AREAS:0 "地図をクリックして鎮圧地域を追加・削除します"
  alert_can_enact_government_reform_instant:0 "§Y政府改革を制定可能§!"
  alert_can_enact_government_reform_delayed:0 "政府改革を制定するのに十分な政府改革進捗度があります。改革により恒久的なボーナスや新たな仕組みを獲得することができます。"

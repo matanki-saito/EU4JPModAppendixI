@@ -525,7 +525,7 @@
  CANNOT_AFFORD_COST:0 "現在 $AMOUNT|Y$$CURRENCY$ を所持していません。"
  SELECT_PROVINCE:0 "州を選択"
  CONFIRMMISSION_MAINTENANCE_COST_BASE:0 "州による基本コスト：$COST|Y$¤"
- CONFIRMMISSION_MAINTENANCE_COST_MODIFIED_BY:0 "コストは以下により補正されます："
+ CONFIRMMISSION_MAINTENANCE_COST_MODIFIED_BY:0 "コストに対する補正："
  BUILD_FLAGSHIP_DETAILS:0 "§G旗艦の建造§!\n旗艦補正を追加するために旗艦デザイナーを開きます。\n維持費は旗艦の艦種と適用された旗艦補正に依存します。\n旗艦が撃沈や拿捕された場合、威信が失われます。\n\n旗艦補正に加えて、旗艦には以下の特典があります：\n$MODIFIER$"
  BUILD_FLAGSHIP_FLAVOR:0 "旗艦は海軍の誇りです。海上貿易の保護、海戦による海の支配または大陸侵略の指揮といった国家が最も必要としている要望に応える旗艦を設計すべきです。"
  pirates.1.n:0 "ピート・ハインだ。"
