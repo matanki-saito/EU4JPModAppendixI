@@ -160,7 +160,7 @@
  emp_mlo_reclaim_ducal_lands_desc:0 "ヴェネツィアは本来ならばミラノに帰属するべきブレシアとベルガモの街を占領しつづけてきた。それらは1395年の帝国特許状でミラノ公国の領土と定められていたにも関わらずだ。我々がかつての力を取り戻そうとするのなら、これらの街を奪還せねばならない！"
  emp_mlo_terra_firma_title:0 "大陸領土の奪取"
  emp_mlo_terra_firma_desc:1 "ヴェネツィアは長年にわたり、北イタリアの支配をめぐって我々のライバルであった。奴らの大陸領土を征服することで、北イタリアにおけるヴェネツィアの領土を縮小させ、ようやく我々がこの都市より優位にあることを主張できるようになるのだ！"
- emp_mlo_terra_firma_trigger_tooltip:0 "§Yヴェネツィア§!が§Y北イタリア§!に§Yヴェネツィア§!州以外の州を持っていない。"
+ emp_mlo_terra_firma_trigger_tooltip:2 "§YVenice§! holds no provinces except for §YVenezia§! in §YNorthern Italy§!, and no §YLatin§! provinces in §YCarniola or Tirol§!."
  emp_mlo_kingdom_of_lombardy_title:0 "ロンバルディア王国"
  emp_mlo_kingdom_of_lombardy_desc:0 "12世紀から13世期ごろ、ロンバルディアはロンバルディア同盟として知られる都市同盟により団結した。しかし、その同盟は解体し、ミラノやその他有力な都市国家がその穴埋めをした。同盟を復活させるべきなのだが、今回の場合、同盟はミラノによる統治でなければならず、ミラノ[Root.GovernmentName]が恒久的な指導力を提供し、その統一を確かなものとせねばならないーその統一国家こそが真のロンバルディア[Root.GetTier2GovernmentType]だ。"
  string_republic:0 "共和制"
