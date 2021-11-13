@@ -10,7 +10,7 @@
  ENABLES:0 "§Y$WHICH$§Wが可能です。\n"
  NEW_BUILDING:0 "§Y$WHICH$§Wを建設できます。\n"
  NEW_GOVERNMENT:0 "§Y$WHICH$§Wが可能となります。\n"
- TIME_TECH_INFO:0 "近隣ボーナスや時間先行ペナルティーがこの技術に及ぼす技術コストの増減値。"
+ TIME_TECH_INFO:1 "制度、近隣ボーナスや時間先行ペナルティーによるこの技術コストの増減値。"
  mil_tech:0 "軍事技術"
  adm_tech:0 "統治技術"
  dip_tech:0 "外交技術"

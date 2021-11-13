@@ -376,7 +376,7 @@
  SELECT_NAVAL_DOCTRINE:0 "§Y海軍ドクトリンを選択§!"
  SELECT_NAVAL_DOCTRINE_HEADER:0 "海軍ドクトリンを選択"
  NO_NAVAL_DOCTRINE_SELECTED:3 "海軍ドクトリンは選択されていません。\n\n我々が強力な海軍を支えるための扶養限界に達した場合、我々は勇敢な船員たちが従う国家のドクトリンを選ぶことができます。これにより、我々の海軍に特定の恒久的な優位性が与えられるでしょう。"
- CURRENT_NAVAL_DOCTRINE:0 "現在："
+ CURRENT_NAVAL_DOCTRINE:0 "現在：$DOCTRINE|Y$"
  NAVAL_DOCTRINE_NOT_ENOUGH_FORCE_LIMIT:2 "§R海軍ドクトリンを変更するには$VALUE$の海軍扶養限界が必要です。§!"
  NAVAL_DOCTRINE_COST:0 "この海軍ドクトリンを選択すると、海軍の水兵定員が$SAILORS|Y0$人であることから、$COST|Y2$¤の費用がかかります。"
  NAVAL_DOCTRINE_NOT_AVAILABLE:1 "§Rこの海軍ドクトリンはあなたには無効です：§!"

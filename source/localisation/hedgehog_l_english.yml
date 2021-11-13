@@ -24,7 +24,7 @@
  MODIFIER_YEARLY_FEDERATION_FAVOR_GROWTH:0 "年間連邦好感度成長"
  MODIFIER_MONTHLY_REFORM_PROGRESS_MODIFIER:0 "月間政府改革進捗度補正"
  TRIBAL_DEVELOPMENT_VALUE:0 "部族発展度から：$VAL|Y0$"
- TRIBAL_DEVELOPMENT_INCREASE_EXPLANATION:0 "開発度が$VAL|+$だけランダムに上昇します：\n"
+ TRIBAL_DEVELOPMENT_INCREASE_EXPLANATION:1 "$POWER|$ category will grow by $VAL|+3$:\n"
  PROVINCE_SETTLE_TOOLTIP_DESC:0 "自国の者たちをその州に定住させることで、その州を完全に自国に組み込み、$ADM|Y$£adm£、$DIP|Y$£dip£、$MIL|Y$£mil£分の開発度をその州に移します。\n\n"
  SETTLE_PROVINCE_COST:0 "$COST|Y$$POWER|$力コスト\n"
  MIGRATE_PROVINE_NOT_LAND:0 "§R$PROV|Y$は移住できない領地です。\n"
@@ -127,3 +127,4 @@
  SETTLE_PROVINCE_NO_DEVELOPMENT:0 "§R州に定住を行うだけの部族開発度が足りていません。§!"
  BUILDING_SLOT_NATIVE_IN_NON_NATIVE:0 "先住民は先住民ではない領地には建造できません"
  BUILDING_SLOT_NON_NATIVE_IN_NATIVE:0 "先住民ではない国家が先住民の領地に建造することはできません"
+ native_remain_being_native_reform:0 "部族の独自性"

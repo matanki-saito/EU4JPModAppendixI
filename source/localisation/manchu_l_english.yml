@@ -278,7 +278,7 @@
  JAP_expand_the_kokka_desc:0 "我が一族の領土はあらゆる政治的努力の支えとなっている。それは前世代では十分だったかもしれないが、我が野望全てに資金投入するには不足している。支持基盤を拡大せねばならない！"
  JAP_balance_the_four_divisions_title:0 "4身分の均衡"
  JAP_balance_the_four_divisions_desc:0 "社会は4身分に分けられており、真に調和のとれた社会を築くためには、完全たる均衡が必要だ。悲しいかな、この時代は下克上の時代であり、社会の最下層の者でも最上層の者を打ち破ることができる。この深刻な病を治療して調和を回復する方法を探し出さねばならない。"
- JAP_balance_the_four_divisions_tt:0 "§Y2階級§!に対して忠誠を§Y70§!以上にする"
+ JAP_balance_the_four_divisions_tt:1 "§Y2階級§!に対して忠誠を§Y60§!以上にする"
  JAP_establish_political_supremacy_title:0 "政治的優位の獲得"
  JAP_establish_political_supremacy_desc:0 "我が志は、ただの大名のそれよりも高いものだ。この地域の最高の権力まで上り詰めることは義務であり、運命である。"
  JAP_issue_new_erizeni_rei_title:0 "新撰銭令の発布"

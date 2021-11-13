@@ -155,7 +155,7 @@
  CORE_EXPLAIN_LOSE_PRIMARY_TAG_NOLOSE:0 "§Y$WHO$§!は§Y$PROVCULTURE$§!の代表的な国家です。§Y$PROV$§!を中核州として失うことはありません。"
  HISTORY_DISCOVERED_BY_GROUP:0 "§Y$GROUP$§W圏によって発見されました。"
  WESTERNIZATION_AFFECTS:0 "§Y西洋化の影響：§W"
- SUBJECT_COUNTRY_STARTS:0 "従属国"
+ SUBJECT_COUNTRY_STARTS:1 "いずれかの従属国"
  ALL_SUBJECT_COUNTRY_STARTS:0 "全ての従属国"
  gen_trade_access_denied:0 "ボスポラス海峡を通じた独占的交易特権を否定された"
  gen_trade_given:0 "ボスポラス海峡を通じた独占的交易特権を与えられた"
