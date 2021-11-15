@@ -652,7 +652,7 @@
  threatened_war:0 "武力脅迫"
  THREATENWAR_TRUCE:0 "停戦中は武力脅迫を行うことはできません。"
  THREATENWAR_NO_ELIGIBLE:0 "彼らは、我々が中核化できる（そしてそれは彼らの首都ではない）我々の請求権を持つ、あるいは中核州である占領されていない州を保有していません。"
- THREATENWAR_THEY_SUBJECT:0 "彼らは属国であり、代わりに宗主国である$OVERLORD|Y$にこの行動を使用する。"
+ THREATENWAR_THEY_SUBJECT:0 "彼らは従属国であり、代わりに宗主国である$OVERLORD|Y$にこの行動を使用します。"
  CAN_MIGRATE:0 "移動を許可されてます。"
  CAN_NOT_MIGRATE:0 "移動を許可されていません。"
  MIGRATE_MUST_CONTROL_CAPITAL:0 "首都が占領されています。"

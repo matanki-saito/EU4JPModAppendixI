@@ -547,7 +547,7 @@
  cannoneer_personality_die_desc:0 "砲兵隊は[GetHerHis]の死を[GetSheHe]が自身の一部であったかのように悼んでいます。"
  extortioner_personality_die_desc:0 "[GetHerHisCap]の崩御は、我々を除くあらゆる国籍の交易商たちを大いに喜ばせるでしょう。"
  ruthless_blockader_personality_die_desc:0 "海岸全域の港湾の市民は今や、より簡単に呼吸することができます。"
- buccaneer_personality_die_desc:0 "[GetHerHim]を失ったことで、我々の敵は再び航海をより安全に感じるでしょう。"
+ buccaneer_personality_die_desc:0 "[GetHerHim]がいなくなれば、敵は再び航路を確保して安心するでしょう。"
  prize_hunter_personality_die_desc:0 "[GetHerHisCap]の勇気ある功績は、多くの新しい船を賞品として我々の手にもたらしました。"
  ironside_personality_die_desc:0 "[GetHerHisCap]の守備戦術への強い信念は、[GetHerHis]の指揮の下にいたすべての人に強い印象を残しました。"
  naval_engineer_personality_die_desc:0 "[GetSheHe]は軍役中、指揮下の船に配慮し、我々の海軍の耐久性を大幅に向上させました。"

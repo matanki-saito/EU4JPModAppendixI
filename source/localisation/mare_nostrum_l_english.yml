@@ -26,7 +26,7 @@
  HOSTILE_VICTORY_CARD_DESC:0 "§Y$AREA$§!：$COLOR$$SCORE$§!\n"
  TRADELEAGUE_WELEFT_VOLUNTARILY:0 "我々は自身の判断で離脱しました。"
  TRADELEAGUE_WELEFT_GONE:0 "我が国は存在しない。"
- TRADELEAGUE_WELEFT_SUBJECT:0 "属国は参加できません"
+ TRADELEAGUE_WELEFT_SUBJECT:0 "従属国である我が国は参加できません。"
  TRADELEAGUE_WELEFT_TOOLARGE:0 "リーダー以外の加盟国として、\n我々は最大一つの州を保持することができます。"
  TRADELEAGUE_WELEFT_BADLEAD:0 "我々はもはやそれを率いる資格がありません。\nリーダーは名声のある商人共和国でなければなりません。"
  TRADELEAGUE_WELEFT_TP:0 "我々は交易力を\n貿易同盟の外の$TO|Y$へ伝播し始めました。"

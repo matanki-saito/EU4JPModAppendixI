@@ -148,7 +148,7 @@
  SUBJECT_FOCUS_DEFENSIVE_DESC:0 "$WHO$は同盟国領の周辺に貼り付きますが、侵攻作戦は開始しません。"
  SUBJECT_FOCUS_SIEGE_DESC:0 "$WHO$は交戦を避けながら、敵要塞を包囲・陥落させることに専念します。"
  SUBJECT_MILITARY_FOCUS:1 "すべての属国のフォーカスを設定する"
- SET_FOCUS_FOR_ALL:0 "すべての属国のフォーカスを設定する："
+ SET_FOCUS_FOR_ALL:0 "全従属国のフォーカスを設定する："
  MIL_FOCUS_AGGRESSIVE:0 "攻撃的"
  MIL_FOCUS_NO_FOCUS:0 "フォーカスがありません"
  MIL_FOCUS_SUPPORTIVE:0 "支援"
