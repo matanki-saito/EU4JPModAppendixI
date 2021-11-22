@@ -25,7 +25,7 @@
  desc_mild_winter:0 "少量の降雪があり、気温はちょうど摂氏0度前後です。"
  desc_normal_winter:0 "地面は雪に覆われ、気温は摂氏0度を超えることはありません。"
  desc_severe_winter:0 "大量の降雪があり、気温は摂氏0度を大幅に下回っています。"
- MOVE_CAPITAL_AT_WAR:0 "戦争中はこの州に遷都することは出来ません。"
+ MOVE_CAPITAL_AT_WAR:0 "戦争中はこの州に遷都することはできません。"
  MOVE_CAPITAL_TO_FIXED:0 "$WHO$の首都は§Y$PROV$§!に移動することしかできません。"
  MOVE_CAPITAL_FIXED:0 "§Y$PROV$§!から$WHO$の首都を移動することはできません。"
  MAPMODE:0 "マップモード"

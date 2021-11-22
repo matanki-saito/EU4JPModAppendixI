@@ -31,7 +31,7 @@
  TECH_HEADER:0 "$MESSENGER$"
  TECH_1:0 "$TYPE$が進んだ！"
  TECH_2:1 "$TITLE$、我が国の$TYPE$レベルが増えました"
- TECH_3:0 "$LEVEL$"
+ TECH_3:0 "$LEVEL$に増えました"
  TECH_4:0 "$DESC$"
  TECH_5:0 "ボーナス効果："
  TECH_6:0 "$BONUSEFFECT$"
