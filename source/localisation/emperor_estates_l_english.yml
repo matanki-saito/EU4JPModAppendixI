@@ -51,7 +51,7 @@
  estate_brahmins_flexible_deities_effect_tooltip:1 "§Y25§!の正統性を消費することで§Y20§!年ごとに個人の主神を変更する決断を有効にします。"
  brahmin_hindu_deity_decision_title:0 "個人の主神の再選択"
  brahmin_hindu_deity_decision_desc:0 "自分の選択を後悔する人も時にはいるだろう。若かりし頃にどの神に従うか決めたら一生それに縛られるのか？幸運なことに、バラモンの計らいでこの件に関しては限度はあるものの柔軟な取り扱いが可能だ。"
- decision_once_every_ten_years:0 "この決断は§Y10§!年毎に一回だけ選択できます。"
+ decision_once_every_ten_years:0 "この決断は§Y10§!年に一回だけ選択できます。"
  estate_brahmins_loyalty_privilege:0 "バラモン議会"
  estate_brahmins_guaranteed_autonomy:0 "保証されたバラモンの自治"
  estate_brahmins_guaranteed_autonomy_effect_tooltip:4 "§Yダルマ宗教§!の領有州はすべて、以下を得ます：\n州の布教強度：§R-100§!\n州の宗教統一度：§G-100%§!"

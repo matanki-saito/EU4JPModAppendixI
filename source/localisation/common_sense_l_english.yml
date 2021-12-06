@@ -675,7 +675,7 @@
  protestantism_events.36.b:0 "改革派に他の土地へ移動するよう説得する。"
  protestantism_events.36.c:0 "プロテスタント派に他の土地へ移動するよう説得する。"
  protestantism_events.37.t:0 "[Root.GetName]におけるカリスマ的な国王派の説教"
- protestantism_events.37.d:0 "これらの土地の多くのプロテスタント宗派にもかかわらず、[Root.GetName]の人々は我々の母国の国教会に対しても同じように忠実であるようだ。最近のカリスマ的な説教師の登場は、その教会との関係を断つことを考えている人々を扇動しており、[Root.GetName]の人々の忠誠を一層強固なものにしている。"
+ protestantism_events.37.d:0 "この地には多くのプロテスタント諸教派があるが、[Root.GetName]の人々は母国の国教会に変わらず忠誠を誓っているようだ。最近では、教会との繋がりを断とうとする者に抗してカリスマ的説教者が現れ、[Root.GetName]の忠誠はさらに強固となった。"
  protestantism_events.37.a:0 "素晴らしい。"
  protestantism_events.37.b:0 "我々は、これらの人々に自由の価値を浸透させるため、できることをしなければならない。"
  protestantism_events.38.t:0 "[Root.GetName]における宗教的な緊張"
