@@ -1255,7 +1255,7 @@
  UNIT_ATTACH_DESC:0 "Hold §YShift§! to attach to any available unit on same province."
  UNIT_BURN_COLONY_DESC:0 "Burn down this colony for §Y$COST$§W£mil "
  BURN_COLONY:0 "§YBurn Colony§!"
- ANNEX_NATION_NO_PROGRESS:0 "You will not currently make any progress towards annexation ($REASON$) but the process may begin in the future if that changes."
+ ANNEX_NATION_NO_PROGRESS:0 "併合の進捗を進められなくなりますが、将来状況が変わればまた再開させることができます。（$REASON$）"
  LOAN_REPAYMENT_GENERIC_TARGET:0 "Our Creditors"
  SET_DEFENDER_OF_THE_FAITH_EFFECT:0 "$COUNTRY|Y$ becomes Defender of the $RELIGION|Y$ Faith"
  REMOVE_DEFENDER_OF_THE_FAITH_EFFECT:0 "$COUNTRY|Y$ is no longer Defender of the $RELIGION|Y$ Faith"

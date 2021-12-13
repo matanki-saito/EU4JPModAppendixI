@@ -155,5 +155,5 @@
  jewish_flavor.8.a:0 "主はユダヤ人を救ってくださる。[Root.Monarch.GetName]はメシアでは決してない。"
  jewish_flavor.8.b:0 "[Root.Monarch.GetName]はメシアに違いない、我々は民をシオンに帰そう。"
  no_messiah_country_modifier:0 "われらの支配者はメシアではない"
- desc_no_messiah_country_modifier:0 "[Root.Monarch.GetName]は、私たちを聖地に戻してくれる救世主ではありませんが、神はユダヤの民に道を示すだろう。"
+ desc_no_messiah_country_modifier:0 "[Root.Monarch.GetName]は、私たちを聖地に戻してくれる救世主ではないが、神はユダヤの民に道を示すだろう。"
  estate_not_built_temple:0 "神殿再建の約束"
