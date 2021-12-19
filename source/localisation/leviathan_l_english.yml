@@ -684,7 +684,7 @@
  TRADING_POLICY_BONUS:0 "交易政策ボーナス：$VAL$"
  PROPAGATE_RELIGION_TRADING_POLICY:0 "キリスト教、イスラム教、ユダヤ教に属さない州を改宗できます。\n"
  EXPAND_CAPITAL_TERRITORY:0 "首都は、ステートに属する州でなければなりません。"
- LAND_SHARE_PEACE_DEAL:0 "$ESTATE$による土地所有は以下の補正をもたらします：$VAL$。"
+ LAND_SHARE_PEACE_DEAL:0 "$ESTATE$による土地所有は$VAL$補正されます。"
  PROV4934:0 "マウイ"
  PROV_ADJ4934:0 "マウイ"
  PROV4935:1 "オアフ"

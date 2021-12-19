@@ -715,7 +715,7 @@
  ming_crisis.9.B:0 "まだ介入を行う時機ではない。"
  empire_of_china_nomadic_border_events.3.t:0 "[From.GetUsableNameCap]の遊牧民の恐怖"
  empire_of_china_nomadic_border_events.3.d:0 "[From.GetAdjective][From.Monarch.GetTitle]の臣民の間では、我々が代表となっている脅威に宗主が手も足も出ていないという不満の声が上がっています。我々の力が成長し続けるにつれて、このような不満の声は大きくなることが期待できます。"
- empire_of_china_nomadic_border_events.3.opt:0 "彼らの崩壊を待つ必要があります。"
+ empire_of_china_nomadic_border_events.3.opt:0 "奴らの崩壊を待つだけでいいのだ"
  empire_of_china_nomadic_border_events.3.tooltip:0 "§Y[From.GetName]§!：\n国難§Y国境の遊牧民への無防備§!の侵攻度が§R10%§!以上である。"
  empire_of_china_nomadic_border_events.4.t:0 "[From.GetUsableName]での恐慌"
  empire_of_china_nomadic_border_events.4.d:0 "[From.GetUsableName]へ脅威を与える恐怖が拡散する中で、[From.GetAdjective][From.Monarch.GetTitle]は権威維持のための厳しい戦いに直面しています。彼らの中にいる我々の諜報員たちは、すぐにでも、不満によるあからさまな反逆や[From.Monarch.GetTitle]の権威の暴落が噴出すると予想しています…中国の豊かさを自らの手につかむ絶好の機会を提供しています。"

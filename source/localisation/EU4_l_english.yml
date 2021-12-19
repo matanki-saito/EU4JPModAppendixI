@@ -1273,7 +1273,7 @@
  TRADE_STEERING_IRO:0 "これは商人が交易力の流れを誘導するときにどれほど効率的かを表しています。"
  TSI_CURR_MOD_BY:0 "\n現在の補正\n"
  TRADE_INCOME_IRO:0 "これは商人が作り出した交易からどれほどの収入を得ているかを表しています。"
- MERC_DETAILED_IRO:1 "我々の現在の§Y重商主義§!レベルは次の利益をもたらします：\n"
+ MERC_DETAILED_IRO:1 "我々の現在の§Y重商主義§!レベルは以下の利益をもたらします：\n"
  UNION_EFFECT:0 "§Y$WHO$§!は§Y$KING$§!の下、§Y$TARGET$§!と共に同君連合を形成します。\n"
  PROTECTORATE_EFFECT:0 "§Y$TARGET$§!は§Y$WHO$§!の保護国になります。\n"
  MODIFIER_VASSAL_INCOME:0 "属国からの収入"
