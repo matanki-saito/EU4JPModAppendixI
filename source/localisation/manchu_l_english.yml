@@ -650,7 +650,7 @@
  TOTAL_OWN_AND_NON_TRIBUTARIES_DEVELOPMENT_AT_LEAST:1 "自国および従属国（非朝貢国）の合計開発度が$VAL|Y$以上（現在$CURRENT|0Y$）である。\n"
  TOTAL_OWN_AND_NON_TRIBUTARIES_DEVELOPMENT_LESS_THAN:1 "自国および従属国（非朝貢国）の合計開発度が$VAL|Y$未満（現在$CURRENT|0Y$）である。\n"
  new_mandate_holder:0 "新王朝"
- desc_new_mandate_holder:0 "天朝の秩序を回復したので、我が王朝は新しき臣民の間で人気の波に乗っている。"
+ desc_new_mandate_holder:0 "天朝の秩序を回復し、我が王朝は新しき臣民の間で人気の波に乗っている。"
  waging_war_for_china:0 "天朝が為の戦争"
  desc_waging_war_for_china:0 "我が臣民は、天朝を再統一し、我が支配から脱した領土を再び戦線に戻すという試みを歓迎している。"
  ming_crisis.8.t:0 "危機の払拭"
