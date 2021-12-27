@@ -385,7 +385,7 @@
  indonesia_convert_region_title:0 "宗教の支配"
  indonesia_convert_region_desc:0 "信仰を広めることは、自国の神聖なる義務である。ヌサンタラにいる全ての者たちが、神の光を知っていなければならない。"
  obj_convert_60_provinces_tooltip_tt:0 "§Yインドネシア§!地方、§Yマラヤ§!地方、§Yモルッカ§!地方合わせて、少なくとも60州が§Y[Root.Religion.GetName]§!を信仰していなければならない。"
- obj_convert_20_provinces_tooltip_tt:0 "地域で少なくとも20州を改宗する"
+ obj_convert_20_provinces_tooltip_tt:0 "地域で少なくとも20州を改宗する。"
  indonesia_vassals_title:0 "臣下の王国"
  indonesia_vassals_desc:0 "直接的な征服だけで拡大すべきではない。他の王国を服従させ、彼らから貢物を集めることもまたすべきだろう。"
  indonesia_expel_europeans_title:0 "ヨーロッパ人の追放"
