@@ -319,7 +319,7 @@
  estate_nobles_supremacy_over_crown_effect_tooltip:0 "§Y階級§!は§Y議会§!が召集されなくても§Y議題§!を出す事ができます。"
  estate_church_for_the_faith_effect_tooltip:2 "異端または異教との戦争時の陸軍士気：§G+5%§!\n\n15年間異端または異教と平和状態の場合の陸軍士気：§R-5%§!"
  estate_brahmins_for_the_faith_effect_tooltip:2 "異端または異教との戦争時の陸軍士気：§G+5%§!\n\n15年間異端または異教と平和状態の場合の陸軍士気：§R-5%§!"
- estate_brahmins_flexible_deities_revoke_tooltip:1 "この決断は§Y25§!の正統性を消費することで、§Y20§!年ごとに個人の主神を変更することを可能にします。"
+ estate_brahmins_flexible_deities_revoke_tooltip:1 "§Y25§!の正統性を消費することで、§Y20§!年ごとに個人の主神を変更するという決断を無効にします。"
  estate_maratha_levies:0 "徴兵の拡大"
  estate_maratha_levies_for_muslims:0 "マラーター動員数の増加"
  estate_maratha_levies_for_muslims_effect_tooltip:1 "§Yヒンドゥー教§!の領有州はすべて、§Y「マラーター徴兵の増加」§!を獲得し、以下の効果を得ます：\n州人的資源補正：§G+30.0%§!"

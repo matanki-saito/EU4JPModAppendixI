@@ -1325,7 +1325,7 @@
  gen_indian_muslim_harem_desc:0 "ムスリム支配者の権力と威信は、彼のハレムの大きさとその居住者の貴族により測ることが出来る。血で彼らと結びつく為、他の王朝との婚姻同盟を成立させ、インドの国家全てが我々を尊敬するように努めねばならない。"
  gen_indian_muslim_hajj_title:0 "ハッジの港の支配"
  gen_indian_muslim_hajj_desc:0 "全ての忠実なムスリムはメッカへの神聖な巡礼であるハッジに行かねばならない。しかし、この神聖な旅を開始する我々の従属国の者達は、道中に法外な手数料の要求や、強盗の脅威にさえ直面する。巡礼者が聖地へ安全で公正な通路を確保できるよう、西インドのいくつかの港を支配せねばならない。"
- generic_hajj_mission.tooltip:0 "§Yインド西部§!地方に、§Yドック§!または§Y乾ドック§!が建設されている州を§Y5§!州領有する。"
+ generic_hajj_mission.tooltip:0 "§Y西インド§!地方に、§Yドック§!または§Y乾ドック§!が建設されている州を§Y5§!州領有する。"
  gen_indian_muslim_gunpowder_empire_title:0 "火薬帝国"
  gen_indian_muslim_gunpowder_empire_desc:0 "銃器と砲兵はインドの戦争の将来であるが、彼らは単なる軍事戦術以上の変化をもたらす。本当に大軍隊を召集し、十分な大砲装備を容易せねばならない。そうしなければ、ライバルに数で勝られ、多くの銃器を持たれる恐れがある。"
  gen_indian_muslim_brahmins_church_title:0 "宗教的な審議"
