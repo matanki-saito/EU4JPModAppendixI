@@ -3247,7 +3247,7 @@
  HRE_LEAVE_EMPEROR_SHORT:0 "皇帝（§Y$COUNTRY$§W）は§Y$COUNT$§Wの州の所有権を獲得します。\n"
  HRE_LEAVE_NOT_PART_OF_EMPIRE:0 "帝国諸侯ではありません。"
  HRE_LEAVE_HAS_OVERLORD:0 "属国と同君連合下位国は脱退できません。"
- LEAVE_HRE_CONFIRM:0 "神聖ローマ帝国から脱退"
+ LEAVE_HRE_CONFIRM:0 "HREから脱退"
  HRE_LEAVE_NOT_AS_EMPEROR:0 "皇帝は神聖ローマ帝国から脱退することはできません！"
  HRE_LEAVE:0 "神聖ローマ帝国から脱退"
  GRANT_INDEPENDENCE_EFFECT:0 "$WHO$は独立します。\n"

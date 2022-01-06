@@ -1138,7 +1138,7 @@
  MAY_DRILL:0 "兵の訓練が可能"
  MAY_DRILL_SHORT:0 "訓練可"
  EStopMissionReason_TechDoesntAllowIt:0 "必要技術を持っていません。"
- COASTAL_SEA_DESC:0 "ここは沿岸です。ここでは、ガレー船が特に力を発揮し、戦闘時、ガレー船以外の他の艦船に対して50%以上のダメージを与えます。"
+ COASTAL_SEA_DESC:0 "ここは沿岸です。ここでは、ガレー船が特に力を発揮し、戦闘時、ガレー船以外の他の艦船に対して50%多くダメージを与えます。"
  MAPMODE_RELIGIOUS_LEAGUES:0 "宗教連盟"
  MAPMODE_RELIGIOUS_LEAGUES_DESC:0 "どの国がどの宗教連盟に所属しているかを表示します。緑の国は神聖ローマ帝国の公式宗教の連盟に、青色の国は異端の宗教の連盟に属しています。"
  LEAGUE_MEMBER_DESC:0 "$COUNTRY|Y$は神聖ローマ帝国の宗教連盟に参加している"
