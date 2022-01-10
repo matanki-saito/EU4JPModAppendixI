@@ -174,7 +174,7 @@
  NEWCOLONIALCOUNTRY_2:0 "$NAME$"
  NEWCOLONIALCOUNTRY_3:0 "$REGION$の$COUNTRY$領である"
  NEWCOLONIALCOUNTRY_4:0 "海外州から形成されました。"
- NEWCOLONIALCOUNTRY_5:0 "新国家は母国から独立した領土ですが、遠い将来、管理に失敗した際には自由を奪われるかもしれません。"
+ NEWCOLONIALCOUNTRY_5:0 "新国家は母国とは別の独自の領土ですが、遠い将来、管理に失敗した際には母国を離れて自立するかもしれません。"
  NEWCOLONIALCOUNTRY_6:0 ""
  NEWCOLONIALCOUNTRY_LOG:0 "$NAME$、$REGION$で形成"
  NEWCOLONIALCOUNTRY_BTN1:0 "OK"
