@@ -97,7 +97,7 @@
  TN_LOCAL_VALUE:0 "域内交易額："
  TN_INCOMING_VALUE:0 "流入交易額："
  TN_SEND_MERCHANT:0 "商人を派遣"
- TN_MERCHANT_PRESENT:0 "$NAME$ ($TYPE$)"
+ TN_MERCHANT_PRESENT:0 "$NAME$（$TYPE$）"
  TRADE_RETENTION:0 "交易力の§Y$PART$§W%によって§Y$VAL$§W¤がこのノードに留まっています。"
  TRADE_PULL:0 "交易力の§Y$PART$§W%によって§Y$VAL$§W¤が流出しています。"
  TRADE_POWER_TAKE_PART:0 "§Y$COUNTRY$§Wは交易から徴収する国々の中で§Y$PART$%§Wの交易力を有しています。"

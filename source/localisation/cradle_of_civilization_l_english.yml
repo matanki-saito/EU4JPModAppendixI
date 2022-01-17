@@ -835,7 +835,7 @@
  alert_can_invite_scholar_instant:0 "§Y学者§!を招聘可能"
  alert_can_invite_scholar_delayed:0 "$LIST$"
  alert_can_invite_scholar_list_entry:0 "$SCHOOL|Y$\n"
- RELATION_UPKEEP_ENTRY:0 "$NATION|Y$ ($RELATION|G$)\n"
+ RELATION_UPKEEP_ENTRY:0 "$NATION|Y$（$RELATION|G$）\n"
  nothingness_modifier:0 "徴集した部隊"
  COUNTRIES_AFFECTED_LIST:1 "\n\nこれは以下の国家に影響を及ぼします：\n$LIST$"
  STATE_JANISSARIES_GOVERNMENT_ALLOWS:0 "オスマン政府の国家のみイェニチェリを徴収できます。"

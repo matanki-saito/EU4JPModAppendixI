@@ -198,7 +198,7 @@
  ENOUGH_ESTATE_AGENDAS_COMPLETED:0 "$VAL|Y$の$ESTATE|Y$からの議題を達成した"
  NOT_ENOUGH_ESTATE_PRIVILEGES_GRANTED_CURRENTLY:0 "$ESTATE|Y$に与えられた特権が$VAL|Y$未満である"
  ENOUGH_ESTATE_PRIVILEGES_GRANTED_CURRENTLY:0 "$VAL|Y$の特権は現在$ESTATE|Y$に与えられている"
- ESTATE_MOD_EXPIRY:0 "($DATE|Y$に期限切れ)"
+ ESTATE_MOD_EXPIRY:0 "（$DATE|Y$に期限切れ）"
  INFLUENCE_FROM_ESTATE_LOYALTY:0 "$OVERLORD|Y$の$ESTATE|Y$の忠誠度"
  vassal_liberty_affected_by_loyalty:0 "属国の独立欲求は忠誠度の影響を受けます。"
  can_give_agendas_without_interaction:1 "階級はいつでも議題を追求可能"

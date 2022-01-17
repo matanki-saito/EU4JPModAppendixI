@@ -272,7 +272,7 @@
  elective_monarchy.6.a:0 "これらの法外な要求を受け入れる。"
  elective_monarchy.6.b:0 "我々は彼の魂を害することはない！"
  elective_monarchy.7.t:0 "不審な事故"
- elective_monarchy.7.d:0 "$FROM$の王位への我々の候補者は、狩猟中の事故のように見えるもので亡くなった。我々は事故が実際には別の候補者の支援によって行われた狡猾な暗殺であったと考えているが、我々には証拠がなく、$FROM_ADJ$王座に我々の王朝の者を据えるためのあらゆる努力が水の泡となった。"
+ elective_monarchy.7.d:0 "我々の$FROM$王位候補者は、狩猟中の事故のように見えるもので亡くなった。我々は事故が実際には別の候補者の支援によって行われた狡猾な暗殺であったと考えているが、我々には証拠がなく、$FROM_ADJ$王座に我々の王朝の者を据えるためのあらゆる努力が水の泡となった。"
  elective_monarchy.7.a:0 "ひどい！"
  elective_monarchy.8.t:0 "[Root.Monarch.Dynasty.GetName]の血の結束"
  elective_monarchy.8.d:0 "政治的な外部からの影響で[Root.GetName]が弱体化することもあるが、他国から君主を選出すれば、信頼の絆ができ、独自の外交の機会が与えられる。[Root.Monarch.GetName]は、[Root.Monarch.GetHerHis]の一族の海外への影響力を有効に活用し、かつて[Root.Monarch.GetTitle]が故郷と呼んでいた場所との関係を強化した。"
