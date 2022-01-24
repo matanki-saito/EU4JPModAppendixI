@@ -1093,7 +1093,7 @@
  son_invite_foreign_scholars_ct:0 "首都が§Yサヘル§!地方、§Yニジェール§!地方、§Yギニア§!地方のいずれにもなく、国教が§Y[Root.Religion.GetName]§!であり、§Y[Root.GetName]§!の同盟国である国家が存在する。"
  son_invite_foreign_scholars_bt:0 "[Root.GetName]は、外交要求せずに§Y学者§!を招聘できるようになる。\n"
  son_invite_foreign_scholars_at:0 "学者の種類は、本ミッションの完了時点で招聘していた学派に依る。"
- son_invite_foreign_scholars_tt:0 "首都が§Yサヘル§!地方、§Yニジェール§!地方、§Yギニア§!地方のいずれにもない\n　§Y[Root.Religion.GetName]§!である\n　§Y[Root.GetName]§!への外交評価が§Y150§!以上"
+ son_invite_foreign_scholars_tt:0 "首都が§Yサヘル§!地方、§Yニジェール§!地方、§Yギニア§!地方のいずれにもない\n  §Y[Root.Religion.GetName]§!である\n  §Y[Root.GetName]§!への外交評価が§Y150§!以上"
  son_power_to_the_ulema_title:0 "[Root.GetClergyName]にさらなる力を"
  son_power_to_the_ulema_desc:1 "我が[Root.GovernmentName]は、宗教的統一と啓蒙の方向へと向かっている。しかし、まだやるべきことが山のようにある。[Root.GetClergyName]が自国の神聖な法を管理し、異教徒の改宗を監督しているが、自政府に制限を課されている。彼らが法の創造の進歩を進めるためには、もっと自由と特権を与えるべきである。"
  son_convert_west_africa_title:0 "西アフリカの改宗"
