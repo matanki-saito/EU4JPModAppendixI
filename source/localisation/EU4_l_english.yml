@@ -697,7 +697,7 @@
  FE_LIMITED_LEDGER:0 "台帳の制限"
  FE_LIMITED_LEDGER_DESC:0 "ゲーム中の台帳情報を制限します。マルチプレイでプレイヤーが未知の情報を閲覧できないようにすることができます。"
  AFFECTED_BY_AUTONOMY:0 "州の自治率により$AMT$減少します。"
- PI_GRANTS:0 "そして次の$DURATION|Y$年：\n$MOD$"
+ PI_GRANTS:0 "今後$DURATION|Y$年：\n$MOD$"
  PARLIAMENT_SMALLER_THAN:0 "$NAME$は$VAL|Y$未満の議席を持っています。\n"
  PARLIAMENT_AT_LEAST:0 "$NAME$で少なくとも$VAL|Y$の議席。\n"
  PARL_ISSUE_TITLE:0 "$NAME$を通じて押し通す問題を選択します。"
