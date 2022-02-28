@@ -1328,7 +1328,7 @@
  SELL_SHIPS_COOLDOWN:0 "最近船を売ったため、$DATE|Y$まで再度船の売却はできません。"
  MILITARIZATION_EXPLANATION:0 "あなたの国の軍事レベルは以下の補正に影響を及ぼします："
  MILITARIZATION_EXPLANATION_CURRENT:0 "現在のレベル（$VAL|Y$）では、以下をもたらします："
- FAVORS_INSTANT_RECIPROCAL:0 "$COUNTRY|Y$に$NUM|2Y$の好感度を負っています。"
+ FAVORS_INSTANT_RECIPROCAL:0 "$COUNTRY|Y$に$NUM|2Y$の好感度を抱いています。"
  MESSAGE_SEARCH_BUTTON_TOOLTIP:0 "指定した単語やフレーズを検索します。"
  MESSAGE_CLEAR_BUTTON_TOOLTIP:0 "検索テキストを消去します。"
  CURIA_APPOINT_CARDINAL_POPE:0 "$COST|Y$¤を払って、支持者の一人を枢機卿に任命します。これにより、汚職$CORRUPTION|R$が発生します。"
