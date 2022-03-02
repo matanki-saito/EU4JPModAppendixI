@@ -894,3 +894,5 @@
  ENEMY_STRENGTH_UNACCOUNTED:0 "参戦要請される可能性のある国の兵力について一切の情報を持ち合わせていません。"
  SUPPORT_REBELS_POWER_PROJECT:0 "これによって、彼らに対する自国の戦力投射も増加します。"
  CURRY_FAVORS_OUTLINER:0 "$NAME$は$COUNTRY|Y$におべっか中です。現在、以下の理由で、毎月$VAL|+=2$の好感度を獲得します：\n$WHY$"
+ take_capital_hundred_years_war:0 "Take the capital"
+ take_capital_hundred_years_war_desc:0 "War goal is to take the capital."

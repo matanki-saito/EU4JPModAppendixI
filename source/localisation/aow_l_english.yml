@@ -2332,7 +2332,7 @@
  accepted_claim_on_neighbor:0 "隣国で受け入れられた主張"
  rejected_claim_on_neighbor:0 "隣国で拒否された主張"
  REMOVE_ELECTORATE_NO_OFFICIAL_RELIGION:0 "帝国の公式宗教が定まらない限り、選帝侯を解任することはできません。"
- AUTO_TRANSPORT_NO_COG:1 "\n艦隊で部隊を輸送するのに輸送船が必要です。"
+ AUTO_TRANSPORT_NO_COG:2 "You need transport ships in order to transport troops with this fleet."
  flavor_vij.20.t:0 "帝都チャールキヤ"
  flavor_vij.20.d:0 "滅亡から長い年月が経過しているが、デカンからタミル王国まで至るチャールキヤ帝国は人々の記憶に強く残っている。我々の帝国が拡大と発展を続けたことで、詩人や年代史家はヴィジャヤナガルをチャールキヤ帝国の生まれ変わりのように記録する。かつてバフマニー朝の首都だったビーダルから離れていない古代チャールキヤの首都カリアーナを獲得したことで我々はチャールキヤの遺産を我々のものとして請求できるように宮廷を北部都市に移転する機会を得た。\n\nヴィジャヤナガルの伝統的な首都、勝利の都市は偉大で有望な都市であり、我々独自の帝国の遺産を築くことができるでしょう。"
  flavor_vij.20.a:0 "首都は勝利の都のままでいい。"
@@ -2359,3 +2359,4 @@
  incan_nation_empire_custom_tooltip:0 "§Y[Root.GetName]§!の政府ランクが§Y帝国§!に変わります。"
  TRADE_COMPANY_MOLUCCAS_Indonesia_Trade_Company:0 "モルッカ交易会社"
  REVOLUTIONARY_SHORT_NAME:0 "革命$NAME$"
+ nivkh:0 "Nivkh"

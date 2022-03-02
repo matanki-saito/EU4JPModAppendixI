@@ -74,7 +74,7 @@
  icelandic_nation_desc:0 "状況は我々のアイスランドの支配を我が国の最前線にするように生じている。アイスランド国家としてこの新しい独自性を受け入れ、地方の制度を強化し、島全体に我々自身の支配を確立しよう。"
  global_flag_western_focus_not_set_tooltip:0 "他の国は§Y西方重視§!の決断を取得していません。"
  reestablishing_themes_names_tooltip:0 "我々が支配するトルコの州の名がギリシャ式に復元されます。"
- roman_culture_provinces_tooltip:0 "すべての主要文化の州が§Yローマ§!文化になります"
+ roman_culture_provinces_tooltip:1 "All provinces of the [Root.Culture.GetGroupName] Culture Group will now have §YRoman§! Culture."
  no_more_celestial_empire_title:0 "政府改革"
  no_more_celestial_empire_desc:0 "我々の政府機関を十分に強化することで、我々は宮廷内の派閥を打破して、$MONARCHTITLE$の直接支配を確保することができる。"
  native_american_reform_title:0 "社会改革"

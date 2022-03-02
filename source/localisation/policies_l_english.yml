@@ -392,7 +392,6 @@
  commercial_tribes_policy:0 "商業部族"
  desc_commercial_tribes_policy:0 "商業網も格段に広がり、自国の商人はその行動範囲を非常に大きく広がることができるようになった。やる意思があれば、道は開く｡"
  war_horses_policy:0 "軍馬"
- desc_war_on_horses:1 "我々は自身を守るかのように馬を守っている。馬の機動性と耐久性は幾度となく助けてくれ、拡張という野望を際限なく推し進められる理由でもある。万夫が一週間移動に掛かっている行程も、我々は一日で掠奪まで為すのだ！"
  the_best_defense_policy:0 "最高の防衛"
  desc_the_best_defense_policy:0 "最高の防衛とは、失点のない防衛のことだ。我々は他国の軍隊から着想を得て、機動性を損なうことなく過酷な戦場に耐えうる優れた陸軍を創り出した。"
  omne_datum_optimum_policy:0 "全ての善き贈り物"
@@ -417,3 +416,4 @@
  desc_render_unto_caesar_policy:0 "神から与えられしものは神へ返さねばならず、我々が他者へ与えしものは彼らが我々に返さねばならない。自国の世界への拡張は、啓蒙の贈り物だ。"
  canoe_expertise_policy:0 "カヌー技術"
  desc_canoe_expertise_policy:0 "我が民族は、昔からカヌーと共に歩んできた長い歴史を持ち、カヌーの操縦法を身につけ、その技術は並外れている。自国の船乗りは、カヌーの技能をさらに大きな船舶の操縦にも生かすことができる。"
+ desc_war_horses_policy:1 "We protect our horses as much as we protect ourselves. Their speed and endurance have helped us on numerous occasions and are the reason why our ambitions of expansion can reach almost impossible limits. What a simple man travels in one week, we raze in one day."

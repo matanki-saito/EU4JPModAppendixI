@@ -823,3 +823,6 @@
  ENEMY_GUARANTEES:0 "$NAME|Y$は以下の国によって独立が保証されています：\n"
  shinto_events.58.c:1 "南無阿弥陀仏。彼らの共同体に全権を与えるのだ。"
  shinto_events.58.e:1 "南無阿弥陀仏。彼らの哲学は理に適っている。だが、彼らの支配など許さぬ。"
+ empire_of_china_nomadic_border_tt:0 "Is a §YHorde§! and has §Y300§! own and non-tributary subject total development"
+ temple_of_confucius_modifier:0 "Temple of Confucius"
+ desc_temple_of_confucius_modifier:0 "The Temple of Confucius in Qufu is the largest and most renowned temple of Confucius. Originally the house of Confucius himself, the temple has become somewhat of a holy site for the Confucian ways. Many emperors visited this temple in order to offer sacrifices to the memory of Confucius."
