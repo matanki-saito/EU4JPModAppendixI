@@ -202,7 +202,7 @@
  TUT_ADV_CHAPTER02_PAGE03_TEXT:0 "交易マップモードは、どの州がどの交易区に属しているのかであったり、交易品の流れを表示します。それに加えて、どの方向に交易力を流すのかを商人に対して指定することができます。§M交易力の移動§!については後ほど学びます。"
  TUT_ADV_CHAPTER02_PAGE03_OBJECTIVES:0 "§M次へ§!をクリックして続ける。"
  TUT_ADV_CHAPTER02_PAGE04_TITLE:1 "帝国マップモード"
- TUT_ADV_CHAPTER02_PAGE04_TEXT:1 "The Imperial Mapmode shows which provinces belong to the §MHoly Roman Empire§!. Green provinces are imperial provinces, orange are the Electors, blue are the Free Cities and purple is the Emperor. You may notice that one of your provinces (Brescia) belong to the empire, while you as Venice, do not."
+ TUT_ADV_CHAPTER02_PAGE04_TEXT:1 "帝国マップモードは、どの州が§M神聖ローマ帝国§!に属しているかを示します。緑の州が帝国のものであり、オレンジは選帝侯の、青は自由都市の、紫は皇帝のものであることを示します。ヴェネツィアのものであるブレシアが帝国の州であることに気づきましたよね？"
  TUT_ADV_CHAPTER02_PAGE04_OBJECTIVES:0 "§M次へ§!をクリックして続ける。"
  TUT_ADV_CHAPTER02_PAGE05_TITLE:1 "宗教マップモード"
  TUT_ADV_CHAPTER02_PAGE05_TEXT:0 "宗教マップモードは世界中の宗教分布を示します。これにより、どの州が§M国教§!を信仰していないかや、同朋や仇敵がどこにいるかを簡単に確認できます。"

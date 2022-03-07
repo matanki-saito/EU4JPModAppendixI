@@ -536,4 +536,4 @@
  lottery_candidate_bonus_one:0 "§Yランダム候補ボーナス§!：この候補はランダムに選ばれたスキルが§G1§!変化しています。"
  lottery_candidate_bonus_plural:0 "§Yランダム候補ボーナス§!：各候補はランダムに選ばれたスキルが§G1§!変化しています。"
  STEPPE_HORDE_BENEFITS:0 "\n§Yステップの遊牧民§!政府改革により以下のボーナスを得ます：\n国家人的資源補正：§G+20.0%§!\n陸軍扶養限界補正：§G+20.0%§!\n分離主義の年数：§G-5§!\n略奪速度：§G+50.00%§!\n制度の普及：§R-15.0%§!\n移動速度：§G+20.00%§!\n補充コスト：§G-50.0%§!\n騎兵と歩兵の比率：§G+25.0%§!"
- flavor_nav.5.a.tt:0 "A member of the §Y[ARA.Monarch.Dynasty.GetName]§! will rule over [ARA.GetName]."
+ flavor_nav.5.a.tt:0 "§Y[ARA.Monarch.Dynasty.GetName]§!家の一員が[ARA.GetName]を統治するでしょう。"

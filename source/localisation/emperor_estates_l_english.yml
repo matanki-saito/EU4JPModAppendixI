@@ -1233,7 +1233,7 @@
  estate_burghers_exclusive_trade_rights_revoke_tooltip:0 "「独占交易権」の補正は所有する全ての州から取り除かれます"
  PRIVILEGE_LOYALTY_CHANGE:1 "$ESTATE$の階級の忠誠均衡値は$VAL|+%0$変化します。"
  PRIVILEGE_INFLUENCE_CHANGE:0 "$ESTATE$の影響力は$VAL|Y%0$変化します。"
- PRIVILEGE_MAX_ABSOLUTISM_CHANGE:1 "Max Absolutism will be changed by $VAL|+0$."
+ PRIVILEGE_MAX_ABSOLUTISM_CHANGE:1 "最大絶対主義は$VAL|+0$変化します。"
  PRIVILEGE_LANDSHARE_CHANGE:0 "$VAL|Y0$の直轄地を$DIR$。"
  PRIVILEGE_NO_CHANGE:0 "この特権は$WHAT|Y$には影響しません。"
  CROWNLAND:0 "直轄地"

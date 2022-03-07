@@ -675,7 +675,7 @@
  CONFIRMREMOVEPASHA_TEXT:1 "$STATE|Y$でパシャを解任すると、以下の影響が得られます：\n$EFFECT$"
  pasha_removed_modifier:0 "パシャは解任された"
  PASHA_MODIFIER:0 "ステートのパシャ"
- CONFORM_TO_TEMPLATE:1 "§YConform to Template§!"
+ CONFORM_TO_TEMPLATE:1 "§Yテンプレートに従う§!"
  CONFORM_TO_TEMPLATE_ARMY_DESC:0 "この陸軍をテンプレートに適合させるために陸軍のテンプレートを選択します。\nテンプレートと一致しない連隊は新しい陸軍として切り離され、不足している連隊が構築され、この陸軍に移動して統合されます。"
  CONFORM_TO_TEMPLATE_NAVY_DESC:1 "この海軍をテンプレートに適合させるために海軍のテンプレートを選択します。\nテンプレートと一致しない船は新しい艦隊として切り離され、不足している船が構築され、この海軍に移動して統合されます。"
  NO_CONFORM_TO_TEMPLATE_CONDOTTIERI:0 "§Rこの陸軍は現在テンプレートに適合させることはできません。§!\n陸軍は現在コンドッティエーリとして借りています。"
