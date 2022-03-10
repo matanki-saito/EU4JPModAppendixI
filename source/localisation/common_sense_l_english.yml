@@ -1659,7 +1659,7 @@
  TRANSFER_OCCUPATION_TITLE:0 "占領の移管"
  CANT_BUILD_IN_OCCUPIED:0 "この建築枠は空いていますが、州が占領されているため、建設することはできません。"
  FORT_FLIPPING:2 "$PROV$の支配は$FORT$の要塞によって$FLIPPER$に戻されています。進捗は$PERCENT|Y$%です。"
- FORT_FLIPPING_SLIPPING:1 "$FLIPPERADJ$ attempts to wrest control of $PROV$ from $CONTROLLER$ are being repelled by hostile armies. Progress is now $PERCENT|Y$%."
+ FORT_FLIPPING_SLIPPING:1 "$FLIPPERADJ$が$CONTROLLER$から$PROV$の支配を簒奪しようとしているが、敵軍に撃退を受けている。現在の進捗率は$PERCENT|Y$%である。"
  BUILDING_DISCOUNT:0 "$NAME|Y$がすでに建設されているため$DISCOUNT$¤安くなります。"
  guarantee_religious_tolerance_tooltip:0 "1つの州は§G-10%§!の§Y開発コスト§!を獲得します。"
  guarantee_religious_tolerance_tooltip_2:0 "[Root.GetName]は§G-10%§!の§Y開発コスト§!を10年間獲得します。"

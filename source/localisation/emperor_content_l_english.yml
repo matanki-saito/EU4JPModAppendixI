@@ -3302,5 +3302,5 @@
  COMMANDER_EMPRESS:0 "帝国女性司令官"
  incidents_bur_inheritance.102.c.tt:0 "§Y低地諸国§!に首都がある§Y[BUR.GetName]§!の従属国が全て独立し、神聖ローマ帝国に加盟します。"
  mary_is_on_the_throne:0 "マリー・ド・ブルゴーニュ"
- desc_john_calvin_modifier:0 "John Calvin serves this nation as its Spiritual Leader."
- desc_mercenary_monopoly_modifier:0 "This nation has achieved a complete monopoly of the mercenary market."
+ desc_john_calvin_modifier:0 "ジョン・カルヴァンは、この国の精神的指導者として仕えている。"
+ desc_mercenary_monopoly_modifier:0 "この国は傭兵市場の完全独占を成し遂げた。"
