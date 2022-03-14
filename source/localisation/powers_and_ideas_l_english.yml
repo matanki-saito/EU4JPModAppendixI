@@ -122,7 +122,7 @@
  SORTIES_NOT_OWNING_PROVINCE:0 "所有していない州での出撃はできません。"
  SORTIES_NOT_CONTROLLING_PROVINCE:0 "自国管理外の州から出撃することはできません。"
  SORTIES_NOT_ENOUGH_GARRISON:0 "守備隊が$GARRISON$人未満の場合、出撃することはできません。"
- SORTIES_REFUSE:0 "守備側の軍は、敵軍が圧倒的である場合には、守備隊を残すことを拒否します。"
+ SORTIES_REFUSE:0 "守備軍は、敵軍が圧倒的である場合には、駐屯地から離れることを拒否します。"
  SORTIES_NOT_SIEGE:0 "州が包囲されている場合を除き、兵を出撃させることはできません。"
  CONFIRMSORTIESTEXT:0 "§Y$PROV$§Wを守るために出撃しますか？"
  CONFIRMSORTIES:0 "城砦から出撃！"

@@ -2718,7 +2718,7 @@
  CREATING_BORDERS:0 "国境を作成中…"
  CREATING_RIVERS:0 "川を作成中…"
  MAP_PROPERLY_INIT:0 "マップを初期化中…"
- CREATING_PROVINCE:0 "州の作成"
+ CREATING_PROVINCE:0 "州の作成中 #"
  CREATING_TEXTS:0 "テキストを作成中…"
  LOAD_EVENTS:0 "イベントを読み込み中…"
  ADAPTING_HISTORY:0 "歴史を適応中…"
