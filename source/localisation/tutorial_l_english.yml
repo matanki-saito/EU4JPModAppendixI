@@ -124,7 +124,7 @@
  TUT_BAS_CHAPTER04_TITLE:0 "戦争"
  TUT_BAS_CHAPTER04_DESC:0 "チュートリアルのこの章は、§M戦争§!と§M外交§!に焦点を当てます。"
  TUT_BAS_CHAPTER04_PAGE01_TITLE:1 "宣戦布告"
- TUT_BAS_CHAPTER04_PAGE01_TEXT:1 "When you Declare War on a target you want to have a §MCasus Belli§! on them. If you do not have a Casus Belli, or justification for war, you will suffer negative effects from declaring war on them.\nIf you right click the §MLeinster§! province you will notice the §MDeclare War§! button. When you click on it you will see that you only have the option of §RNo Casus Belli§!.\nFortunately, your nation has a §MCore§! on the Leinster province, which will grant you a §MCasus Belli§! to take it. However, like many other elements of the game, the Casus Belli will be updated after running the game a few ingame days.\n\n§YUnpause the game for a few days, then click the §MLeinster§Y province, then click §MDiplomacy§Y and select §MDeclare War§Y. Select the Conquest Casus Belli with §MTake Leinster§Y as War Goal and then click §MDeclare War§Y.§W"
+ TUT_BAS_CHAPTER04_PAGE01_TEXT:1 "宣戦布告には§M開戦事由§!が必要です。開戦事由または戦争に対する正当性を持っていない場合に宣戦を布告するとペナルティを受けます。\n§Mレンスター§!州を右クリックすると、§M宣戦布告§!ボタンが表示されます。これをクリックすると、§R開戦事由なし§!の選択肢しかないことが分かるでしょう。\n幸運にも、あなたの国はレンスター州に§M中核§!を持っています。中核はその地を奪取するための§M開戦事由§!を与えてくれます。しかし、このゲームの他の多くの要素と同じく、開戦事由はゲーム内時間で数日経過した後に更新されます。\n\n§Yポーズを解除してゲーム内時間を数日進めた後、§Mレンスター§Yの州をクリックしてください。その後§M外交§Yをクリックして§M宣戦布告§Yを選択。戦争目標として§Mレンスターの占領§Yを選び§M宣戦布告§Yをクリックしてください。§W"
  TUT_BAS_CHAPTER04_PAGE01_OBJECTIVES:0 "レンスターに§M宣戦布告§!してください。"
  TUT_BAS_CHAPTER04_PAGE02_TITLE:1 "戦争"
  TUT_BAS_CHAPTER04_PAGE02_TEXT:0 "レンスターの州に軍隊を移動させてください。また包囲と占領も完了させてください。全ての軍隊を連れて行きたければ、複数の軍隊を1つに統合して船で運んでください。\n\n§Y一時停止の解除を忘れないでください。§!"

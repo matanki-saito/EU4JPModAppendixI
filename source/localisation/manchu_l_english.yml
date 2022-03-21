@@ -775,7 +775,7 @@
  flavor_kor.14.t:0 "[From.GetName] requests to become our Tributary"
  flavor_kor.14.d:0 "The [From.Monarch.GetTitle] of [From.GetName] has finally recognized our superior military power and requests to become the tributary of our great [Root.GovernmentName]. Of course there are good reasons to accept [From.Monarch.GetHerHis] request, but we will be forced to give up our plans to expand into the Korean peninsula."
  flavor_kor.14.a:0 "Accept the request"
- flavor_kor.14.a.tt:0 "Every owned province in the §YKorea§! region gets returned to §Y[KOR.GetName]§!."
+ flavor_kor.14.a.tt:0 "§Y朝鮮§!地方の全ての領有州が§Y[KOR.GetName]§!に返還される。"
  flavor_kor.14.b:0 "Refuse the request"
  flavor_mch.EVTNAME8:0 "満州の勃興"
  flavor_mch.EVTDESC8:0 "満州地域の女真族は、いつも[Root.GetName]に忠実な朝貢国であった。身の程を弁え、我々に仕えていたのだ。\nしかし、最近ではその態度が大きく変わりつつある。我々が年貢を貰って満足している間に、征服欲溢れる女真族は他部族を征服し、地域と部族を一つにまとめ上げたのだ。"
