@@ -116,7 +116,7 @@
  alert_agreement_fail_instant:0 "§Y協定はパワーが低いため失敗するだろう！§W"
  alert_agreement_fail_delayed:0 "$LIST$との協定は外交力が低いため失敗するでしょう。"
  UPKEEP_EXPLANATION:0 "$CURR$/$ALLOW$ 外交関係：$COST$\n$LIST$"
- UPKEEP_MOD_DESC:0 "私たちは以下によって$NUM|Y$の国々との外交関係を支援することが出来ます："
+ UPKEEP_MOD_DESC:0 "以下の理由により、$NUM|Y$国との外交関係を無償で維持することが出来ます："
  DIP_MAINT:0 "$RELATION$：（§Y$COUNTRY$§W）：§Y-$VAL$§W"
  RIVAL_IMPACT_ON_SPY:0 "ライバル：$VAL$\n"
  MILACCESS_TYPE:0 "軍事通行権"
