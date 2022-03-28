@@ -91,7 +91,7 @@
  merchant_investement:0 "商人への投資"
  desc_merchant_investement:0 "収益性の高い交易により、我々は商人に投資する機会を得ており、その機会はすぐに把握されることとなった。"
  rush_of_merchants:0 "性急な商人たち"
- desc_rush_of_merchants:0 "我々の商人たちは、公海上で新たな配送と交易を開始した。"
+ desc_rush_of_merchants:0 "我々の商人たちは、外海で新たな配送と交易を開始した。"
  business_booming:0 "商取引の活況"
  desc_business_booming:0 "我々の巧妙な商取引慣行のおかげで、商人は我々の王国に引き付けられており、その結果、交易効率は向上した。"
  competent_diplomacy:0 "優れた外交"

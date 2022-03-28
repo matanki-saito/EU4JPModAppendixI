@@ -639,7 +639,7 @@
  BUILD_UNIT_NOT_WHEN_EXPLORING:0 "§R探検任務の海軍ユニットを構築することはできません。§!\n"
  BUILD_UNIT_NOT_WHEN_MOTHBALLED:0 "§R使用停止されている海軍ユニットを構築することはできません。§!\n"
  BUILD_UNIT_NOT_WHEN_AUTO_TRANSPORTING:0 "§R輸送されているユニットを構築することはできません。§!\n"
- BUILD_UNIT_NOT_AT_SEA:0 "§R公海上で海軍ユニットを構築することはできません。§!\n"
+ BUILD_UNIT_NOT_AT_SEA:0 "§R外海で海軍ユニットを建造することはできません。§!\n"
  THREATENWARTITLE:0 "武力で脅迫する"
  THREATENWARDESC:0 "これは、あなたが主張あるいは中核州を有する戦争で彼らを脅かすものです。彼らがあなたをどれだけ恐れているかによって、彼らは引き下がる可能性があります。もしそうでなければ、その州を巡って戦争が始まります。一方、彼らが受け入れると、あなたは州を獲得し、停戦が成立します。"
  THREATENWAR_DESC:0 "戦争の脅威の下で我々は、$THEM$に対し$PROV|Y$を要求します。"

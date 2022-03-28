@@ -81,7 +81,7 @@
  tributary_overlord_refugees:0 "政治的難民の居住地"
  desc_tributary_overlord_refugees:0 "この州は、有能な政治的難民が定住したために、経済的な上昇を経験している。"
  tributary_mission_piracy:0 "海賊行為"
- desc_tributary_mission_piracy:0 "朝貢船団は公海上で海賊に悩まされている。これにより我々は収入を失い、船団の航路を警備するためのコストを増加させている。"
+ desc_tributary_mission_piracy:0 "朝貢船団は外海で海賊に悩まされている。これにより我々は収入を失い、船団の航路を警備するためのコストを増加させている。"
  tributary_gave_up_political_refugees:0 "政治難民を放棄した"
  tributary_forced_brain_drain:0 "エリートの移住を強制した"
  tributary_aiding_smugglers:0 "密輸業者への支援"
