@@ -108,7 +108,7 @@
  industrialization_events.19.b:0 "我々にできることは何もない。"
  industrialization_events.20.t:0 "[mining_province.GetName]で鉱山事故"
  industrialization_events.20.d:0 "新技術により、[mining_province.GetName]の鉱山は大幅に拡張され、昔では考えられない効率で採掘をしている。\nしかしながら、新しい機械には危険がないわけではない。鉱山での爆発によって落盤が起こり、多くの鉱夫が閉じ込められ、重要な生産に遅れが出ている。"
- industrialization_events.20.a:0 "不幸だ。"
+ industrialization_events.20.a:0 "不幸だな。"
  industrialization_events.21.t:0 "[fire_province.GetCapitalName]の火災"
  industrialization_events.21.d:0 "地元の工場で始まった火災は[fire_province.GetCapitalName]の窮屈な住宅に急速に広がり、街を荒廃させた。人々の中には、これが時代の都市化と産業化の進展に伴う新たな問題であると考えている人もいる。"
  industrialization_events.21.a:0 "工場の所有者は都市の再建に貢献しなければならない。"

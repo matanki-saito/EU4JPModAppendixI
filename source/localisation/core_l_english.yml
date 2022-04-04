@@ -827,7 +827,7 @@
  FE_RANDOM_NEW_WORLD:0 "ランダムな新世界"
  INVALID_REGENCY:0 "$COUNTRY$は現在、暫定評議会によって支配されています。ゲームの開始時に新しい統治者がランダムに生成されます。"
  SET_VARIABLE:0 "$VAR|Y$を$VALUE|Y$に設定する"
- CHANGE_VARIABLE:1 "$VAR|Y$を$VALUE|Y$に変更する"
+ CHANGE_VARIABLE:1 "$VAR|Y$が$VALUE|Y$変化"
  SUBTRACT_VARIABLE:1 "$VAR|Y$から$VALUE|Y$を引く"
  MULTIPLY_VARIABLE:1 "$VAR|Y$と$VALUE|Y$を乗じる"
  DIVIDE_VARIABLE:1 "$VAR|Y$を$VALUE|Y$で割る"

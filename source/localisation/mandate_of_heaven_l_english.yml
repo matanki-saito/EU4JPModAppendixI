@@ -138,7 +138,7 @@
  tributary_events.10.b:0 "二つの派閥に異なる朝貢先を割り当てる。"
  tributary_events.11.t:0 "[ningbo_province.GetCapitalName]事件"
  tributary_events.11.d:0 "我々は、地元の派閥同士の些細な紛争による、朝貢任務の悪用を我々の無能により取り締まることができなかったことで、彼らが我が国と対外交易に制限を課しているという[Root.Overlord.GetName]からの知らせを受けた。決定的に行動しない限り、これは何年もの間問題になる可能性がある。"
- tributary_events.11.a:0 "不幸だ。"
+ tributary_events.11.a:0 "不幸だな。"
  tributary_events.11.b:0 "[Root.Overlord.GetName]に不都合な点を補償する。"
  tributary_events.12.t:0 "[ningbo_country.GetName]からの朝貢"
  tributary_events.12.d:0 "[ningbo_country.GetName]の大使が、[ningbo_province.GetCapitalName]で交わされた不愉快な行為の補償として、大きな贈り物と共に到着した。[ningbo_country.Monarch.GetTitle]は、彼の反抗的な部下に対して最も厳しい処分を行っており、将来の朝貢任務のために平和が維持されることを個人的に保証している。"
