@@ -2246,7 +2246,7 @@
  OFFERCONDOTTIERI_REQDES1:0 "$ACTOR|Y$は我々に対し、陸上部隊の貸し出しを提案しています\n$ARMY|Y$$UNITDESC$\n推定コストは毎月§Y$PRICE$§!¤です。\n我々は最初の$MONTHS$ヶ月分、\n$UPFRONT_PRICE|Y$¤を先払いで支払わなくてはなりません。"
  OFFERCONDOTTIERI_REQDES2:0 "この軍隊は$LEADERDESC$が指揮しています。"
  OFFERCONDOTTIERI_REQDES3:0 "受け入れますか？"
- OFFERCONDOTTIERITITLE:0 "ｺﾝﾄﾞｯﾃｨｴｰﾘ提供"
+ OFFERCONDOTTIERITITLE:0 "ｺﾝﾄﾞｯﾃｨｴｰﾘを提供"
  OFFERCONDOTTIERI_OFFDESC:0 "$RECIPIENT|Y$に我々から$ARMY|Y$を毎月合計§Y$PRICE$§!¤で雇用する機会を提供します。彼らは最初の$MONTHS$ヶ月分、$UPFRONT_PRICE|Y$¤を先払いで支払わなくてはなりません。"
  OFFERCONDOTTIERI_ATWAR:0 "あなたが戦争中の間は軍隊を貸し出すことはできません。"
  OFFERCONDOTTIERI_NONE:0 "貸し出せる軍隊はありません。"

@@ -123,7 +123,7 @@
  TAKEONDEBTDESC:0 "列強として、我々は貧困に喘ぐ$COUNTRY|Y$を経済的な混乱から回復させ、彼らの$COST|Y$¤の債務を全て支払おうとします。"
  TAKEONDEBTDESC3:0 "これは彼らにとって、約$NUM_LOANS|Y$の標準規模の借款に相当するため、彼らの我々に対する評価は合計$OPINION$（最大$MAX$までの借款ごとに$OPINION_PER_LOAN$ずつ）向上するでしょう。"
  INFLUENCENATIONTITLE:0 "国家に影響を与える"
- INFLUENCENATIONDESC:0 "列強として小国$COUNTRY|Y$に影響を与えることで彼の国における我らの外交的立場を確立し、我々に対する評価を$YEARS|Y$年の間、$OPINION$変化させます。また、彼らはこの期間中彼らの最も弱い君主力（現在は$WEAKEST$）に対して$BONUS$を受け取ります。彼らの我々に対する信頼度は$TRUST$変化します。"
+ INFLUENCENATIONDESC:0 "列強として小国$COUNTRY|Y$に影響を与えることで彼の国における我らの外交的立場を確立し、我々に対する評価を$YEARS|Y$年の間、$OPINION$変化させます。また、彼らはこの期間中彼らの最も弱い君主力（現在は$WEAKEST$ ）に対して$BONUS$を受け取ります。彼らの我々に対する信頼度は$TRUST$変化します。"
  INFLUENCENATIONDESCCOST:0 "この政治的な操作を実行するには、我々は一回あたり、彼らの収入の$MONTHS$ヶ月分に相当する、現在合計$COST|Y$¤のコストを必要とするでしょう。"
  INFLUENCENATIONDESC2:0 "我々は彼らをこちらに振り向かせるために影響を与えることになる。"
  INFLUENCED_BY_GREAT_POWERS:0 "$LIST$による影響：$VAL$\n"

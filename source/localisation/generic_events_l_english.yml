@@ -1402,7 +1402,7 @@
  EVTOPTB5076:1 "要求を受け入れよう。"
  EVTNAME5077:0 "執行されない布告"
  EVTDESC5077:1 "[Root.Monarch.GetTitle]は多くの布告を発するが、実際には[Root.Monarch.GetSheHe]はその執行にはほとんど力を持たなかった。代わりに、執行は地方の権力（地方の貴族や市政府）に依存し、それは常に望まれるほど注意深いとは限らなかった。最近、[troublesome_province.GetAreaName]の当局が[Root.Monarch.GetTitle]の意志を強制することに特に慎重になっていることが注目を集めている。"
- EVTOPTA5077:0 "彼らにそれを制御させよう。"
+ EVTOPTA5077:0 "彼らに任せろう。"
  EVTOPTB5077:0 "試みを増やそう！"
  EVTNAME5082:1 "[Root.Get市民Name]が特権を要求"
  EVTDESC5082:1 "[Root.GetBurghersName]は、高貴な一族の権力、特に政府の上位への機会の欠如に対し憤慨を強めている。彼らの権力への唯一の道は、貧しいが名のある高貴な一族と結婚すること、または[Root.GetRulerTitleOrRegency]により大きな特権を要求することで、政界で開かれた地位をこじ開けることである。"

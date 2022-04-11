@@ -261,7 +261,7 @@
  mechanic_has_harem_yes:0 "ハレムを持ちます"
  mechanic_has_harem_no:0 "ハレムを持ちません"
  mechanic_has_pashas_yes:1 "パシャを任命し、イェニチェリを雇用することができます"
- mechanic_boost_income_yes:1 "商人共和制の仕組みを有効にします（属国はあなたに交易力を送出します。統治コストが増加し、交易会社が安くなります）"
+ mechanic_boost_income_yes:1 "商人共和制の仕組みを有効にします（属国はあなたに交易力を送出します。領土管理コストが増加し、交易会社が安くなります）"
  mechanic_boost_income_no:0 "商人共和制の仕組みを無効にします"
  mechanic_can_use_trade_post_yes:0 "交易所を配置することができます"
  mechanic_can_use_trade_post_no:1 "交易所を配置することができません"

@@ -146,7 +146,7 @@
  PROVINCE_CLICK_TO_ADD_ESTATE:0 "§G$ESTATE|Y$にこの州を与えます。§!"
  EST_IS_OVERSEAS:0 "海外の州"
  ESTATE_PROVINCES:0 "支配している州："
- ESTATE_PROVINCES_MORE:0 "§Y…と$NUM$をより多く。"
+ ESTATE_PROVINCES_MORE:0 "§Y…他$NUM$"
  CALL_FAVORS_COST_2:0 "これはコストとして§Y10§!の好感度がかかります。"
  CALL_FAVORS_COST:0 "$COUNTRY|Y$は、この戦争から何かを得ることを期待していないため、彼らに参戦を要請するにはコストとして$AMOUNT|Y$の好感度が必要です。"
  JOIN_OFFENSIVE_WARS:0 "攻撃戦争に参加"
