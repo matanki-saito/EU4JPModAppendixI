@@ -172,7 +172,7 @@
  string_start_shogunate:0 "[Root.GetName]は§Y幕府§!です。幕府はいくらでも§Y従属大名§!を持つことができ、従属大名はお互いに戦争を行うことができます。\n\nどこかの大名が帝都たる§Y京都§!を我らから奪えば、我らは幕府を失います。\n\n"
  string_start_shogunate_moh:0 "£DLC_moh£[Root.GetName]は§Y幕府§!です。幕府はいくらでも§Y従属大名§!を持つことができ、従属大名はお互いに戦争することができます。\n幕府は、従属大名に対するいくつもの特別な§Y属国干渉§!と、すべての従属大名に向けた§Y三つの政府行動§!を実行することができます。\n\nどこかの大名が帝都たる§Y京都§!を我らから奪えば、我らは幕府を失います。\n\n"
  string_manchu_culture:1 "£DLC_moh£[Root.GetName]は女真の国です。§Y汚職§!を増やすことと引き換えに、女真文化のステートの州で§Y八旗§!を招集することができます。\n\n八旗は§Y人的資源§!を使いませんが、§Y補充§!には§Yダカット§!が必要です。\n\n"
- string_muslim_school:0 "£DLC_coc£全ムスリム諸国はそれぞれ異なる利益を与える§Y学派§!に属しています。ゲームの流れの中で変化するようなお互いの評価があり、信奉する国家間で効果をもつでしょう。\n学派を信奉する国家は他の学派から学者を招いて彼らの利益を20年間受けることができます。\n\n[Root.GetReligiousSchool]学派は以下の効果を与えます：\n[Root.GetReligiousSchoolCountryModifiers]\n\n"
+ string_muslim_school:0 "£DLC_coc£全ムスリム諸国はそれぞれ異なる利益を与える§Y学派§!に属しています。ゲームの流れの中で変化するようなお互いの評価があり、信奉する国家間で効果をもつでしょう。\n学派を信奉する国家は他の学派から学者を招いて彼らの利益を20年間受けることができます。\n\n[Root.GetReligiousSchool]学派は以下の補正を与えます：\n[Root.GetReligiousSchoolCountryModifiers]\n\n"
  string_muslim_school_no:0 ""
  string_start_consorts_no:0 ""
  string_start_devotion_no:0 ""

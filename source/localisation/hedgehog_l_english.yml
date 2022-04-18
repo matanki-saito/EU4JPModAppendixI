@@ -41,7 +41,7 @@
  chartered_settlements:0 "認められた定住地"
  shared_knowledge:0 "知識の共有"
  FEDERATION_ADVANCEMENT_ALREADY_PICKED:0 "§R既に選択済の進歩です。§!\n"
- FEDERATION_LEADER_LOW_COHESION:0 "\n連邦結束力が§Y0％§!まで落ち込んでしまうと、リーダー交代のリスクが発生します。連邦内で最も強い国家が新リーダーに任命され、もし、それが同一国だった場合、連邦は解体されてしまいます。"
+ FEDERATION_LEADER_LOW_COHESION:0 "\n連邦結束力が§Y0%§!まで落ち込んでしまうと、リーダー交代のリスクが発生します。連邦内で最も強い国家が新リーダーに任命され、もし、それが同一国だった場合、連邦は解体されてしまいます。"
  RELIGION_DONT_HAVE_ANCESTORS:1 "あなたの宗教には祖霊がいません。"
  IS_NOT_OUR_PREV_MONARCH:1 "$WHO|Y$は自国の歴代の君主の一人ではありません。"
  IS_ALREADY_ANCESTOR:1 "$WHO|Y$は既に祖霊になっています。"

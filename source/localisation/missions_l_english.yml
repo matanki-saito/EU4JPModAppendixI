@@ -109,7 +109,7 @@
  ori_conquest_of_telingana_desc:0 "ラージャムンドリーが我々の手に落ちた後、テランガーナにおけるヴェラマカーストの長は、我々に近寄り、今まさに耐えなければならない外圧から解放してくれないかと懇願した。我が軍を派遣し、テランガーナを我らの旗の下に統一しようではないか！"
  ori_to_the_kaveri_river_and_beyond_title:0 "カーヴィリ川"
  ori_to_the_kaveri_river_and_beyond_desc:0 "我々の支配下にあるウダヤギリの巨大な要塞と、コロマンデル海岸が我々の前に広がっている。軍備を可能な限り拡張し、カーヴィリ川デルタ下流と豊かなタミール諸島の全ての海岸線を征服しようではないか。"
- keep_rival_out_of_italy_tooltip:0 "あなたの所有する§Yイタリア地域§!のすべての州は、§Y10§!年間の§Y保護されたイタリア権益§!の修正を獲得し、一時的に§Y生産効率§!が§G10%§!と§Y税収§!が§G1§!増加します。"
+ keep_rival_out_of_italy_tooltip:0 "あなたの所有する§Yイタリア地域§!のすべての州は、§Y10§!年間の§Y保護されたイタリア権益§!の補正を獲得し、一時的に§Y生産効率§!が§G10%§!と§Y税収§!が§G1§!増加します。"
  make_base_on_spice_islands_makassar_title:0 "香辛料諸島において$COUNTRY$を設立－マカッサル"
  make_base_on_spice_islands_makassar_desc:0 "東インド諸島は世界の香辛料生産の中心地であり、我が国の巨万の富のために香辛料貿易を拡大しなければならない。香辛料をよこすのだ！"
  make_base_on_spice_islands_pasai_title:0 "香辛料諸島において$COUNTRY$を設立－パサイ"

@@ -79,7 +79,7 @@
  SUB_VIEW_TYPE_1_MONTH_NOPRICE:0 "1ヶ月"
  SUB_VIEW_TYPE_3_MONTHS_NOPRICE:0 "3ヶ月"
  SUB_VIEW_TYPE_6_MONTHS_NOPRICE:0 "6ヶ月"
- SUB_VIEW_SAVING:0 "$PERCENTAGE$％割引"
+ SUB_VIEW_SAVING:0 "$PERCENTAGE$%割引"
  SUB_VIEW_THIRD_PARTY:0 "Sabaton音楽パックを有効にします。Twitchや同様のプラットフォームで配信する際はこのオプションを無効にしてください（再起動が必要です）"
  SUB_MESSAGE_subscription_TITLE:0 "サブスクリプションはSteamで有効です"
  SUB_MESSAGE_subscription_DESC:0 "Europa Universalis IVのサブスクリプションは、低額の月額料金ですべての拡張やその他コンテンツを使用することができます。現在、Europa Universalis IVのサブスクリプションはSteamのストアページでのみ購入可能です。"
