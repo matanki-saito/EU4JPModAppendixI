@@ -210,7 +210,7 @@
  obj_many_vassals:0 "封建社会"
  obj_many_vassals_desc:0 "同時に少なくとも5つの異なる属国を持つ。"
  obj_two_continents:0 "二つの大陸にて"
- obj_two_continents_desc:0 "二つの異なる大陸に自分の州を持つ。"
+ obj_two_continents_desc:0 "二つの異なる大陸に州を領有する。"
  obj_humiliate_rival:0 "ライバルに屈辱を与える"
  obj_humiliate_rival_desc:0 "和平条約を通じてライバルに屈辱を与える。"
  obj_humiliate_rival_tooltip:0 "ライバルに屈辱を与えた"

@@ -1,5 +1,5 @@
 ﻿l_english:
- GOVERNMENT_REFORM_PROGRESS_IS_LESS_THAN:0 "政府改革進捗度が$PROGRESS|Y$以下\n"
+ GOVERNMENT_REFORM_PROGRESS_IS_LESS_THAN:0 "政府改革進捗度が$PROGRESS|Y$未満\n"
  GOVERNMENT_REFORM_PROGRESS_IS_AT_LEAST:0 "政府改革進捗度が$PROGRESS|Y$以上\n"
  CHANGE_GOVERNMENT_REFORM_PROGRESS:0 "政府改革進捗度が$VALUE$$DIRECTION$\n"
  SCORNFUL_DESC:0 "軽蔑的侮辱を行うと評価が2倍低下しますが、彼らの敵からの我々への評価がより上昇します。これを行うには、§Y5§!の威信を消費します。"
