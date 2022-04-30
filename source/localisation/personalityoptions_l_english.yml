@@ -520,7 +520,7 @@
  martial_educator_personality_die_desc:0 "[Root.Monarch.GetSheHe]が我々の士官向けに作成した履修課程は、来るべき世代によって利用されるでしょう。"
  navigator_personality_die_desc:0 "[Root.Monarch.GetHerHisCap]の海への熱意は、強い海軍を我々に残しました。"
  babbling_buffoon_personality_die_desc:0 "我々の友人は、この日を大切にします。"
- embezzler_personality_die_desc:0 "我々の会計官は[Root.Monarch.GetHerHim]を見逃さないでしょうが、[Root.Monarch.GetHerHis]の甥は確かに喜んでいます。"
+ embezzler_personality_die_desc:0 "会計官たちは[Root.Monarch.GetHerHim]を惜しまないでしょうが、[Root.Monarch.GetHerHis]の甥たちは間違いなく惜しむことでしょう。"
  infertile_personality_die_desc:0 "我々は、[Root.Monarch.GetHerHis]の後継者が王朝を存続し続けるために、より多くを尽くすことだけを願っています。"
  drunkard_personality_die_desc:0 "[Root.Monarch.GetHerHisCap]の酩酊と高い味覚は、[Root.Monarch.GetSheHe]が戴冠した時よりも国を貧しく酷い統治にしていった。"
  sinner_personality_die_desc:0 "[Root.Monarch.GetHerHisCap]の罪深い人生はただ我が国に恥をもたらすだけです。"
