@@ -7172,7 +7172,7 @@
  desc_privilegia_de_non_appelando_member:0 "「不上訴の特権」が帝国全体で取り消されている。"
  privilegia_de_non_appelando_emperor:0 "取り消された特権"
  desc_privilegia_de_non_appelando_emperor:0 "「不上訴の特権」が帝国全体で取り消されている。"
- EFFECTIVE_DISTANCE:0 "有効な距離"
+ EFFECTIVE_DISTANCE:0 "距離"
  COL_MAPMODE_CAN_COLONIZE:0 "この州は、我々の植民範囲の中にあり、植民地化することができます。"
  COL_MAPMODE_COLONIST:0 "$COLONIST$は現在、ここでの植民地の設立に取り組んでいます。"
  COL_MAPMODE_TO_FAR:0 "この州は植民地化するには遠すぎます。"
