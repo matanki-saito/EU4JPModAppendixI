@@ -767,7 +767,7 @@
  building_ramparts:0 "城壁"
  GOODS_BONUS:0 "$LIST$のある州ではより効果的になります。\n"
  building_impressment_offices:0 "強制徴募所"
- MERCENARY_COMPANY_LOCAL:0 "地方"
+ MERCENARY_COMPANY_LOCAL:0 "地元"
  NO_GENERAL:0 "将軍なし"
  merc__local_small_company:0 "独立傭兵団"
  merc__local_free_city_company:0 "自由都市傭兵団"

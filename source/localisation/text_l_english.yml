@@ -3173,7 +3173,7 @@
  bharat_nation_eastern_aryan_desc:0 "強大なバーラトを形成し、インド亜大陸のすべての土地を我々の支配下に置く。"
  bharat_nation_central_indic_title:0 "バーラトを形成"
  bharat_nation_central_indic_desc:0 "強大なバーラトを形成し、インド亜大陸のすべての土地を我々の支配下に置く。"
- MODIFIER_PROVINCE_OWNER_TRADE_CHANCE:0 "商人は所有している州から機会を競います"
+ MODIFIER_PROVINCE_OWNER_TRADE_CHANCE:0 "商人は領有している州から機会を競います"
  OWNED_PROVICES_COMPETE:0 "我々は交易額の§Y$FRAC$%§Wを占有しています：§G$VAL$%§W"
  THEIR_OWNED_PROVICES_COMPETE:0 "彼らは交易額の§Y$FRAC$%§Wを占有しています：§R$VAL$%§W"
  COUNTRY_STARTS:0 "いずれかの国"

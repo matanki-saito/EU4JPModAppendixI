@@ -386,7 +386,7 @@
  DESELECT_SUPPRESSION_AREA:0 "§G$AREA|Y$を鎮圧地域から削除します。§!\n"
  CANCEL_REBEL_SUPPRESSION:0 "§Y自動的な反乱軍鎮圧を中止§!"
  NO_OWNED_PROVS_IN_AREA:0 "§R自国も有効な全ての従属国もどちらも$AREA|Y$地域内の州を領有していません。§!\n"
- UNIT_MUST_BE_IN_OWN_AREA:0 "§R軍隊が自国もしくは有効な従属国が領有する州に置かないことには、反乱軍の鎮圧はできません。§!\n"
+ UNIT_MUST_BE_IN_OWN_AREA:0 "§R軍隊が自国もしくは有効な従属国の領有州に置かないことには、反乱軍の鎮圧はできません。§!\n"
  SUPPRESSION_AREA_NOT_ADJACENT:0 "§R鎮圧地域に隣接する地域しか追加できません§!"
  SUPPRESSED_AREAS:0 "鎮圧地域"
  MAX_UNREST:0 "最高の不穏度：$MAX$"

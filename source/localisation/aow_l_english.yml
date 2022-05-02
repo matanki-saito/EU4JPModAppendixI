@@ -1020,7 +1020,7 @@
  CS_AT_WAR:0 "戦争中は衛星国を作成できません。"
  CS_OCCUPIED_BY_REBELS:0 "州が占領されている間は、衛星国を作成できません。"
  CS_UNDER_SIEGE:0 "州が包囲されている間は、衛星国を作成できません。"
- CS_NOT_OWNED:0 "衛星国を作成できるのは、所有している州においてだけです。"
+ CS_NOT_OWNED:0 "衛星国を作成できるのは、領有している州においてだけです。"
  CS_NOT_OVERSEAS:0 "海外の州に衛星国を作成することはできません。"
  ALLOW_CLIENT_STATES:0 "衛星国と高度な開戦事由を許可"
  ALLOW_CASUS_BELLIS:0 "高度な開戦事由を許可"
