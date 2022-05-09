@@ -1,7 +1,7 @@
 ﻿l_english:
  demand_dummy_title:0 "傀儡の要求"
- demand_dummy_desc:0 "[From.GetName]の[From.Monarch.GetName]が我々の傀儡になることを要求する。これは我々の相互信頼に利益をもたらすでしょう"
+ demand_dummy_desc:0 "[From.GetName]の[From.Monarch.GetName]が我々の傀儡になることを要求する。これは我々の相互信頼に利益をもたらすでしょう！"
  demand_dummy_tooltip:0 "彼らが我々の傀儡になることを要求する"
- demand_dummy_dialog:0 "[This.GetName]はあなたが彼らの傀儡になることを要求する。これは私たちの相互信頼に利益をもたらすでしょう"
+ demand_dummy_dialog:0 "[This.GetName]はあなたが彼らの傀儡になることを要求する。これは私たちの相互信頼に利益をもたらすでしょう！"
  demand_dummy_alert_tooltip:0 "我々が彼らの傀儡になる要求"
  HAS_MORE_MANPOWER:0 "[This.GetName]は[From.GetName]よりも多くの人的資源を保有しています。\n"

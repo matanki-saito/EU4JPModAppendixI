@@ -2,7 +2,7 @@
  AI_CITY_STATE_NAME:0 "$PROVINCE$市"
  AI_CITY_STATE_ADJ:0 "$PROVINCE$"
  WOULD_DECREASE_OPINION_PER_PROVINCE_BY:0 "彼らの我々に対する評価は州ごとに$VAL$減少し、最大で$LIMIT$減少します。"
- scaled_trade_league_leader:0 "貿易同盟盟主（加盟国の数によって比較）"
+ scaled_trade_league_leader:0 "貿易同盟盟主（加盟国の数に比例する）"
  in_trade_league:0 "貿易同盟"
  LEADS_TRADE_LEAGUE:0 "貿易同盟を主導"
  ANOTHER_MAX_STATE:0 "別の国家を許可する"
