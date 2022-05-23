@@ -1151,7 +1151,7 @@
  support_rr_royalists_desc:0 ""
  rr_jacobins:0 "ジャコバン派"
  rr_jacobins_influence:0 "ジャコバン派の影響"
- rr_jacobins_FACTION_DESC:1 "The Jacobins are the staunchest supporter of the popular revolution. They believe that we must forcefully do away with the old ruling classes and seize their property. This faction has the support of the masses in our capital and will not shy away from inciting them into violence for the good of the Revolution.\n\n§YInfluence scales with Republican Tradition and positive Stability.§!"
+ rr_jacobins_FACTION_DESC:1 "ジャコバン派は、人気のある革命に忠実な支援者である。彼らは古い支配階級を強制的に退場させ、その資産を没収することを望んでいる。この派閥は首都の大衆の支持を得ており、大衆を革命の目的の推進のために暴力へ導くことを恐れてはいない。\n\n§Y影響力は、共和的伝統と正の安定度の2つの尺度で表されます。§!"
  support_rr_jacobins_title:0 "ジャコバン派を促進"
  support_rr_jacobins_desc:0 ""
  consort_events.1.t:0 "結婚の提案"

@@ -579,7 +579,7 @@
  has_river_estuary_tooltip:0 "§Y河口§!を持っている。"
  has_no_river_estuary_tooltip:0 "§Y河口§!を持っていない。"
  is_free_or_tributary_trigger_tooltip:0 "独立国あるいは朝貢国である。"
- is_subject_other_than_tributary_trigger_tooltip:1 "朝貢国以外の従属国である。"
+ is_subject_other_than_tributary_trigger_tooltip:1 "従属国（非朝貢国）である。"
  HAS_GOVERNMENT:0 "§Y$TAG$§!の政府は$GOV|Y$である\n"
  HAS_NOT_GOVERNMENT:0 "§Y$TAG$§!の政府は$GOV|Y$ではない\n"
  ALL_CONTROLLED_PROVINCE_STARTS:0 "すべての支配下にある州"

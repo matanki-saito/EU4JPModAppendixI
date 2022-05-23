@@ -142,7 +142,7 @@
  ALLIED_OBJECTIVE_DESC:0 "$ENEMY$との戦争における同盟国にこの州を包囲してもらいたい場合、$PROVINCE$を目標地点として設定することで彼らはその地点を包囲することを試みてくれるでしょう。"
  ALLIED_OBJECTIVE_SET_DESC:0 "$ALLIED$がこの州を包囲しようとします。"
  SUBJECT_FOCUS_NONE_DESC:0 "$WHO$は独自に戦略を決定します。"
- SUBJECT_FOCUS_AGGRESSIVE_DESC:1 "$WHO$は独自に敵領土で交戦しようとし、友軍と共に行動しません。"
+ SUBJECT_FOCUS_AGGRESSIVE_DESC:1 "$WHO$は独自に敵領土で交戦しようとし、友軍に追随しようとはしません。"
  SUBJECT_FOCUS_SUPPORTIVE_DESC:0 "$WHO$は同盟軍に貼り付き、独自行動を避けます。"
  SUBJECT_FOCUS_PASSIVE_DESC:0 "$WHO$は自国領にとどまり、他所での交戦を避けます。"
  SUBJECT_FOCUS_DEFENSIVE_DESC:0 "$WHO$は同盟国領の周辺に貼り付きますが、侵攻作戦は開始しません。"

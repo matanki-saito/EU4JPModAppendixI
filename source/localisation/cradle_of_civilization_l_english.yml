@@ -206,7 +206,7 @@
  MODIFIER_DRILL_GAIN_MODIFIER:1 "訓練度上昇補正"
  NO_DRILL_MERCENARY:1 "傭兵を訓練することはできません。"
  NO_DRILL_NOT_OWNER:1 "あなたが所有していない州にいる軍隊を訓練することはできません。"
- NO_DRILL_ATTACHED:0 "別の軍と結合している場合は、訓練することはできません。"
+ NO_DRILL_ATTACHED:0 "別の軍に追随している間は、訓練することはできません。"
  NO_DRILL_NOT_CONTROLLER:1 "あなたが支配していない州にいる軍隊を訓練することはできません。"
  NO_DRILL_IN_COMBAT:1 "戦闘中の軍隊を訓練することはできません。"
  NO_DRILL_NO_LEADER:1 "指揮官のいない軍隊を訓練することはできません。"

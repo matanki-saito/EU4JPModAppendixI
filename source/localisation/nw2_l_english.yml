@@ -1,5 +1,5 @@
 ﻿l_english:
- ALLOW_ATTACH:0 "親善\n添付する事ができます"
+ ALLOW_ATTACH:0 "友軍\n追随可能"
  DIPLO_ALLY_IN_WAR:0 "戦争中の同盟国："
  DIPLO_COALITION_WAR:0 "包囲網戦争："
  DIPLO_ALLIANCE_WINNING_WAR:0 "同盟の戦勝点："

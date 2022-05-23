@@ -203,7 +203,7 @@
  center_of_revolution.3000.A.tt:0 "§Y革命の理想がすべての州から取り除かれます。§!"
  center_of_revolution.3000.A.tt2:0 "§Yすべての革命の中心地は取り除かれます。§!"
  center_of_revolution.3000.B:0 "悲しい日だ。"
- disaster_active_for_20_years_tooltip:0 "国難は20年間有効です。"
+ disaster_active_for_20_years_tooltip:0 "国難が20年間継続している"
  no_spread_here_for_15_years_tt:0 "革命の理想が§Y[This.GetName]§!から取り除かれます。今後15年間は再度理想を広めることができません。"
  french_revolution.18.d.reactionary:0 "反乱と絶え間ない不安定の時代は過ぎ去ったようだ。革命は完全に粉砕され、事態はようやく正常に戻ることができる。"
  TURKEY_STRING:0 "トルコ"
