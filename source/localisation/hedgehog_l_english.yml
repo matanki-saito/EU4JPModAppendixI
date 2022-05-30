@@ -31,7 +31,7 @@
  DEVASTATION_FROM_PASSIVE:0 "自然の回復：$VAL|-$\n"
  COHESION_FEDERATION_ADVANCEMENT:0 "§Y$NUM$連邦の進歩§!：$VAL|+=1$\n"
  MODIFIER_SETTLE_COST:0 "定住コスト"
- MODIFIER_MONTHLY_FEDERATION_FAVOR_GROWTH:0 "毎月の連邦好感度上昇"
+ MODIFIER_MONTHLY_FEDERATION_FAVOR_GROWTH:0 "月間連邦好感度上昇"
  federal_constitution:0 "連邦憲法"
  unified_warbands:0 "統一された略奪団"
  mutual_trust:0 "相互信頼"

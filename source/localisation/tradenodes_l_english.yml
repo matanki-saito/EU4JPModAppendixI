@@ -148,7 +148,7 @@
  ADDED_VALUE_TRADE:0 "付加価値：§Y$VAL$§!"
  MERCHANT_DOWNSTREAM_BONUS:0 "下流の交易商からの転送：$VAL$"
  TRADE_POWER_UPSTREAM_DESC:0 "国家はすでに影響力のある上流の交易ノードへ交易力を送出することができます。"
- NO_TRADE_COMPANY_NO_REGION:0 "この地域で交易会社を設立することはできません。"
+ NO_TRADE_COMPANY_NO_REGION:0 "この地方に交易会社を設立することはできません。"
  NO_TRADE_COMPANY_ON_OWN_CONTINENT:0 "あなたの本拠がある大陸に交易会社を設立することはできません。"
  CONFIRM_JOIN_TRADE_COMPANY_TITLE:0 "交易会社に州を割り当てる"
  CONFIRM_JOIN_TRADE_COMPANY_DESC_NEW:0 "$REGION|Y$に新しい交易会社を創設します。$PROVINCE|Y$の支配権を新会社に与えると、建設する交易帝国の価値を大きく向上させますが、兵力や税金の源泉としての価値は低下します。\nまた母国が採用している制度のこの州への自動的な伝播も無効になります。"
