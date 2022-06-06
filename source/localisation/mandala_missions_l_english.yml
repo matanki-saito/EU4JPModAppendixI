@@ -876,7 +876,7 @@
  desc_che_perfect_stability:0 "安定した生活を送っているからこそ、学者たちは知的活動に集中できる。"
  che_effective_remedies:0 "効果的な治療法"
  desc_che_effective_remedies:0 "植物の知識のおかげで、自軍の回復力が早い。"
- platform_mounds_reward_tooltip:0 "柵または要塞化家屋がある領有州はすべて、州防御25%を得ます。"
+ platform_mounds_reward_tooltip:0 "柵または要塞化家屋がある領有州はすべて、州の防御25%を得ます。"
  che_conciliatory_views_tooltip:0 "国教がトーテム信仰の同盟国全てに対し、自国の外交評価が+50される。"
  rebuilding_the_towns:0 "都市の再建"
  desc_rebuilding_the_towns:0 "街や村落を、もっと大きく強大にしている！"
