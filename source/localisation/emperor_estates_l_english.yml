@@ -186,7 +186,7 @@
  IS_NOT_ACTIVE_ESTATE_AGENDA:0 "$NAME$は有効な議題がない"
  IS_ACTIVE_ESTATE_AGENDA:0 "$NAME$は有効な議題がある"
  ESTATE_AGENDA_STARTS:0 "議題の開始"
- ESTATE_UNHAPPY_EFFECTS:0 "この階級が不忠になると、次のような影響があります：\n$EFFECT$"
+ ESTATE_UNHAPPY_EFFECTS:0 "この階級が不忠になると、以下の影響を及ぼします：\n$EFFECT$"
  sale_of_titles:0 "称号の売却"
  summon_the_diet:0 "議会の召集"
  seize_land:0 "領地の没収"

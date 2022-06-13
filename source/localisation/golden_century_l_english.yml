@@ -98,7 +98,7 @@
  HOLY_ORDER_NOT_AVAILABLE:0 "§Rこの修道会を設立できません：§!"
  ESTABLISH_COST:0 "この修道会を設立するには、$COST|Y$ $ICON$ のコストがかかるでしょう。"
  CONFIRM_ESTABLISH_HOLY_ORDER:0 "修道会の設立"
- CONFIRM_ESTABLISH_HOLY_ORDER_DESC:0 "$ORDER|Y$修道会を$STATE|Y$に設立してもよろしいですか？一度設立すると変更することはできません。設立すると以下の効果があるでしょう：\n\n$EFFECTS$"
+ CONFIRM_ESTABLISH_HOLY_ORDER_DESC:0 "$ORDER|Y$修道会を$STATE|Y$に設立してもよろしいですか？一度設立すると変更することはできません。設立すると以下の影響を及ぼします：\n\n$EFFECTS$"
  HOLY_ORDER_ESTABLISHED:0 "$ORDER|Y$修道会が$STATE|Y$に設立しました。\n"
  HOLY_ORDER_CANNOT_AFFORD:0 "§R今、この修道会を設立する余裕はありません。§!\n"
  HOLY_ORDER_NOT_ESTABLISHED:0 "$ORDER|Y$修道会が$STATE|Y$に設立していない。\n"
