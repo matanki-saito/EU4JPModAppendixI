@@ -651,7 +651,7 @@
  THREATENWAR_REQDESC:0 "$MONARCHTITLE$、卑しい悪党である$ACTOR$が、もし我々が彼らに$PROV$を譲渡しなければ戦争になると§R武力脅迫§!を行ってきました。我々が受け入れるには$PRESTIGE$の威信を消費し、$TRUCEDATE|Y$までの停戦が実施されます。\n\n我々が拒否すれば、彼らは我々に戦争を宣言するでしょう。"
  threatened_war:0 "武力脅迫"
  THREATENWAR_TRUCE:0 "停戦中は武力脅迫を行うことはできません。"
- THREATENWAR_NO_ELIGIBLE:0 "彼らは、我々が中核化できる（そしてそれは彼らの首都ではない）我々の請求権を持つ、あるいは中核州である占領されていない州を保有していません。"
+ THREATENWAR_NO_ELIGIBLE:0 "彼らは、我々が中核化できる（加えて彼らの首都ではない）我々が請求権を持つ、あるいは中核州である占領されていない州を保有していません。"
  THREATENWAR_THEY_SUBJECT:0 "彼らは従属国であり、代わりに宗主国である$OVERLORD|Y$にこの行動を使用します。"
  CAN_MIGRATE:0 "移動を許可されてます。"
  CAN_NOT_MIGRATE:0 "移動を許可されていません。"

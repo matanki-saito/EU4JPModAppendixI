@@ -421,7 +421,7 @@
  espionage_events.10.b:0 "我々はお互いすべての諜報員だ。我々は赦し、忘れることができる。"
  counterintelligence_operation:0 "防諜操作"
  imprisoned_ambassador:0 "投獄された大使"
- ESTATE_OL_ENTRY:1 "£estate_loyalty£ $LOYALTY$ £estate_influence£ $INFL$ £estate_territory£ $TERR$"
+ ESTATE_OL_ENTRY:1 "£estate_loyalty $LOYALTY$ £estate_influence $INFL$ £estate_territory $TERR$"
  ESTATE_OL_TOOLTIP:0 "§Y$NAME$§!：\n忠誠心：§Y$LOYALTY$%§!\n影響力：§Y$INFL$%§!\n領土：§Y$TERR$%§!"
  CONDOTTIERI_PARTICIPATION_FAILURE1:0 "彼らは我々がより多く戦うことを期待していました。"
  CONDOTTIERI_PARTICIPATION_FAILURE2:0 "我々の評判は傷ついており、"

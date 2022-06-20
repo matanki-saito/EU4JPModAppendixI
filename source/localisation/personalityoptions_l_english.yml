@@ -542,7 +542,7 @@
  inspirational_leader_general_personality_die_desc:0 "[GetHerHisCap]の人々を鼓舞する演説は、兵士たちの間で記憶されるでしょう。"
  master_of_arms_personality_die_desc:0 "[GetHerHisCap]の歩兵隊の騎乗兵は[GetHerHim]を自身の一部であったかのように悼んでいます。"
  goal_oriented_personality_die_desc:0 "[GetHerHisCap]の時宜を得た到着は多くの戦闘を救いました。"
- hardy_warrior_personality_die_desc:0 "単に[GetHerHisCap]の存在だけで、苦難の最悪の事態を緩和するように見えました。"
+ hardy_warrior_personality_die_desc:0 "[GetHerHisCap]の存在は、最悪の苦境を和らげてくれるようでした。"
  siege_specialist_personality_die_desc:0 "[GetHerHisCap]の包囲技術へのこだわりは、あらゆる投資を価値あるものとしました。"
  cannoneer_personality_die_desc:0 "砲兵隊は[GetHerHis]の死を[GetSheHe]が自身の一部であったかのように悼んでいます。"
  extortioner_personality_die_desc:0 "[GetHerHisCap]の崩御は、我々を除くあらゆる国籍の交易商たちを大いに喜ばせるでしょう。"

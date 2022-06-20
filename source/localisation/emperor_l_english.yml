@@ -163,7 +163,7 @@
  ven_arsenal_marines:0 "ヴェネツィア海兵隊"
  desc_ven_arsenal_marines:0 "造兵廠のおかげでガレーのための海兵隊の訓練ができる！"
  DISBAND_UNIT_RETURN_SAILORS_CAPPED:0 "最大水夫数$MAX|Y$を超えることはできないため、水夫の内、$NUMBER|Y$人だけ水夫プールに戻ります。"
- DISBAND_UNIT_RETURN_SAILORS:0 "それらのうち$NUMBER|Y$の兵士は水兵プールへ戻ります。"
+ DISBAND_UNIT_RETURN_SAILORS:0 "$NUMBER|Y$人の水兵は水兵プールへ戻ります。"
  TRADE_COMPANY_SAME_SUPER_REGION:0 "あなたの首都は$NAME|Y$の一部でもあり、交易会社にすることはできません。"
  ND_SPRITE_PACK:0 "スプライトパック"
  ND_SPRITE_PACK_SELECTED:0 "§Yスプライトパックが選択されています。選択を解除するにはもう一度クリックしてください。§!"
