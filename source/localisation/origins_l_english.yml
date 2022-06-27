@@ -2312,7 +2312,7 @@
  persian_embassy_holder_adjective:0 "[persian_embassy_holder.GetAdjective]"
  kilwan_embassy_holder_religion:0 "[kilwan_embassy_holder.Religion.GetName]"
  persian_embassy_holder_religion:0 "[persian_embassy_holder.Religion.GetName]"
- flavor_zan.8.t:0 "ペルシアに使節団を派遣する？"
+ flavor_zan.8.t:0 "ペルシアへの使節団派遣？"
  flavor_zan.8.desc:0 "いくつかの物語や伝説によると、現在では自国に住んでいますが、キルワから遠く離れた土地エランに由来するという、シラジ族の起源が詳述されています。今、自国の交易商はホルムズと呼ばれる海峡の向こう側にいて、ファルシ語と呼ばれる言語を話す人々と関わりを持っており、この伝説の地に自国を導いてくれるかもしれません。では、我がスルタン、この話が本当かどうか究明するため、この海の先にある遠い異国の地に使節団を送りましょうか？それとも、恐らく本土から使節団を派遣するのは危険ですから、よく知る海域での交易活動の実行で満足としておくべきですかね？"
  flavor_zan.8.a:0 "ペルシアに大使を派遣せよ"
  flavor_zan.8.a.tt:1 "§Y[Root.Capital.GetName]§!の[2218.Owner.GetAdjective]大使館と引き換えに、§Y[2218.GetName]§!の[Root.GetAdjective]大使館設立を§Y[2218.Owner.GetName]§!に依頼する。\n[2218.Owner.GetName]は、彼らの主要文化が§Yペルシャ§!でない場合、完全に拒否するかもしれない。"

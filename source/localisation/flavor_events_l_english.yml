@@ -116,7 +116,7 @@
  flavor_nap.1.t:0 "貴族の反乱"
  flavor_nap.1.d:0 "ナポリ王フェルディナンド1世は、1459～1464年と1485～1486年の2度に渡る貴族反乱という玉座に対する挑戦を受けた。フェルディナンド1世が、貴族の権利を犠牲にして王権を強化する政策を推し進めたことから、反乱勢力は玉座を狙うフランス人僭称者の側についた。"
  flavor_nap.1.a:0 "我こそがナポリ王だ！"
- flavor_nap.1.b:0 "[FRA.Monarch.GetTitle][FRA.Monarch.GetName]を選んで退位だ！"
+ flavor_nap.1.b:0 "退位して[FRA.Monarch.GetTitle][FRA.Monarch.GetName]を跡継ぎに！"
  flavor_nap.1.2:0 "フランス王はとても感謝するでしょう。"
  flavor_nap.2.t:0 "[NAP.Monarch.GetTitle][NAP.Monarch.GetName]の退位"
  flavor_nap.2.d:0 "ナポリの貴族達は共謀して[NAP.Monarch.GetTitle][NAP.Monarch.GetName]を脅迫し、彼は退位を余儀なくされた。我々が王位継承権を持っているため、貴族達からナポリの王冠を差し出された。"
