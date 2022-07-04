@@ -1600,7 +1600,7 @@
  ALLOW_ATTACH_CANNOT_EXILED:0 "放浪軍は他の軍に追随させることはできません。"
  great_project_can_be_upgraded_instant:0 "大事業がアップグレード可能"
  great_project_can_be_upgraded_delayed:0 "以下の大事業がアップグレード可能：\n$LIST$"
- PEACE_OPTION_REQUIRES_OTHER_PEACE_OPTION:0 "は$TREATYTYPE$の要求をせずにこの要求を行うことはできません。"
+ PEACE_OPTION_REQUIRES_OTHER_PEACE_OPTION:0 "$TREATYTYPE$の要求をせずにこの要求を行うことはできません。"
  COMMA:0 "、"
  AND_LIST:0 "そして"
  OR_LIST:0 "または"
