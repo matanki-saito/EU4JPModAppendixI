@@ -693,3 +693,7 @@
  immortal_personality:0 "不死"
  desc_immortal_personality:0 "この支配者は死を欺く術を見つけていて、あるいは永遠に生き続けるのかもしれない。病を患うことも年老いることもないが、それでも肉体的暴力によって死亡する可能性はある。"
  immortal_personality_die_desc:0 "彼が不死であるという報告は、明らかに大きく誇張されていた。"
+ personality_options.712.a:0 "通貨を改革しなければならない。"
+ personality_options.5045.b:0 "政府の政策を抜本的に見直す。"
+ personality_options.5051.d:0 "農民を保護するための新しい改革を導入する。"
+ personality_options.6003.a:0 "Establish minor represantive institutions."

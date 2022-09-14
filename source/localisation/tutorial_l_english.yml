@@ -347,7 +347,7 @@
  TUT_CAM_CHAPTER03_PAGE01_OBJECTIVES:0 "§M次へ§!をクリックして続ける。"
  TUT_CAM_CHAPTER03_PAGE02_TITLE:1 "探検"
  TUT_CAM_CHAPTER03_PAGE02_TEXT:0 "未知の土地は§M未知領域§!として隠されています。未知領域に移動するためには§M探検家§!や§M征服者§!が必要です。探検家や征服者を募集するにはまず§M新世界の探索§!アイデアを解除する必要があります。"
- TUT_CAM_CHAPTER03_PAGE02_OBJECTIVES:1 "§Mカンタブリア§!の艦隊を選択して、指揮官を任命してください。"
+ TUT_CAM_CHAPTER03_PAGE02_OBJECTIVES:2 "§Mセビリア§!の艦隊を選択して、指揮官を任命してください。"
  TUT_CAM_CHAPTER03_PAGE03_TITLE:1 "未知領域"
  TUT_CAM_CHAPTER03_PAGE03_TEXT:0 "探検家は艦隊を、征服者は兵士を率います。あなたの艦隊は探検家クリストファー・コロンブスに率いられています。\n\n§M未知領域§Yを右クリックして艦隊に探索を§Y命じてください。\n\n一時停止を解除することをお忘れなく。§!"
  TUT_CAM_CHAPTER03_PAGE03_OBJECTIVES:0 "艦隊を西に向かわせ、§M矢印に従って§!ください。§W"

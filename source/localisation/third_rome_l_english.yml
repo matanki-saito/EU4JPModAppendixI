@@ -389,3 +389,5 @@
  veche_republic_legacy_desc:0 "この国はヴェーチェと呼ばれる民会によって治められている。ヴェーチェとは司法と立法において最高権力を持つ評議会で、貴族と商人及び庶民を構成員とする。"
  custom_governing_capacity_modifier:0 "優秀な指導力"
  custom_governing_capacity_modifier_desc:0 "他者を率いるのが得意な人たちは、さらに多くの者たちを効率的に率いることができる。"
+ custom_artillery_levels_available_vs_fort:1 "集約した弾幕"
+ custom_artillery_levels_available_vs_fort_desc:1 "入念な配置と正確性で、敵の要塞をより早く落とすことができる。"

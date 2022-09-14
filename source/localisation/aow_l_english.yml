@@ -2360,3 +2360,5 @@
  TRADE_COMPANY_MOLUCCAS_Indonesia_Trade_Company:0 "モルッカ交易会社"
  REVOLUTIONARY_SHORT_NAME:0 "革命$NAME$"
  nivkh:0 "ニヴフ"
+ WARSCORE_COST_DEMAND_PROVINCE_FACTOR:0 "さらに州の獲得コストに$PERCENT|%=-0$の補正を受けます。"
+ flavor_jaj.1.c:0 "自由な裁量を持たせる。"
