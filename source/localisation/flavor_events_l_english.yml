@@ -5055,4 +5055,4 @@
  hre_event.14.desc:0 "Our overlord, [From.GetName], managed to transfer our unique Electorate! We are no longer an elector within the Holy Roman Empire!"
  hre_event.14.a:0 "What a horrible day..."
  flavor_cri.2.a.ct:1 "§Y[TUR.GetName]§! will make §Y[CRI.GetName]§! to their Tributary State.\n§Y[CRI.GetName]§! grants independence to all its §YTributary State§! subjects."
- flavor_teu.3.b:0 "The Prussians will serve under our sovereignty."
+ flavor_teu.3.b:0 "プロイセン人は我が支配の下で奉仕するだろう。"

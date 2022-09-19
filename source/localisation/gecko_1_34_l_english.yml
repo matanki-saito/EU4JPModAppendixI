@@ -1,7 +1,7 @@
 ﻿l_english:
- HAS_LEADER_TRIGGER_YES:0 "Has a Leader"
- HAS_LEADER_TRIGGER_NO:0 "Does not have a Leader"
- MODIFIER_YEARS_TO_INTEGRATE_PERSONAL_UNION:0 "Years for Personal Union Integration"
+ HAS_LEADER_TRIGGER_YES:0 "指揮官がいる"
+ HAS_LEADER_TRIGGER_NO:0 "指揮官がいない"
+ MODIFIER_YEARS_TO_INTEGRATE_PERSONAL_UNION:0 "同君連合の統合のための年数"
  031_battleoflepanto:0 "Battle of Lepanto - Metal Version"
  031_kingscourt:0 "King's Court - Metal Version"
  031_maintheme:0 "Main Theme - Metal Version"

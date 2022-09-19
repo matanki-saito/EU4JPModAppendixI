@@ -70,7 +70,7 @@
  tuscany_in_hre_tooltip:0 "§Yトスカーナ§!地域が帝国または皇帝の属国である。"
  rome_in_hre_tooltip:0 "§Yローマ§!が帝国または皇帝の属国である。"
  disable_shadow_kingdom_tooltip:0 "我が国の直接的または間接的支配下にあるイタリア全域が帝国の封土となる。\n影の王国イベントによって領邦が帝国から離脱することはなくなる。"
- icelandic_nation_title:0 "アイスランド自治の認可"
+ icelandic_nation_title:0 "アイスランドの独自性の受容"
  icelandic_nation_desc:0 "状況は我々のアイスランドの支配を我が国の最前線にするように生じている。アイスランド国家としてこの新しい独自性を受け入れ、地方の制度を強化し、島全体に我々自身の支配を確立しよう。"
  global_flag_western_focus_not_set_tooltip:0 "他の国は§Y西方重視§!の決断を取得していません。"
  reestablishing_themes_names_tooltip:0 "我々が支配するトルコの州の名がギリシャ式に復元されます。"
