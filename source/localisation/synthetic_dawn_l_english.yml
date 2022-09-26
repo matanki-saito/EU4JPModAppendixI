@@ -46,5 +46,5 @@
  swiss_guard_last_stand:0 "スイス衛兵の最後の抵抗"
  desc_swiss_guard_last_stand:0 "スイス衛兵の英雄的犠牲は永遠に記憶されるだろう。"
  SYNTH_RULER_fem:0 "執行官"
- SYNTH_RULER_MAIN_CONDUIT:0 "Main Conduit"
- SYNTH_RULER_MAIN_CONDUIT_fem:0 "Main Conduit"
+ SYNTH_RULER_MAIN_CONDUIT:0 "主要ルート"
+ SYNTH_RULER_MAIN_CONDUIT_fem:0 "主要ルート"
