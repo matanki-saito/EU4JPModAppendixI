@@ -17,7 +17,7 @@
  estate_burghers_commercial_board_of_advice:0 "商業諮問委員会"
  estate_burghers_new_world_charter:0 "新世界の特権を得る"
  estate_burghers_indebted_to_burghers:0 "$ESTATE_NAME$への借款"
- estate_burghers_indebted_to_burghers_effect_tooltip:2 "5年間の借款を§Y5§!件§Y1.0%§!の金利で借ります。特権は返済時に自動的に撤回されます。"
+ estate_burghers_indebted_to_burghers_effect_tooltip:2 "5年借款を§Y5§!件、金利§Y1.0%§!で借ります。特権は返済時に自動で撤回されます。"
  estate_burghers_free_enterprise:0 "自由競争"
  estate_cossacks_exploration_expedition:0 "コサック探索遠征隊"
  estate_cossacks_cossack_self_governance:0 "コサックの自治"

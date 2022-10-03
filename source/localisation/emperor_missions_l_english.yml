@@ -2233,7 +2233,7 @@
  desc_bri_colonialism:0 "大西洋を越えたところにある新しい土地が獲得されて以来、ブルターニュの農民、漁師、商人たちは冒険心を育んできた。アメリカ大陸のブルターニュのシェアを増やし、新世界の無限の富を自分たちで主張する前向きなラッシュが存在する。"
  bri_breton_better_weather:0 "ブルターニュの商業利益"
  has_colony_in_colonial_canada:0 "§Y[Root.GetName]§!は§Yカナダ植民地域§!内の国家の植民地宗主国である。"
- has_colony_in_colonial_caribbean:0 "§Y[Root.GetName]§!は§Yカリブ海植民地域§!内の国家の植民地宗主国である。"
+ has_colony_in_colonial_caribbean:0 "§Y[Root.GetName]§!は§Yカリブ植民地域§!内の国家の植民地宗主国である。"
  gen_hre_relations_with_emperor_title:0 "皇帝との関係"
  gen_hre_relations_with_emperor_desc:0 "神聖ローマ帝国の小国の1つとして、我々は存続を確保するために皇帝との友情を求めることが賢明である。"
  gen_hre_financial_centre_title:0 "商業の中心地"

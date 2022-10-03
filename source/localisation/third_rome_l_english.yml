@@ -1,5 +1,5 @@
 ﻿l_english:
- veche_republic:0 "民会共和制"
+ veche_republic:0 "ヴェーチェ共和制"
  veche_republic_desc:0 "この国はヴェーチェと呼ばれる民会によって治められている。ヴェーチェとは司法と立法において最高権力を持つ評議会で、貴族と商人及び庶民を構成員とする。"
  russian_famine:0 "飢饉"
  desc_russian_famine:0 "局所的な飢饉によってこの州は貧しくなった。"
@@ -385,7 +385,7 @@
  patriarch_events.5.d:0 "[monastic_province.GetAreaName]の僧侶が報告したところによると、地元の修道士の共同体が前例のない速度で拡大しているということである。[monastic_province.GetCapitalName]にある地元の修道院の荘園は事実相当に拡大しており、地元の行政官の羨望の的となったままである。知事が修道士たちとの衝突に巻き込まれ、そこで[Root.GovernmentName]と彼らの土地の境界決定がされている。\n今回は、中央の権威を介入させ論争に割り込んだ。修道院を助けることで彼らの感謝を得られるだろうが、これは国家の土地をもっと得られる機会となるかもしれない。"
  patriarch_events.5.a:0 "当局が正しいのは明らかだ！"
  patriarch_events.5.b:0 "この聖職者たちに耳を傾けねば。"
- veche_republic_legacy:0 "民会共和制"
+ veche_republic_legacy:0 "ヴェーチェ共和制"
  veche_republic_legacy_desc:0 "この国はヴェーチェと呼ばれる民会によって治められている。ヴェーチェとは司法と立法において最高権力を持つ評議会で、貴族と商人及び庶民を構成員とする。"
  custom_governing_capacity_modifier:0 "優秀な指導力"
  custom_governing_capacity_modifier_desc:0 "他者を率いるのが得意な人たちは、さらに多くの者たちを効率的に率いることができる。"

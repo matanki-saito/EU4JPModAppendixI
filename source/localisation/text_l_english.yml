@@ -5105,7 +5105,7 @@
  GREAT_POWER_SCORE_LONG:0 "列強の格付けは開発を技術コストで割った値で決定されます。"
  LEAVING_GREAT_POWER:0 "$COUNTRY|Y$は列強と考えられてはいますが、それは過去の功績によるものに過ぎません。彼らは$DATE|Y$までその地位にしがみつくことができるでしょう。\n"
  SUBJECT_OF_LEAVING_GREAT_POWER:0 "$COUNTRY|Y$は列強と考えられている$OVERLORD|Y$の従属国ですが、それは過去の功績によるものに過ぎません。彼らは$DATE|Y$までその地位にしがみつくことができるでしょう。\n"
- SUBJECT_OF_GREAT_POWER:0 "$COUNTRY|Y$は列強§Y#$OVERLORD_RANK$§!位に位置する$OVERLORD|Y$の従属国です。"
+ SUBJECT_OF_GREAT_POWER:0 "$COUNTRY|Y$は列強§Y$OVERLORD_RANK$§!位に位置する$OVERLORD|Y$の従属国です。"
  SUBJECT_CANNOT_BE_GREAT_POWER:0 "$COUNTRY|Y$は$OVERLORD|Y$の従属国であるため、列強になることはできません。"
  GREATPOWERWIN_RANK:0 "ランク"
  GREATPOWERWIN_NAME:0 "名前"
