@@ -2087,7 +2087,7 @@
  MODIFIER_POWER_PROJECTION_FROM_INSULTS:0 "侮辱からの戦力投射"
  MODIFIER_LOCAL_RELIGIOUS_UNITY_CONTRIBUTION:0 "州の宗教統一度の貢献値"
  territory:0 "テリトリー"
- territory_core:1 "テリトリーの中核"
+ territory_core:1 "テリトリーの中核州"
  territory_non_core:0 "テリトリー"
  MODIFIER_HAS_BANNERS:1 "八旗を許可"
  desc_dregatori_modifier:1 "世襲貴族は忠実で有能な総督に置き換えられた。"

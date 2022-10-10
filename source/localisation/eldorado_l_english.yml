@@ -663,7 +663,7 @@
  custom_idea_reinforce_speed_desc:0 "我々が組織的な物流の仕組みを作成するまで、物資の管理は無秩序で混乱した状態だった。"
  custom_idea_hostile_attrition:0 "焦土政策"
  custom_idea_hostile_attrition_desc:0 "我々の軍隊は、地域から撤退する際に、食糧や輸送など敵に有益なものを破壊するという厳しい命令を受けている。"
- custom_idea_army_tradition:0 "実力主義による昇進"
+ custom_idea_army_tradition:0 "能力主義による昇進"
  custom_idea_army_tradition_desc:0 "高貴な血縁のものを昇進させる古い方法は、実力によって行われる昇進への賛成により破棄されている。"
  custom_idea_army_tradition_decay:0 "士官学校の設立"
  custom_idea_army_tradition_decay_desc:0 "軍隊の指導への大きな保証や熱意を示した者は、将校として、また紳士としてどのように行動するかを教える士官学校に入学することができるようになった。"

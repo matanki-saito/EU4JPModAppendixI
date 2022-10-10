@@ -30,7 +30,7 @@
  FABRICATE_CLAIM_ENTRY_TT:0 "諜報網は以下によって$VAL|Y$だけ減少するでしょう\n$WHY$"
  PAPAL_BULL_POSSIBLE:0 "§Y教皇勅書§!\n教皇の支配者は、教皇勅書を制定することができます。\n"
  PAPAL_BULL_EXPLANATION:1 "教皇勅書は教皇の支配者が国庫から支出することで制定され、現在の教皇が死亡するまで、全てのカトリック国に恩恵をもたらします！"
- JUSTIFY_TRADE_BASE:0 "交易競争の正当化のコストは以下に基づいています\n元のコスト：$VAL|Y0$\n"
+ JUSTIFY_TRADE_BASE:0 "交易紛争の正当化のコストは以下に基づいています\n元のコスト：$VAL|Y0$\n"
  FABRICATE_CLAIM_BASE:1 "請求権の捏造のコストは以下に基づいています\n元のコスト：$VAL|Y0$\n"
  FABRICATE_CLAIM_INSIDE_HRE:1 "神聖ローマ帝国内：$VAL|-=1%$\n"
  FABRICATE_ALREADY_CLAIMS:1 "すでに$CLAIM|Y$州を主張：$VAL|-=1%$\n"
