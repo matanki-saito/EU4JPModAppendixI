@@ -4234,7 +4234,7 @@
  court_and_country_events.3.b.tt:0 "他のすべての§Y[separatist_province.Culture.GetName]§!の州は、§Y[separatist_province.GetName]§!と同様の地方の効果を得ます。"
  court_and_country_events.3.c:0 "そして、彼らに我が国における居場所はない！"
  court_and_country_events.4.t:0 "[city_league_demand_rights_province.GetName]同盟"
- court_and_country_events.4.d:0 "近年、多くの新しい税金や義務が、多くの[Root.GetAdjective]の都市やギルドに加えられた。これまでのところ、我々は要請をすべて受け入れたが、[Root.GetLowLevelOfficialForCountry]は彼らの間で不満が高まっていると報告している。\n[Root.Capital.GetCapitalName]の勅令と税への抵抗が高まるにつれて、[city_league_demand_rights_province.GetName]の州の最も強力な都市が、[city_league_demand_rights_province.GetCapitalName]の市長を中心として結束した。彼らは現在、自らの法律を維持するために税金と特権を課す権利を要求しており、その地域から[Root.GetLowLevelOfficialForCountry]を暴力的に追放した。"
+ court_and_country_events.4.d:0 "近年、多くの新しい税金や義務が、多くの[Root.GetAdjective]の都市やギルドに加えられた。これまでのところ、我々は求めたものを受け取ってきたが、[Root.GetLowLevelOfficialForCountry]は彼らの間で不満が高まっていると報告している。\n[Root.Capital.GetCapitalName]の勅令と税への抵抗が高まるにつれて、[city_league_demand_rights_province.GetName]の州の最も強力な都市が、[city_league_demand_rights_province.GetCapitalName]の市長を中心として結束した。彼らは現在、自らの法律を維持するために税金と特権を課す権利を要求しており、その地域から[Root.GetLowLevelOfficialForCountry]を暴力的に追放した。"
  court_and_country_events.4.a:0 "これらの不穏分子を叩き潰そう！"
  court_and_country_events.4.b:0 "我々は[city_league_demand_rights_province.GetName]の都市について例外を作ることができる。"
  court_and_country_events.5.t:0 "争い好きな[quarrelsome_nobles_province.GetName]の貴族たち"

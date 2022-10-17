@@ -1,6 +1,6 @@
 ﻿l_english:
  centralize_state:0 "ステートの集権化"
- CENTRALIZE_STATE_DESC:5 "§Yステートの集権化§!\n政府改革進捗度を$COST|Y$と$POWER_COST|Y$£adm£点を使用して、$STATE|Y$を最も発展した州へ集権化し、以下のボーナスをもたらします：\nステートの領土管理コスト：§G-25.0%§!\nステート維持費：§G-20.0%§!\n州の繁栄増加：§G+0.10§!\n\nこれには$YEARS|0Y$年かかります。"
+ CENTRALIZE_STATE_DESC:6 "§Yステートの集権化§!\n政府改革進捗度を$COST|Y$と$POWER_COST|Y$£adm£点を使用して、$STATE|Y$を最も発展した州へ集権化し、以下のボーナスをもたらします：\nステートの領土管理コスト：§G-20.0%§!\nステート維持費：§G-20.0%§!\n州の繁栄増加：§G+0.25§!\n\nこれには$YEARS|0Y$年かかります。"
  CENTRALIZE_STATE_COST:0 "十分な政府改革進捗度がありません"
  CENTRALIZE_STATE_TERRITORY:0 "集権化はテリトリーではなく、ステートにのみ行えます。"
  CENTRALIZE_STATE_DEV:1 "$STATE$の領土管理コストは$STATE_DEV|0$以上でなくてはなりません"
@@ -8,7 +8,7 @@
  CENTRALIZE_STATE_DONE:0 "既にステートの集権化を行っています"
  CENTRALIZE_STATE_PROGRESS:0 "建設は既に進行中です。$DATE$に完了するでしょう。"
  CONFIRM_CENTRALIZE_STATE:0 "$STATE$のステートの集権化"
- CONFIRM_CENTRALIZE_STATE_TEXT:4 "$PROVINCE|Y$州へ$STATE|Y$を集権化するために、政府改革進捗度を$COST|0Y$と$POWER_COST|Y$£adm£点を使用して本当に構いませんか？\n$STATE|Y$は以下のボーナスを得ます：\nステートの領土管理コスト：§G-25.0%§!\nステート維持費：§G-20.0%§!\n州の繁栄増加：§G+0.10§!\n\nこれには$YEARS|0Y$年かかります。"
+ CONFIRM_CENTRALIZE_STATE_TEXT:5 "$PROVINCE|Y$州へ$STATE|Y$を集権化するために、政府改革進捗度を$COST|0Y$と$POWER_COST|Y$£adm£点を使用して本当に構いませんか？\n$STATE|Y$は以下のボーナスを得ます：\nステートの領土管理コスト：§G-20.0%§!\nステート維持費：§G-20.0%§!\n州の繁栄増加：§G+0.25§!\n\nこれには$YEARS|0Y$年かかります。"
  CENTRALIZE_STATE_CONSTRUCTION_TITLE:0 "ステートの集権化が完了"
  CENTRALIZE_STATE_CONSTRUCTION_SETUP:0 "ステートの集権化が完了したとき"
  CENTRALIZE_STATE_CONSTRUCTION_1:0 "ステートの集権化を完了"

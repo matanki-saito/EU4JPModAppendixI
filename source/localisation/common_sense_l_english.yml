@@ -870,7 +870,7 @@
  subject_interaction_events.3.a:0 "[From.Country.GetName]の[From.Monarch.GetName]は我々に金と兵士を送った！"
  subject_interaction_events.3.b:0 "[From.Monarch.GetName]は我々に助けを送ることを拒否した！"
  subject_interaction_events.4.t:0 "無能な親族"
- subject_interaction_events.4.d:0 "我々の従属国の一つを支配する親愛なる大切な親族は、無能な道化師であることが証明されており、いかなる国家を支配することもできないし、支配するべきでもない。"
+ subject_interaction_events.4.d:1 "我々の従属国である[incompetent_cousin_country.GetName]を支配する親愛なる大切な親族は、無能な道化師であることが証明されており、いかなる国家を支配することもできないし、支配するべきでもない。"
  subject_interaction_events.4.a:0 "我々の従属国を支配するために、より良い者を見つけることを試みる。"
  subject_interaction_events.4.b:0 "国に混乱をもたらすだけだ。そのままにしておけ。"
  subject_interaction_events.5.t:0 "有能な親族"

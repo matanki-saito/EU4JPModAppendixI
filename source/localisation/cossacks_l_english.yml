@@ -65,7 +65,7 @@
  INCREASE_TRUST:0 "信頼度の増加"
  PREPARE_FOR_WAR:0 "戦争の準備"
  EST_VAL_SHARIA:0 "シャリーア: §Y$VAL$%§!"
- EST_HUN_MAGNATES:0 "有力者に与えられた権力: §Y$VAL$%§!"
+ EST_HUN_MAGNATES:0 "マグナートに与えられた権力: §Y$VAL$%§!"
  EST_VAL_PRIVATE_CHANCELLERY:0 "世俗の統治者: §Y$VAL$%§!"
  EST_NUM_CITIES:0 "都市の数: §Y$VAL$%§!"
  DEVELOP_IN_SUBJECT_LIB_DESIRE:0 "これは§Y$NAME$§!の独立欲求を$VAL$減少させます（現在$CUR$）"
