@@ -352,6 +352,6 @@
  chinese_warlord_desc:0 "天朝から分裂し、天子に対して反旗を翻した王国。"
  mechanic_enables_horde_idea_group_yes:1 "§Y遊牧民§!アイデアを許可します。"
  mechanic_enables_horde_idea_group_no:1 "§Y遊牧民§!アイデアを禁止します。"
- mechanic_enables_divine_idea_group_yes:1 "§Y富豪§!アイデアを許可します。"
+ mechanic_enables_divine_idea_group_yes:1 "§Y神聖§!アイデアを許可します。"
  mechanic_enables_divine_idea_group_no:1 "§Y神聖§!アイデアを禁止します。"
  mechanic_has_unify_china_cb_yes:1 "§Y中華統一§!の開戦事由が利用可能"

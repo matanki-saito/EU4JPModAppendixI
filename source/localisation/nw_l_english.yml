@@ -24,7 +24,7 @@
  SUBJECT_NO_INCOME_DESC:0 "$TYPES$は我々に一銭たりとも税を支払いません。"
  SUBJECT_DISLOYAL_INCOME_DESC:0 "不忠者たちは税金や関税を支払わないだろう。"
  SUBJECT_ARMY_SIZE:0 "従属国の連隊保有数は§Y$NUM$§!。我々の連隊保有数は§Y$LORD_NUM$§!。"
- SUBJECT_ARMY_SIZE_DESC:0 "宗主国よりも強大な軍を保有する従属国は、反乱を起こそうとする。"
+ SUBJECT_ARMY_SIZE_DESC:0 "宗主国よりも強大な軍を保有する従属国は、反乱を起こそうとします。"
  SUBJECT_TP_FROM_PROT:0 "記載されているノードの§Y交易力§!のうち以下の量を与える。"
  UNION_BREAK_OPINION:0 "従属国の評価が§Y$LIMIT$§!を下回った場合、同君連合は解消されます（現在：$CURRENT$）"
  UNION_BREAK_PRESTIGE:0 "宗主国の威信が§Y$LIMIT$§!を下回った場合、同君連合は解消されます（現在：$CURRENT$）"

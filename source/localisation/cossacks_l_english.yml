@@ -756,7 +756,7 @@
  no_tribal_leaders:0 "将軍数の減少"
  desc_no_tribal_leaders:0 "我々は、より強力な部族が、彼らの指導者を我々の軍隊の将軍として奉仕させるべきではないということを受け入れた。"
  dhimmi_tax_burden_autonomy_tooltip:0 "§Yズィンミー§!によって支配されている州はすべて、§R15%§!の自治率を得ます。"
- forced_other_to_give_up_claim_on_us:0 "我々に請求権を放棄させる他の強制"
+ forced_other_to_give_up_claim_on_us:0 "他国に我々への請求権を放棄させるよう強いた"
  EST_VAL_DHIMMI_NOBLES_LOYALTY:0 "ズィンミーの貴族化: §R$VAL$§!"
  PROMOTE_DHIMMI_NOBLES:0 "ズィンミーを貴族に列する"
  EST_VAL_DHIMMI_NOBLES:0 "ズィンミーの貴族化: §Y$VAL$%§!"

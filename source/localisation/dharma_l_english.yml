@@ -963,7 +963,7 @@
  GOVERNMENT_DESELECTED_DESC:1 "あなたの国の変化により、政府$REFORM|Y$は実行不可能になったため廃止されました。政府は$REPLACEMENT|Y$に変更されます。"
  RAJPUT_DESC:2 "§Yラージプート§!階級に特別な権限を与えることにより、我々は彼らの精鋭の戦士たちへのアクセスを取得します。ラージプートは平均的な部隊よりも士気が高く、補充が安上がりで、訓練ボーナスを長期間保持できます。"
  CHANGE_REFORM_CANT_AFFORD:0 "$COST|R$を持っていないため、政府改革を変更できません。"
- REFORM_PROGRESS_DEV:5 "§Y$LOCALAUTONOMY$%§!の平均自治率から$POINTS|G$\nこの計算式は年間$BASE|+=0$に(12*(100+§Y$LOCALAUTONOMY$%§!))を割ったものです。\n\n"
+ REFORM_PROGRESS_DEV:5 "§Y$LOCALAUTONOMY$%§!の平均自治率により$POINTS|G$\nこの計算結果は年間$BASE|+=0$を(12*(100+§Y$LOCALAUTONOMY$%§!))で割ったものです。\n\n"
  REFORM_PROGRESS_BUILDINGS:1 "\n建造物から$POINTS|G$"
  COMPANY_PRICE_CALC:0 "基本：$BASE|Y0$¤\n自国の植民範囲 §G$RANGE|0$§!¤\n$MIN|0Y$¤以下になることはありません"
  CHARTER_COMPANY_WE_AT_WAR:0 "戦争時に勅許会社を求めることはできません"
