@@ -7244,7 +7244,7 @@
  HISTORY_CITY_RENAMED:0 "州都の名が§Y$NEW$§Wに変わる"
  HISTORY_ADVISOR:0 "この地の§Y$TYPE$§Wである§Y$NAME$§Wが業績により名を遺す"
  HISTORY_DECISION:0 "決断：$DECISION$"
- xdesc_free_shipping_through_the_sound:0 "我々の船はもはや海峡通行料を支払うことはなく、我々の交易はより良いものになる。"
+ xdesc_free_shipping_through_the_sound:0 "我々の船はもはや海峡通行料を支払う必要はない、我々の交易にとってはよいことだ。"
  YEARLY_CULTURAL_TRADITION:0 "年間文化の伝統"
  illegitimate_ruler:0 "支配者は私生児とみなされている"
  desc_illegitimate_ruler:0 "我々の人口の広範な層は、現在の支配者を私生児と考えている。"
