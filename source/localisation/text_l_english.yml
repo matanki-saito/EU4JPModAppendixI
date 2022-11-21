@@ -6009,7 +6009,7 @@
  MISSIONARY_PROGRESS_OTHER:0 "$COUNTRY|Y$は現在$PROVINCE|Y$で改宗を行っています。"
  active_missionary:0 "有効な宣教師"
  SHIP_COST:0 "船のコスト"
- REGIMENT_COST:0 "連隊のコスト"
+ REGIMENT_COST:0 "連隊コスト"
  ATTR_SAFE_RANGE:0 "補給線の範囲内であり、海岸近くの艦隊は損耗を受けることはありません。"
  ATTR_ALLY_WATERS:0 "戦争の同盟国によって支配された海岸近くの艦隊は、損耗を受けることはありません。"
  SHIP_SUPPLY_RANGE:0 "補給船到達範囲"
