@@ -1540,7 +1540,7 @@
  IN_ENEMY_TERRITORY:0 "ユニットが敵領土にいます。"
  CONDOTTIERI_ALREADY_HAS_LEADER:0 "コンドッティエーリのユニットは指揮官がいます。"
  NO_TARGETS_TO_ATTACH_TO:0 "追随させられるユニットがいません。"
- UPGRADE_SHIPS_DESC:0 "艦船を最新の設計にアップグレードします。\nアップグレードされた艦船は戦力が1%まで減少し、水兵はプールへ戻ります。 "
+ UPGRADE_SHIPS_DESC:0 "艦船を最新の設計にアップグレードします。\nアップグレードされた艦船は戦力が1%まで減少し、水兵はプールへ戻ります。"
  TOOLTIP_TOGGLE_GO_HOME_WAR_NAME:0 "§Y戦争中は寄港する§!"
  CANNOT_CONSOLIDATE_FULL_STRENGTH:0 "全軍が定員一杯です。"
  REORGANIZE_WRONG_NUMBER_OF_UNITS:0 "2つの軍を選択する必要があります。"

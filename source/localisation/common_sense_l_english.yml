@@ -1689,7 +1689,7 @@
  justified_religious_war_aspect:0 "正当化された紛争"
  desc_justified_religious_war_aspect:1 "この国の新しい教会は異教や異端に脅かされている。聖書によって、この自衛のための紛争を正当化しよう。\n\n§Y10§!年間、他宗教に対する戦勝点コストを§G-10%§!する"
  war_preaches_aspect:1 "戦中での説教"
- desc_war_preaches_aspect:1 "争いが絶えない時代においては、信仰が民衆に希望を抱かせる助けとなる。 我々の教会では、暗き時代にあっても人々を照らすために聖書の説教を行うのだ。\n\n§Y10§!年間、戦争税コストを§G-100%§!する"
+ desc_war_preaches_aspect:1 "争いが絶えない時代においては、信仰が民衆に希望を抱かせる助けとなる。我々の教会では、暗き時代にあっても人々を照らすために聖書の説教を行うのだ。\n\n§Y10§!年間、戦争税コストを§G-100%§!する"
  head_of_the_church_aspect:0 "宗教指導者"
  desc_head_of_the_church_aspect:1 "教会は、もはや腐敗した外国の神権勢力に従属するものではない。その代わりに、あらゆる宗教問題は新たに宗教の指導者を務める統治者に向けられることになるだろう。\n\n§Y10§!年間の間、絶対主義が年間§G1%§!増加します"
  organised_through_bishops_aspect_modifier:0 "教会のアスペクトへの熱狂"

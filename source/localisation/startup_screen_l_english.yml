@@ -297,7 +297,7 @@
  string_rituals_info:0 "\n\n£DLC_rom£ゾロアスター教国は自国の信仰にとっての§Y聖地§!を征服することで§Y儀礼§!を得ることができます。ゾロアスター教の支配にある聖地の数が、世界のゾロアスター教国にとっての儀礼の数を決定します。\n"
  string_stories_info:0 "\n\n£DLC_rom£呪物崇拝の支配者は独自のボーナスで§Yカルト§!を選択することができます。新しいカルトは、アルチェリンガ信仰で始まる国家が利用可能なミッションを通して解禁されます。"
  string_ancestor_info:0 "\n\n£DLC_lev Totemist countries are lead by rulers which have only one §YRuler Personality§!. However, upon death of the ruler the personality becomes available to the country as an §YAncestor§! which can be picked later for a permanent bonus at the cost of diplomatic power. Up to §Y10§! ancestors can be chosen."
- string_jewish_aspects_info:0 "\n\n£DLC_ori Jewish countries accumulate §YFaith Power§! over time. This can be used to activate up to 3 §YTorah Aspects§!, which are separated into three categories. Each category enhances one major aspect of the state and unlock powerful active and passive abilities.\n"
+ string_jewish_aspects_info:0 "\n\n£DLC_ori ユダヤ教の国家は時間の経過とともに§Y教会力§!を蓄積します。教会力は3分野に分割されている§Y律法の様相§!を起動する際に用います。それぞれの分野は国家の主要な分野を強化し、強力な能力をも解禁します。\n"
  string_hussite_power_info_no:0 "\n"
  string_rituals_info_no:0 "\n"
  string_stories_info_no:0 "\n"
