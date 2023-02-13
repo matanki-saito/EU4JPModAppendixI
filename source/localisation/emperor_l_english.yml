@@ -444,7 +444,7 @@
  ESTATE_AGENDA_WAITING:0 "この議題を拒否するか受け入れることができます"
  ESTATE_AGENDA_TASK:1 "この議題は以下の条件を満たす必要があります："
  ESTATE_AGENDA_WHEN_COMPLETED:0 "完了した場合、以下を獲得するでしょう："
- ESTATE_AGENDA_ALL_ACCEPT:4 "$AGENDA|Y$の議題：\n$FLAVOR$\n\n"
+ ESTATE_AGENDA_ALL_ACCEPT:4 "議題$AGENDA|Y$：\n$FLAVOR$\n\n"
  ESTATE_AGENDA_TASK_ACCEPT:2 "以下が満たされると完了します：\n$CONDITIONS$\n\n"
  ESTATE_AGENDA_IMMEDIATE:2 "受諾した場合の影響：\n$EFFECT$\n\n"
  ESTATE_AGENDA_TASK_COMPLETED:4 "完了した場合の影響：\n$EFFECT$\n\n"
