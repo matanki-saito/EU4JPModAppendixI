@@ -4398,7 +4398,7 @@
  CONFIRMADDPOLICY:0 "政策を制定"
  OTHER_NO_ACTIVE_POLICIES:0 "彼らには現在有効な政策がありません。"
  OTHER_CURR_ACTIVE_POLICIES:0 "有効な政策"
- POLICY_POSSIBLE:0 "すべてのアイデアを獲得した時、完了した他のアイデアグループに応じて次の政策が利用可能になります"
+ POLICY_POSSIBLE:0 "すべてのアイデアを獲得した時、完了した他のアイデアグループに応じて次の政策が利用可能になります。"
  NO_POSSIBLE_POLICIES_AT_ALL:0 "現在制定できる利用可能な政策はありません。アイデアグループを完了することで政策を解禁することができます。"
  TRADER_CHANGE:0 "変更"
  APH_ONLY_EUROPE:0 "ヨーロッパ大陸の州のみ追加することができます。"
