@@ -910,7 +910,7 @@
  estate_burghers_colonise_more_X_desc:0 "[agenda_owned_province.GetName]の我々の入植者は、繁栄している植民地と、さらなる入植のための肥沃な土地について報告している。[Root.Get市民Name]は[Root.GetUsableName]のため、我々に対し[agenda_province.GetAreaName]の残った土地への植民者の派遣を求めている。"
  estate_burghers_colonial_nation_desc:0 "[agenda_province.GetColonialRegionName]の我々の入植地は急速に成長している。[Root.Get市民Name]は、彼らが[Root.GetAdjective]の地域の前哨基地として成長し、自立できるよう、この成長と、彼らによる独自の統治の確立を支援することを提唱している。"
  estate_burghers_expand_trade_company_desc:0 "[Root.Get市民Name]は、外国との交易が我が国にもたらす利益を強調している。彼らは、[agenda_province.TradeCompany.GetName]を拡大するために、我々の資源（軍事力を含む）を利用するよう主張している。"
- estate_burghers_trade_post_in_india_desc:0 "[Root.Get市民Name]は、中国の富の物語に魅了されている。彼らはその交易が我々に開放されるよう、その海岸線に交易所を設立することを我々に強く求めている"
+ estate_burghers_trade_post_in_india_desc:0 "[Root.Get市民Name]は、インドの富の物語に魅了されている。彼らはその交易が我々に開放されるよう、その海岸線に交易所を設立することを我々に強く求めている"
  estate_burghers_trade_post_in_malacca_desc:0 "東にある香料諸島は[Root.Get市民Name]にとって魅力的である。彼らは、彼らがそこから流れる交易の制御を開始できるよう、地域に交易所を設立することを強く要求している。"
  estate_burghers_trade_post_in_china_desc:0 "[Root.Get市民Name]は、中国の富の物語に魅了されている。彼らはその交易が我々に開放されるよう、その海岸線に交易所を設立することを我々に強く求めている"
  estate_burghers_silk_trade_desc:0 "東にある我々の前哨基地が提供する機会の中に、高品質の絹の供給源への支配の確立がある。[Root.GetBurghersName]は、それらの取得を最優先にするよう我々に促している。"
