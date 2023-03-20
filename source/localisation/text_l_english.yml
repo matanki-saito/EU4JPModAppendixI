@@ -1050,7 +1050,7 @@
  MARACCEPTBUTTON:0 "素晴らしい！"
  MARNEWDESC:0 "$COUNTRY$との王室間の婚姻を要求しますか？これは両王国の接近をもたらすでしょう。"
  PEACEOFFERDESC:0 "我々は$COUNTRY$からの和平提案を受け取っています。彼らは以下の条件を提案しています："
- PO_WELEAD:0 "我々は全同盟者を代表して交渉にあたり、"
+ PO_WELEAD:0 "我々は全同盟者を代表して交渉にあたり"
  PO_WENOTLEAD:0 "§Y我々は単に自分自身のために交渉しています§W"
  PO_THEYLEAD:0 "彼らは全同盟者を代表して交渉にあたっています。"
  PO_THEYNOTLEAD:0 "、そして彼らは単に§Y彼ら自身のために交渉しています。§W"
