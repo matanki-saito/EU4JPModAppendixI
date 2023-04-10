@@ -3827,7 +3827,7 @@
  reaction:0 "反動"
  desc_reaction:0 "我々は、神を恐れぬ革命家に対する神聖な戦いを率いている。教会と国家は完全に我らの主張を支持しており、他の国々は我らの力強い姿を称賛している。"
  PENALTY_SHADOW_KINGDOM:0 "帝国内に残ることを選択した場合、不穏度上昇と威信へのペナルティを受けます。"
- submission_to_emperor:0 "皇帝の選出"
+ submission_to_emperor:0 "皇帝への服従"
  desc_submission_to_emperor:0 "我々の隣人たちがその影響から身を解放している一方で、あくまで神聖ローマ帝国に固執する我々の選択は、国民からの疑いや嫌悪感で示されている。"
  GO_NORMAL:0 "普通"
  GO_NONE:0 "なし"
