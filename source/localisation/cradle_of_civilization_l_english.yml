@@ -455,7 +455,7 @@
  traditional_values_supported:0 "根強い伝統的な価値観"
  desc_traditional_values_supported:0 "新しいアイデアや技術に出会いながらも、この州は昔ながらの伝統を用いることにした。"
  trade_policy_events.1.t:0 "[quarter_city.GetCapitalName]の外国人地区"
- trade_policy_events.1.d:0 "長い間、外国の商人は、我が国との交易をより良いものとするために[quarter_city.GetCapitalName]に定住している。しかし最近、[community_country.GetDefiniteArticleBeforePluralCountry][community_country.GetName][community_country.GovernmentName]の活動が強化され、地区は独自の都市へと成長している。\nこれは問題がないわけではなく、我々の市民は[community_country.GetAdjective]共同体が彼らの犠牲の上に成長していると訴えている。彼らは外国商人に厳しい規制を課し、外国人地区の活動を縮小することを要求している。"
+ trade_policy_events.1.d:1 "長い間、外国の商人は、我が国との交易をより良いものとするために[quarter_city.GetCapitalName]に定住している。しかし最近、[community_country.GetDefiniteArticleBeforePluralCountry][community_country.GetName][community_country.GovernmentName]の活動が強化され、地区は独自の都市へと成長している。\nこれは問題がないわけではなく、我々の市民は[community_country.GetAdjective]共同体が彼らの犠牲の上に成長していると訴えている。彼らは外国商人に厳しい規制を課し、外国人地区の活動を縮小することを要求している。"
  trade_policy_events.1.a:0 "いや、代わりに我々は外国人社会が成長するように促すべきだ。"
  trade_policy_events.1.b:0 "[quarter_city.GetCapitalName]の善良なる者達の願いを尊重しなければ。"
  trade_policy_events.2.t:0 "[trade_province.Culture.GetName]の[trade_province.GetFancyTradeGood]"
@@ -870,3 +870,4 @@
  MODIFIER_MAY_REFILL_GARRISON:0 "守備隊の補充を可能にします"
  MODIFIER_MAY_RETURN_MANPOWER_ON_DISBAND:0 "解散すると人的資源が戻ります"
  maximize_profits:0 "利益を最大化"
+ catholic_center_of_reformation:0 "カトリックの中心地"

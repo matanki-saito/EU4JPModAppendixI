@@ -11,7 +11,7 @@
  achievement_lion_of_the_north_tooltip:0 "プロテスタント連盟のリーダーとなり、皇帝に対する連盟戦争で勝利した。"
  achievement_even_better_than_piet_heyn_tooltip:0 "財宝艦隊の強奪で100ゴールド以上獲得した。"
  achievement_on_the_edge_of_madness_tooltip_95_doom:0 "破滅95に到達し、その後100に達することなく20年を経過した。"
- achievement_magellans_voyage_tooltip:0 "最初に世界一周を成し遂げた。"
+ achievement_magellans_voyage_tooltip:0 "最初に世界一周を成し遂げた国になった。"
  voting_streak:0 "議会で議題を連続して可決した。"
  achievement_the_continuation_of_diplomacy_tooltip:0 "戦争の脅迫によって州を得た。"
  achievement_time_bandit_tooltip:0 "他国から地図を盗んだ。"
@@ -61,3 +61,4 @@
  achievement_purify_the_temple_tooltip:1 "§Y[118.Owner.GetName]§!に対して§Y異端教会への襲撃§!を使い、§Y[118.GetName]§!教会を襲撃する。"
  has_celebrated_festival_tooltip:0 "祝祭を執り行う。"
  achievement_the_freest_man_in_the_world_tooltip:0 "世界中のどの植民地化された州も§Y奴隷§!を生産していない。"
+ achievement_mehmet_ambition_tooltip:0 "Owned by §Y[Root.GetName]§! or its §YCore Eyalet§! subjects."

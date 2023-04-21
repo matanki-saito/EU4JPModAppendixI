@@ -4595,3 +4595,5 @@
  theocracy.1.j.f:0 "地元宣教師が後継者になる。"
  theocracy.1.j.g:0 "地元のイマーム・ハティーブが後継者になる。"
  theocracy.1.j.h:0 "有力な改革家が後継者になる。"
+ hre_core_tt:0 "帝国の領邦が領有していない帝国の州すべてが§Y[Root.GetName]§!の中核州になります。"
+ hre_inheritance_tt:0 "§Y神聖ローマ帝国§!の全領邦が§Y[Root.GetName]§!加盟を要請する。"

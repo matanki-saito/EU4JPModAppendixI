@@ -145,7 +145,7 @@
  desc_levee_en_masse:0 "共和国が危険にさらされている場合、全ての健常な男性は、国を守るために兵役に入ることが義務付けられる。"
  professional_diplomatic_corps:0 "専門的な外交団"
  desc_professional_diplomatic_corps:0 "血縁により大使の地位を与えるのではなく、専門の外交官を雇うことで、我々は効率を得る。"
- letters_of_marque:0 "私掠免許状"
+ letters_of_marque:1 "Sponsored Privateers"
  desc_letters_of_marque:0 "意欲的な私掠船長に私掠免許状を与えることにより、彼らは我々ができる私掠活動の量を増やすだろう。"
  the_citizen_service_act:0 "市民奉仕法"
  desc_the_citizen_service_act:0 "市民が恩恵を受けている場合、彼らは国家に対しても義務がある。奉仕が市民権を保証する！"

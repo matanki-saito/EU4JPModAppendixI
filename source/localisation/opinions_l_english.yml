@@ -147,7 +147,6 @@
  opinion_suppressed_rebels:0 "反乱軍を鎮圧した"
  opinion_annex_part_of_empire:0 "神聖ローマ帝国領邦を併合した"
  opinion_annex_vassal:0 "属国を併合した"
- sankin_kotai:0 "参勤交代"
  opinion_sword_hunt:0 "刀狩令"
  opinion_unlawful_territory:0 "不法な領土"
  secularized_monastic_order:0 "世俗修道会"
@@ -215,3 +214,5 @@
  opinion_defected_privateer:0 "離反した私掠船"
  opinion_sublimis_deus:0 "崇高なる神"
  opinion_declined_primas_germaniae:0 "ドイツにおける最高位聖職者を拒否した"
+ subject_called_to_arms:0 "Subject called to arms"
+ sankin_kotai_modifier:0 "参勤交代"

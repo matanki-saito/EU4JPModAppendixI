@@ -88,7 +88,7 @@
  RIVAL_DIP_POWER:0 "和平交渉で州を要求する際の£dip£コストが$VAL$になる。\n"
  RIVAL_SPY:0 "諜報網の構築の速度が$VAL$増加する。\n"
  BENEFIT_FOR_EMPEROR:1 "皇帝が以下を得る：\n$MODIFIER$"
- BENEFIT_FOR_MEMBER:2 "諸侯および自由都市が以下を得る：\n$MODIFIER$"
+ BENEFIT_FOR_MEMBER:3 "皇帝以外の領邦が以下を得る：\n$MODIFIER$"
  DIPIRO_SUPPORTING_INDEPENDENCE:0 "§Y$NAME$§!の独立を支援しています。"
  DIPIRO_INDEPENDENCE_SUPPORTED:0 "§Y$NAME$§!に独立を支援されています。"
  DIPIRO_ALLIED_WITH:0 "§Y$NAME$§!と同盟を結んでいます。"
