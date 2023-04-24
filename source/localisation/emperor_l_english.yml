@@ -1062,7 +1062,7 @@
  estate_privileges_and_agendas_events.7.l:0 "Seize it from the [Root.GetJainsOrFallbackName]"
  estate_privileges_and_agendas_events.7.m:0 "Seize it from the Janissaries"
  estate_privileges_and_agendas_events.7.n:0 "Seize it from the Eunuchs"
- MODIFIER_STABILITY_COST_TO_DECLARE_WAR:0 "Stability Hit to Declare War"
+ MODIFIER_STABILITY_COST_TO_DECLARE_WAR:0 "宣戦布告時の安定度低下"
  MONOPOLY_INCOME_CLOTH_SILK_DESC:0 "布または絹生産から"
  MONOPOLY_INCOME_IRON_AND_COPPER_DESC:0 "鉄または銅生産から"
  MONOPOLY_INCOME_FISH_DESC:0 "from fish production."

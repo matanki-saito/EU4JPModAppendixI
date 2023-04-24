@@ -1257,7 +1257,7 @@
  nobles_privilege_slots:0 "[Country.GetNobilityName] Max Privileges"
  burghers_privilege_slots:0 "[Country.GetBurghersName] Max Privileges"
  rajput_privilege_slots:0 "[Country.GetRajputsName] Max Privileges"
- cossacks_privilege_slots:0 "[Country.GetCossacksName] Max Privileges"
+ cossacks_privilege_slots:0 "[Country.GetCossacksName]の特権最大数"
  dhimmi_privilege_slots:0 "[Country.GetDhimmiName] Max Privileges"
  nomadic_tribes_privilege_slots:0 "[Country.GetTribesName] Max Privileges"
  vaisyas_privilege_slots:0 "[Country.GetVaishyasName] Max Privileges"
