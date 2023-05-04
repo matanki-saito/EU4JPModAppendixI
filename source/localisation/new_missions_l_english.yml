@@ -1993,3 +1993,5 @@
  gc_cas_spa_reconquista_one_bt:0 "既に§Yナバラの属国化§!のミッションを完了していた場合、§Y[Root.GetName]§!は§Yベイラ§!および§Yアレンテージョ§!地域に恒久的な請求権を獲得します。"
  gc_cas_spa_navarra_ct:0 "既に§Yアンダルシアの再請求§!のミッションを完了していた場合、§Y[Root.GetName]§!は§Y[POR.GetName]§!に対し§Y連合の回復§!の開戦事由を獲得します。"
  gc_cas_spa_navarra_bt:0 "既に§Yアンダルシアの再請求§!のミッションを完了していた場合、§Y[Root.GetName]§!は§Yベイラ§!および§Yアレンテージョ§!地域に恒久的な請求権を獲得します。"
+ gc_cas_spa_army_ready2_title:0 "Prepare Reconquista"
+ gc_cas_spa_army_ready2_desc:0 "For too long have we failed in our duty of care to the peoples of Iberia. We should prepare to unite them under one banner."
