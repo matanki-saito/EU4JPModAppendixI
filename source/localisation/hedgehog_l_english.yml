@@ -116,7 +116,7 @@
  ancestor_navigator_personality:0 "探検家"
  ancestor_fierce_negotiator_personality:0 "熾烈な交渉人"
  MIGRATION_BASE_COST:0 "基本：§Y50§!\n"
- MIGRATION_MULTIPLIER:0 "Outside Tribal Land: §Yx§!$MULT|Y$\n"
+ MIGRATION_MULTIPLIER:0 "部族領の領外：§Yx§!$MULT|Y$\n"
  MIGRATION_MODIFIER:0 "さらに次の補正を受けます：\n$MOD$"
  NATIVE_TRIBES_CANT_COLONISE:0 "§R先住民部族は入植できません。§!"
  FEDERATION_ADVANCEMENT_NO_FEDERATION:0 "§R連邦の一部ではありません。§!"

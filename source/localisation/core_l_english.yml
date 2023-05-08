@@ -532,7 +532,7 @@
  CLOSE_UNIT_VIEW:0 "§Y閉じる§!"
  DESELECT_ALL:0 "§Yすべて閉じる§!"
  DESELECT_ALL_DESC:0 "選択されているすべてのユニットの選択を解除します。"
- REORGANIZE_UNITS:0 "§Yユニットの再編成§!"
+ REORGANIZE_UNITS:0 "§Yユニットの再編制§!"
  SELECT:0 "選択"
  RIGHT_CLICK_TO_CENTER:0 "右クリックするとこのユニットを中心に置きます。"
  CLICK_TO_CENTER:1 "§Yこのユニットを中心に置く。§!"

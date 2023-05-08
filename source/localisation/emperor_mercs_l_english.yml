@@ -1,5 +1,5 @@
 ﻿l_english:
- MERC_COST_BASE:0 "編成から：$VAL|Y$¤\n"
+ MERC_COST_BASE:0 "編制から：$VAL|Y$¤\n"
  MERC_COST_TYPE:0 "$NAME$：$VAL|-=%$\n"
  MERC_ORIGIN:0 "$NAME|Y$の\n本拠地"
  MERC_IN_RANGE_FOR_US_TO_HIRE_IN:0 "\nここは傭兵を雇用できる範囲内です。"
