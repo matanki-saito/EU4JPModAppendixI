@@ -898,7 +898,7 @@
  emperor_reichsreform_desc:0 "さらに集権化した形式に帝国を改革する。"
  emperor_reichsregiment_title:0 "帝国統治院の設置"
  emperor_reichsregiment_desc:0 "帝国議会を統合することで、立法の複雑さを軽減する。"
- emperor_gemeinerpfennig_title:0 "一般帝国税を制定"
+ emperor_gemeinerpfennig_title:0 "一般帝国税の制定"
  emperor_gemeinerpfennig_desc:0 "神聖ローマ帝国領邦に対し、特別税を課し、皇帝に直接支払うことを要求するものである。"
  emperor_hofgericht_title:0 "宮廷裁判所の改革"
  emperor_hofgericht_desc:0 "皇帝が帝国内の最終的な法的権限を持つことによって、法的独立性を減少させる。"

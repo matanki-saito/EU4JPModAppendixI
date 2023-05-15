@@ -484,7 +484,7 @@
  portuguese_corps_of_fusiliers_desc:0 "ポルトガル艦隊は国そのものであり、我が国のフュージリア連隊は陸上のように艦船から攻撃ができる準備をしていなければならない。"
  integrated_marines:0 "統一された海兵隊"
  integrated_marines_desc:0 "乗船しているすべての兵士が海兵ではありませんが、我が国の旗艦は違います。"
- MODIFIER_MONTHLY_CHANCE_ADMIRAL_GAINING_SKILL:0 "ミッション中の提督がスキルを獲得する月毎の確率"
+ MODIFIER_MONTHLY_CHANCE_ADMIRAL_GAINING_SKILL:0 "ミッション中の提督の月毎スキル獲得確率"
  scandinavian_flag_officers:0 "スカンディナヴィアの海軍将官"
  scandinavian_flag_officers_desc:0 "エースレンド海峡を流れる交易への依存関係と接続によって、我々は海軍の中核を担う熟練船員として徴募する経験豊富な船員の大きな源泉を持っている。"
  flag_officers:0 "海軍将官"

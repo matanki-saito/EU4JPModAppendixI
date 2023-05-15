@@ -2078,7 +2078,7 @@
  desc_lit_lord_of_the_rus:0 "ロシアの公爵の最も強力な者たちを支配下に置くことで、誰もが認めるルーシの主となった。"
  lit_conquered_rus:0 "ルーシの征服"
  desc_lit_conquered_rus:0 "ルーシの公爵達を従属させるのではなく、刃にかけることを選択したので、我が国家は広範囲の土地を効率的に統合し、国際問題を引き起こすことなく、必要性に順応していっている。"
- MODIFIER_MONTHLY_SUPPORT_HEIR_GAIN:0 "月間後継者支援の増加"
+ MODIFIER_MONTHLY_SUPPORT_HEIR_GAIN:0 "毎月の後継者への支援増加"
  pru_confederation_curtailed_modifier:0 "縮小したプロイセン同盟"
  desc_pru_confederation_curtailed_modifier:0 "我々の国を離れ分裂させる恐れのあるプロイセン同盟の影響を除去した。"
  MODIFIER_POWER_PROJECTION_FROM_INSULTS:0 "侮辱からの戦力投射"

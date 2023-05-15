@@ -173,7 +173,7 @@
  estate_church_karma_temples_desc:0 "神聖な仏教寺院の管理は、僧侶に任せるべきだ。"
  estate_church_karma_temples_tt:0 "§Yカルマ+3§!が、§Y寺院§!の建造物建設時に追加されます。\n§Yカルマ-3§!が、§Y寺院§!の建造物破壊時に追加されます。"
  estate_church_influence_temples:0 "教会の聖域"
- estate_church_influence_temples_desc:1 "Respect the privilege of the Church of granting sanctuary to suspected criminals and debtors, this will please local Church authorities who can charge them lodging (and the Papacy), even if it comes at the cost of our secular authority."
+ estate_church_influence_temples_desc:1 "疑わしい犯罪者や債務者に対しても聖域を与えるという教会の特権を尊重する。これは、たとえ我々の世俗的権威を犠牲にしてでも、犯罪者や債務者に宿泊料を請求できる地元の教会権威（そして教皇庁）を喜ばせることになる。"
  estate_church_influence_temples_tt:0 "§Y教皇への影響力+3§!が、§Y教会§!の建造物建設時に追加されます。\n§Y教皇への影響力-3§!が、§Y教会§!の建造物破壊時に追加されます。"
  estate_burghers_tropical_mod:0 "熱帯都市計画"
  desc_estate_burghers_tropical_mod:0 "幾千年もの歴史を持つ我々は、困難な気候の下であっても祖国に広大な都市を築くことができる。"
