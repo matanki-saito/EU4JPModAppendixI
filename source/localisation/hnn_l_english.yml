@@ -51,5 +51,5 @@
  MODIFIER_MANPOWER_IN_OWN_CULTURE_PROVINCES:0 "主要文化を持つ州での人的資源"
  MODIFIER_MANPOWER_IN_ACCEPTED_CULTURE_PROVINCES:0 "受容文化を持つ州での人的資源"
  MODIFIER_MANPOWER_IN_CULTURE_GROUP_PROVINCES:0 "同じ文化グループを持つ州での人的資源"
- under_governing_capacity_modifier:0 "Under Governing Capacity"
- UNDER_GOVERNING_CAPACITY_TOOLTIP:0 "\nBenefits for being §Gunder§! capacity:\n$MOD$"
+ under_governing_capacity_modifier:0 "管理限界内"
+ UNDER_GOVERNING_CAPACITY_TOOLTIP:0 "\n管理限界§Gを下回っている§!ことによる利益：\n$MOD$"

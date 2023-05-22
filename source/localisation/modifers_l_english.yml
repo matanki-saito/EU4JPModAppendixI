@@ -2303,7 +2303,7 @@
  MODIFIER_SPECIAL_UNIT_FORCELIMIT:0 "特殊ユニット軍の扶養限界"
  desc_adu_conservative_backlash:0 "我が国を巡る再発見の波にもかかわらず、人々は彼らと一緒に立つ我々の努力に大いに感謝している。"
  desc_mesta_privileged_revoked:0 "この州のメスタの特権は取り消され、新しい開発の道が開かれている。"
- MODIFIER_ARTILLERY_LEVELS_AVAILABLE_VS_FORT:0 "使用可能な砲兵レベル対要塞"
+ MODIFIER_ARTILLERY_LEVELS_AVAILABLE_VS_FORT:0 "使用可能な対要塞砲兵レベル"
  icelanding_fisher_sea:0 "アイスランドの漁業海域"
  desc_icelanding_fisher_sea:0 "アイスランド沖は、イングランドやドイツで高い人気を誇るタラがたくさん獲れる豊かな海だ。そのため、アイスランドには多くの外国人漁師が集まっている。"
  MODIFIER_LOCAL_OWN_COAST_NAVAL_COMBAT_BONUS:0 "領有沿岸沖での海軍戦闘の州ボーナス"

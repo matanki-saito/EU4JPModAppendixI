@@ -201,7 +201,7 @@
  por_flee_to_brazil_desc:0 "ポルトガルは荒廃している！敵が再び我々に襲いかかる前に君主と王室は急いで海外に行かねばならない。ポルトガルをあとにすることは切ないだろうが、きっとブラジルに栄光の新帝国を築くだろう。"
  brazil_move_capital_tooltip:0 "もし領有していれば首都はリオ・デ・ジャネイロに、そうでない場合はブラジル植民地地域の州にランダムで移動します。"
  brazil_provinces_tooltip:0 "ブラジル植民地域に首都を持つ植民地の従属国が、少なくとも20の州を所有する。"
- brazil_portugal_tooltip:0 "ポルトガルはブラジルの下で同君連合の下位国になるだろう。"
+ brazil_portugal_tooltip:0 "ポルトガルはブラジルの下で同君連合の下位国として解放されます。"
  lower_black_flag_decision_title:0 "黒旗を降ろす"
  lower_black_flag_decision_desc:0 "海賊人生を終わらせ、より安定した共和国を設立するために腰を据える時が来た。"
  institute_prussian_monarchy_title:0 "プロイセン君主制の制定"

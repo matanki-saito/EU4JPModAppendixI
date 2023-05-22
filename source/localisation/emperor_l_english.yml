@@ -281,7 +281,7 @@
  allied_to_hegemon:0 "覇権国と同盟"
  SCORE_HEGEMONY:2 "覇権国であればスコアは増加しますが、一方で覇権国と同盟関係にあった場合はスコアが減少し、最終的なスコアは$VAL$が乗じられます。"
  HEGEMON_CURRENTLY_AT:0 "現在の$VAL|2%Y$の力により、$WHO$が以下の効果を獲得します：\n"
- HEGEMON_POWER_MONTHL:1 "毎月、力は$VAL|2+=%$変化します"
+ HEGEMON_POWER_MONTHL:1 "力は毎月$VAL|2+=%$変化"
  HEGEMON_NO_LONGER_ELIGIBLE:0 "$NAME$は以下の理由により、もはやその資格を有していません：\n$WHY$"
  HEGEMON_BASE_MODIFIER:0 "常に以下の効果を得ます：\n"
  HEGEMON_SCALES_MODIFIER:0 "時間経過による成長で以下の効果を得ます：\n"

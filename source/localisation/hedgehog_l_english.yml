@@ -112,7 +112,7 @@
  ancestor_bold_fighter_personality:0 "勇敢な戦士"
  ancestor_strict_personality:0 "厳格"
  ancestor_inspiring_leader_personality:0 "鼓舞する指導者"
- ancestor_martial_educator_personality:0 "戦争教育者"
+ ancestor_martial_educator_personality:0 "好戦的教育者"
  ancestor_navigator_personality:0 "探検家"
  ancestor_fierce_negotiator_personality:0 "熾烈な交渉人"
  MIGRATION_BASE_COST:0 "基本：§Y50§!\n"
