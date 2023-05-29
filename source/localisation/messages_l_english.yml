@@ -3042,7 +3042,7 @@
  CANCMILUS_HEADER:0 ""
  CANCMILUS_1:0 "$ACTOR$からの使者"
  CANCMILUS_2:0 "$MONARCHTITLE$、我々は気づきました。"
- CANCMILUS_3:0 "$ACTOR$が"
+ CANCMILUS_3:0 "$ACTOR$は"
  CANCMILUS_4:0 "我々が寛大にも与えていた軍事通行権を取り消していました。"
  CANCMILUS_6:0 "こちらから機先を制しておくべきでした。"
  CANCMILUS_LOG:0 "$ACTOR$、我が国に有していた軍事通行権を取り消す"

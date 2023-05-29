@@ -1018,7 +1018,7 @@
  REINTEGRATE_INTO_HRE_WAR_NAME:0 "$ORDER$$FIRST$・$SECOND$帝国領回復戦争"
  cb_reintegrate_into_hre:0 "皇帝の再征服"
  cb_reintegrate_into_hre_desc:0 "皇帝の統治から離反した奴らは、帝国に戻らなければならぬ！"
- take_capital_reintegrate_into_hre:0 "首都の占領"
+ take_capital_reintegrate_into_hre:0 "首都を占領する"
  take_capital_reintegrate_into_hre_desc:0 "ヨーロッパにあり、帝国に加盟できる敵およびその従属国の州がすべて、帝国の一部となります。"
  po_reintegrate_into_hre_desc:0 "[From.GetName]およびその従属国が帝国に復帰します。[Root.GetName]は帝国の権威を§G25§!獲得します。"
  CB_ALLOWED_po_reintegrate_into_hre:0 "帝国への再統合"
