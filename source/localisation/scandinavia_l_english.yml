@@ -986,7 +986,7 @@
  desc_dan_east_india_company:0 "この州は、デンマークのインド植民地であるデンマーク領インド交易会社によって管理されている。スカンディナヴィア中からインフラ拡充のために投資家がこの州へと訪れる。"
  kalmar_union:0 "カルマル同盟"
  kalmar_union_desc:0 "カルマル同盟は北の諸王国による特別な同盟で、各同盟国の貴族により選出された一人の君主に忠誠を誓うものである。しかしながら、同盟のための条約は批准されておらず、各同盟国の利害関係も異なることで、カルマル同盟は常に崩壊の危機にさらされている。"
- mechanic_kalmar_union_succession_yes:0 "カルマル選挙を行う"
+ mechanic_kalmar_union_succession_yes:0 "カルマル選挙制を有している"
  mechanic_cannot_integrate_personal_unions_yes:0 "同君連合を統合できない"
  PUINTEGRATIONIMPOSSIBLE:0 "この§Y政府改革§!は同君連合の下位国を統合することができません。"
  mechanic_cannot_abandon_personal_unions_yes:0 "同君連合を破棄できない"
