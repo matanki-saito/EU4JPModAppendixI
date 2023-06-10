@@ -762,7 +762,7 @@
  REFORM_DESIRE_SCALE_TOOLTIP:0 "改革者を動揺させた我々の行動により、§Y改革欲求§!の成長が$SCALE|%-0$加速します。"
  investigate_heresy:0 "異端の調査"
  MIL_CONST_MERCENARY_TIP:0 "$MERC|Y$は$DATE|Y$にここに出現するでしょう。"
- building_soldier_households:0 "廃兵院"
+ building_soldier_households:0 "兵士の家"
  building_ramparts:0 "城壁"
  GOODS_BONUS:0 "$LIST$のある州ではより効果的になります。\n"
  building_impressment_offices:0 "強制徴募所"

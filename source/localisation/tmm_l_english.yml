@@ -1961,7 +1961,7 @@
  GRANT_ADMINISTRATIVE_AUTONOMY_NOT_ENOUGH_REFORM_PROGRESS:0 "You do not have the $NUM$ Government Reform Progress needed."
  FAVOR_SUBJECT_TT:0 "従属国：相対的な強さ：$VAL|+=2$"
  ability_militarization_mechanic:0 "Militarization Mechanic"
- STRELTSY_DESC:1 "Streltsy are Russian firearm infantry units, becoming a military caste of professional soldiers, as their military service is lifelong and hereditary.\nThis type of troop was created by Ivan IV 'the Terrible' in the 16th century, but they were disbanded as military units and incorporated into the regular army by Peter I 'the Great', as part of his reforms to modernize the country's institutions.\nStreltsy can be recruited from all of your provinces and the amount of possible Streltsy scales with your total development."
+ STRELTSY_DESC:1 "ストレリツィはロシアの火器歩兵部隊で、兵役は終身で世襲制であるため、職業軍人のカースト的階級となる。\nこの種の部隊は16世紀に「雷帝」イヴァン4世によって作られたが、「大帝」ピョートル1世が国の制度を近代化するための改革の一環として、軍隊として解散し正規軍に編入された。\nストレリツィは全州から募集することができ、ストレリツィの可能な量は総開発量に比例する。"
  MACRO_NO_ARMY_TRADITION:0 "§RNeed $NEEDED|0$ Army Tradition to build.§!"
  MACRO_NO_PRESTIGE:0 "§RNeed $NEEDED|0$ Prestige to build.§!"
  MACRO_NO_ABSOLUTISM:0 "§RNeed $NEEDED|0$ Absolutism to build.§!"
