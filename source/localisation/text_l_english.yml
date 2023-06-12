@@ -3793,7 +3793,7 @@
  naval_focus:0 "海軍への注力"
  desc_naval_focus:0 "海軍に注力する我々の決断は、陸軍に苦しみをもたらしている。"
  lack_of_protection:0 "保護の欠如"
- desc_lack_of_protection:0 "自由交易政策の追求は、政府からの支援や保護の欠如を心配する商人たちを生み出している。"
+ desc_lack_of_protection:0 "自由貿易政策の追求は、政府からの支援や保護の欠如を心配する商人たちを生み出している。"
  innovation_wave:0 "革新の波"
  desc_innovation_wave:0 "我々の革新的な政策は、我が王国に入る新しいアイデアにつながっている。"
  centralised_state:0 "中央集権国家"

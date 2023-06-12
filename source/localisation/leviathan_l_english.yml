@@ -680,7 +680,7 @@
  IKKO_IKKI_EMPIRE:0 "一向一揆保護国"
  NAMED_MODIFIER_SIEGE_ABILITY:0 "$ADJ$包囲能力：$NUM$"
  LEADER_SIEGE_ABILITY:0 "指揮官包囲能力：$VAL$"
- TRADING_POLICY_BONUS:0 "交易政策ボーナス：$VAL$"
+ TRADING_POLICY_BONUS:0 "交易方針ボーナス：$VAL$"
  PROPAGATE_RELIGION_TRADING_POLICY:1 "交易ノードに属する州を改宗できます。ただし特に記載がない場合、キリスト教、イスラム教、ユダヤ教の州は対象から除外されます。\n"
  EXPAND_CAPITAL_TERRITORY:0 "首都は、ステートに属する州でなければなりません。"
  LAND_SHARE_PEACE_DEAL:0 "$ESTATE$による土地所有は$VAL$補正されます。"
