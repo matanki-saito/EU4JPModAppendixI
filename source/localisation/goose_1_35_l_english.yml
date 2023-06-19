@@ -50,7 +50,7 @@
  SLACKEN_AUTODISABLE_BTN3:0 "移動"
  ON_CONSTRUCTION_STARTED:0 "この建物の建築の開始によって、以下の効果が得られます："
  ON_CONSTRUCTION_CANCELED:0 "この建物の建築の中止によって、以下の効果が得られます："
- TRADE_FAVORS_FOR_TRUST_NOAMOUNT:0 "The favors amount cannot be $VAL|Y0$"
+ TRADE_FAVORS_FOR_TRUST_NOAMOUNT:0 "好感度の量を$VAL|Y0$にすることはできません"
  MAPMODE_SCORCHED_EARTH:0 "焦土"
  MAPMODE_SCORCHED_EARTH_DESC:0 "焦土補正がある州が表示されます。"
  MAPMODE_IMPROVED_INFRASTRUCTURE:0 "インフラの拡張"

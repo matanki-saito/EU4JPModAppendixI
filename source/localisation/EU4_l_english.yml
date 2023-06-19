@@ -1226,7 +1226,7 @@
  RESOURCE_PRICE_DATA2:0 "現在の価格は§Y$PRICE$§!¤です。"
  GAIN_CB:1 "§Y$ACTIVE$§!は§Y$WHO$§Wに対し§Y$TYPE$§Wの開戦事由を得ます。\nこの開戦事由は§G$LENGTH$§!年間有効です。\n"
  LOSE_CB:0 "§Y$ACTIVE$§!は§Y$WHO$§Wに対し§Y$TYPE$§Wの開戦事由を失います。\n"
- REV_GAIN_CB:1 "§Y$ACTIVE$§Wは§Y$PASSIVE$§Wに対し§Y$TYPE$§Wの開戦事由を得ます。\nこの開戦事由は§G$LENGTH$§!間有効です。\n"
+ REV_GAIN_CB:1 "§Y$ACTIVE$§Wは§Y$PASSIVE$§Wに対し§Y$TYPE$§Wの開戦事由を得ます。\nこの開戦事由は§G$LENGTH$§!年間有効です。\n"
  SELECT_INFANTRY_TYPE:0 "歩兵の種類を選択"
  SELECT_CAVALRY_TYPE:0 "騎兵の種類を選択"
  SELECT_ARTILLERY_TYPE:0 "砲兵の種類を選択"

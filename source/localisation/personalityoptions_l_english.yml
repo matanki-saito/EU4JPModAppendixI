@@ -377,7 +377,7 @@
  personality_events.42.f.tooltip:0 "[Root.GetName]は§Y2§!の募兵長を得ます。この顧問は、我が国で採用すると§G50%§!割安です。"
  personality_events.43.t:0 "地に足がついた水兵"
  personality_events.43.d:0 "我々は海軍の階級を経て急速に台頭した人物に関する知らせを受け取った。生まれながらの指揮官でありながら、謙虚な性格の水兵は、仲間の水兵たちの推薦によって注目を集めた。彼らは、ほぼ迷信的に、その人物は海との自然な親和性を持っていると主張し、彼を昇進させないのは浪費であると主張している。"
- personality_events.43.a:0 "彼は良い提督になるだろう。"
+ personality_events.43.a:0 "彼は良い提督になるだろう！"
  personality_events.43.b:0 "我々は探検家として利用することができる！"
  personality_events.43.c:0 "我々には今、彼の奉仕は不要だ。"
  personality_events.44.t:0 "困難な取引の実行"
