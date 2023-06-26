@@ -459,7 +459,7 @@
  HAS_ESTATE_LOANS:0 "階級からの借金がある"
  HAS_NO_ESTATE_LOANS:0 "階級からの借金がない"
  GRANT_PRIVILEGE:3 "$PRIVILEGE|Y$が$ESTATE|Y$に与えられ、以下があります：\n$EFFECT$\n$MODIFIERS$"
- REVOKE_PRIVILEGE:1 "$PRIVILEGE|Y$が$ESTATE|Y$から取り消され、以下の効果があります：\n$EFFECT$"
+ REVOKE_PRIVILEGE:2 "$PRIVILEGE|Y$が$ESTATE|Y$から取り消され、以下があります：\n$EFFECT$\n$MODIFIERS$"
  PROVOKE_REVOLT:0 "反乱を扇動"
  PROVOKE_REVOLT_INSTANT:0 "即座に反乱を起こすよう反乱軍を扇動します。彼らは通常時より$EXTRA$強力で、合計$SIZE|Y$連隊になります。"
  PROVOKE_REVOLT_DELAYED:0 "反乱は非常に予測不可能な事件だが、いくつかの抜本的な措置を講じることで、我々は反乱軍を今すぐ反乱に駆り立てることができる。しかしながら、これはより多くの人々が彼らに加わることを促すかもしれない。"

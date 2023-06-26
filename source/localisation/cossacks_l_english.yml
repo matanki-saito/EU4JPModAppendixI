@@ -587,7 +587,7 @@
  GRANT_CLAIM:0 "請求権の譲渡"
  GRANT_PROVINCE_NO_ELIGBLE:0 "彼らに与えることのできる、彼らと隣接した（または海で繋がっている）州を領有していません。"
  GRANT_CORE_CLAIM_NO_ELIGBLE:0 "彼らに与えることのできる、彼らと隣接した（または海で繋がっている）中核州または請求権を所有していません。"
- THEY_WOULD_BE_OVEREXTENDED:0 "これは彼らに過剰拡大を引き起こす可能性があります。"
+ THEY_WOULD_BE_OVEREXTENDED:2 "これは彼らに過剰拡大を引き起こす可能性があります。彼らの現在の過剰拡大は$VAL|1%$でありこの州により$ADD|1$%追加されるでしょう。"
  GRANT_PROVINCE_DESC:0 "彼らに我々の所有する州の一つを与えます。これは非常に彼らを喜ばせるでしょう。"
  GRANT_CORE_PROVINCE_DESC:0 "彼らに$PROV|Y$を中核州として与えます。彼らの独立欲求が$LD$減少し$LD_TOTAL$になります。"
  GRANT_NONCORE_PROVINCE_DESC:0 "彼らに$PROV|Y$を与えます。独立欲求が$LD$減り$LD_TOTAL$になります。彼らの過剰拡大は$OVEREXT$に増えます。"

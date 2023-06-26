@@ -152,7 +152,7 @@
  SEND_COLONIST_TOOLTIP:1 "$PROVINCE|Y$に植民者を派遣します。\n植民者は植民地を作り、一定の条件を満たした場合は我々の主要文化と宗教に変わります。"
  SEND_COLONIST_LABEL_TOOLTIP:1 "$PROVINCE|Y$に植民者を派遣することができます。\n植民者は植民地を作り、一定の条件を満たした場合は我々の主要文化と宗教に変わります。"
  SEND_COLONIST_TOOLTIP_EXTRA:0 "追い払いたいマイノリティがいるなら、この州はマイノリティの追放にも適格です。"
- EXPEL_MINORITY_TOOLTIP:0 "$PROVINCE|Y$にマイノリティを追放することができます。\nマイノリティの州の文化と宗教は新しい植民地へと移り、代わりに我が国の主要文化と宗教へと変更されます。"
+ EXPEL_MINORITY_TOOLTIP:1 "$PROVINCE|Y$にマイノリティを追放することができます。\nマイノリティの州の文化と宗教は新しい植民地へと移ります。"
  SELECT_MINORITY_TOOLTIP:0 "$MINORITY|Y$のマイノリティを$PROVINCE|Y$に追放することにより、我が国の文化と宗教を持つ国民がゆっくりと取って代わります。"
  SELECT_MINORITY_TOOLTIP_EXTRA_ACCEPTED:0 "このマイノリティは§Y受容されています§!。追放に適格な州は$NUM|Y$あります。"
  SELECT_MINORITY_TOOLTIP_EXTRA_NOT_ACCEPTED:0 "このマイノリティは§R受容されていません§!。追放に適格な州は$NUM|Y$あります。"

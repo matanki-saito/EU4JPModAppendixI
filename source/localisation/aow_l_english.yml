@@ -2174,7 +2174,7 @@
  prices.46.t:0 "炭鉱の改善"
  prices.46.d:0 "時間の経過とともに、技術は既存の炭鉱の生産量を大幅に増加させ、以前は採掘できなかった多くの場所で石炭を採掘することを可能にしました。我々の炭鉱は前例のない効率で作業しており、継続的な工業化によって、依然として石炭の需要が高いことを意味していますが、この需要は今より容易に供給できます。"
  prices.46.a:0 "素晴らしい。"
- IMPROVED_COAL_MINING:0 "石炭より使いやすい"
+ IMPROVED_COAL_MINING:0 "石炭の利用可能性拡大"
  trade_company_moluccas:0 "モルッカ勅許"
  TRADE_COMPANY_MOLUCCAS_Root_Culture_GetName:0 "[Root.Culture.GetName]・モルッカ会社"
  new_england_region:0 "ニューイングランド"

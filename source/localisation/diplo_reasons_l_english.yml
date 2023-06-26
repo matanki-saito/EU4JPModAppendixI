@@ -99,7 +99,7 @@
  DIPLO_THEY_WON_WAR:0 "$WHO$は戦争の勝利した："
  DIPLO_WAR_STALLED:0 "戦争に進展がない："
  DIPLO_RIVAL_COLONIST:0 "$WHO$は植民地国家である："
- DIPLO_WAR_UNOCCUPIED_FORTS:0 "周囲の要塞を落さずに$PROV$を請求："
+ DIPLO_WAR_UNOCCUPIED_FORTS:1 "陸路で接続している要塞を落さずに$PROV$を請求："
  DIPLO_WAR_INCONCLUSIVE:0 "請求をするには少なくとも$VAL$の戦勝点が必要："
  DIPLO_UNREASONABLE_DEMANDS:0 "不当な請求："
  DIPLO_UNDESIRABLE_PEACE:0 "望ましくない条件："
