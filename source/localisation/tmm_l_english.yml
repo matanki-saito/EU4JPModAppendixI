@@ -2194,7 +2194,7 @@
  MODIFIER_COLONY_DEVELOPMENT_BOOST:0 "植民地開発度の増加"
  FROM_PIRATE_HUNTING:0 "$CHANGE$ from Pirate Hunting in the Trade Node"
  KARMA_ACCELERATOR_DESC:0 "Karma accelerator effects - move Karma away from zero by $VAL|Y$ per month due to:"
- DIPLO_DAMAGED_SHIPS:0 "Ships are damaged: "
+ DIPLO_DAMAGED_SHIPS:0 "船は損傷している："
  AND_YEARLY_THE_FOLLOWING:0 "And changes by $VAL|Y1$ each year due to:\n$DESC$"
  HAS_NOT_UNEMBRACED_INSTITUTION:0 "Has NOT any unembraced institution."
  HAS_UNEMBRACED_INSTITUTION:0 "Has any unembraced institution."
