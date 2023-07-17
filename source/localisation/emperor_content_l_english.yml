@@ -109,7 +109,7 @@
  opinion_king_in_prussia:0 "プロイセンの王"
  opinion_prussia_not_recognized:0 "プロイセンの正統性を否定した"
  emp_mission_events.10.t:0 "アランソン公"
- emp_mission_events.10.d:0 "百年戦争中、アランソン公はイングランド軍の侵攻により自らの領土を追われた。公国の伝統的な領土がフランスの手に戻った今、ヴァロワ=アランソン家の生き残った貴族たちは、[Root.Monarch.GetTitle]に対し、失われた領土と称号の回復を求めている。"
+ emp_mission_events.10.d:0 "百年戦争中、アランソン公はイングランド軍の侵攻により自らの領土を追われた。公国の伝統的な領土がフランスの手に戻った今、ヴァロワ＝アランソン家の生き残った貴族たちは、[Root.Monarch.GetTitle]に対し、失われた領土と称号の回復を求めている。"
  emp_mission_events.10.a:0 "アランソンを返還しよう。"
  emp_mission_events.10.b:0 "以後、アランソンは王領としよう。"
  EST_VAL_DUKE_OF_ALENCON:0 "アランソン公爵: §Y$VAL$%§!"
