@@ -171,7 +171,7 @@
  crown_land_level_8:0 "直轄地の所有権"
  crown_land_level_9:0 "直轄地の所有権"
  estate_privileges_and_agendas_events.2.name:0 "階級の法的権利"
- estate_privileges_and_agendas_events.2.desc:0 "[Root.GovernmentName]が国土に及ぼせる支配力が弱い問題を解決するために、[Root.GetName]階級は[Root.Monarch.GetTitle][Root.Monarch.GetName]に対して妥協案を提示してきた。支配力と引き換えに、階級は一定の自由を要求している……"
+ estate_privileges_and_agendas_events.2.desc:0 "[Root.GovernmentName]が国土に及ぼす支配力の弱さを解決すべく、[Root.GetName]階級は[Root.Monarch.GetTitle][Root.Monarch.GetName]に対して妥協案を提示してきた。支配力と引き換えに、階級は一定の自由を要求している……"
  estate_privileges_and_agendas_events.2.a:0 "率直に言うが、お前たちが国全体を売り払っていたときに何を期待していた？"
  estate_privileges_and_agendas_events.2.b:0 "ふっ、我々は自力で解決する…"
  seize_land_unavailable_from_privilege:0 "§R特権が有効である限り、土地の差し押さえは利用できません§!"

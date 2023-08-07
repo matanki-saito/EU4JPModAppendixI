@@ -1829,7 +1829,7 @@
  HAVE_ASSIMILATED_CULTURE:0 "Has assimilated the culture $CULTURE|Y$"
  HAVE_NOT_ASSIMILATED_CULTURE:0 "Has NOT assimilated the culture $CULTURE|Y$"
  HAVE_LESS_SHIPS_PROTECTING_TRADE_THAN:0 "Have fewer light ships protecting trade than $VAL|Y$."
- HAVE_MORE_SHIPS_PROTECTING_TRADE_THAN:0 "Have at least $VAL|Y$ light ships protecting trade."
+ HAVE_MORE_SHIPS_PROTECTING_TRADE_THAN:0 "$VAL|Y$隻以上の小型船が交易を保護している。"
  TRADE_NODE_SHARE_FROM_SHIPS:0 "$WHO|Y$ has at least a $SHARE|Y%$ share of the trade power in the node from ships"
  NOT_TRADE_NODE_SHARE_FROM_SHIPS:0 "$WHO|Y$ does NOT have at least a $SHARE|Y%$ share of the trade power in the node from ships"
  HAS_N_PASHAS:0 "Has at least $NUM|Y$ Pashas"

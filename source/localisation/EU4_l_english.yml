@@ -870,7 +870,7 @@
  ALERT_DISASTER_ENTRY:0 "§Y$NAME$§!－§Y$CURR$%§!（$CHANGE$）\n毎月の進捗状況は以下の理由により：\n$REASON$"
  MONARCHY_LESSER_IN_UNION_NOT_CONVERT:0 "同君連合の下位国であるため、政府を変更することはできません。"
  HAVE_LESS_SHIPS_PRIVATEERING:1 "$VAL|Y$より少ない私掠船を持っています。"
- HAVE_MORE_SHIPS_PRIVATEERING_THAN:1 "少なくとも$VAL$の私掠船を持っています。"
+ HAVE_MORE_SHIPS_PRIVATEERING_THAN:1 "$VAL$隻以上の小型船が私掠行為をしている。"
  LIB_TOO_LOW_TARIFF:0 "現在の独立欲求$CURRENT|Y$よりも低い効率的な関税$TARIFF|Y$が原因で$CHANGE$。\n"
  eng_opposes_lollards:0 "ロラード派への反対"
  desc_eng_opposes_lollards:0 "イングランドは、真に教皇庁によって認められているロラード派の異端に反対している。"

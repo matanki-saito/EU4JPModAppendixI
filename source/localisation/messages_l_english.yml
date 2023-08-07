@@ -1801,7 +1801,7 @@
  BANKLOAN_HEADER:0 "銀行からの借金"
  BANKLOAN_1:0 "我々は"
  BANKLOAN_2:0 "§Y$VALUE$§!¤の借金を受けました。"
- BANKLOAN_5:0 "資金を使い果たしたときに借金を自動で行うことができます。"
+ BANKLOAN_5:0 "これは資金が尽きたときに自動的に実行されます。"
  BANKLOAN_LOG:0 "借金を負う"
  BANKLOAN_BTN1:0 "OK"
  BANKLOAN_BTN2:0 "OK"
