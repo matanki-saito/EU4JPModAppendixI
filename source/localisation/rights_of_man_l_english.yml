@@ -561,7 +561,7 @@
  harem_events.17.c:0 "一方に味方するのを避ける。"
  harem_events.17.c.tt:0 "紛争は、現在のお気に入りの後継者の請求権を害し、弱めるでしょう。"
  harem_events.18.t:0 "ヴァリデ・スルタンの野望"
- harem_events.18.d:0 "[Root.Monarch.GetHerHim]に先立つ多くのスルタンのように[Root.Monarch.GetName][Root.Monarch.GetHerHis]の母親と非常に密接な関係を持っている。それが神を満足させるよう、ヴァリデ・スルタンは強力な提携相手であり、[Root.Monarch.GetTitle]のための友人で親友であり、これを表わすものとして、彼女は最も寛大な手当を与えられている。金は彼女の個人的に必要な場合を別として、彼女はそれを国家の改善のために使うようにしている。しかし、我々の母親はこれに満足しておらず、彼女が[Root.Capital.GetCapitalName]自体の野心的な建築事業に資金を提供できるよう、より寛大な取り決めを要求している。"
+ harem_events.18.d:0 "[Root.Monarch.GetHerHim]に先立つ多くのスルタンがそうであったように、[Root.Monarch.GetName]は母親と非常に親しい絆で結ばれている。神の御心のままにヴァリデ・スルタンは、我らが[Root.Monarch.GetTitle]にとって強力な同盟者にして、友人であり、親友でもある。これを表わすものとして、彼女は非常に手厚い手当を与えられている。その手当を彼女は、個人的な用途とは別に、国家をより良くするために使っている。しかし、我らが母はこれに満足しておらず、[Root.Capital.GetCapitalName]自体の野心的な建設事業に資金を提供できるよう、より寛大な取り決めを求めている。"
  harem_events.18.a:0 "あなたのためなら何でも。"
  harem_events.18.b:0 "彼女は素晴らしい仕事をしているが、限界を知る必要がある。"
  architectural_work_of_valide_sultan:0 "ヴァリデ・スルタンからの建築資金"

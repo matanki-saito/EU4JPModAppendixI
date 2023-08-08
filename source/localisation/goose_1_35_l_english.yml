@@ -95,7 +95,7 @@
  holy_order_full:0 "Holy Order"
  coordinator_office_short:0 "Office"
  coordinator_office_full:0 "Grand Coordinator Office"
- EVERY_OWNED_OR_SUBJECT_PROV:0 "自国または従属国が所有しているすべての州"
+ EVERY_OWNED_OR_SUBJECT_PROV:0 "自国または従属国が領有しているすべての州"
  NO_ANY_OWNED_OR_SUBJECT_PROVINCE_STARTS:0 "いずれの州も自国または従属国が所有していない"
  NO_ANY_OWNED_OR_NON_TRIBUTARY_PROVINCE_STARTS:0 "いずれの州も自国または従属国（非朝貢国）が所有していない"
  ANY_OWNED_OR_SUBJECT_PROVINCE_STARTS:0 "いずれかの州を自国または従属国が所有している"

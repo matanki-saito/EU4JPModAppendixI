@@ -77,7 +77,7 @@
  STEALMAPTITLE:0 "地図を盗む"
  SPYCOST:0 "我が国の$ADJ|Y$諜報網の大きさを$COST$減らします。"
  STEALMAPDESC:0 "地方の地図を標的から盗む"
- STEALMAP_OFFDESC:0 "$RECIPIENT_ADJ$の地図を盗むことで、$ACTOR$は$COST$の諜報網コストで、$REGION$地域の知識を得て、$NUM_PROVS|Y$州を発見します。"
+ STEALMAP_OFFDESC:0 "$RECIPIENT_ADJ$の地図を盗むことで、$ACTOR$は$COST$の諜報網コストで、$REGION$地方の知識を得て、$NUM_PROVS|Y$州を発見します。"
  SHAREMAPTITLE:0 "地図の共有を要求する"
  SHAREMAP_REQDESC:0 "$ACTOR$は$REGION$の知識の共有を望んでいます。受け入れることで、彼らは$NUM_PROVS|Y$州を発見し、我々に$PRESTIGE$の威信を与えるでしょう。"
  SHAREMAP_OFFDESC:0 "$REGION$の知識を共有するよう要請し、もし彼らが受け入れれば、我々は$NUM_PROVS|Y$州を発見するでしょう。さらに、我々は威信を$LOSE$失いますが、彼らは威信を$GAIN$得ます。"
