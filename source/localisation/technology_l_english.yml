@@ -17,7 +17,7 @@
  mil_tech_short:0 "軍事技術"
  adm_tech_short:0 "統治技術"
  dip_tech_short:0 "外交技術"
- TACCEPTED_CULTURES:0 "文化の登用の最大数"
+ TACCEPTED_CULTURES:0 "文化の最大登用数"
  COLONIAL_GROWTH_INCREASE:0 "入植者の増加は§G+$VALUE$§Wだけ増える。\n"
  NAVAL_MAINTENANCE_INCREASE:0 "海軍維持費は§R+$VALUE$%§Wだけ増える。\n"
  INF_FIRE_INCREASE:0 "歩兵射撃：§G+$VALUE$§W\n"

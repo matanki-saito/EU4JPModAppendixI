@@ -48,7 +48,7 @@
  desc_lenient_taxation_modifier:0 "重税を課せられた国民は、異議を唱えたり、反乱を起こしやすい者たちである。我々が近隣諸国に負担をかけることでそれらの税を緩和したことで、我々は彼らからの感謝を得ている。"
  train_horsemanship_modifier:0 "訓練された馬術"
  desc_train_horsemanship_modifier:0 "我々と同じほど熟練した騎手はほどんどおらず、馬の血統が信頼でき、戦争に適したものもほとんどない。我々は、競争、訓練、小規模な襲撃、また、戦争そのものにおいて、常に馬術に積極的に取り組まなければならない。"
- promote_culture_in_government_modifier:0 "政府内での文化の登用"
+ promote_culture_in_government_modifier:0 "政府内で登用された文化"
  desc_promote_culture_in_government_modifier:0 "我々の賢明なスルタンは、継承の闘いで彼を支えた人々の文化を登用することを選んだ。彼の賢明な政策を通じて、今や地域全体の繁栄が可能である。"
  seize_clerical_holdings_modifier:0 "聖職者の所有財産の没収"
  desc_seize_clerical_holdings_modifier:0 "我々の前任者によって誤った理由で与えられたこの土地には、様々な慈善寄付と聖職者の財産がある。我々は、この体制の腐敗を減らし、国家に聖職者の財産を返還するように動かなければならず、一番の守護者は、我が国で何が正しく、何が間違っているのかを知っておく必要がある。"
