@@ -1644,7 +1644,7 @@
  SHOW_SUBJECTS:0 "従属国を表示"
  SHOW_ASPECTS:2 "$ASPECTS_LONG|Y$を選択"
  maintained_forts:0 "完全に維持された要塞"
- ADVISOR_DISCOUNTED:0 "この顧問を採用することはあなたの国家にとって$AMT$安上がりです。"
+ ADVISOR_DISCOUNTED:0 "この顧問はあなたの国にとって$AMT$安く雇えます。"
  PICK_ASPECT:0 "§Y現在、信仰の新たなアスペクトを選択できます！§!"
  PICK_ASPECT_DESC:0 "信仰のアスペクトを選ぶことで、あなたの宗教に特有のボーナスを獲得します。十分な教会権力を蓄積し、すでに選択されているアスペクトが最大数に満たない場合にのみ、行うことができます。"
  PEACE_NEED_TO_CONTROL_PROVINCE:0 "§R自国または同盟国に支配されていないので、州を要求できません。§!"

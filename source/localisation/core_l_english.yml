@@ -275,7 +275,7 @@
  PEACE_TRANSFER_OTHERS_TRADE_POWER:0 "$WHOS$の交易力を転送"
  PEACE_SHOW_STRENGTH:0 "強さを示す"
  PEACE_HUMILIATE:0 "屈辱"
- INFLATION_DESC:0 "インフレは、（他の収入と比較して）金収入が多すぎることや、借金を負うことから発生するでしょう。"
+ INFLATION_DESC:0 "インフレは、（他の収入と比較して）金収入が多すぎたり、借金を負うと発生するでしょう。"
  INLAND_SEA_DESC:1 "ここは内海です。ここでは、ガレー船が特に力を発揮し、戦闘時、ガレー船以外の他の艦船に対して100%多くダメージを与えます。"
  SIEGE_ATTACKER_INFANTRY_DESC:0 "攻撃側は$NUM|Y$の歩兵を持っています。"
  SIEGE_ATTACKER_CAVALRY_DESC:0 "攻撃側は$NUM|Y$の騎兵を持っています。"

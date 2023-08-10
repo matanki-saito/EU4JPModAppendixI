@@ -228,7 +228,7 @@
  mechanic_monastic_no:0 "宗教を変更した時、宗教統一度は信仰値に影響を与えません"
  mechanic_rulers_can_be_generals_yes:0 "支配者は将軍になることができます"
  mechanic_rulers_can_be_generals_no:0 "支配者は将軍になることができません"
- mechanic_heirs_can_be_generals_yes:0 "後継者は将軍となることが可能です"
+ mechanic_heirs_can_be_generals_yes:0 "後継者は将軍となることができます"
  mechanic_heirs_can_be_generals_no:0 "後継者は将軍となることができません"
  battle_pope_reform:0 "マギステル・ミリトゥム・デイ"
  battle_pope_reform_desc:0 "Caedite eos. Novit enim Dominus qui sunt eius （すべて殺せ。神は己のものを知り給う）"
