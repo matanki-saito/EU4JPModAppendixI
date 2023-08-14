@@ -137,7 +137,7 @@
  abandoned_mlc:0 "放棄されたマラッカ"
  emerald_buddha:0 "エメラルド仏"
  desc_emerald_buddha:0 "この神器はこの州の寺院にて保管されています。敵はこれを非常に重要なものとみなしているので、うまく保持しましょう。"
- emerald_buddha_tt:2 "§Yエメラルド仏§!は§Y[emerald_buddha_province.GetName]§!から削除されます。"
+ emerald_buddha_tt:2 "§Yエメラルド仏§!が§Y[emerald_buddha_province.GetName]§!から取り除かれます。"
  emerald_buddha_alternate:0 "エメラルド仏"
  desc_emerald_buddha_alternate:0 "この神器はこの州の寺院にて保管されています。敵はこれを非常に重要なものとみなしているので、うまく保持しましょう。"
  renovate_emerald_buddha_shrine_title:0 "エメラルド仏を改修する（§Yカルマ＋§!）"

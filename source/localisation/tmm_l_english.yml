@@ -1888,7 +1888,7 @@
  MODIFIER_ESTATE_LOYALTY_CHANGE_ON_REVOKED:0 "特権剥奪による階級の忠誠度変化"
  MODIFIER_ESTATE_INTERACTION_COOLDOWN_MODIFIER:0 "階級の相互作用クールダウン補正"
  MODIFIER_ALL_ESTATE_POSSIBLE_PRIVILEGES:0 "階級ごとの最大特権数"
- CANNOT_CREATE_JANISSARIES_NOT_STATE:0 "Cannot create Janissaries in a Territory, make this a State first."
+ CANNOT_CREATE_JANISSARIES_NOT_STATE:0 "テリトリーにイェニチェリを創設することはできません。まずステート化してください。"
  MODIFIER_CAN_RECRUIT_JANISSARIES:0 "イェニチェリを募集可能"
  MODIFIER_ALLOW_JANISSARIES_FROM_OWN_FAITH:0 "真の信仰州でのイェニチェリ募集可能"
  JANISSARY_FORCELIMIT_TRUE_FAITH:0 "§Gイェニチェリ§!は異教の州からも真の信仰の州からも募集できるため、扶養限界$FL$のうち$VAL|%Y$分まで募集できます。\n"

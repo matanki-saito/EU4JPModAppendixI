@@ -876,7 +876,7 @@
  SHOW_AS_POPUP:0 "ポップアップとして表示"
  FE_IRONMAN_CHECKSUM:0 "ゲームバージョンが割り出されるまで鉄人モードは開始できませんので、しばらくお待ちください。"
  PLX_WAIT:0 "お待ちください"
- CAPITAL_STATE_OF:0 "$NAME|Y$の首都があるステート"
+ CAPITAL_STATE_OF:0 "$NAME|Y$の首都ステート"
  TERRITORY_OF:0 "$NAME|Y$のテリトリー"
  STATE_OF:0 "$NAME|Y$のステート"
  PROV_REGION_DESC:0 "州：$NUM_PROV|Y$\n開発度：$DEV_VAL|Y$\n維持費：$MAIN_VAL|Y$¤"
