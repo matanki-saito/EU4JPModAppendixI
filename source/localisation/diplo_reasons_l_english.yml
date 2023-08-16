@@ -20,7 +20,7 @@
  DIPLO_SET_AS_ENEMY:0 "$THEM$のプレイヤーは$WHO$に対して敵対的である："
  DIPLO_SET_AS_FRIENDLY:0 "$THEM$のプレイヤーは$WHO$に対して友好的である："
  DIPLO_SET_AS_NEUTRAL:0 "$THEM$のプレイヤーは$WHO$に対し中立である："
- DIPLO_NOT_ENOUGH_FAVORS:0 "$WHO$の$US$に対する好感度が$AMT$以上である："
+ DIPLO_NOT_ENOUGH_FAVORS:0 "$WHO$の$US$に対する好感度が$AMT$以上ではない："
  DIPLO_ENEMIES_TOO_FAR_AWAY:0 "遠隔地での戦争："
  DIPLO_DEFENSIVE_WAR:0 "防衛戦争："
  DIPLO_BANKRUPT:0 "$WHO$は破産している："

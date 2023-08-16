@@ -8149,7 +8149,7 @@
  confirm_thalassocracy_c_tt:1 "§Y[Root.GetName]§!が§Y[1308.GetName]§!、§Y[137.GetName]§!、§Y[358.GetName]§!、§Y[1320.GetName]§!、§Y[377.GetName]§!で最大の交易力を持つ。"
  vassalize_tributary_title:0 "属国への深化"
  vassalize_tributary_tooltip:0 "天命を使用し、朝貢国を属国に深化させます。"
- vassalize_tributary_desc:0 "§Y[From.GetName]§!は[Root.GetName]の直接の§Y属国§!となります。これにより§Y[From.GetName]§!が持つ属国関係は全て破棄されます。\n\nこれには§Y0.4 * [From.GetName]の総開発度§!の天命コストがかかります。"
+ vassalize_tributary_desc:0 "§Y[From.GetName]§!は[Root.GetName]の直接の§Y属国§!となります。これにより§Y[From.GetName]§!が持つ属国関係は全て破棄されます。\n\nこれには§Y0.4*[From.GetName]の総開発度§!の天命コストがかかります。"
  HAS_MORE_MANDATE_THAN_TRIBUTARY_HAS_DEV:0 "天命が§Y[From.GetName]の総開発度の40%§!以上である"
  conversion_variable:0 "[Root.num_converted_religion.GetValue]"
  conversion_variable_zero:0 "0"

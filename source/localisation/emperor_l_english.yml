@@ -26,7 +26,7 @@
  ASSIGN_HEIR_NOT_IN_ELECTIVE:0 "後継者が選挙で選ばれた時には出来ません！"
  AGENDA_EXPLANATION_TOOLTIP:0 "議会を召集すると、階級が提案する議題を選択します。そしてその目標を達成しなければなりません。"
  HRE_REFORM_PATHS_MUTUALLY_EXCLUSIVE:0 "中央集権化と地方分権化は排他的な道である。皇帝は一つの道しか歩めない！"
- FORCED_MARCH_STATIONARY:0 "軍隊が1つの州に駐留している場合、士気が回復し、連隊に補充兵が届くようになります。"
+ FORCED_MARCH_STATIONARY:0 "軍隊が1つの州に駐留していれば、士気が回復し、連隊に補充兵が届くようになります。"
  FABRICATE_CLAIM_ENTRY_TT:0 "諜報網は以下によって$VAL|Y$だけ減少するでしょう\n$WHY$"
  PAPAL_BULL_POSSIBLE:0 "§Y教皇勅書§!\n教皇の支配者は、教皇勅書を制定することができます。\n"
  PAPAL_BULL_EXPLANATION:1 "教皇勅書は教皇の支配者が国庫から支出することで制定され、現在の教皇が死亡するまで、全てのカトリック国に恩恵をもたらします！"

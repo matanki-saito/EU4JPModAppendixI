@@ -141,7 +141,7 @@
  IMPERIAL_INCIDENT_STARTED_LOG:0 "An imperial incident started in the Holy Roman Empire."
  has_slacken_on_instant:0 "§YYou are Slackening Recruiting Standards§!"
  has_slacken_on_delayed:0 ""
- GOVERNMENT_POWER_FROZEN:0 "We don't gain any $NAME|Y$ each month, due to it being frozen. It would change by $GAIN$ otherwise."
+ GOVERNMENT_POWER_FROZEN:0 "固定されているため、毎月$NAME|Y$を得ることはありません。固定されていない場合$GAIN$変動します。"
  SUBJECT_INTERACTION_LIBERTY_DESIRE:0 "Liberty desire of the subject needs to be lower than $VAL|0$%."
  SUBJECT_INTERACTION_COOLDOWN:0 "We can't use this interaction again before $DATE|Y$."
  IMPERIAL_AUTHORITY_MODIFIER_DESC:0 "It is further multiplied by $VALUE|1+%$ due to:"
