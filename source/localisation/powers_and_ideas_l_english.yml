@@ -72,7 +72,7 @@
  HARSHTREATMENT_SPEND_DESC:0 "蜂起の進行度を$REDUCE|Y0$§Y%§!減らす弾圧措置に$MIL|Y0$£mil£を消費します。"
  CONFIRMHARSHTREATMENT:0 "弾圧措置！"
  CONFIRMHARSHTREATMENTTEXT:1 "弾圧措置に$MIL|Y0$£mil£を消費して、$NAME$の蜂起の進行度を$REDUCE|Y0$%減らしますか？"
- CONFIRMHARSHTREATMENTCOST:0 "§Y$COST$§W $TYPE$点のコストがかかります。"
+ CONFIRMHARSHTREATMENTCOST:0 "§Y$COST$§W $TYPE$力がかかります。"
  NEW_IDEA:0 "別のアイデアグループを許可します。\n"
  NOT_TECH_FOR_FORCE_MARCH:0 "強行軍の命令を発するために統治技術がレベル15に達している必要があります。"
  FORCED_MARCH_TITLE:0 "§Y強行軍§!"

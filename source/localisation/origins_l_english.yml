@@ -1882,7 +1882,7 @@
  desc_east_africa_blooming_nation:0 "花のように自国は全盛期で、近隣諸国から羨望と賞賛のまなざしを浴びる地方内の宝石となりつつある。"
  east_africa_trading_hub:0 "交易拠点"
  desc_east_africa_trading_hub:0 "交易が盛んになり始めると共に、各地からの商人も国内の都市に溢れ始めたので、国内中が活況づき出している。"
- east_africa_trading_hub_tooltip:0 "キャンペーン中、自国内の首都交易ノードにある領有州の1つが以下を得ます：\n交易中心地のアップグレード費用：§G-20%§!\n州の交易力：§G+10.00§!"
+ east_africa_trading_hub_tooltip:0 "キャンペーン中、自国内の交易首都ノードにある領有州の1つが以下を得ます：\n交易中心地のアップグレード費用：§G-20%§!\n州の交易力：§G+10.00§!"
  east_africa_money_calls_money:0 "金が金を呼ぶ"
  desc_east_africa_money_calls_money:0 "お金を貯めることで、正しい投資で賢くお金を増やす方法を改善できた。"
  east_africa_modern_army:0 "近代軍"

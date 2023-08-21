@@ -331,7 +331,7 @@
  STEER_TRADEDESC:0 "彼の国の商人にあなたへ交易を誘導すべきであると提案します。"
  TRANSFER_STEER_TRADE_DESC_AT_WAR:0 "我々の戦争中に彼らが自発的にこれに同意すると想定するのは、馬鹿げているでしょう。"
  STEER_TRADE_SELECT_DESC:0 "彼ら自身を豊かにする代わりに、$WHO$の商人にあなたへ交易を誘導させてもよろしいですか？"
- STEER_TRADE_MERCHANT_COUNT:0 "問題の交易ノードと商人の数を考慮すると、$Y$のうち$X|Y$の商人があなたへの交易誘導に割り当てられるでしょう。"
+ STEER_TRADE_MERCHANT_COUNT:0 "問題の交易ノードと商人の数を考慮すると、$Y$人中$X|Y$人があなたへ交易を誘導するよう割り当てられるでしょう。"
  CANCEL_STEER_TRADE_SELECT_DESC:0 "ここへの交易誘導に必要な$WHO$の商人を停止してもよろしいですか？"
  OUR_CANCEL_STEER_TRADE_SELECT_DESC:0 "商人たちが我慢を余儀なくされている$WHO$への交易誘導の終了を決断しますか？"
  CANCEL_STEER_TRADETITLE:0 "交易誘導を中止する"
