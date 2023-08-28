@@ -764,7 +764,7 @@
  pal_protect_from_france_trigger_tooltip:0 "フランス地方において[Root.GetName]より大きな陸軍を持つ国家がない。"
  pal_religious_leadership_title:0 "宗教的指導力"
  pal_religious_leadership_desc:0 "教皇からのより大きな独立とヨーロッパでのより公正な宗教力の分配を望んでいる人々は、我々に軍事的な指導力を求めている。我々は彼らを失望させてはならない。"
- pal_religious_leadership_trigger_tooltip:1 "隣接する国家が§Y[Root.Religion.GetName]§!信仰に従っている。"
+ pal_religious_leadership_trigger_tooltip:1 "隣接国が§Y[Root.Religion.GetName]§!信仰に従っている。"
  pal_kingdom_of_bohemia_title:0 "ボヘミアの王冠"
  pal_kingdom_of_bohemia_desc:0 "ボヘミアの同調者たちは、もし我々の領土を彼らの領土と統合させれば、オーストリアのハプスブルク家に対して効果的な相殺を示すだろうと示唆している。我々はそれらの計画に基づいて行動し、帝国の覇権を掌握する必要がある。あるいは少なくとも栄光の炎の中で失敗してみるかだ…"
  pal_glorious_palatine_title:0 "プファルツの栄光"

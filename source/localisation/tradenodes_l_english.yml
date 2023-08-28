@@ -101,7 +101,7 @@
  TRADE_RETENTION:0 "交易力の§Y$PART$§W%によって§Y$VAL$§W¤がこのノードに留まっています。"
  TRADE_PULL:0 "交易力の§Y$PART$§W%によって§Y$VAL$§W¤が流出しています。"
  TRADE_POWER_TAKE_PART:0 "§Y$COUNTRY$§Wは交易から徴収する国々の中で§Y$PART$%§Wの交易力を有しています。"
- TRADER_ALLREADY_THERE:0 "どのノードで商人は一人ずつしか利用できません。"
+ TRADER_ALLREADY_THERE:0 "商人は1つのノードに1人のみです。"
  TRADER_IN_RANGE:0 "範囲内にしてください（現在範囲：§Y$CURR$§W 最大範囲：§Y$MAX$§W）。"
  TRADER_FREE_ENVOY:0 "利用可能な商人が必要です。"
  TRADE_CANCEL:0 "商人召喚"

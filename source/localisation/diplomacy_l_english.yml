@@ -492,7 +492,7 @@
  CELESTIAL_EMPIRE_WAR_NAME:0 "$ORDER$$FIRST$・$SECOND$の天命争奪戦争"
  FORCE_MIGRATION_WAR_NAME:0 "$ORDER$$FIRST$・$SECOND$強制退去戦争"
  IN_WARGOAL_COST:1 "戦争目標の一部であるため、$WHO|Y$に対して追加の£dip£コストは発生しません！"
- NOT_IN_WARGOAL_COST:1 "戦争目標の一部ではないため、$WHO|Y$に対して追加で§Y$COST$§!£dip£の外交力コストが発生します！"
+ NOT_IN_WARGOAL_COST:1 "戦争目標の一部ではないため、$WHO|Y$に対して追加で§Y$COST$§!£dip  の外交力コストが発生します！"
  UNLAWFUL_TERRITORY_WARN:0 "§R不法な領土。皇帝が返還を要求してくる可能性があります。§!"
  UNLAWFUL_TERRITORY_WARN_DELAY:0 "この州は帝国の一部であり、あなたの中核州ではないため、領有した場合には不法な領土であると見なされます。"
  RELEASE_NATION_BY_WHOM:0 "$NEW_NATION$は$RELEASER$によって解放されます"

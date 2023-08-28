@@ -121,7 +121,7 @@
  abolishing_black_army_tooltip:0 "§Y貴族§!は§Y15§!の影響力を獲得します。"
  capital_in_belgrade_title:0 "ベオグラードへ遷都"
  capital_in_belgrade_desc:0 "ベオグラードはバルカン半島の戦略的、経済的な要地であり、かつてはセルビアの首都でもあった。この偉大な都市に再び遷都し、かつての栄光ある姿を取り戻そう！"
- from_great_yuan_title:0 "大元を再生"
+ from_great_yuan_title:0 "大元の再生"
  from_great_yuan_desc:0 "かつてクビライ・ハーンの後継者たちは、中国とモンゴルの全土を支配していた。生まれながらの権利を信じ込んだ他の弱い王族を駆逐し、古き大いなる元の遺産を取り戻そう！"
  subject_all_mongols:2 "すべてのモンゴル、ホルチン、ハルハ、オイラト地域を[Root.GetName]の領土もしくは属国領とする必要があります。"
  custom_tsardom_title:0 "ツァーリ位を請求"
