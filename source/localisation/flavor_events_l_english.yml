@@ -4587,7 +4587,7 @@
  flavor_daimyo.5.a:0 "[Root.Heir.GetName]の側につく。"
  flavor_daimyo.5.b:0 "持富の主張を支持する。"
  flavor_daimyo.6.t:0 "[Root.Monarch.GetName]の継承"
- flavor_daimyo.6.d:0 "[Root.Monarch.GetHerHis]の後継者をもうけることができなかったため、有力家臣たちの多くは[Root.Monarch.GetName]が[Root.Monarch.GetHerHis]の後継者として領内随一の親族を養子に迎えることを期待している。\n細川の庶流は候補の一人として連なることはできないようだが、我々が指名した後継者はどちらも、相手の不満に直面しそうである。"
+ flavor_daimyo.6.d:0 "後継者をもうけることができなかったため、有力家臣たちの多くは[Root.Monarch.GetName]が後継者として領内随一の親族を養子に迎えることを期待している。\n細川の庶流は候補の一人として連なることはできないようだが、どの後継者を選んでも反対派の不興を買いそうだ。"
  flavor_daimyo.6.a:0 "私は明白な後継者として澄元を指名する。"
  flavor_daimyo.6.b:0 "九条の澄之が最善であろう。"
  flavor_daimyo.6.c:0 "高国は立派な跡継ぎだ。"

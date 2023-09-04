@@ -3577,7 +3577,7 @@
  mechanic_winning_war_increases_legitimacy_yes:1 "戦争に勝利するごとに正統性（もしくは他政体で正統性に相当するもの）が§G5§!増加します\nただし共和的伝統は増加が§G2§!になります"
  strengthen_clergy_reform:0 "聖職者特権の強化"
  strengthen_clergy_reform_desc:0 "聖職者階級は、困難な時代の間に人々に精神的な導きを与えることで国家に奉仕してきた。聖職者が我が国において果たしてきた役割に敬意を表すことを考えれば、その特権を拡大させるに相当する十分な資格があるといえるだろう。"
- curtail_clergy_power_reform:0 "聖職者の特権を制限"
+ curtail_clergy_power_reform:0 "聖職者の特権制限"
  curtail_clergy_power_reform_desc:0 "宗教は我々の政府の中で重要な社会的意義を持っているかもしれないが、この国の聖職者階級はあまりにも大きな影響力を持ちすぎている。彼らの視野の狭い世界観は、このままでは国家の発展を妨げるだけだ。"
  mechanic_seizing_land_no_rebels_from_estate_church_yes:1 "§Y聖職者§!からの領地の没収で反乱が発生しない"
  separate_clergy_from_state_affairs_reform:0 "政教分離"

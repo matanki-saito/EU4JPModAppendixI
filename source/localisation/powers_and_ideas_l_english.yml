@@ -7235,7 +7235,7 @@
  embarassing_display_modifier:0 "Embarassing Display"
  great_reputation_modifier:0 "偉大な評価"
  shift_on_military_affairs_modifier:0 "Shift on Military Affairs"
- usual_conduct_tt:0 "The court of [Root.Monarch.GetName] is used to displays of whimsicality and will therefore just laugh it off"
+ usual_conduct_tt:0 "[Root.Monarch.GetName]の宮廷は、奇行には慣れているので、笑い飛ばしてくれるだろう。"
  mercenary_leadership:0 "傭兵指導者"
  desc_mercenary_leadership:0 "傭兵将軍が[Root.GetAdjective]の宮廷顧問に昇進したことで、我が傭兵団に多大な利益がもたらされている。そのため、我々の大義に対する彼らの士気は類を見ないものとなっている。"
  negative_mercenary_reputation:0 "傭兵の評判"

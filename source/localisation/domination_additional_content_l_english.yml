@@ -32,7 +32,7 @@
  desc_mng_eunuch_privileges_modifier:1 "A strong Eunuch class that sides with the Emperor is surely to assist in matters of corruption."
  desc_mng_the_puppetmaster_modifier:1 "Our diplomatic manuevers and prowess have proved to be genuinely successful in our effort to demand tribute from our subjects while keeping them in line."
  desc_estate_jains_development_of_cities_mod:1 "The development of our lands is vital to the prosperity of our great nation."
- desc_eng_the_two_houses:1 "The [Root.GetAdjective] [Root.GetParliamentOrFallbackName] is split between the House of Lords and the House of Common. The appeasement of these two great houses allows us to get to pass the pressing issues of our country."
+ desc_eng_the_two_houses:1 "[Root.GetAdjective]の[Root.GetParliamentOrFallbackName]は、貴族院と庶民院に分かれている。これら重要な二院を宥和させることで、自国の差し迫った問題を可決できる。"
  desc_eng_order_of_chivalry:1 "The Order of Chivalry is a society with its inspirational roots in the Catholic military orders of the crusades. However, the [Root.GetAdjective] Order is of courtly nature and is nowadays more of a status symbol for the nobility which values honor and chivalry."
  desc_eng_jousting_tournaments:1 "Once a martial exercise, the improvements of armor and jousting tactics made jousting to an entertaining spectacle for the common man.\n§YLasts until the end of the Age of Discovery.§!"
  desc_gbr_pax_britannica:1 "Wherever the eye meets the map they see the great extend of Britannia. An empire second to none, our people enjoy freedom, security and stability. Truly a Pax Britannica."
