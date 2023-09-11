@@ -282,7 +282,7 @@
  desc_eased_war_contributions:1 "As a result of our decadence, the war contributions that are expected by our populace have been severely reduced."
  desc_removed_estates_from_power:1 "The expulsion of several powerful figureheads from our estates' ranks has led to a loss of influence as well as loyalty."
  desc_overhauling_the_court:1 "The overhauling of our court may lead to increased palatial expenses in an effort to increase our prestige output."
- desc_tur_city_of_faiths:1 "[This.GetName] is a great Holy Site for many religions. As one of the few places, the gates are open to every kind of faith who wants to make a pilgrimage to [This.GetName]."
+ desc_tur_city_of_faiths:1 "[This.GetName]は多くの宗教にとって偉大な聖地である。数少ない場所の一つとして、[This.GetName]への巡礼を望むあらゆる信仰に門が開かれている。"
  desc_rise_of_the_ottomans:1 "§Y大航海時代の終わりまで続きます。§!"
  desc_zenith_of_the_ottomans:1 "§Y宗教改革の時代の終わりまで続きます。§!"
  desc_twilight_of_the_ottomans:1 "§Y絶対主義の時代の終わりまで続きます。§!"
