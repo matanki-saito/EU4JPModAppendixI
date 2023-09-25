@@ -132,7 +132,7 @@
  MAPMODE_PARLIAMENT_SEATS:0 "Parliament Seats"
  MAPMODE_PARLIAMENT_SEATS_DESC:0 "Displays which Provinces have a parliament seat assigned."
  PARLIAMENT_SEATS_TOOLTIP:0 "$PROVINCE|Y$ has a parliament seat."
- SPECIAL_UNIT_FORCELIMIT_MODIFIER_LABEL:0 "This number is further multiplied by $VAL|+%$ owning to:\n$MODIFIER$"
+ SPECIAL_UNIT_FORCELIMIT_MODIFIER_LABEL:0 "この数値はさらに以下の要因によって$VAL|+%$乗算される:\n$MODIFIER$\n\n"
  TRADE_NODE_INCOME_EFFECT:0 "$NODE|Y$交易ノードから$AMOUNT|0$ヵ月分の収入に相当する$VALUE$ダカットを$DIRECTION$。\n"
  GRANT_PRIVILEGE_SHORT:0 "$PRIVILEGE|Y$が$ESTATE|Y$に与えられ、以下があります："
  REVOKE_PRIVILEGE_SHORT:0 "$PRIVILEGE|Y$が$ESTATE|Y$から取り消され、以下がなくなります："

@@ -286,7 +286,7 @@
  desc_rise_of_the_ottomans:1 "§Y大航海時代の終わりまで続きます。§!"
  desc_zenith_of_the_ottomans:1 "§Y宗教改革の時代の終わりまで続きます。§!"
  desc_twilight_of_the_ottomans:1 "§Y絶対主義の時代の終わりまで続きます。§!"
- desc_decline_of_the_ottomans:1 "Our great [Root.GovernmentName] is one of the world powers. We shaped the world and left a mark in history which shall be remembered forever.\nHowever, our great success bred complacency. What our ancestors have achieved is now seen as a given privilege. [Root.GetUsableName] has to face the reality of a time where its very own administration and elite threaten the survival of the state."
+ desc_decline_of_the_ottomans:1 "我らが偉大なる[Root.GovernmentName]は列強の一つである。我々は世界を形成し、永遠に記憶されるであろう足跡を歴史に残した。\nしかし、我々の大成功は自己満足を産んだ。我々の祖先が成し遂げたことは、今や与えられた特権と見なされている。[Root.GetUsableName]は、まさに自国の政権とエリートが国家の存続を脅かすという時代の現実に直面しなければならない。"
  desc_kor_expanded_capital:1 "[This.GetName]の行政とインフラは[Owner.GetAdjective][Owner.GovernmentName]の宝石だ。"
  desc_rus_western_military_tactics:1 "自軍は戦争に関して外国の戦術を研究してきた。さらに、自部隊の訓練はこれらの戦略を考慮に入れて調整され、戦闘における自部隊の全体的な質が大幅に向上した。"
  desc_eng_reformer_ruler_for_catholic_gb:0 "§Yこの補正は宗教改革の時代の終わりか、キリスト教でなくなるまで続きます。§!"
