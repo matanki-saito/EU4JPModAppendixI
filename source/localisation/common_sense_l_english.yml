@@ -1035,7 +1035,7 @@
  free_cities.1.t:1 "[Root.Capital.GetCapitalName]の自由都市"
  free_cities.1.d:1 "[Root.Capital.GetCapitalName]市は、神聖ローマ帝国の帝国自由都市として帝国直属身分を付与されている。帝国には多くの重要な自治都市があるが、[Root.GetName]は今や[Emperor.Monarch.GetTitle]自身によって永久に保証されている経済的および政治的自由を保護するために、富と規模を超えた何かを持っている。"
  free_cities.1.a:1 "素晴らしい。"
- free_cities.2.t:1 "[Root.GetName]－もはや帝国の自由都市ではない"
+ free_cities.2.t:1 "[Root.GetName]－もはや帝国自由都市にあらず"
  free_cities.2.d:1 "[Root.GetName]はもはや神聖ローマ帝国の自由都市ではない。市の指導者は、権謀術数的な権力の悪用と帝国制度への侮辱のために非難され、かつて付与された地位に関連するすべての特権を失った。"
  free_cities.2.a:1 "不運だ。"
  wedge_throw:0 "「擲棒供奉」"
