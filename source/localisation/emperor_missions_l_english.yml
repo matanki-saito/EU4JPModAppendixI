@@ -2197,7 +2197,7 @@
  gen_trade_spanish_conquest:0 "スペインの征服"
  emp_mlo_swiss_mercs_trigger_tooltip:0 "§Y[Root.GetName]§!が§Yスイス§!または§Yロマンディ§!の傭兵を使って戦争に勝利した。"
  emp_gen_safety_at_home_and_abroad_trigger:0 "§Yイタリア§!地方に自身の州を領有している全ての国家：\n　以下のいずれかが満たされている：\n　　§Y[Root.GetName]§!と同盟している\n　　§Y[Root.GetName]§!よりも陸軍が小規模である"
- add_5_crown_land_share:0 "§Y[Root.GetName]§!は§G5§!の直轄地の所有権を獲得します。"
+ add_5_crown_land_share:0 "§Y[Root.GetName]§!は直轄地の所有権を§G5§!獲得します。"
  VAL_HAB_BALANCED_ESTATES:0 "バランスの取れた階級: §G$VAL$§!"
  VAL_BUR_APPEASED_ESTATES:0 "宥められた階級: §G$VAL$§!"
  VAL_BAV_DEALT_WITH_ILLUMINATI:0 "イルミナティと取引した：§G$VAL$§!"
