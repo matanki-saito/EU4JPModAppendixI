@@ -680,7 +680,7 @@
  estate_nobles_decentralized_tribe_tt:0 "この特権は、[Root.GetNobilityOrFallbackName] 特権 「§Y部族特権の剥奪§!」を付与することで破棄される。"
  estate_nobles_tribe_unification:0 "部族特権の剥奪"
  estate_nobles_tribe_unification_desc:0 "[Root.GetName]では盛大な中央集権化を実施し、支配層である[Root.GetNobilityOrFallbackName]の特権を剥奪した。[Root.GetName]にいる連邦部族の権力は未だに動かぬものの、[Root.GovernmentName]の完全集権化及び[Root.Monarch.GetTitle]の権限を強化する余地を生み出している。"
- estate_nobles_tribe_unification_tt:0 "[Root.GetNobilityOrFallbackName]に特権「§Y部族の集権化§§!」を付与することにより、この特権は失効する。"
+ estate_nobles_tribe_unification_tt:0 "[Root.GetNobilityOrFallbackName]に特権「§Y部族の集権化§!」を付与することにより、この特権は失効する。"
  estate_nobles_tribe_centralization:0 "部族の集権化"
  estate_nobles_tribe_centralization_desc:0 "部族連邦を解散し、権力を集権化する時が来た！"
  can_not_have_tributaries:0 "§Y朝貢国§!を設立できない。"
