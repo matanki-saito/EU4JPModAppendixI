@@ -1,7 +1,7 @@
 ﻿l_english:
  MIGRATION_COST:0 "移住コスト"
  an_nopersonality:0 "強烈な個性がない"
- WOULD_HAVE_TO_FIGHT_OVERLORD:0 "属国の宗主国と戦う必要があるだろう。"
+ WOULD_HAVE_TO_FIGHT_OVERLORD:0 "朝貢の宗主国と戦う必要があるだろう："
  SUBJECT_NO_COLONIES_OR_VASSALS:0 "植民地や属国を保持していない。"
  great_peasants_war_flag:0 "大農民戦争"
  BUILD_TOOLTIP_INTRO:1 "$BUILDING|Y$を建設すると、以下の基礎効果をもたらします："
@@ -1324,7 +1324,7 @@
  HRE_VOTE_INELIGIBLE_DICTATORSHIP:0 "$COUNTRY|Y$は独裁制である。"
  HRE_VOTE_INELIGIBLE_SUBJECT:0 "$COUNTRY|Y$は従属国である。"
  HRE_VOTE_INELIGIBLE_REVOLUTIONARY:0 "$COUNTRY|Y$は革命国家である。"
- HRE_VOTE_INELIGIBLE_WRONG_RELIGION_POST_LEAGUE_WAR:0 "宗教戦争後の$COUNTRY|Y$は、$RELIGION|Y$ではありません。"
+ HRE_VOTE_INELIGIBLE_WRONG_RELIGION_POST_LEAGUE_WAR:0 "宗教戦争後の$COUNTRY|Y$は、$RELIGION|Y$ではない。"
  SELL_SHIPS_COOLDOWN:0 "最近船を売ったため、$DATE|Y$まで再度船の売却はできません。"
  MILITARIZATION_EXPLANATION:0 "あなたの国の軍事レベルは以下の補正に影響を及ぼします："
  MILITARIZATION_EXPLANATION_CURRENT:0 "現在のレベル（$VAL|Y$）では、以下をもたらします："

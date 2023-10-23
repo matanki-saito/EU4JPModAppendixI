@@ -3772,7 +3772,7 @@
  pol_unlock_new_issues_tt:0 "新しい§Y議会の議題§!が解禁される"
  pol_had_pacta_conventa_event_tt:0 "イベント「§Yパクタ・コンヴェンタ§!」を承認した"
  pol_chose_to_undo_nobles_tt:0 "ミッション「§Yマグナートの活用§!」で貴族と敵対する選択をした"
- pol_if_pacta_conventa_tt:1 "「§Yパクタ・コンヴェンタ§!」を受け入れる形でミッションを達成した場合、同時にこのパクタ・コンヴェンタを撤回する国家の決断も獲得します。"
+ pol_if_pacta_conventa_tt:1 "「§Yパクタ・コンヴェンタ§!」を受け入れる形でミッションを達成した場合、同時にこのパクタ・コンヴェンタを撤回する国家の決断も獲得します："
  pol_if_undo_nobles_tt:0 "\n過去に§Y貴族§!と敵対する選択を選んでいた場合："
  pol_has_had_struggle_for_royal_power_disater_tt:0 "国難「§Y王権のための闘争§!」が発生済み"
  pol_if_bent_nobles_and_monarchy_tt:0 "§Y君主制§!でミッションを達成した場合："

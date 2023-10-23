@@ -120,7 +120,7 @@
  DIP_MAINT:0 "$RELATION$：（§Y$COUNTRY$§W）：§Y-$VAL$§W"
  RIVAL_IMPACT_ON_SPY:0 "ライバル：$VAL$\n"
  MILACCESS_TYPE:0 "軍事通行権"
- ANNEX_TARGET_CORE:0 "彼らの首都に請求権があります。"
+ ANNEX_TARGET_CORE:0 "彼らの首都に請求権がある："
  ANNEX_INPROGRESS3:0 "併合の進行は§Y$PROGRESS|1$%§!（$VAL|G$/$COST|Y$）で、$DATE|Y$までかかるでしょう。\n毎月§R$DRAIN$§!£dip£使用します。\n"
  INTEGRATE_INPROGRESS3:0 "統合の進行は§Y$PROGRESS|1$%§!（$VAL|G$/$COST|Y$）で、$DATE|Y$までかかるでしょう。\n毎月§R$DRAIN$§!£dip£使用します。\n"
  NO_ANNEX_PROGRESS_LACK_DIP:0 "進めるには$COST$£dip£以上が必要です。"

@@ -649,7 +649,7 @@
  COT_NEGATIVE_PRESTIGE:0 "§R威信がマイナスの場合、交易中心地をダウングレードすることはできません！§!"
  COT_MAX_LEVEL:0 "§Rすでに最高レベルのため、交易中心地をアップグレードすることはできません！§!"
  COT_NOT_ENOUGH_MONEY:0 "§R交易中心地のアップグレードには$REQUIRED|Y$¤が必要ですが、$AVAILABLE|Y$¤しか持っていません。§!"
- COT_MAX_LEVEL_IN_COUNTRY:1 "最大レベルの交易中心地の最大数は、保有する商人の数に制限されています。\n\n§R既にあなたの国家は$NUM_CENTERS|Y$つの最大レベルの交易中心地を持っていますので、$UPGRADE_NAME|Y$をアップグレードすることはできません。§!"
+ COT_MAX_LEVEL_IN_COUNTRY:1 "最大レベルの交易中心地の最大数は、保有する商人の数に制限されます。\n\n§R既に最大レベルの交易中心地を$NUM_CENTERS|Y$つ持っているので、$UPGRADE_NAME|Y$をアップグレードすることはできません。§!"
  COT_MAX_LEVEL_IN_STATE:0 "§Rあなたはすでに$STATE|Y$において最高レベルの交易中心地を持っています！§!"
  COT_THAT_CHANGES_OWNER_LOSES_LEVEL:0 "交易中心地は所有者が変わるたびにレベルが1下がります。"
  COT_UPGRADE_DOWNGRADE_AT_WAR:0 "§R戦争中に交易中心地のレベルを変えることはできません！§!"

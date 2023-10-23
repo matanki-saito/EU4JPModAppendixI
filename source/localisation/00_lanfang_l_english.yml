@@ -418,7 +418,7 @@
  stateless_society_desc:0 "我が民族は、故意に国家を組織しないことを選択して、低地にある国家に蔓延する抑圧的な階級制度から解き放たれた単純な生き方を選んでいる。"
  STATELESS_SOCIETY:0 "国家なき社会"
  TRIBAL_LEADER:0 "部族の指導者"
- manpower_sailors_on_build_tt:0 "§Y兵舎§!、§Y訓練場§!、§Yドック§!、§Y乾ドック§!の建造により、§G1000§!の人的資源もしくは§G200§!の水兵を獲得する。"
+ manpower_sailors_on_build_tt:0 "§Y兵舎§!、§Y訓練場§!、§Yドック§!、および§Y乾ドック§!を建造すると、人的資源§G1000§!もしくは水兵§G200§!を獲得します。"
  HARIPHUNCHAI:0 "ハリプンチャイ"
  HARIPHUNCHAI_ADJ:0 "ハリプンチャイ"
  DVARAVATI:0 "ドヴァーラヴァティー"

@@ -395,7 +395,7 @@
  compile_x_fiqh_title:0 "[Root.GetReligiousSchool]のフィクフを翻訳"
  compile_x_fiqh_desc:0 "最も博識なウラマーでさえ、シャリーアを最もうまく適用する方法は必ずしも明確ではなく、何世紀にもわたり、いくつかの地域で多くの矛盾した判決が出現している。王国の最高の精神が[Root.GetReligiousSchool]のフィクフの包括的な批評を翻訳して執筆することを可能にするため、かなりの時間と努力を費やした場合、これは我々の王国のすべてのカーディーとムフティーにとって非常に大きな助けとなるだろう。"
  compile_x_fiqh_tooltip_part1:0 "[Root.Monarch.GetName]のファトワ＝イの翻訳には長い年月がかかり、その間、以下の補正が有効になります："
- compile_x_fiqh_tooltip_part2:0 "プロジェクトを完遂すると、この補正は失われ以下の利益を得ます。"
+ compile_x_fiqh_tooltip_part2:0 "プロジェクトを完遂すると、この補正は失われ以下の利益を得ます："
  alert_can_use_iqta_ability_instant:0 "§Y税政策を制定可能！§!"
  alert_can_use_iqta_ability_delayed:0 "$POWERS|Y$は現在制定可能です。"
  alert_can_use_malmluk_ability_instant:0 "§Y文化の相互作用を利用可能！§!"
