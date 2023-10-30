@@ -3252,7 +3252,7 @@
  EVTNAME9206:0 "$PROVINCENAME$は略奪された！"
  EVTDESC9206:0 "$CONTROLLERNAME$の軍隊は$PROVINCENAME$を略奪し、富を奪っている。"
  EVTOPTA9206:0 "ちくしょう！"
- EVTNAME611:0 "僭称者の出現"
+ EVTNAME611:0 "僭称者の蜂起"
  EVTDESC611:1 "$HEIR$の継承に異議を唱える僭称者が蜂起した！[Root.Monarch.Dynasty.GetName]支配の「驚くべき不正」を口実に、新しい[Root.Monarch.GetTitle]の正統性に疑問を投げかけた[Root.pretender.GetName]は、王位に対する彼の主張を支援するための軍隊を立ち上げ、首都に向かって進軍している！"
  EVTOPTB611A:0 "神は$HEIR$と共に！"
  EVTNAME5060:0 "彗星の観測"
