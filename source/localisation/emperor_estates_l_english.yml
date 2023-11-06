@@ -1263,3 +1263,5 @@
  vaisyas_privilege_slots:0 "[Country.GetVaishyasName]階級の特権最大数"
  jains_privilege_slots:0 "[Country.GetJainsName]階級の特権最大数"
  crown_land_level_8_1:0 "直轄地の所有権"
+ no_other_dip_privilege:0 "§Y月間外交力§!を付与する他の階級特権がない"
+ no_other_adm_privilege:0 "§Y月間統治力§!を付与する他の階級特権がない"

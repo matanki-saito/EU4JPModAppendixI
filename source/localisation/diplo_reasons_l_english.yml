@@ -374,3 +374,4 @@
  DIPLO_TRADECITY:0 "$WHO$は交易都市で同盟を避けようとします。"
  DIPLO_RESTRICTED_REGION:0 "交易勅許地域の懐疑論："
  DIPLO_NON_BELLIGERENT:0 "$WHO$は共戦国ではない："
+ DIPLO_WAR_PANIC:0 "Fear of new entrant into the war: "

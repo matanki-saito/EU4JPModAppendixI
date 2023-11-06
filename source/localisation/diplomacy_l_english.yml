@@ -78,7 +78,7 @@
  NO_INTEGREATION_PROGRESS_AT_WAR:0 "両国の統合を進めるためには平時である必要があります。"
  NO_ANNEX_PROGRESS_AT_WAR:0 "外交併合を進めるためには平時である必要があります。"
  NO_ANNEX_PROGRESS_WHILE_CAPITAL_TAKEN:0 "属国が首都を保持していない間は併合が進行しません。"
- NO_ANNEX_PROGRESS_LIBERTY:0 "彼らの独立欲求が高すぎるため、併合が進みません。併合のためには独立欲求が§Y$LIMIT$§!未満である必要がありますが、現在の独立欲求の値は§R$AMOUNT$§!です。\n"
+ NO_ANNEX_PROGRESS_LIBERTY:1 "彼らの独立欲求が高すぎるため、併合が進みません。併合のためには独立欲求が§Y$LIMIT$§!未満である必要がありますが、現在の独立欲求の値は§R$AMOUNT$§!です。"
  ALL_CORES_AND_CLAIMS:0 "すべての中核州および請求権がある州"
  RIVAL_BENEFITS:1 "§Y$WHO$§!は我々のライバルであり、彼らに対し我が国は以下のボーナスを得る：\n"
  RIVAL_DIPLO_ALLY:0 "- 彼らの敵と同盟を結べる可能性が高い\n"

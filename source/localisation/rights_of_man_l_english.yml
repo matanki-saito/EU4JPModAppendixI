@@ -236,7 +236,7 @@
  DEMAND_ARTIFACTS_DESCRIPTION:0 "$SUBJECT|Y$に彼らの最高の芸術品を要求することによって、彼らの立場を理解させましょう。これにより、彼らの犠牲の上に、我々の威信は$PRESTIGE|Y$増加するでしょう。それはまた、彼らの独立欲求を§R$LD$%§!高めるでしょう。"
  OVERLORD_DEMANDED_ARTIFACTS:0 "我々の最も貴重な芸術品を要求しており、我々は$PRESTIGE|R$の威信を犠牲にします。我々にできることはありません。"
  DEMAND_ADDITIONAL_TRIBUTE_TITLE:0 "朝貢の追加を要求"
- DEMAND_ADDITIONAL_TRIBUTE_DESCRIPTION:0 "$SUBJECT|Y$に対し、善意の印として、追加で$TRIBUTE|Y$¤を我々に送るよう要求します。結局のところ、彼らは我々の§Y朝貢国§!です。しかし、これは彼らの独立欲求を§R$LD$%§!増加させるでしょう。"
+ DEMAND_ADDITIONAL_TRIBUTE_DESCRIPTION:1 "$SUBJECT|Y$に対し、善意の印として、追加で$TRIBUTE|Y$¤を我々に送るよう要求します。結局のところ、彼らは我々の§Y従属国§!です。しかし、これは彼らの独立欲求を§R$LD$%§!増加させるでしょう。"
  DEMAND_ADDITIONAL_TRIBUTE_BROKE:0 "彼らは必要な$TRIBUTE|Y$¤を持っていません。"
  OVERLORD_DEMANDED_ADDITIONAL_TRIBUTE:0 "我らは彼らに追加で$TRIBUTE|Y$¤の朝貢を送った。いつ彼らは満足するのだろう。"
  FORCE_SEPPUKU_TITLE:0 "切腹を強制"

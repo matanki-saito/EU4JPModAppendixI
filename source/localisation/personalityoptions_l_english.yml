@@ -725,5 +725,5 @@
  cunning_navigator_personality:0 "狡猾な探検家"
  desc_cunning_navigator_personality:0 "この提督は狡猾な探検家である。この者が指揮する船は、通常よりも早く目的地に到着する。"
  great_explorer_personality:0 "大探検家"
- great_explorer_personality_desc:0 "伝説の探検家。未知の海を航海し、我々の名に名声と輝きをもたらす準備ができているものなり！"
  great_explorer_personality_die_desc:0 "悲しきかな、大いなる不幸よ！最も尊敬される伝説的な航海士マゼランがあの世へ旅立った。灰色で哀愁漂う日がやってくる…"
+ desc_great_explorer_personality:0 "A legendary explorer, ready to charter unknown seas and bring prestige and splendor to our name!"
