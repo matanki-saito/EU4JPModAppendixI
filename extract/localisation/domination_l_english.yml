@@ -209,7 +209,7 @@
  flavor_fra.104.a:0 "Such an enlightened man!"
  
  flavor_fra.105.t:0 "A Lady of Remarkable Beauty and Intrigue"
- flavor_fra.105.d:1 "One of the most prominent figures of French and English history, Eleanor of Aquitaine is a legendary figure weaved into the history of her domain. Famed for her wealth and power she came to control much of southern France during the 12th and 13th centuries. At the apogee of her influence, she married King Louis VII of France and participated in the Second Crusade as Queen Consort. Soon after their return, she requested a divorce which was eventually granted. At 30 years of age, she became engaged to her third cousin Henry, the duke of Normandy and count of Anjou, and upon their marriage ceremony, they were declared King and Queen of England, inaugurating the polity that would be later known as the Angevin Empire. Through expert statecraft and masterful manipulation of nobles and rulers alike, she carved her name in the books of history for the centuries to come, a shining example of a most capable queen."
+ flavor_fra.105.d:1 "One of the most prominent characters of French and English history, Eleanor of Aquitaine is a legendary figure weaved into the history of her domain. Famed for her wealth and power she came to control much of southern France during the 12th and 13th centuries. At the apogee of her influence, she married King Louis VII of France and participated in the Second Crusade as Queen Consort. Soon after their return, she requested a divorce which was eventually granted. At 30 years of age, she became engaged to her third cousin Henry, the duke of Normandy and count of Anjou, and upon their marriage ceremony, they were declared King and Queen of England, inaugurating the polity that would be later known as the Angevin Empire. Through expert statecraft and masterful manipulation of nobles and rulers alike, she carved her name in the books of history for the centuries to come, a shining example of a most capable queen."
  flavor_fra.105.a:0 "Her spirit lives on!"
  
  flavor_fra.106.t:1 "House of [Root.Monarch.Dynasty.GetName]"
@@ -411,6 +411,7 @@
  fra_subjugation_of_the_germans_modifier:0 "Subjugation of the Germans"
  fra_french_supremacy_modifier:0 "French Supremacy in Europe"
  fra_french_supremacy2_modifier:0 "The New Eastern Borders"
+ desc_fra_french_supremacy2_modifier:0 "Our sovereignty over the lands in Germany is now unquestionable. As our troops march to the East, we will strive to incorporate the newly-subjugated people into our enlightened society."
  fra_church_and_state_harmony_modifier:0 "Church & State in Napoleonic France"
  fra_popularization_of_secular_beliefs_modifier:0 "Popularization of Secular Beliefs"
  fra_riches_of_italy_modifier:0 "Riches of Italy"
@@ -438,7 +439,7 @@
  
  
  #Tooltips 
- fra_if_bur_subject_and_emperor_dlc_tt:1 "\nIf we complete this mission while @BUR Burgundy is a subject:"
+ fra_if_bur_subject_and_emperor_dlc_tt:2 "\nIf we complete this mission while @BUR Burgundy is a §Ynon-player§! subject:"
  fra_alternatively_10_dev_spread_and_tt:0 "\nAlternatively, §G10§! £adm£ £dip£ £mil£ Development will be distributed in §YBurgundian§! provinces as well as:"
  fra_alternatively_10_dev_spread_and_2tt:0 "\n§G10§! £adm£ £dip£ £mil£ Development will be distributed in §YBurgundian§! provinces as well as:"
  fra_complete_via_opinion_alliance_and_trust_tt:1 "\nLastly, if we complete the mission via opinion and alliance with the crown of @BUR Burgundy, they will be more likely to side with us once the §YBurgundian Inheritance§! Imperial Incident begins"
@@ -1034,7 +1035,7 @@
  flavor_mng.32.b:0 "The nomadic era comes to a fruitful end..."
  
  flavor_mng.33.t:1 "The Karma Kagyu School and the [From.Monarch.Dynasty.GetName] Dynasty"
- flavor_mng.33.d:0 "One of the largest lineages within the Kagyu school and one of the four major schools of thought that follow Tibetan Buddhism, the Karma Kagyu play a profound role in the internal politics between the slopes of the mountains of our homeland. Despite our seclusion, the ever-reaching influence of the Chinese Emperor finds itself knocking on our door, demanding submission and recognition of his authority within our realm."
+ flavor_mng.33.d:1 "One of the largest lineages within the Kagyu school and one of the four major schools of thought that follow Tibetan Buddhism, the Karma Kagyu play a profound role in the internal politics between the slopes of the mountains of our homeland. Despite our seclusion, it also has its impact in external politics, some of its leaders having been advisors to the Emperor of China. Now, the ever-reaching influence of the Chinese Emperor finds itself knocking on our door, demanding submission and recognition of his authority within our realm."
  flavor_mng.33.a:0 "We recognize the magnanimity of the Mandate holder!"
  flavor_mng.33.b:0 "Risking our independence? Such nonsense!"
  
@@ -1205,6 +1206,7 @@
  EST_INCAPABLE_ADM_RULER:1 "Administratively Incapable Ruler: §Y+10%§!"
  EST_INCAPABLE_DIP_RULER:1 "Diplomatically Incapable Ruler: §Y+10%§!"
  EST_INCAPABLE_MIL_RULER:1 "Militarily Incapable Ruler: §Y+10%§!"
+ country_estate_eunuchs_name:0 "[This.GetEunuchsName]"
  
  EST_VAL_CAPABLE_ADM_RULER:1 "Administratively Capable Ruler: "
  EST_VAL_CAPABLE_DIP_RULER:1 "Diplomatically Capable Ruler: "
@@ -1297,6 +1299,7 @@
  issue_bureaucratic_imperial_seal_title:0 "Issue New Seals"
  issue_bureaucratic_imperial_seal_desc:0 ""
  issue_bureaucratic_imperial_seal:0 "Issued New Seals"
+ improved_expand_bureaucracy_decree:0 "Expand Palace Bureaucracy"
  improved_expand_bureaucracy_decree_title:0 "Expand Palace Bureaucracy"
  improved_expand_bureaucracy_decree_desc:0 ""
  improved_conduct_census_decree_title:0 "Conduct Population Census"
@@ -1530,13 +1533,13 @@
  qng_branching_mission_trade_1_desc:0 " "
  qng_branching_mission_trade_2_title:0 "§YDynamic Mission§!"
  qng_branching_mission_trade_2_desc:0 " "
- qng_promote_local_industry_title:0 "Promote Home Industries"
+ qng_promote_local_industry_title:1 "Home Industries"
  qng_promote_local_industry_desc:0 "Our people are at their strongest when bound together, working alongside our fellow citizens to further the agenda and cause of our great Emperor. Instead of debasing ourselves by reaching out to foreigners, we must embolden our focus on domestic production lines."
  qng_expel_foreign_merchants_title:0 "Expel Foreign Merchants"
  qng_expel_foreign_merchants_desc:0 "For far too long these foreign merchants from far away lands have taken advantage of our hospitable and generous ways. It is time we seize control of our markets and rid ourselves of all these leeches."
  qng_allow_foreign_exchanges_title:0 "Allow Foreign Exchanges"
  qng_allow_foreign_exchanges_desc:0 "A powerful and prosperous nation such as ours stands to greatly benefit by expanding our mercantile reach and including in it foreign people and merchants from every corner of the earth. Global trade is a high tide which raises all boats, and we must act quickly in order to fully take advantage of it."
- qng_chinese_industrial_revolution_title:0 "Chinese Industrial Revolution"
+ qng_chinese_industrial_revolution_title:0 "The Industrial Revolution"
  qng_chinese_industrial_revolution_desc:0 "The roar of the engines, the happy whistling of steam and the advancement of the knowledge forefronts are moving forward as we harness the leaps and bounds that our economy is growing with. Manufacturing lines, industrialization and the advent of new machinery will pave the way for our glorious industrial awakening."
  
  
@@ -1605,7 +1608,6 @@
  
  
  
- #Chinese Kingdoms Loc by Big Boss 
  
  #Missions 
  solidify_our_borders_title:0 "Solidify our Domain"
@@ -1719,7 +1721,7 @@
  until_war_decleration_tt:0 "until we declare any war"
  cannot_be_manually_revoked_tt:0 "§RThis privilege cannot be manually removed.§!"
  upgradable_modifier_tt:0 "§YThis modifier gets upgraded by later missions.§!"
- NUM_OF_FORCE_CONVERTED_COUNTRIES_COUNTER:0 "[Root.num_of_forced_conversions.GetValue]"
+ NUM_OF_FORCE_CONVERTED_COUNTRIES_COUNTER:1 "[This.num_of_forced_conversions.GetValue]"
  YEARS_OF_TRADE_INCOME_1:0 "Gain §G1 years§! worth of Trade Income."
  YEARS_OF_TRADE_INCOME_2:0 "Gain §G2 years§! worth of Trade Income."
  YEARS_OF_TRADE_INCOME_3:0 "Gain §G3 years§! worth of Trade Income."
@@ -1814,6 +1816,8 @@
  bribe_effect_scales_with_estate_rajput_tt:0 "Scales invertedly with the loyalty of the §Y[Root.GetRajputsName]§! ([Root.GetRajputsLoyaltyStatus])"
  bribe_effect_scales_with_estate_janissaries_tt:0 "Scales invertedly with the loyalty of the §YJanissaries§! ([Root.GetJanissariesLoyaltyStatus])"
  bribe_effect_scales_with_estate_eunuchs_tt:0 "Scales invertedly with the loyalty of the §YEunuchs§! ([Root.GetEunuchsLoyaltyStatus])"
+ bribe_effect_scales_with_estate_qizilbash_tt:0 "Scales invertedly with the loyalty of the §Y[Root.GetQizilbashName]§! ([Root.GetQizilbashLoyaltyStatus])"
+ bribe_effect_scales_with_estate_ghulams_tt:1 "Scales invertedly with the loyalty of the §Y[Root.GetGhilmanName]§! ([Root.GetGhulamsLoyaltyStatus])"
  issue_effects_with_estate_brahmins_influence_tt:0 "§YScales with the influence of the [Root.GetBrahminsName]§!"
  issue_effects_with_estate_church_influence_tt:0 "§YScales with the influence of the [Root.GetClergyName]§!"
  issue_effects_with_estate_maratha_influence_tt:0 "§YScales with the influence of the [Root.GetMarathasName]§!"
@@ -1827,6 +1831,8 @@
  issue_effects_with_estate_rajput_influence_tt:0 "§YScales with the influence of the [Root.GetRajputsName]§!"
  issue_effects_with_estate_janissaries_influence_tt:0 "§YScales with the influence of the Janissaries§!"
  issue_effects_with_estate_eunuchs_influence_tt:0 "§YScales with the influence of the Eunuchs§!"
+ issue_effects_with_estate_qizilbash_influence_tt:0 "§YScales with the influence of the [Root.GetQizilbashName]§!"
+ issue_effects_with_estate_ghulams_influence_tt:1 "§YScales with the influence of the [Root.GetGhilmanName]§!"
  unlock_issue_acts_of_high_admiralty_tt:0 "Unlock the §YActs of High Admiralty§! [Root.GetParliamentOrFallbackName] issue."
  unlock_issue_acts_of_maritime_courage_tt:0 "Unlock the §YMaritime Courage Acts§! [Root.GetParliamentOrFallbackName] issue."
  unlock_issue_acts_of_maritime_professionalism_tt:0 "Unlock the §YActs of Maritime Professionalism§! [Root.GetParliamentOrFallbackName] issue."
@@ -1889,7 +1895,7 @@
  increase_trade_goods_discovery_gems_tt:0 "Increase the chance to discover §YGems§! while colonizing a province."
  increase_trade_goods_discovery_coal_tt:0 "Increase the chance to discover §YCoal§! while colonizing a province."
  increase_trade_goods_discovery_cloves_tt:0 "Increase the chance to discover §YCloves§! while colonizing a province."
- ADD_INNOVATIVENESS_OR_MONARCHPOWER:0 "All the excess Innovativeness will be converted into §G10§! units of each type of §YMonarch Power§!."
+ ADD_INNOVATIVENESS_OR_MONARCHPOWER:1 "All the excess Innovativeness will be converted into §G10§! units of each type of §YMonarch Power§!.\n(Additional Innovativeness from §YInnovativeness Gain§! will NOT be converted)"
  earlier_coal_available_tt:0 "§YCoal§! is now available if we have embraced the §YManufactories§! institution and have reached Administrative Technology of §Y23§!."
  enable_full_ducat_gain_from_selling_crownland_tt:0 "§YSale of Titles§! will no longer lower in value per age."
  can_sell_crownland_to_estates_targeted_tt:0 "§YSale of Titles§! can now target an estate."
@@ -2126,7 +2132,7 @@
  mechanic_has_eyalets:0 "Can have Eyalets"
  ottoman_provincial_government_system_reform:0 "Provincial Government System"
  ottoman_provincial_government_system_reform_desc:0 "By appointing provincial governors we improve administration of taxes and the exploitation of other resources. Although ambitious governors might be more likely to spend most of their time caught up in intrigues and internal feuds, the additional gain from our possessions justifies the risk."
- mechanic_pasha_extra_bonuses_yes:0 "§YPashas§! now give §G+33.0%§! Local Tax Modifier and §G-1.00§! Local Unrest for provinces of foreign culture groups."
+ mechanic_pasha_extra_bonuses_yes:1 "§YPashas§! now give §G+20.0%§! Local Tax Modifier for provinces of foreign culture groups."
  devshirme_system_reform:0 "Devshirme System"
  devshirme_system_reform_desc:0 "From the end of the 14th to the middle of the 17th century, the Ottoman dynasty acquired slaves for its household through the practice of devshirme. Carefully chosen Non-Muslim children, usually Christians from the rural Balkans between the ages of 12 and 14, were sent to live with Turkish families to learn Turkish and the rules of Islam before being brought to the imperial capital. Most joined the Janissaries, an infantry standing army trained under strict discipline, while those who displayed particular leadership and intellectual ability were enrolled directly into the sultan's household as pages, where they were educated and, if successful, could be promoted to the highest ranks of the Ottoman military-administrative elite. With their livelihood dependent upon the ruler, these slaves, known as kul, showed intense loyalty and were critical for the Ottoman dynasty's establishment of centralized control over the empire."
  tur_not_has_abolished_devshirme_system_tt:0 "Has NOT abolished the §YDevshirme System§!."
@@ -2212,7 +2218,7 @@
  desc_the_righteous_army:0 "No enemy fool enough to attack us shall leave our land alive. The peasantry itself will defend our soil with all they got!"
  kor_righteous_army_ct:1 "Enables the recruitment of the §JRighteous Army§! mercenary company during Defensive Wars.\nThis mercenary company does not cost Army Professionalism to hire, but gets disbanded in times of peace."
  the_righteous_army_tt:0 "until we are at peace"
- mechanic_has_righteous_army_yes:0 "Can call the §YRighteous Army§! in times of need"
+ mechanic_has_righteous_army_yes:1 "Can call the §YRighteous Army§! during Defensive Wars"
  mansabdari_system_reform:0 "Mansabdari System"
  mansabdari_system_reform_desc:0 "The Mansabdar is the military unit of our administration. Nobles are granted land rights in exchange for military and administrative services. Unlike other nobilities, the mansabs were under the direct rule of the monarch."
  mechanic_enable_mansabdar_privileges_yes:0 "Unlock §YMansabdari Privileges§! for the Nobility Estate"
@@ -2393,7 +2399,7 @@
  bohemian_elective_kingdom_reform:0 "Bohemian Elective Monarchy"
  bohemian_elective_kingdom_reform_desc:0 "The nobility in Bohemia has always had a lot to say about who should rule them, and they will elect their next ruler from all the available candidates regardless of the bloodline."
  stadthalter_monarchy_reform:1 "Stadhouder Monarchy"
- stadthalter_monarchy_reform_desc:1 "Stadhouder, meaning city holder, is the name traditionally applied to the governors or stewards of the Low Countries. Being turned into a hereditary title, it is now equivalent to a king."
+ stadthalter_monarchy_reform_desc:2 "Stadhouder, meaning place holder, is the name traditionally applied to the governors or stewards of the Low Countries. Being turned into a hereditary title, it is now equivalent to a king."
  trade_company_government:0 "Trade Company"
  trade_company_government_desc:0 "Effectively a company founded to exploit and profit from trade overseas, its focus is mainly in the sea and the economic benefit."
  english_parliamentary_republic_government:0 "Constitutional Republic"
@@ -2438,7 +2444,7 @@
  great_council_of_mechelen_reform_desc:1 "The Great Council of Mechelen was a court of justice in Netherlands during the late Middle Ages and early modern period. It was responsible for interpreting and implementing the laws of the land and had significant influence over the governance and administration of the region."
  mechanic_no_more_dutch_revolt_yes:0 "Disables the §YDutch Revolt§! disaster"
  sisterhood_of_jeanne_darc_reform:0 "The Sisterhood of Jeanne d'Arc"
- sisterhood_of_jeanne_darc_reform_desc:0 "The Sisterhood of Jeanne d'Arc was a religious order founded in 1429 in Orleans, France. The order was established to promote the ideals of Joan of Arc and to assist the poor and sick. The sisterhood played an important role in the cultural and religious life of Orleans and continues to exist today."
+ sisterhood_of_jeanne_darc_reform_desc:1 "The Sisterhood of Jeanne d'Arc is a religious order established to promote the ideals of Joan of Arc, the venerated and pious common maid that saved mother France from the English."
  janissary_autocracy_reform:1 "Janissary Stratocracy"
  janissary_autocracy_reform_desc:0 "A realm governed by the renegade Janissaries which broke away from their former master. Their only leader is the Agha who they appoint in ways akin to a monarchy."
  admiralty_regime_reform:0 "Admiralty Regime"
@@ -2490,6 +2496,7 @@
  mechanic_gain_rt_from_parliament_yes:0 "Winning Issues in the Parliament grants §G5§! Republican Tradition"
  mechanic_gain_devotion_from_conversions_yes:0 "Devotion from Converting Provinces: §G+0.2§!"
  mechanic_gain_monarch_power_from_force_converting_yes:0 "Monarch Power from Force Converting other Countries per Development: §G+1§!"
+ mechanic_gain_devotion_from_force_converting_yes:0 "Devotion from Force Converting other Countries per 20 Development: §G+1.0§!"
  theocrats_statists:0 "Theocrats"
  theocrats_statists_MECHANIC_TOOLTIP:0 "Theocrats"
  mechanic_has_co_rulership_yes:0 "Has §YCo-Rulership§!"
@@ -2936,6 +2943,7 @@
  flavor_tur.204.t:0 "The Siege Engineer Urban"
  flavor_tur.204.desc:1 "Urban was an iron founder and engineer from the Hungarian province of Brassó. As one of the pioneers of siege engineering and artillery construction, he made a living based on his weapons of war. In [GetYear], Urban tried his luck with the Byzantine Emperor, but as they could neither afford his salary nor possessed the materials necessary for constructing such cannons, Urban saw himself forced to turn to the Ottoman [Root.Monarch.GetTitle] [Root.Monarch.GetName]. He promised to create a cannon big and potent enough to blast 'the walls of Babylon itself'."
  flavor_tur.204.a:0 "The walls of Babylon itself you say?..."
+ flavor_tur.204.a.tt:0 "The walls of §Y[151.GetName]§! will crumble once our troops start besieging the city."
  flavor_tur.204.b:0 "We cannot afford his services."
  TUR_GRIP_OVER_THE_BOSPBORUS:0 "Grip over the Bosporus"
  flavor_tur.205.t:0 "The Great Capital Konstantiniyye"
@@ -3070,6 +3078,7 @@
  flavor_tur.236.t:0 "The Administration of Persia"
  flavor_tur.236.desc:0 "The history of Persia and the Ottomans is tainted by blood even many years before our conquest of the region. The Timurids devastated major parts of Anatolia and caused the first and only interregnum after the battle of Ankara in 1402. But even today, the relations between the Turkish people and the Persians are suboptimal due to cultural and religious differences.\nAlthough we are now the overlord of the Persian region, it is only a question of time until the Persian gather under a banner in order to fight for their independence. The establishment of an eyalet which manages this troublesome region in our name might be the wisest decision."
  flavor_tur.236.a:0 "Indeed. The Eyalet of Persia shall keep the Persians in line."
+ eyalet_cores_only_on_owned_provinces_tt:0 "§YCores are only applied on provinces which are owned by [Root.GetName].§!"
  flavor_tur.237.t:1 "Supremacy Over Persia"
  flavor_tur.237.desc:1 "The Empire of Persia is vanquished, and its vast holdings have fallen under the righteous jurisprudence of our most Sublime Caliphate. Indeed, a mighty and formidable foe but even the great Persia cannot stand between us and our penultimate destiny. Though much blood was shed and many a martyr born of this conquest the people of these lands are brothers in the faith, and deserving of respect. Indeed, we shall rule justly and honor the history of this land by restoring Persia to its long-lost glory as a valued member of our ever expanding Empire."
  flavor_tur.237.a:0 "Their legacy and expertise shall serve [Root.Monarch.GetName]!"
@@ -3512,6 +3521,7 @@
  EST_VAL_NO_JANISSARY_ON_FIELD:0 "No Janissaries employed: §Y$VAL$%§!"
  EST_VAL_RULER_MIL_SKILLS_LOY:0 "Military Skills of Ruler: "
  EST_VAL_JANISSARY_PERCENTAGE_LOY:0 "Under Reliance of Janissaries: §R$VAL$§!"
+ country_estate_janissaries_name:0 "[This.GetJanissariesName]"
  ###MODIFIERS###
  janissaries_loyalty_modifier:0 "Janissary Loyalty Equilibrium"
  janissaries_influence_modifier:0 "Janissary Influence"
@@ -3722,6 +3732,7 @@
  FROM_HAS_NOT_375_TOTAL_DEV:0 "§R- §Y[From.GetName]§! has §Y375§! or more total development.§!"
  FROM_HAS_NOT_400_TOTAL_DEV:0 "§R- §Y[From.GetName]§! has §Y400§! or more total development.§!"
  REQUIRES_5_SPY_NETWORK_TT:0 "§R- We need a spy network of at least the size of §Y5§! in §Y[From.GetName]§!.§!"
+ REQUIRES_8_SPY_NETWORK_TT:0 "§R- We need a spy network of at least the size of §Y8§! in §Y[From.GetName]§!.§!"
  REQUIRES_10_SPY_NETWORK_TT:0 "§R- We need a spy network of at least the size of §Y10§! in §Y[From.GetName]§!.§!"
  REQUIRES_15_SPY_NETWORK_TT:0 "§R- We need a spy network of at least the size of §Y15§! in §Y[From.GetName]§!.§!"
  REQUIRES_20_SPY_NETWORK_TT:0 "§R- We need a spy network of at least the size of §Y20§! in §Y[From.GetName]§!.§!"
@@ -3731,6 +3742,7 @@
  REQUIRES_35_SPY_NETWORK_TT:0 "§R- We need a spy network of at least the size of §Y35§! in §Y[From.GetName]§!.§!"
  REQUIRES_40_SPY_NETWORK_TT:0 "§R- We need a spy network of at least the size of §Y40§! in §Y[From.GetName]§!.§!"
  REQUIRES_45_SPY_NETWORK_TT:0 "§R- We need a spy network of at least the size of §Y45§! in §Y[From.GetName]§!.§!"
+ REQUIRES_48_SPY_NETWORK_TT:0 "§R- We need a spy network of at least the size of §Y48§! in §Y[From.GetName]§!.§!"
  REQUIRES_50_SPY_NETWORK_TT:0 "§R- We need a spy network of at least the size of §Y50§! in §Y[From.GetName]§!.§!"
  REQUIRES_55_SPY_NETWORK_TT:0 "§R- We need a spy network of at least the size of §Y55§! in §Y[From.GetName]§!.§!"
  REQUIRES_60_SPY_NETWORK_TT:0 "§R- We need a spy network of at least the size of §Y60§! in §Y[From.GetName]§!.§!"
@@ -6424,8 +6436,14 @@
  jap_ability_military_parade_desc:0 "The sight of our armed forces will inspire our populace and bolster our prosperity!"
  jap_ability_bolster_morale_desc:0 "At times of war, we shall call upon the faithful to take up arms and defend our sovereignty."
  christian_japan_1:0 "£adm£ Government Power"
+ monthly_christian_japan_1:0 "Monthly £adm£ Government Power"
+ christian_japan_1_gain_modifier:0 "£adm£ Government Power Gain Modifier"
  christian_japan_2:0 "£dip£ Government Power"
+ monthly_christian_japan_2:0 "Monthly £dip£ Government Power"
+ christian_japan_2_gain_modifier:0 "£dip£ Government Power Gain Modifier"
  christian_japan_3:0 "£mil£ Government Power"
+ monthly_christian_japan_3:0 "Monthly £mil£ Government Power"
+ christian_japan_3_gain_modifier:0 "£mil£ Government Power Gain Modifier"
  jap_ability_military_parade:0 "Conduct a Military Parade"
  jap_military_parade_tt:0 "Each province with at least §G50§! of our regiments will conduct military parades, gaining 1 £adm£ £dip£ and £mil£ Development and in return grant us §G5§! Army Tradition"
  jap_ability_bolster_morale:0 "Enlist Fervent Volunteers"
@@ -6703,7 +6721,7 @@
  spa_reinforce_royal_authority_desc:0 "The nobility in [Root.GetName] have been facing us in recent years. Now we need to strengthen our authority and reach a long-term agreement with them."
  spa_law_and_order_title:0 "Law & Order"
  spa_law_and_order_desc:0 "We have to ensure law and order and facilitate traveling between our prosperous towns and cities. Therefore, we have to promote the Chancillería courts in Valladolid and Granada, and establish the Santa Hermandad as our law enforcement force."
- spa_economic_reforms_title:0 "Reform the Hacienda"
+ spa_economic_reforms_title:1 "Reform the Treasury"
  spa_economic_reforms_desc:0 "After the difficult times that have affected the country, we need a strong Treasury for our new enterprises. We also have to reform our monetary system, and we will need the advice and approval of the burghers to succeed."
  spa_new_capital_title:0 "A New Capital"
  spa_new_capital_desc:0 "Our country has grown and now encompasses many kingdoms. Although we are used to traveling among them, now we need to establish our court in a fixed place."
@@ -7035,7 +7053,7 @@
  por_first_circumnavigation_modifier:0 "Legacy of the First Circumnavigation"
  desc_por_first_circumnavigation_modifier:0 "Our ships have chartered the inhospitable ports and seas beyond the horizons, ours is the glory of discovery and a legacy of maritime excellence."
  por_elite_marines_modifier:0 "Elite Portuguese Marines"
- desc_por_elite_marines_modifier:0 "Our Marines' training entails rigorous and harsh drills, turning our naval cadets into infamous soldiers."
+ desc_por_elite_marines_modifier:1 "Our Marines' training entails rigorous and harsh drills, turning our naval cadets into outstanding soldiers."
  
  #Missions
  dom_portugal_reform_navy_title:0 "Reform the Navy"
@@ -7119,7 +7137,7 @@
  pru_200_dev_unlock_Ability_tt:2 "\n£yes£ We will gain access to the '§YPolish Crown§!' splendor ability during the §YAge of Reformation§! if we complete the mission while directly holding at least §Y200§! Development in the §YPolish§! region"
  pru_adding_provinces_to_trade_c_merc_prod_tt:1 "\nAdding our provinces to a §YTrade Company§! will grant them §G1§! £dip£ Development for them as well as §G1§! Mercantilism for us"
  pru_dev_saxon_lands_tt:1 "\nDeveloping provinces with the §YSaxon§! or §YLower Saxon§! cultures will yield the following benefits to them for the next §Y20§! years:\n Local Years of Separatism: §G-3§!\nLocal Autonomy Reduction: §G-5%§!\nLocal Prosperity Growth: §G+1§!\n"
- pru_unifying_germany_bb_gate_magnificent_tier_tt:0 "\nThe '§YMagnificent§!' tier of the §YBrandenburg Gate§! will further grant the following rewards:\nCulture Group Manpower Modifier: §G+10%§!\nMax Effective Absolutism: §G+10%§!"
+ pru_unifying_germany_bb_gate_magnificent_tier_tt:1 "\nThe '§YMagnificent§!' tier of the §YBrandenburg Gate§! will further grant the following reward:\nMax Effective Absolutism: §G+10%§!"
  pru_spread_5_dev_tt:1 "§G5§! random £adm£ £dip£ & £mil£ development will be distributed in provinces we or a subject owns in the following areas:\n- §YBraunschweig§!\n- §YNorth Westphalia§!\n- §YSouth Westphalia§!"
  enable_this_ability_tt:0 "Gained access to this ability as a reward"
  pru_access_normal_militarization_tt:0 "\nUpgrade the '§YEarly Prussian Militarization§!' mechanic to '§YPrussian Militarization§!' increasing its power"
@@ -7161,7 +7179,7 @@
  enabled_via_mission:0 "Enabled via mission reward"
  #
  aljaferia_palace:0 "Aljafería Palace"
- empower_inquisitors_tt:0 "Every level of our §YInquisitor§! advisor will grant us the following reward: \nEstablish Holy Order Cost: §G-5%§!"
+ empower_inquisitors_tt:1 "Every level of our §YInquisitor§! advisor will grant us the following reward: \nEstablish Local Organization Cost: §G-5%§!"
  #
  divrigi_hospital_mosque:0 "Divrigi Hospital & Mosque"
  fewer_plagues_tt:0 "[Root.Owner.GetAdjective] citizens will be less likely to be struck by plagues"
@@ -7192,12 +7210,12 @@
  restore_color_decision_desc:0 "This National Decision allows for the restoration of our proper current color. \n\nIt will be available for §Y10§! years after adopting a new name."
  
  #Ship-related loc 
- geobukseon_ship:0 "Bonus from Geobukseon"
- man_of_war_ship:0 "Bonus from Man o' War"
- galleon_ship:0 "Bonus from Galleon"
- galleass_ship:0 "Bonus from Galleass"
- caravel_ship:0 "Bonus from Caravel"
- voc_indiamen_ship:0 "Bonus from VOC Indiamen"
+ geobukseon_ship:1 "Geobukseon Ship"
+ man_of_war_ship:1 "Man o' War Ship"
+ galleon_ship:1 "Galleon Ship"
+ galleass_ship:1 "Galleass Ship"
+ caravel_ship:1 "Caravel Ship"
+ voc_indiamen_ship:1 "VOC Indiamen Ship"
  
  
  
