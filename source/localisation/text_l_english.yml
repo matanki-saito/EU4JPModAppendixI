@@ -6842,7 +6842,7 @@
  MAPMODE_GOVERNMENT:0 "政体"
  MAPMODE_OVERSEAS:0 "海外州"
  MAPMODE_DEVASTATION:0 "荒廃度"
- MAPMODE_PATRIARCHS:2 "Local Organizations"
+ MAPMODE_PATRIARCHS:2 "現地組織"
  sphere:0 "影響圏"
  DIPRELCH_BADBOY:0 "汚名"
  HAS_NOT_TEMP_CLAIM_ON:0 "は以下への一時的な主張を持っていない："

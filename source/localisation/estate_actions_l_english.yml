@@ -370,5 +370,5 @@
  estate_ghulams_promote_caucasian_troops_title:1 "[Root.GetGhilmanName]: Promote Caucasian Troops"
  estate_qizilbash_grant_qizilbash_horses_desc:0 "[Root.EstateDecisionDescription]"
  estate_ghulams_promote_caucasian_troops_desc:0 "[Root.EstateDecisionDescription]"
- auto_complete_estate_agenda_estate_qizilbash_tt:0 "[Root.GetEstateAgendaAutoCompletionFirstString] §Y[Root.GetQizilbashName]§! [Root.GetEstateAgendaAutoCompletionSecondString]"
- auto_complete_estate_agenda_estate_ghulams_tt:1 "[Root.GetEstateAgendaAutoCompletionFirstString] §Y[Root.GetGhilmanName]§! [Root.GetEstateAgendaAutoCompletionSecondString]"
+ auto_complete_estate_agenda_estate_qizilbash_tt:0 "§Y[Root.GetQizilbashName]§![Root.GetEstateAgendaAutoCompletionFirstString]"
+ auto_complete_estate_agenda_estate_ghulams_tt:1 "§Y[Root.GetGhilmanName]§![Root.GetEstateAgendaAutoCompletionFirstString]"

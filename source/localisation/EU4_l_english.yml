@@ -1319,7 +1319,7 @@
  YOU_LEGITIMACY_AFFECTS:0 "§Y現在の正統性からの効果：§!"
  THEY_LEGITIMACY_AFFECTS:0 "§Y彼らの現在の正統性からの効果：§!"
  YOU_YEARLY_HORDE_UNITY_NO:0 "§Y遊牧民の結束§!\n現在、あなたの遊牧民の結束に変化はありません。"
- THEY_YEARLY_HORDE_UNITY_NO:1 "§YHorde Unity§!\nCurrently their Horde Unity is not changing."
+ THEY_YEARLY_HORDE_UNITY_NO:1 "§Y遊牧民の結束§!\n現在、彼らの遊牧民の結束に変化はありません。"
  YOU_YEARLY_HORDE_UNITY:0 "§Y遊牧民の結束§!\nあなたの遊牧民の結束は以下の理由により毎年§Y$VALUE$§!変化します：\n"
  THEY_YEARLY_HORDE_UNITY:0 "§Y遊牧民の結束§!\n彼らの遊牧民の結束は以下の理由により毎年§Y$VALUE$§!変化します：\n"
  CVIEW_HORDE_UNITY_DESC:1 "遊牧民の結束は、ハーンが部族からどのくらいの支持を得ているかの尺度です。それは時間が経つにつれて減少し、§Y略奪し破壊された州§!で増加します。低い結束を持つ集団は内紛に屈する可能性が高くなります。"

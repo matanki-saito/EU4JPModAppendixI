@@ -66,4 +66,4 @@
  DEFAULT_OVERLORD:0 "宗主国"
  personal_union_overlord_title:0 "同君上位国"
  colony_overlord_title:0 "母国"
- crown_colony_no_overlord_dow:0 "You can't declare war on your crown colonies."
+ crown_colony_no_overlord_dow:0 "自身の直轄植民地に宣戦布告することはできません。"
