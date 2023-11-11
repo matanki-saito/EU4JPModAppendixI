@@ -207,7 +207,7 @@
  NO_DRILL_NOT_CONTROLLER:1 "あなたが支配していない州にいる軍隊を訓練することはできません。"
  NO_DRILL_IN_COMBAT:1 "戦闘中の軍隊を訓練することはできません。"
  NO_DRILL_NO_LEADER:1 "指揮官のいない軍隊を訓練することはできません。"
- NO_DRILL_NO_EXILED:1 "追放された軍隊を訓練することはできません。"
+ NO_DRILL_NO_EXILED:1 "放浪中の軍隊を訓練することはできません。"
  NO_DRILL_MOVING:1 "移動中の軍隊を訓練することはできません。"
  NO_DRILL_CANT_MOVE:1 "移動できない軍隊を訓練することはできません。"
  TRADING_POLICY_MOD:0 "$NAME|Y$の交易方針：$VAL$"

@@ -338,7 +338,7 @@
  MAPMODE_LOCAL_AUTONOMY_DESC:0 "州が緑であるほど自治率は0%に近い。州が赤いほど自治率は100%に近い。"
  MAPMODE_ACCEPTEDCULTURES_DESC:0 "受容文化に応じて州に色を付け、その文化の名前を表示します。主要文化は薄緑色で、受容文化は暗緑色で、主要文化と同じグループの文化は黄色で、受け入れられていない文化は赤です。受け入れられていない文化を転向させている場合は、赤色ではなくオレンジ色で表示されます。"
  MAPMODE_SIMPLE_TERRAIN_DESC:0 "地形を表示します。各色は特定の地形タイプを表します。青い境界線は、その境を横断する軍隊が横断ペナルティを受けることを意味します。縞模様は、所有者ではない国に支配されている州であることを示しています。"
- MAPMODE_PATRIARCHS_DESC:2 "This displays states which have a Local Organization (such as Holy Orders) present. Additionally, it also shows Consecrated Metropolitans and Pashas."
+ MAPMODE_PATRIARCHS_DESC:2 "これは、現地組織（修道会など）がある州を表示します。加えて、主教座やパシャも表示します。"
  MAPMODE_DEVASTATION_DESC:1 "州がどれだけ荒廃しているか示します。赤が明るいほど州が荒廃し、灰色は荒廃していません。"
  MAPMODE_DYNASTY:0 "王朝"
  MAPMODE_DYNASTY_DESC:0 "君主の王朝に応じて州を色分けし、王朝名を表示します。"
