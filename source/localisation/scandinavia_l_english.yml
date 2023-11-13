@@ -3072,7 +3072,7 @@
  flavor_got.3.t:0 "[From.GetName]による自国への支援要請"
  flavor_got.3.desc:0 "小国[From.GetName][From.GovernmentName]から連絡がありました。彼ら正当な支配者をデンマーク王位に復帰させるため、対カルマル連合との戦争に関し、金銭的援助を願い出ています。\n[From.GetName]の対デンマーク戦争を支援しても得るものはほぼ何もないように見えますが、ホルシュタイン公国ー神聖ローマ帝国の正当なる領土ーがデンマークの手中にあることは覚えておくべきでしょう。[From.GetName]と取引して、公国を帝国に返還することを約束する代わりに、経済支援をすることもできるでしょう。"
  flavor_got.3.a:0 "[From.GetName]はホルシュタインのために、帝国国庫を利用できるようになります。"
- flavor_got.3.a.tt:0 "もし、§Y[From.GetName]§!がこの条件を承諾し、§Y[13.GetName]§!もしくは§Y[1775.GetName]§!を直接的領有もしくは間接的領有した場合、彼らは神聖ローマ帝国へこれらの州を変換する帝国最後通告を受け取ることになります。\nもしこれに従わなければ、§Y[Root.GetName]§!と§Y[From.GetName]§!間で戦争が起こるでしょう。\n\n§Y[From.GetName]§!が自国の条件を受諾した場合、以下の効果が発生します："
+ flavor_got.3.a.tt:0 "もし、§Y[From.GetName]§!がこの条件を承諾し、§Y[13.GetName]§!もしくは§Y[1775.GetName]§!を直接的領有もしくは間接的領有した場合、彼らは神聖ローマ帝国へこれらの州を返還する帝国最後通告を受け取ることになります。\nもしこれに従わなければ、§Y[Root.GetName]§!と§Y[From.GetName]§!間で戦争が起こるでしょう。\n\n§Y[From.GetName]§!が自国の条件を受諾した場合、以下の効果が発生します："
  flavor_got.3.b:0 "この[From.GetAdjective]はどうも信頼できるように見えん..."
  flavor_got.4.t:0 "[Emperor.Monarch.GetTitle]との取引"
  flavor_got.4.desc:0 "[From.Monarch.GetTitle]から返答がありました。[From.GetName]は私たちに帝国国庫の利用権を下さるようです。しかし、彼らはカルマル同盟との戦争後、ホルシュタイン公国を帝国へ返還することを要求しています..."

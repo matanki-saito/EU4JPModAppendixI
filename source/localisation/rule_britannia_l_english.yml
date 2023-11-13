@@ -534,6 +534,6 @@
  ASK_KNOWLEDGESHARENEWDESC:0 "Do you wish to proceed asking $COUNTRY|Y$ for Knowledge Sharing? Should they accept, we will pay them §G$PERCENT$%§! of our income ($INCOME|Y$ ¤) every month. Meanwhile, growth of their oldest established Institution not embraced by us (currently $INSTITUTION|Y$) will be accelerated by $GROWTH$ per month in our capital area."
  NO_INSTITUTION_TO_SHARE_ASK:0 "There is no Institution we can learn from them about."
  WE_HAVE_KNOWLEDGE_SHARING:0 "We are already involved in Knowledge Sharing with @$TAG$ $NAME$ until $EXPIRY$."
- ASK_KNOWLEDGESHARETITLE:0 "Ask for Knowledge Sharing"
+ ASK_KNOWLEDGESHARETITLE:0 "知識共有の依頼"
  ASK_KNOWLEDGESHAREDESC:0 "Ask for them to Share Knowledge regarding their Institutions' technological advances."
- ASK_KNOWLEDGESHARE_REVERSE:0 "The unenlightened mob of $COUNTRY|Y$ are asking us for the chance to catch up in technological progress via the means of Knowledge Sharing, giving them $GROWTH$ growth towards $INSTITUTION$ in their capital area provinces. Naturally, we will demand a monthly fee at §G$PERCENT$%§! of their income ($FEE$ ¤) if we accept."
+ ASK_KNOWLEDGESHARE_REVERSE:0 "$COUNTRY|Y$の無教養な群衆は、知識共有という手段を通じて技術進歩に追いつく機会を我々に求めています。これは彼らの首都地域の州において$INSTITUTION$を$GROWTH$の成長を与えます。当然ながら、我々が受け入れるならば、彼らの収入の§G$PERCENT$％§!（$FEE$¤）を毎月支払わせます。"

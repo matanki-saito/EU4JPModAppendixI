@@ -69,7 +69,7 @@
  STAPAT_LOW_DEV:1 "主教座は少なくとも$NEED|Y$の開発度がある地域に奉献でき、$NAME$には$CUR|Y$しかない。"
  CONFIRCONSECRATEPATRIARCh:1 "主教座の奉献の確認"
  CONFIRCONSECRATEPATRIARCH_TEXT:0 "$EFFECT$\n本当によろしいですか？"
- CONSECRATE_BUTTON:1 "主教座を奉献"
+ CONSECRATE_BUTTON:1 "主教座の奉献"
  METROPOLITAN_EMPTY:0 "主教座なし"
  STATE_PATRIARCH_ALREADY_MAX_AUTH:0 "総主教の権威は既に最大です。"
  ORTHIC_NOT_CURR:0 "「$NAME|Y$」はすでに我々が設置している聖像です。"
