@@ -5056,6 +5056,6 @@
  hre_event.14.a:0 "なんて日だ..."
  flavor_cri.2.a.ct:1 "§Y[TUR.GetName]§!は§Y[CRI.GetName]§!を朝貢国にします。\n§Y[CRI.GetName]§!は全ての§Y朝貢国§!に対して独立を認めます。"
  flavor_teu.3.b:0 "プロイセン人は我が支配の下で奉仕するだろう。"
- flavor_spa.2.a.tt:0 "全植民地国家は「§Y植民地政策：セプルベダ§!」を§Y10年間§!獲得し、以下の効果を得ます：\n布教強度：§G+0.5%§!\n国家の入植者の増加：§G+10.00§!\n異教徒の寛容度：§R-1.00§!"
  flavor_tur.3375.a.tt:0 "すべての領有州で自治率§G-10.00%§!"
  flavor_ara.EVTOPTC6:0 "貴族を倒せ！"
+ every_colonial_subject_gains_tt:0 "\nAll our §YColonial§! subjects will receive the following:"
