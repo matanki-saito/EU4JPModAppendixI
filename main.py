@@ -42,6 +42,10 @@ replace_parameter_map_definition = {
     "GetMarathasName": "GetマラーターName",
     "GetRajputsName": "GetラージプートName",
     "GetVaishyasName": "GetヴァイシャName",
+
+    "GetJanissariesName": "GetイェニチェリName",
+    "GetEunuchsName": "Get宦官Name",
+    
     " ": " "
 }
 
