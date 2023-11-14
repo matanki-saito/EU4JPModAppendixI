@@ -376,7 +376,7 @@
  emp_hab_an_empire_roman_title:0 "ローマ帝国"
  emp_hab_an_empire_roman_desc:0 "ローマの街をその手中に収めない限り、神聖ローマ帝国は嘲笑の的になり続けるだろう。"
  emp_hab_empire_pass_reforms_title:0 "A.E.I.O.U."
- emp_hab_empire_pass_reforms_desc:1 "神聖ローマ帝国を強化して、強国として代表できる大領土を有する国家を作りあげねばならない。また、その国家は開戦自由の独占を強いることが可能なほど権威を集権化する必要がある。ーその時初めて、フリードリヒ３世が用いた標語：アウストリー・エスト・インペラエ・オーニ・ウニヴァーゾ（全世界を統べるのはオーストリアの王朝である）、に沿うことができるだろう。"
+ emp_hab_empire_pass_reforms_desc:1 "神聖ローマ帝国を強化して、強国として代表できる大領土を有する国家を作りあげねばならない。また、その国家は開戦自由の独占を強いることが可能なほど権威を集権化する必要がある。ーその時初めて、フリードリヒ3世が用いた標語：アウストリー・エスト・インペラエ・オーニ・ウニヴァーゾ（全世界を統べるのはオーストリアの王朝である）、に沿うことができるだろう。"
  emp_hab_empire_pass_reforms_trigger_tooltip:1 "下記の神聖ローマ帝国の全領邦：\n　§Y[Root.GetName]§!の評価が§Y1§!以上である。"
  emp_hab_spread_dynasties_title:0 "[Root.GetSpreadDynastyOrFallbackMissionTitle]"
  emp_hab_spread_dynasties_desc:0 "[Root.GetHABDynastyOrFallbackMissionDesc]"

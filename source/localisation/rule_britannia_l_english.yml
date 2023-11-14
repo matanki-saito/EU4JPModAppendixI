@@ -536,4 +536,4 @@
  WE_HAVE_KNOWLEDGE_SHARING:0 "我々はすでに$EXPIRY$までの間@$TAG$$NAME$との知識共有に関与しています。"
  ASK_KNOWLEDGESHARETITLE:0 "知識共有の依頼"
  ASK_KNOWLEDGESHAREDESC:0 "彼らに制度の技術的進歩に関する知識共有を要請します。"
- ASK_KNOWLEDGESHARE_REVERSE:0 "$COUNTRY|Y$の無教養な群衆は、知識共有という手段を通じて技術進歩に追いつく機会を我々に求めています。これは彼らの首都地域の州において$INSTITUTION$を$GROWTH$の成長を与えます。当然ながら、我々が受け入れるならば、彼らの収入の§G$PERCENT$％§!（$FEE$¤）を毎月支払わせます。"
+ ASK_KNOWLEDGESHARE_REVERSE:0 "$COUNTRY|Y$の無教養な群衆は、知識共有という手段を通じて技術進歩に追いつく機会を我々に求めています。これは彼らの首都地域の州において$INSTITUTION$を$GROWTH$の成長を与えます。当然ながら、我々が受け入れるならば、彼らの収入の§G$PERCENT$%§!（$FEE$¤）を毎月支払わせます。"
