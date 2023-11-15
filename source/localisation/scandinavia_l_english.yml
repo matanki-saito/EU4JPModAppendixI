@@ -594,7 +594,7 @@
  swe_provoke_religious_leagues_forming_decision_title:0 "プロテスタントへの保護声明"
  swe_provoke_religious_leagues_forming_decision_desc:0 "神聖ローマ帝国のプロテスタントは、異端審問、あらわな敵意、帝国王家自身による差別の犠牲者である。しかし、彼らは自身に行われた不正義に対して武器を持ち、自身を守る勇気と戦力を欠いている。\n宗教改革側に立ち、神聖ローマ帝国のプロテスタントを支持、保護することを正式に宣言する時だ。"
  swe_provoke_religious_leagues_forming_decision_tt:2 "§Y神聖ローマ帝国§!の領邦であり、§Y選帝侯§!であるか、総開発度（従属国も含む）が§Y100§!ある§Yプロテスタント§!の同盟国は、イベント「§Y[Root.Monarch.GetName][Root.Monarch.GetTitle]による声明§!」が発生します。"
- swe_provoke_religious_leagues_forming_decision_ct:0 "§Yヨーロッパ§!にある全ての§Yカトリック§!国は、これを宗教的敵対行為と見なし、彼らから自国への評価を§R100§!低下します。"
+ swe_provoke_religious_leagues_forming_decision_ct:0 "§Yヨーロッパ§!にある全§Yカトリック§!国家は、これを宗教的敵対行為と見なし、彼らから自国への評価を§R100§!低下させます。"
  norse_flexible_deity_decision_title:0 "個人の主神の再選択"
  norse_flexible_deity_decision_desc:0 "神々はどこにでもいる。我々が呼吸する空気であり、我々が歩く大地であるのだ。我々が振るう斧であり、流れゆく水なのだ。\n我々のような多神教において、数多くの素晴らしい神々のうちのただ一柱を専心するという選択は容易ではなく、大抵の場合、人生は思いもよらない形で進行するため、その選択について再考することになる。幸いにも、自国の司祭は神々と交信し、[Root.Monarch.GetTitle]が個人の主神を変更することを許している。"
  norse_restore_the_uppsala_temple_title:0 "ウプサラ神殿の再建"
