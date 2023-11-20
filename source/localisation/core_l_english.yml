@@ -373,7 +373,7 @@
  DEFENDER_HAVE_POSITIVE_PRESTIGE:0 "現在の防御側はポジティブな威信を持っています。"
  PROVVIEW_OCCUPIED_BY:0 "§Y$WHO$に占領されています§!"
  PROVVIEW_OCCUPIED_BY_YOU:0 "§Yあなたが占領している§!"
- TRANSFER_OCCUPATION_SHIELD_DESC:1 "州の支配権を共戦国に移譲します。\n§YShiftを押しながら州を選択することで、一度に複数の州を以上できます。§!"
+ TRANSFER_OCCUPATION_SHIELD_DESC:1 "州の支配権を共戦国に移譲します。\n§YShiftを押しながら州を選択することで、一度に複数の州を移譲できます。§!"
  PROVINCE_TRANSFER_UNDER_SIEGE:0 "包囲されている州の支配権を移譲することはできません。"
  PROVINCE_TRANSFER_NO_VALID:0 "支配権を移譲することができる共戦国はありません。"
  TRANSFER_NOT_CONTROLLER:0 "支配者だけが、その州の支配権を他の国に移譲することができます。"
