@@ -1550,7 +1550,7 @@
  son_religious_scholars:0 "宗教学者"
  desc_son_religious_scholars:0 "[Root.GetClergyName]は、領内の宗教学者たちを励まし、彼らの援助、支援を行っている。"
  son_religious_friends:0 "敬虔なる風評"
- desc_son_religious_friends:0 "国内の信者仲間からの評価を改善する努力は、世界の多くのスンニ派国家や自国の同一の信仰を持つ人々の間からも好意的評価をもらった。"
+ desc_son_religious_friends:0 "国内の信者仲間からの評価を改善する努力は、世界の多くのスンナ派国家や自国の同一の信仰を持つ人々の間からも好意的評価をもらった。"
  son_tolerance_of_old_traditions:0 "伝統への寛容"
  desc_son_tolerance_of_old_traditions:0 "我が王国は、今でも異教の伝統や習わしを信ずるの農村部の者たちに対して、さらに大きな寛容さを示し始めている。"
  son_defender_of_traditions:0 "伝統の守護者"
