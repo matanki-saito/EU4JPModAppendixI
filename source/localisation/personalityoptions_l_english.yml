@@ -349,7 +349,7 @@
  personality_events.38.b:0 "彼らは、明日我々を刺すために、今日我々を祝うだろう。"
  personality_events.38.b.tooltip:0 "我々は§Y[Root.Monarch.GetTitle][Root.Monarch.GetName]§!の方法を我々自身のために保持します。"
  personality_events.39.t:0 "平和ばかりで遊びがない"
- personality_events.39.d:0 "最近、[Root.Monarch.GetName]は[Root.Monarch.GetHerHis]の宿所の周りを歩き回っている。[Root.Monarch.GetTitle]の心の問題だとするうわさ話もあるが、[Root.Monarch.GetWomanMan]を良く知る人であれば、実は現在の平和のせいであることを知っているだろう。戦争がなく戦略を立てる必要がないときには、[Root.Monarch.GetSheHe]のような勇敢な戦士は[Root.Monarch.GetHerHis]の部屋に閉じ込められた鶏のようになる。そして、[Root.Monarch.GetSheHe]は[Root.Monarch.GetTitle]である…あるいは[Root.Monarch.GetSheHe]は何かできることがあるだろうか？"
+ personality_events.39.d:0 "最近、[Root.Monarch.GetName]は宿所の周りを歩き回っている。[Root.Monarch.GetTitle]の心の問題だとするうわさ話もあるが、かの[Root.Monarch.GetWomanMan]を良く知る人であれば、実は現在の平和のせいであることを知っているだろう。戦争がなく戦略を立てる必要がないときには、[Root.Monarch.GetSheHe]のような勇敢な戦士は部屋に閉じ込められた鶏のようになるに感じるのである。そして、[Root.Monarch.GetSheHe]は[Root.Monarch.GetTitle]である…[Root.Monarch.GetSheHe]に何かできることがあるだろうか？"
  personality_events.39.a:0 "[Root.Monarch.GetTitle]は馬上槍試合を開催すべきだ！"
  personality_events.39.b:0 "[Root.Monarch.GetTitle]は、[Root.Monarch.GetHerHis]の軍の訓練により時間を費やすべきだ。"
  hosting_tournament:0 "馬上槍試合の主催"
