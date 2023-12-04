@@ -3668,7 +3668,7 @@
  TIP_CONSTR_MERC:0 "傭兵の雇用"
  NO_MERCS_AROUND:0 "自国のある大陸でのみ傭兵を雇うことができます。"
  CONSOLIDATE_BUTTON:0 "§Y連隊の統合§W"
- CONSOLIDATE_BUTTON2:0 "兵員が不十分な連隊すべてを合成し、できる限り多くの完全な連隊を作ります。\n\n§Yシフトキー§!を押しながらクリックすると兵員0の連隊を残し、後で補充されるようにすることができます。"
+ CONSOLIDATE_BUTTON2:0 "兵員が不十分な連隊すべてを合成し、できる限り多くの完全な連隊を作ります。\n\n§YShift§!キーを押しながらクリックすると兵員0の連隊を残し、後で補充されるようにすることができます。"
  SETREVOLUTIONTARGET_EFFECT:0 "§Y$WHO$§Wは革命の主要な源泉となります。\n"
  STOPREVOLUTIONTARGET_EFFECT:2 "§Y革命§!が終了します。"
  DEFINE_RULER_TO_GENERAL_EFFECT:0 "統治者を将軍に変える"

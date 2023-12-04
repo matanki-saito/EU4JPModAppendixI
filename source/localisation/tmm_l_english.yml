@@ -1252,7 +1252,7 @@
  FABRICATECLAIMDESC_ISCLAIM:0 "$PROVINCE|Y$は既に請求権を取得済みです。"
  FABRICATECLAIMDESC_ISCORE:0 "$PROVINCE|Y$は既に中核があります。"
  ALLOWATTACH:0 "§Y追随許可§!"
- UNIT_ATTACH_DESC:0 "§Yシフト§!を押している間、同じ州にいる利用可能なユニット全てと追随します。"
+ UNIT_ATTACH_DESC:0 "§YShift§!キーを押すことで、同じ州にいる利用可能な任意のユニットに追随します。"
  UNIT_BURN_COLONY_DESC:0 "§Y$COST$§W£mil£で植民地を焼き払います。"
  BURN_COLONY:0 "§Y入植地の焼払§!"
  ANNEX_NATION_NO_PROGRESS:0 "併合の進捗を進められなくなりますが、将来状況が変わればまた再開させることができます。（$REASON$）"

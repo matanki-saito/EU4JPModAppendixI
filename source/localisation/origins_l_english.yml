@@ -1132,7 +1132,7 @@
  son_fourth_branch_mission_desc:0 "[Root.GetSelectableMissionDescription]"
  SELECTABLE_MISSION_TITLE:0 "分岐ミッション"
  SELECTABLE_MISSION_DESCRIPTION:0 "このミッションは§Y分岐ミッション§!です。イベントや他のミッションを通して新たに最終的なミッションへと置き換えられます。"
- selectable_mission_trigger_tt:0 "§Y分岐ミッション§!として達成することはできません。"
+ selectable_mission_trigger_tt:0 "このミッションは§Y分岐ミッション§!であるため、達成することはできません。"
  son_religious_triggers_tt:0 "\n§Y[Root.GetName]§!が§Y宗教§!ルートを選択した場合、このミッションの達成には以下の条件が必要です："
  son_tolerance_triggers_tt:0 "\n§Y[Root.GetName]§!が§Y寛容§!ルートを選択した場合、このミッションの達成には以下の条件が必要です："
  son_religious_effects_tt:0 "\n§Y[Root.GetName]§!が§Y宗教§!ルートを選択した場合、以下の効果が得られます："

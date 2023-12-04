@@ -36,7 +36,7 @@
  PREVIEW_COLOR:0 "§O"
  COLOR_END:0 "§!"
  NORMAL_COLOR:0 "§W"
- BYZ_unlock_branches_decision:1 "「§Yミッション分岐プレビュー§!」ボタンが登場し、追いかけていくミッションをプレビュー表示し、選択できます。"
+ BYZ_unlock_branches_decision:1 "「§Y分岐ミッションプレビュー§!」ボタンが登場し、追いかけていくミッションをプレビュー表示し、選択できます。"
  BYZ_end_preview:1 "§Oプレビュー§!を終わります。現在選んでいるミッションが選択されます。"
  mal_decide_for_conversion:0 "改宗ルート"
  mal_decide_for_tolerance:0 "寛容ルート"
