@@ -1999,7 +1999,7 @@
  arl_build_army_mission_desc:0 "成長する国家であれば、それなりの規模の軍隊を維持しなければならない。軍備を拡大することで、海外での政治的利益を高め、国内経済の活性化もできる。"
  arl_expand_country_mission_title:1 "[Root.GetName]の保護"
  arl_expand_country_mission_desc:0 "先人たちより強く存続能力のある国を与えられた。今こそ、自国の遺産をさらに発展させ、[Root.GetName]を成長させることで、より強く、より影響力のある国家を子供たちに残す時だ。"
- arl_conquer_states_title:1 "王権の拡大"
+ arl_conquer_states_title:1 "王領の拡大"
  arl_conquer_states_desc:0 "我々が拡大するにつれて、征服した新しい土地を行政機構に真に統合できるようにしなければならない。征服の後には、征服地に対する真の[Root.GetAdjective]統治を確立するという重労働が待っている。"
  arl_unite_home_region_title:1 "ペルシアの統合"
  arl_unite_home_region_desc:0 "試練に対し成功可能な軍事機構を構築するため、我々が尽力すべき時が来た。我々は、我々の地域の真の覇権者となり、すべての人に尊敬され、恐れられなければならない。"
