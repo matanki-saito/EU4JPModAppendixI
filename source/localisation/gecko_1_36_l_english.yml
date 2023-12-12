@@ -2,3 +2,8 @@
  CALLDESC_ALREADY_INVITED:0 "参戦要請は既に保留中です"
  SET_PAPACY_ACTIVE_EFFECT_YES:0 "$RELIGION$教皇制が有効になる"
  SET_PAPACY_ACTIVE_EFFECT_NO:0 "$RELIGION$教皇制が無効になる"
+ CHAT_KICK_FROM_CHANNEL:0 "Kick player from channel"
+ CHAT_ERROR_KICK_YOURSELF:0 "Cannot kick yourself"
+ CHAT_ERROR_KICK_GENERAL_CHAT:0 "Cannot kick from general chat"
+ MONTHLY_TRADE_INCOME_TRIGGER:0 "Monthly trade income at least "
+ MONTHLY_TRADE_INCOME_TRIGGER_NOT:0 "Monthly trade income less than "

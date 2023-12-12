@@ -6738,3 +6738,5 @@
  flavor_fra.102.e:0 "我々の計画は慎重に検討しなければな。"
  flavor_mng.55.c:0 "我々の政策は慎重に検討しなければな。"
  flavor_jap.66.c:0 "我々の選択は慎重に検討しなければな。"
+ ahmudan_system_attacker:0 "Ahmudan System: Attacker"
+ ahmudan_system_defender:0 "Ahmudan System: Defender"
