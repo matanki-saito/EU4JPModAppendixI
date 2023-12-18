@@ -29,7 +29,7 @@
  CURRENT_POWER:0 "現在の交易力：§Y$VAL$§W"
  OUR_CURRENT_POWER:0 "我々の現在の交易力：§Y$VAL$§W"
  MAX_POWER:0 "交易力：§Y$VAL$§W"
- MERCHANT_PRESENT_EFFECT:0 " 商人の駐在により$VAL|1=+$の交易力がもたらされています。"
+ MERCHANT_PRESENT_EFFECT:0 " 商人の駐在により$VAL|1=+$の交易力がもたらされています。"
  PROVINCE_POWER:0 "州の交易力：§Y$VAL$§W"
  TRADE_NODE_NOT_YET_DISCOVERED:0 "この交易ノード域内の州はまだ発見されていません。"
  TRADE_NODE_LOCATION_NOT_YET_DISCOVERED:0 "交易ノードの位置がまだ発見されていません。"

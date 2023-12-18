@@ -1809,7 +1809,7 @@
  incidents_bur_join_empire.4.desc:0 "[Emperor.Monarch.GetTitle]は、我々が他の諸侯の独立を脅かす脅威であるとして、我々の神聖ローマ帝国への加入を拒否した。[Emperor.Monarch.GetTitle]が帝国の王冠に巻き付いた弱った蛇にすぎないことは明らかであり、高貴な[Root.GetAdjective]の獅子が[Emperor.Monarch.GetHerHim]からそれを奪うことを恐れているのである。とにかく、我々は帝国に加わるためにより強力な姿勢を取る必要があるだろう…"
  incidents_bur_join_empire.4.a:0 "[Emperor.Monarch.GetSheHeCap]は名ばかりの[Emperor.Monarch.GetTitle]だ。"
  burgundy_has_resolved_imperial_issue_tt:1 "帝国への加盟に関する問題が解決されると、このミッションは達成します。"
- burgundy_has_secured_succession_tt:1 "§Yブルゴーニュ継承危機§!を解決するか、あるいはそれを引き起こさずに1500年に到達します。"
+ burgundy_has_secured_succession_tt:1 "§Yブルゴーニュ継承危機§!を解決するか、同危機を引き起こさずに1500年に到達する。"
  burgundy_asks_to_join_empire_tt:0 "我々を§Y神聖ローマ帝国§!に参加させるよう§Y[Emperor.Monarch.GetTitle]§!に求めるべきです。"
  burgundy_may_refuse_tt:0 "§Yブルゴーニュ§!は§Y彼らの州に中核州を持つ全てのヨーロッパ国家§!を§Y帝国諸侯§!として解放するよう求められます。\n§Yブルゴーニュ§!は拒否する可能性があります。"
  become_balkanised_tt:0 "我々の州に§Y中核州§!を持つ§Y全てのヨーロッパの国家§!を§Y帝国諸侯§!として解放します。"

@@ -132,7 +132,7 @@
  DO_NOT_OWN_OR_VASSAL_OF:1 "$COUNTRY$または従属国に領有されていない。"
  OWNS_OR_VASSAL_OF:1 "$COUNTRY$または従属国に領有されている。"
  DO_NOT_OWN_OR_NON_SOVEREIGN_SUBJECT_OF:1 "$COUNTRY$またはその従属国（非朝貢国）によって領有されていない。"
- OWNS_OR_NON_SOVEREIGN_SUBJECT_OF:1 "が$COUNTRY$またはその従属国（非朝貢国）に領有されている。"
+ OWNS_OR_NON_SOVEREIGN_SUBJECT_OF:1 "$COUNTRY$またはその従属国（非朝貢国）に領有されている。"
  TRIG_IS_NOT_IN_COALITION_AGAINST:0 "対§Y$WHO$§!包囲網に参加していない。\n"
  TRIG_ISIN_COALITION_AGAINST:0 "対§Y$WHO$§!包囲網に参加している。\n"
  DISBAND_REBELS:0 "§Y$NAME$§!が解散します。\n"
