@@ -497,7 +497,7 @@
  desc_plentiful_materials_act:1 "In our lands, copper and iron are cheap and easy to find, by funding their extraction our troops will be equally dispensable and cheap to recruit."
  desc_naval_competence_act:1 "Our attention to naval matters has yielded a competent navy."
  desc_dutiful_mercenaries_act:1 "By recruiting zealous mercenaries and arming them with divine right to conduct warfare, we will deploy a more powerful frontline while also bolstering our efforts of conversion."
- desc_hired_expeditions_act:1 "There is hardly a reason as to why our own men can perish in foreign jungles, riddled with unknown diseases and dangers, when we can send perfectly capable and poorly paid mercenaries to do it for us while all we are doing is cracking a whip for them to march faster."
+ desc_hired_expeditions_act:1 "完璧に有能で安上がりな傭兵を、未知の病気と危険に満ちた異国のジャングルの中で鞭打って素早く進軍させることができるのだから、わが国民の兵士がそのような目にあうことはまずないだろう。"
  defender_of_faith_1:1 "信仰の擁護者"
  defender_of_faith_1_DESC:1 "我々は[Root.Religion.GetName]の兄弟姉妹をあらゆる脅威から護ると誓った。"
  defender_of_faith_2:1 "信仰の擁護者"
