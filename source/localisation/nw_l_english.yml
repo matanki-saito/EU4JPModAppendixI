@@ -195,7 +195,7 @@
  SUBECT_TOTAL_INCOME:0 "従属国総合収入："
  NO_TARIFFS_COUNTRIES:0 "植民地なし"
  SUBJECT_SORT_TRADE:0 "交易力で並べ替え"
- SUBJECT_SORT_OPINION:0 "従属国との関係で並べ替え"
+ SUBJECT_SORT_OPINION:0 "従属国の我々への評価で並べ替え"
  SUBJECT_NO_COLONIES:1 "一つも植民地を有していません。"
  SUBJECT_NO_VASSALS:1 "一つも属国を有していません。"
  WE_ARE_AT_WAR:0 "戦争中である"

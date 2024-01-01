@@ -137,7 +137,7 @@
  desc_third_temple_provincial_modifier:0 "三度、聖地エルサレムには、聖なる神殿がそびえ立っている。"
  third_temple_country_modifier:0 "第三神殿の建設"
  desc_third_temple_country_modifier:0 "祈りは主に届き、第三神殿が現実のものとなった。このことは離散した世界の同胞にとってこの上のない吉報となったであろう。"
- third_temple_consequences_tooltip:0 "§Yすべてのイスラム諸国§!の我々に対する評価は§R-200§!に変化し、毎年§Y2§!ずつ向上しています。\n§Yすべてのイスラム諸国§!は§Y5年間§!我々に対して§Y外交的侮辱§!の開戦事由を得ます。\n我々の§Yムスリム§!州は反乱を起こすだろう。"
+ third_temple_consequences_tooltip:0 "§Yすべてのイスラム諸国§!の我々への評価は§R-200§!され、毎年§Y2§!ずつ向上します。\n§Yすべてのイスラム諸国§!は§Y5年間§!我々に対して§Y外交的侮辱§!の開戦事由を得ます。\n我々の§Yムスリム§!州は反乱を起こします。"
  destroyed_al_aqsa_opinion:0 "アル＝アクサー・モスクの破壊"
  build_the_third_temple_title:0 "第三神殿を建設"
  build_the_third_temple_desc:0 "何世紀もの間、ユダヤの民族は第二神殿の喪失を嘆き、その回復を夢見てきました。その時が来ました。主の栄光のために、再びエルサレムに第三神殿を建てるのです。"

@@ -19,7 +19,7 @@
  SHIFT_SPEND_MANPOWER_TO_BOOST_PROGRESS:0 "§YShift+クリック§!で、プロジェクトを$DAYS|Y$日進めるために人的資源を$NUMBER|Y$使用する"
  SHIFT_SPEND_MONEY_TO_BOOST_PROGRESS:0 "§YShift+クリック§!で、プロジェクトを$DAYS|Y$日進めるために$COST|Y$¤使用する"
  THREATENED_ATTITUDE_CANNOT_SET_TOOFAR:0 "§R$PLAYER|Y$を脅すには$COUNTRY|Y$は遠すぎます。§!"
- LIBERTY_DESIRE_MAX:0 "§R- $SUBJECT$をこれ以上なだめられません。.§!"
+ LIBERTY_DESIRE_MAX:0 "§R- $SUBJECT$をこれ以上なだめられない。§!"
  GOTO_TRADENODE_DISABLED:0 "§R$NAME$交易ノードを未発見§!"
  want_your_and_subject_provinces:0 "あなたとあなたの従属国の州を望んでいる"
  HAVE_CORE_PROVINCE_IN: "$PROVINCE$に中核州がある"

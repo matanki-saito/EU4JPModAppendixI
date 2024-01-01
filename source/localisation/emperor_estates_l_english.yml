@@ -207,7 +207,7 @@
  FAILED_ESTATE_AGENDA_DESC:0 "国内状況の変化にともない、階級はもはや$NAME|Y$を追求しなくなります。それは以下の影響がありました：\n$EFFECT$"
  TIMED_OUT_ESTATE_AGENDA_DESC:0 "議題$NAME|Y$の完了見込みは、$EXPIRY|Y$だったのですが、階級はこれ以上我慢できなくなりました。このことにより、以下の効果がもたらされます：\n$EFFECT$"
  LAND_OWNERSHIP_MODIFIER:1 "$PERCENT|Y0&$の地権から：\n$MODIFIERS$\n"
- estate_privilege_cannot_be_revoked:1 "§Rこの階級特権は剝奪されることはありません。§!"
+ estate_privilege_cannot_be_revoked:1 "§Rこの階級特権は剥奪されることはありません。§!"
  estate_burghers_monopoly_of_textiles_effect_tooltip:2 "§R§Y布§!・§Y絹§!からの収入なし§!"
  estate_burghers_monopoly_of_dyes:0 "染料の独占"
  estate_burghers_monopoly_of_dyes_effect_tooltip:2 "§R§Y染料§!からの収入なし§!"
