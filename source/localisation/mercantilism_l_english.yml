@@ -31,7 +31,7 @@
  mercantilism_events.5.b:0 "交易商は自由交易を抑制するのではなく、促進するべきだ。"
  mercantilism_events.6.t:0 "急進的な改革"
  mercantilism_events.6.d:0 "最も信頼されている顧問の二人、$MASTER_OF_MINT$と$TRADER$は、最近よく話をしている。陰謀を企てているのだ、という者もいる。[Root.GetName]の将来のための計画を策定しているのだ、と他の者は言う。彼らが議論しているものが何であれ、それは明らかにいくつかの秘密を正当化するのに十分な論争である。\n\nようやく、彼らは[Root.Monarch.GetTitle][Root.Monarch.GetName]に接触して結果を提示した。厚い紙の束には、保護主義、規制、産業政策の強化など、国の交易の慣習への記念碑的な変化の計画が含まれている。急進的だ、と言う者もいるだろう。\n「必要なものです」と、$MASTER_OF_MINT$は言う。\n「有益です」と、$TRADER$は言う。\n\nこれについて[Root.Monarch.GetName]は何を言っている？"
- mercantilism_events.6.a:0 "単純な心には急進的だろうが、[Root.Monarch.GetTitle]にとってはそうではない。"
+ mercantilism_events.6.a:0 "愚か者には急進的に見えるかもしれないが、[Root.Monarch.GetTitle]はそうは思わない。"
  mercantilism_events.6.b:0 "$MASTER_OF_MINT$は$TRADER$に悪影響を与えている。"
  mercantilism_events.6.c:0 "$TRADER$は$MASTER_OF_MINT$を急進化している。"
  mercantilism_events.6.e:0 "二人ともここから出て行け！"

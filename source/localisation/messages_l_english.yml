@@ -4295,7 +4295,7 @@
  NEWMON_GOODDIP:0 "$MONARCHNAME$の素晴らしい狡猾さと雄弁さは、我々の友人たちと強い同盟を築くのに役立つでしょう。"
  NEWMON_GOODMIL:0 "$MONARCHNAME$の優秀な指導力と優れた戦術的知識は、我らに反抗している者どもを打ち破るのに役立つでしょう。"
  NEWMON_GOODADM:0 "$MONARCHNAME$の細部への配慮と優れた管理能力は、我々の行政改革や税制の最大化に役立つでしょう。"
- NEWMON_SUPERIOR:0 "$MONARCHNAME$は本当に恵まれています。"
+ NEWMON_SUPERIOR:0 "$MONARCHNAME$が真の祝福を授けられました。"
  NEWMON_AVARAGE:0 "[Root.Monarch.GetHerHisCap]の教師は[Root.Monarch.GetHerHim]を我々の偉大な国家を支配するに足る偉大な[Root.Monarch.GetWomanMan]にすることができなかった。"
  NEWMON_TITLE:0 "新君主"
  NEWMON_SETUP:0 "我が国が新しい君主を得たとき"
