@@ -81,7 +81,7 @@
  MODIFIER_HAS_MARINES:0 "海兵隊歩兵が国内で利用可能になる"
  AUTOMATIC_MISSIONARY_BUTTON_TT:0 "宣教師を自律作業に割り当てます。改宗速度が0%を越えている不適切な宗教の州を、速度が速い順に改宗していきます。"
  AUTOMATIC_MISSIONARY_TITLE_TT:0 "自律行動する宣教師は改宗速度が速い州を優先して、速度が0%より高い限り領有州を改宗していきます。"
- missionary_unable_to_convert_instant:0 "§Y宣教師が改宗できる州がない！§!"
+ missionary_unable_to_convert_instant:0 "§Y宣教師は州を改宗できない！§!"
  missionary_unable_to_convert_delayed:0 "あなたの宣教師の一人が州の改宗に割り当てられていますが、改宗作業を進めることができません。国家もしくは州の§Y布教強度§!を増やすか、宣教師を別の州に割り当ててください。"
  SORT_BY_GIVER:0 "送り手で並び替え"
  CEDE_PROVINCE_BY_WHOM:0 "$PROVINCE|Y$が$COUNTRY|Y$から割譲される"

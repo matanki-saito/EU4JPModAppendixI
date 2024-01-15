@@ -4909,7 +4909,7 @@
  gbr_dominiate_new_world_desc:0 "この不可思議な新世界は[Root.GetAdjective]が請求権を有している。その全資源と全領土は[Root.GetAdjective]王家に帰属する。新世界の支配を確保し、生意気な自国と争う者どもを追放するのだ。"
  gbr_dominiate_new_world_at:1 "全ての§Y植民地§!従属国で生産効率 §G+50.0%§!、交易効率§G+50.0%§! を獲得します。"
  gbr_establish_first_indian_trade_post_title:1 "[Root.GetPreviewColorGBR]東インド会社[Root.GetPreviewColorGBR_end]"
- gbr_establish_first_indian_trade_post_desc:0 "異国情緒あふれる商品の多くは、インド亜大陸を起源としている。ヨーロッパ勢力はここ数年にわたってインド交易から利益を得てきた。彼らと対等な立場を立ち、インドで独自の貿易会社を設立する時だ。"
+ gbr_establish_first_indian_trade_post_desc:0 "異国情緒あふれる商品の多くは、インド亜大陸を起源としている。ヨーロッパ勢力はここ数年にわたってインド交易から利益を得てきた。彼らと対等な立場に立ち、インドで独自の貿易会社を設立する時だ。"
  gbr_establish_first_indian_trade_post_at:0 "このイベントで我が国の§Y営利企業§!従属国として、インドに@EIC §Y東インド会社§!を設立できるようになります。"
  gbr_conquer_western_india_title:1 "[Root.GetPreviewColorGBR]西インド沿岸部の奪取[Root.GetPreviewColorGBR_end]"
  gbr_conquer_western_india_desc:0 "紛れもなく、西インド沿岸沿いの海岸線の支配は、インド全域の支配力を上げることになるだろう。[Root.GetName]の名においてこの地を手に入れよ。"

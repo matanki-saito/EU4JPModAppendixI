@@ -1007,7 +1007,7 @@
  estate_rajput_land_rights_desc:1 "[Root.GetRajputsName]に土地を与えることで、国の統治を支援する有能な戦士がすぐに手に入ることが保証されるだろう。"
  estate_nobles_nobility_primacy_desc:0 "[Root.GetNobilityName]に軍事における自由を与えることで、彼らの貢献の補償に多大な費用がかかるとしても、我々の力を大幅に強化できるだろう。"
  estate_nobles_officer_corp_desc:0 "[Root.GetNobilityName]は人を率いる術を経験している。彼らが我々の軍隊を率いるものであるべきだというのは賢明だろう。"
- estate_nobles_levies_desc:0 "[Root.GetNobilityName]からの徴兵は、我が軍の主要な部分を提供する。他の補償への見返りとして、より多くの兵士を我々に提供するよう手配することができる。"
+ estate_nobles_levies_desc:0 "わが軍の大部分は [Root.GetNobilityName]から提供される徴募兵によって占められている。相応の補償と引き換えに、より多くの兵士を提供させることも可能だ。"
  estate_nobles_advisors_desc:0 "他の誰よりも自分の知性の育成に専念できる[Root.GetNobilityName]に勝る助言などない。"
  estate_nobles_right_of_counsel_desc:0 "[Root.GetNobilityName]は、その影響を恐れることなく、[Root.Monarch.GetTitle]に対し、率直かつ自由に話す権利を持っている必要がある。"
  estate_nobles_french_strong_duchies_desc:0 "フランスは分権化された国家であり、地方の公爵や伯爵は[Root.Monarch.GetTitle]からかなり独立を保っている。この機構には利点もあるが、王権の優位性を維持することにとっては大きな問題である。"
