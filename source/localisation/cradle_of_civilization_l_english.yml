@@ -400,7 +400,7 @@
  alert_can_use_iqta_ability_delayed:0 "$POWERS|Y$は現在制定可能です。"
  alert_can_use_malmluk_ability_instant:0 "§Y文化の相互作用を利用可能！§!"
  alert_can_use_malmluk_ability_delayed:0 "$POWERS|Y$は現在利用可能です。"
- alert_can_use_feudal_theocracy_ability_instant:0 "§Y封建的神権政治の行動を利用可能！§!"
+ alert_can_use_feudal_theocracy_ability_instant:0 "§Y封建的神権制の行動を利用可能！§!"
  alert_can_use_feudal_theocracy_ability_delayed:0 "$POWERS|Y$は現在利用可能です。"
  alert_can_use_tribal_federation_ability_instant:0 "§Y部族の貢物を要求可能！§!"
  alert_can_use_tribal_federation_ability_delayed:0 "$POWERS|Y$は現在要求可能です。"

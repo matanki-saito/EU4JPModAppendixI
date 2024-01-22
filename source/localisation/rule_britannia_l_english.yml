@@ -416,7 +416,7 @@
  ANGLICAN_ASPECTS_LONG:0 "宗教行動"
  ANGLICAN_ASPECTS_SHORT:0 "活動"
  SHIP_CAPTURED:1 "「移乗」の海軍ドクトリンにより$VAL$隻の船を拿捕した。"
- SHIP_NOT_CAPTURED:0 "拿捕された船が$VAL$隻未満である"
+ SHIP_NOT_CAPTURED:0 "拿捕された船が$VAL$隻未満"
  anglican_rebels_title:0 "宗教"
  anglican_rebels_name:0 "$RELIGION$狂信者"
  anglican_rebels_desc:0 "宗教的狂信者は、異なる信仰の国々によって支配されている州で増える傾向がある。彼らは自身の信仰を広め、不信心者を攻撃しようとする。"
