@@ -806,7 +806,7 @@
  ESTIMATE_TRIBUTE_AMOUNT:0 "我々は要求量を$AMOUNT|Y$と推定しています。"
  NO_TRIBUTE_DEMANDED:0 "彼らはこれは弱さの兆候ではないと主張しています。"
  IN_GOLDEN_AGE_TEXT:0 "$WHOS$黄金時代！"
- AFTER_GOLDEN_AGE_TEXT:0 "我々の黄金時代は$START$～$END$に及びました。"
+ AFTER_GOLDEN_AGE_TEXT:0 "我々の黄金時代は$START$～$END$年に及びました。"
  GOLDEN_ERA:0 "黄金時代"
  IN_GOLDEN_ERA_DESC:0 "我々の黄金時代は$UNTIL$まで続きます。"
  UNITY_INCREASE:0 "宗教的団結の増加：$VAL$"
