@@ -252,7 +252,7 @@
  devotion_events.21.a:0 "ならば、それでよい。"
  devotion_events.21.b:0 "その劇的な段階にはまだ早い。"
  devotion_events.22.t:0 "堕落した支配者"
- devotion_events.22.d:1 "彼らは腐敗と堕落と見えたものに幻滅を抱き、仲間の崇拝者たちは我々に寄付を送ることをやめ、[Root.Religion.GetName]信仰の砦として、我々の軍隊で志願兵として戦うことを拒否した。"
+ devotion_events.22.d:1 "腐敗と廃退を目の当たりにしたことで幻滅し、仲間の崇拝者たちは我々に寄付を送ることをやめ、[Root.Religion.GetName]信仰の砦として、我々の軍隊で志願兵として戦うことを拒否した。"
  devotion_events.22.a:0 "これは災害、ただの災害だ。"
  devotion_events.23.t:0 "腐敗した[Root.Monarch.GetTitle]"
  devotion_events.23.d:0 "[Root.Monarch.GetTitle][Root.Monarch.GetName]は、善良な信念より[Root.Monarch.GetHerHis]の個人的な目標に力を注ぎ、腐敗している。我が民は[Root.Monarch.GetHerHim]を幻滅の目で見ている。"

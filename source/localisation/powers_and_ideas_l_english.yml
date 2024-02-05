@@ -1844,7 +1844,7 @@
  mercantile_privileges:0 "商業特権"
  mercantile_privileges_desc:0 "我が国は、国境の交通量や関税を支配するための広範な特権を有しており、我々の土地を流れる交易をより支配することができる。"
  mercenary_recruitment_center:0 "募兵の中心地"
- mercenary_recruitment_center_desc:0 "我が国の都市には、多くの募兵の中心地があり、そこで祖国が戦争を戦うために傭兵を養成している。これらの傭兵のいくつかを我々自身の軍隊に利用することで、我々はこの恩恵を受けることができる。"
+ mercenary_recruitment_center_desc:0 "自国の都市には多くの募兵所があり、そこで祖国が戦争を戦うために傭兵を養成している。これらの傭兵の一部を自軍に利用することで、この恩恵を受けることができる。"
  magnate_landowners:0 "外国のマグナート"
  magnate_landowners_desc:0 "我が国に移住することを望む外国の貴族に土地を与えることによって、我々は我々自身の利益に忠実であり、農業収入を増加させる貴族を作り出すことができる。"
  foreign_advisors_client:0 "外国の顧問"
