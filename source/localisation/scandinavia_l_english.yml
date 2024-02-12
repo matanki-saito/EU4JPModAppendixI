@@ -3794,7 +3794,7 @@
  pol_upgrade_wool_to_cloth_tt:0 "\n§Y羊毛§!の州すべてが§Y布地§!生産になります"
  pol_1_merc_per_trading_bonus_tt:0 "\n§Y交易ボーナス§!につき重商主義§G1§!を獲得します"
  pol_highest_eu_income_tt:0 "§Yヨーロッパ§!に首都がある他のどの国家よりも§Y月間収入§!が高い"
- pol_if_used_ge_rest_else_30_years_extension_tt:1 "追加の§Y黄金時代§!を獲得するか、現在発生中の黄金時代を§G50§!年延長延長します"
+ pol_if_used_ge_rest_else_30_years_extension_tt:1 "追加の§Y黄金時代§!を獲得するか、現在発生中の黄金時代を§G50§!年延長します"
  pol_every_province_with_40_dev_tt:0 "\n開発度§Y40§!以上の領有州すべてで2つ目の§Y工場§!を建てられるようになります"
  pol_catholic_reward_twice_if_religious_ideas_tt:0 "§Y宗教アイデア§!グループを完了せずに§Yカトリック§!でミッションを達成した場合："
  pol_catholic_reward_twice_if_religious_ideas_2_tt:0 "\n上記を満たさず、§Y宗教アイデア§!グループを完了後に§Yカトリック§!でミッションを達成した場合："
