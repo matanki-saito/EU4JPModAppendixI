@@ -954,7 +954,7 @@
  kalmar_union_events.8.a:0 "[dan_rebellious_junior_partner.GetName]領は、地方摂政に統治させよう。"
  kalmar_union_events.8.b:0 "[dan_rebellious_junior_partner.GetAdjective]貴族の権利をもう少し増やすと上手くいくかも。"
  kalmar_union_events.9.t:0 "[Root.GetNobilityOrFallbackName]の要求"
- kalmar_union_events.9.desc:1 "カルマル同盟の盟約が商人されていないこと、異なる連合相手とその貴族の利害が衝突していることから、カルマル同盟の掌握は[Root.Monarch.GetName]にとって難題です。例えば、[dan_rebellious_junior_partner.GetName]貴族は同盟を支持する理由も自身を支配する[Root.Culture.GetName][Root.Monarch.GetTitle]を選出する理由もほぼ見い出せません。\nしかし、自国の[Root.GetNobilityOrFallbackName]はカルマル同盟にとっても敵です。彼らは[Root.Monarch.GetName][Root.Monarch.GetTitle]の散漫な注意を上手く使い、[Root.Monarch.GetTitle]に自分たちの要求を押し通そうとしています。\n\nさらに今朝もまたある貴族が、彼らの永遠に終わりのない問題のひとつのために[Root.GetAdjective]王室から資力を吸い上げるため、[Root.GetAdjective]の宮廷を訪れてきました。[Root.GetDanNoblesDemand]"
+ kalmar_union_events.9.desc:1 "正式に批准されたカルマル同盟条約が存在しないこと、異なる連合相手とその貴族の利害が衝突していることから、カルマル同盟の掌握は[Root.Monarch.GetName]にとって難題です。例えば、[dan_rebellious_junior_partner.GetName]貴族は同盟を支持する理由も自身を支配する[Root.Culture.GetName][Root.Monarch.GetTitle]を選出する理由もほぼ見い出せません。\nしかし、自国の[Root.GetNobilityOrFallbackName]はカルマル同盟にとっても敵です。彼らは[Root.Monarch.GetName][Root.Monarch.GetTitle]の散漫な注意を上手く使い、[Root.Monarch.GetTitle]に自分たちの要求を押し通そうとしています。\n\nさらに今朝もまたある貴族が、彼らの永遠に終わりのない問題のひとつのために[Root.GetAdjective]王室から資力を吸い上げるため、[Root.GetAdjective]の宮廷を訪れてきました。[Root.GetDanNoblesDemand]"
  dan_nobles_demand_crownland:0 "\n\n今この瞬間、[Root.GetNobilityOrFallbackName]は直轄地をもっと支配したいと願っています。まるで、まだ十分でないかのように…"
  dan_nobles_demand_soldiers:0 "\n\n今この瞬間、[Root.GetNobilityOrFallbackName]は些細な内部抗争抗争のために人手を必要としています.."
  dan_nobles_demand_cash:0 "\n\n今この瞬間、[Root.GetNobilityOrFallbackName]は財政難で、私たちの金銭的支援を頼っているようです。どうやら外国産ワインを一樽多く買いすぎたらしいです…"
