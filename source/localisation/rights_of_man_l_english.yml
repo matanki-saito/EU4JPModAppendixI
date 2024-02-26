@@ -486,7 +486,7 @@
  harem_events.1.i:0 "非常に有能な息子が我々のお気に入りだ。"
  harem_events.1.j:0 "思いやりのある息子が我々のお気に入りだ。"
  harem_events.2.t:0 "キリチュ・アライー"
- harem_events.2.d:0 "オスマンの戴冠式は、多くの人が一生のうちに見る最も壮大なものであり、[Root.Monarch.GetName]の戴冠式も例外ではない。しかし、オスマンの武力がコンヤのシャリーフによって[Root.Monarch.GetName]を取り巻いているため、宰相たちはある程度の恐怖をもって[Root.Monarch.GetHerHim]に視線を向ける。[Root.Monarch.GetSheHeCap]は決して最も可能性のあった候補者ではなく、明確な支持が存在していれば決して王座を取ることはなかっただろう。\n[Root.Monarch.GetHerHis]の平凡さが[Root.Monarch.GetName]を勝利させたとまで言う者もいる。より偉大な人物は[Root.Monarch.GetHerHim]を脅威として見たことはなく、一方で[Root.Monarch.GetHerHim]に皇帝を支配する操り人形の役割を期待する者もいた。新しい[Root.Monarch.GetTitle]がはっきりと示したことの一つは、必要が生じたとき[Root.Monarch.GetSheHe]が信頼する人たちの背後にある短剣を弱めることを[Root.Monarch.GetHerHim]に敬遠させることはないということである。"
+ harem_events.2.d:0 "オスマンの戴冠式は、多くの人が一生のうちに見る最も壮大なものであり、[Root.Monarch.GetName]の戴冠式も例外ではない。しかし、オスマンの武力がコンヤのシャリーフによって[Root.Monarch.GetName]を取り巻いているため、宰相たちはある種の恐怖とともに[Root.Monarch.GetHerHim]を見ている。[Root.Monarch.GetSheHeCap]は決して最も可能性のあった候補者ではなく、明確な支持が存在していれば決して王座を取ることはなかっただろう。\n[Root.Monarch.GetHerHis]の平凡さが[Root.Monarch.GetName]を勝利させたとまで言う者もいる。より偉大な人物は[Root.Monarch.GetHerHim]を脅威として見たことはなく、一方で[Root.Monarch.GetHerHim]に皇帝を支配する操り人形の役割を期待する者もいた。新しい[Root.Monarch.GetTitle]がはっきりと示したことの一つは、必要とあらば[Root.Monarch.GetSheHe]が信頼を寄せる者の背中に短剣を刺すことも躊躇しないであろうということだ。"
  harem_events.2.a:0 "[Root.Monarch.GetTitle]万歳！"
  harem_events.2.a.tt:0 "時間だけが、§Y[Root.Monarch.GetName]§!がどんな支配者となるかを教えてくれる。"
  harem_events.3.t:0 "サンジャガ・チクマ"
