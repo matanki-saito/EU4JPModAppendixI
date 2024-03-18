@@ -1852,7 +1852,7 @@
  teu_crusader_mil_reform_2_desc:0 "自軍は時代遅れであることが分かった。中世の西ヨーロッパの戦術を未だに使っており、東ヨーロッパの地形にはほとんど通用しない。改革せねばならない！"
  teu_crusader_mil_reform_2_tt:0 "補正§Y戦場の経験§!は、後述の補正にアップグレードされます。"
  teu_crusader_mil_reform_3_title:1 "[Root.GetPreviewColorTEU]平原への適応[Root.GetPreviewColorTEU_end]"
- teu_crusader_mil_reform_3_desc:0 "ルテニアやポントス草原は完全に平坦な地形となった広大な地方だ。都市間の距離は離れており、徒歩での行軍は馬を使用した場合のの3倍の時間がかかる。今後の戦いは、もはや森や湿原ではなく、こうした草原やステップで勝敗を決することは明らかである。この新しい異国の地形に自軍を適応させなければならない。"
+ teu_crusader_mil_reform_3_desc:0 "ルテニアやポントス草原は完全に平坦な地形となった広大な地方だ。都市間の距離は離れており、徒歩での行軍は馬を使用した場合の3倍時間がかかる。今後の戦いは、もはや森や湿原ではなく、こうした草原やステップで勝敗を決することは明らかである。この新しい異国の地形に自軍を適応させなければならない。"
  teu_crusader_mil_reform_3_tt:0 "補正§Y改革された軍隊§!は、後述の補正にアップグレードされます。"
  teu_crusader_mil_reform_4_title:1 "[Root.GetPreviewColorTEU]大騎兵団の設立[Root.GetPreviewColorTEU_end]"
  teu_crusader_mil_reform_4_desc:0 "遊牧民との戦いで、この広大で何もないステップでは、もはや歩兵の維持は実現不可能だと分かった。もう一度軍の適応を行い、野蛮な遊牧民どもと歩調を合わせることができるよう、自国の騎士団に大騎兵隊を設立する必要がある。"
