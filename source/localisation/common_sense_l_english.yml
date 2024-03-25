@@ -896,7 +896,7 @@
  subject_interaction_events.10.d:0 "さまざまな言語、伝統、時には宗教的に異なる文化を持つ人々が集まり、多くのものが異なっていることで、彼らが共に部隊として働かなければならない時には常に問題が生じる。我々が[From.Country.GetName]に送った人的資源は[From.Monarch.GetTitle][From.Monarch.GetName]が対処できると考えていたよりも、多くの問題を引き起こしたため、いくつかの人々は我々の元へ返された。"
  subject_interaction_events.10.a:0 "我々の兵士たちは命令に従うことができる、[From.Monarch.GetName]の努力は十分でなかった！"
  subject_interaction_events.11.t:0 "腹が減っては戦ができぬ"
- subject_interaction_events.11.d:0 "我々の軍隊があらゆる戦闘で勝利するためには、食糧、武器、服、あらゆる種類の装備が必要である。しかし、近年、人的資源の流入により、我々は、かろうじて供給できるより多くの兵士たちを徴兵することができている。"
+ subject_interaction_events.11.d:0 "我々の軍隊があらゆる戦闘で勝利するためには、食糧、武器、服、あらゆる種類の装備が必要である。しかし、最近の人的資源の流入のおかげで、我々はようやく余裕をもって多くの兵士を徴兵することができるようになった。"
  subject_interaction_events.11.a:0 "維持管理のためにより多くの金を宗主国に要請する。"
  subject_interaction_events.11.b:0 "別の方法で問題を解決する。"
  subject_interaction_events.12.t:0 "維持のために[From.Country.GetName]が必要とするもの"
