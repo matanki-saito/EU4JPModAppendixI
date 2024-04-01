@@ -313,7 +313,7 @@
  cb_imperial_realm_war:1 "帝国戦争"
  cb_imperial_realm_war_desc:1 "神聖ローマ皇帝は、この国を攻撃することを正当と見なしています。"
  ASSIGN_HEIR_SOMEONE_ELSE_RULER:0 "同君連合の上位国ではないため、新しい後継者を指名できません！"
- ASSIGN_HEIR_NOT_WITH_FIXED_DYNASTY:0 "これは、固定した王朝によって支配されている国では不可能です。"
+ ASSIGN_HEIR_NOT_WITH_FIXED_DYNASTY:0 "これは、特定の王朝によって支配されている国では不可能です。"
  ASSIGN_HEIR_TITLE:0 "新しい後継者を指名"
  ASSIGN_HEIR_DESC:0 "新しい後継者を指名すると$PRESTIGE|Y$の威信と$LEGITIMACY|Y$の正統性がかかります！本当によろしいですか？"
  ASSIGN_HEIR_ALREADY_HEIR:0 "すでに後継者がいます。"

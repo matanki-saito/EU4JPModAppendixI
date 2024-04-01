@@ -320,7 +320,7 @@
  the_recruiting_act:0 "徴兵法"
  desc_the_recruiting_act:0 "収入の手段を持たない健常者を海軍の奉仕に参加させることは、間違いなくいくつかの論争を引き起こすであろう。"
  the_military_act:0 "民兵法"
- desc_the_military_act:0 "民兵の独占的な権利として、指揮権からその処分まで、すべての権利は王の手にあると考えられている。"
+ desc_the_military_act:0 "民兵の唯一の権利は、指揮権からその処分まで、権利すべてが王の手にあると考えられている。"
  the_tenures_abolition_act:0 "不動産保有条件廃止法"
  desc_the_tenures_abolition_act:0 "君主に一定の補償を設定し、王家に負う様々な軍事的および農業的義務が取り除かれた。"
  the_dissolution_act:0 "解散法"
