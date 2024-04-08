@@ -64,7 +64,7 @@
  EVTOPTB6138:0 "彼らを既存の植民地に派遣する"
  EVTOPTB6400:0 "彼らを既存の植民地に派遣する"
  flavor_hun.10.t:0 "ハンガリーの玉座"
- flavor_hun.10.d:0 "[From.GetName]の[From.Monarch.GetTitle]が不自然な急死を遂げ王座は空位となった。[From.GetAdjective]議会は、元の[From.Monarch.GetTitle]がハプスブルク王朝に属し、自らの[From.Monarch.GetTitle]を選んだことを無視して、正当な王座に対する主張を完全に無視しています。"
+ flavor_hun.10.d:0 "[From.GetName]の[From.Monarch.GetTitle]が不自然な急死を遂げて王座が空位となった。[From.GetAdjective]議会は、元の[From.Monarch.GetTitle]がハプスブルク王朝に属していたことを無視して、独自の[From.Monarch.GetTitle]を選出し、王座に対する我々の正統な主張を完全に無視しています。"
  flavor_hun.10.a:0 "戦争とは他の手段でもってする政治の継続である…"
  colonial.EVTDESC20:0 "[Root.Owner.ColonialParent.GetName]から巡礼者などとよばれている彼らは、[Root.Owner.ColonialParent.GetAdjective][Root.Owner.ColonialParent.Religion.GetName]教会の忌み嫌われた[heretics_from_here.Religion.GetName]信仰に従っています。新世界でより寛容な社会を見いだすために、彼らは[Root.GetName]に定住しました。"
  colonial.EVTDESC21:0 "[Root.Owner.ColonialParent.GetName]から巡礼者などとよばれている彼らは、[Root.Owner.ColonialParent.GetAdjective][Root.Owner.ColonialParent.Religion.GetName]教会の忌み嫌われたプロテスタント信仰に従っています。新世界でより寛容な社会を見いだすために、彼らは[Root.GetName]に定住しました。"

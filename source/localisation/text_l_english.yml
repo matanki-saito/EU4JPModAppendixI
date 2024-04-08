@@ -4780,7 +4780,7 @@
  religious_rebels_desc:0 "宗教的狂信者は、異なる信仰の国々によって支配されている州で増える傾向がある。彼らは自身の信仰を広め、不信心者を攻撃しようとする。"
  nationalist_rebels_title:0 "分離独立派"
  nationalist_rebels_name:0 "$INDEP$分離独立派"
- nationalist_rebels_desc:0 "分離独立派の反乱軍は同胞の自由を求めている。彼らはよく率いられ装備も充実しているが、自身の文化の州に滞在する傾向がある。"
+ nationalist_rebels_desc:0 "分離独立派の反乱軍は同胞の自由を求めている。彼らは統率がとれており装備も充実しているが、自身の文化の州に滞在する傾向がある。"
  noble_rebels_title:0 "貴族"
  noble_rebels_name:0 "$COUNTRY$の貴族反乱軍"
  noble_rebels_desc:0 "貴族反乱軍は君主に不満を持っている。通常は自由主義的改革が原因である。彼らは大部分が騎兵から成る専門の軍隊を編制する。"

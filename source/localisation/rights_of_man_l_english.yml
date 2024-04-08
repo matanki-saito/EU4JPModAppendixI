@@ -1176,7 +1176,7 @@
  consort_events.3.b:0 "悪いが、特別な恩恵はない。"
  consort_events.3.b.tt:0 "これにより、地方レベルの[Root.Consort.Dynasty.GetName]の協力は減少し、彼らは将来も我々への反抗を保持するでしょう。"
  consort_events.4.t:0 "結婚の至福"
- consort_events.4.d:0 "[Root.Consort.GetTitle]陛下はもちろん、[Root.Consort.GetHerHis]の自身の能力により、忠実な配偶者であり、顧問である。しかし、その役割とは別に、我々の[Root.Consort.GetTitle]も[Root.Consort.Dynasty.GetName]家の王冠の代表であり、逆もまた同様である。時にはこれは利益のない取り決めとはならない。\n今日、[Root.Consort.GetName]は、[Root.Consort.GetHerHis]の一族が、[Root.Monarch.GetName]と[Root.Consort.GetName]の結婚のための支援を表明することを決断したことを非常に喜んでいるようだ。"
+ consort_events.4.d:0 "[Root.Consort.GetTitle]陛下はもちろん、[Root.Consort.GetHerHis]自身の立場において忠実な配偶者であると同時に良き助言者でもある。しかしその役割とは別に、我々の[Root.Consort.GetTitle]も[Root.Consort.Dynasty.GetName]家の王冠の代表であり、逆もまた同様である。時にはこれは利益のない取り決めとはならない。\n今日[Root.Consort.GetName]は、[Root.Consort.GetHerHis]の一族が[Root.Monarch.GetName]と[Root.Consort.GetName]の結婚のための支援を表明することを決断したことを非常に喜んでいるようだ。"
  consort_events.4.a:0 "この結婚が我々双方に恩恵をもたらしますように。"
  consort_events.4.a.tt.0:0 "[Root.Consort.Dynasty.GetName]一族は、我々が彼らの恩を感じていると考えている。"
  consort_events.4.a.tt.1:0 "[Root.Consort.Dynasty.GetName]一族は、王国のインフラの開発に役立つだろう。"
