@@ -480,7 +480,7 @@
  trade_policy_events.7.a:0 "交易は保護すべきだ。"
  trade_policy_events.7.b:0 "競争は誰にとっても良いことだ。"
  trade_policy_events.8.t:0 "[developing_business_province.GetFancyTradeGood]の事業の成長"
- trade_policy_events.8.d:0 "[developing_business_province.GetAreaName]地域における交易利益を最大化しようという我々の努力は、[developing_business_province.GetName]州で実を結んだ。起業家たちにより[developing_business_province.GetFancyTradeGood_LOW]の生産高は大幅に増え、首都へと新たな市場を見出した。"
+ trade_policy_events.8.d:0 "[developing_business_province.GetAreaName]地域における交易利益を最大化しようという我々の努力は、[developing_business_province.GetName]州で実を結んだ。起業家たちにより[developing_business_province.GetFancyTradeGood_LOW]の生産高は大幅に増え、加工品の新たな市場を首都に見出した。"
  trade_policy_events.8.a:0 "素晴らしい"
  trade_policy_events.9.t:1 "[Root.prominent_merchant.GetName]とその家族"
  trade_policy_events.9.d:0 "[merchant_family_province.GetName]出身の商人の一家は、[foreign_province_owner.GetName]での長距離交易で大成功を収めた。彼らは[foreign_province_owner.Capital.GetCapitalName]と[foreign_province_owner.GetAdjective]の奥地それぞれの地域で大きな影響力を持ち、裕福になっている。この状況を、我々が利用する手はないものか…"
