@@ -4219,7 +4219,7 @@
  court_and_country:0 "宮廷と国家"
  desc_court_and_country:0 "我が国の中央集権化への抵抗は、一般的な危機と宮廷と国家との間の紛争の時代に至った。\n§Y我々がこの危機の時代をどのように乗り越えるかで、我々は以前よりも強い国となることができるかもしれない。§!"
  court_and_country_events.1.t:0 "宮廷と国家の紛争"
- court_and_country_events.1.d:0 "地方の貴族、地方裁判所、またはその他の利益集団によって支配されていた領土への[Root.GetAdjective]国家の侵害は、[Root.Monarch.GetTitle]と[Root.Capital.GetCapitalName]の宮廷への広範な憤慨をもたらした。これらの団体は、現在、中央政府と戦うための連合を結び、結束している。\n今日、我々は、[Root.Monarch.GetTitle]の代表の古代の権利の引用と不道徳な行為を挙げて、最新の税金令に対する多くの異議を受けている。我々の力を強化するための継続的な試みが、あらゆる機会において阻害されることは明らかである。"
+ court_and_country_events.1.d:0 "地方の貴族や地方裁判所、その他の利益集団によって伝統的に支配されてきた領地を[Root.GetAdjective]国家が侵害したことで、[Root.Monarch.GetTitle]と[Root.Capital.GetCapitalName]の宮廷に対する憤慨が広がることとなった。これらの団体は、現在、中央政府と戦うために団結し、結束している。\n今日、我々は、[Root.Monarch.GetTitle]の代表の古代の権利と不道徳な行為を引き合いに出し、最新の税金令に対する多くの反対意見を受け取った。我々の権力を強化しようとする継続的な試みが、あらゆる機会において妨害されることは明らかである。"
  court_and_country_events.1.a:0 "朕は国家なり。"
  court_and_country_events.1.b:0 "これらフロンドたちと交渉を試みる。"
  court_and_country_events.2.t:0 "税の支払いを拒否"
