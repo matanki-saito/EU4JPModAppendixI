@@ -3790,7 +3790,7 @@
  pol_if_mercantilism_reward_tt:0 "§Y重商主義§!によってミッションを達成した場合、後続の全§Y交易商§!顧問のレベルは「§M重商主義推進コスト§!」を減らし、自国の統治者は特性§Y事業家§!または外交スキル§G1§!を獲得します。"
  pol_every_grain_province_tt:0 "§Y前提条件§!を満たした全ての§Y州§!は以下を獲得します："
  polish_grain:0 "ポーランドの穀物"
- pol_better_chance_to_spawn_industrialization_tt:0 "§Y産業革命§!をがより生じやすくなります"
+ pol_better_chance_to_spawn_industrialization_tt:0 "§Y産業革命§!がより生じやすくなります"
  pol_upgrade_wool_to_cloth_tt:0 "\n§Y羊毛§!の州すべてが§Y布地§!生産になります"
  pol_1_merc_per_trading_bonus_tt:0 "\n§Y交易ボーナス§!につき重商主義§G1§!を獲得します"
  pol_highest_eu_income_tt:0 "§Yヨーロッパ§!に首都がある他のどの国家よりも§Y月間収入§!が高い"
