@@ -793,7 +793,7 @@
  nahuatl_events.17.a:0 "それに従い、最良の結果を期待する。"
  nahuatl_events.17.b:0 "我々は神々をなだめるため、大きな生贄を捧げるべきだ。"
  nahuatl_events.18.t:0 "オラマリストリ"
- nahuatl_events.18.d:0 "カルメカックで学んでいたころの[Root.Heir.GetName]は、伝統的な球技であるオラマリストリの名手であった。しかし成人してからは競技をあきらめねばならなかった。試合は[Root.Capital.GetName]の各地区で行われているが、[Root.Heir.GetSheHe]は大人になってからも、しばしば神殿や市場付近の競技場で観戦しているところを目撃されている。さらには試合を利用して行われる賭博にも手を染めているようで、本日[Root.Heir.GetName]から[Root.Heir.GetHerHis]の借金を肩代りして欲しいと嘆願があった。"
+ nahuatl_events.18.d:1 "カルメカックで学んでいたころの[Root.Heir.GetName]は、伝統的な球技であるオラマリストリの名手であった。しかし成人してからは競技をあきらめねばならなかった。試合は[Root.Capital.GetName]の各地区で行われているが、[Root.Heir.GetSheHe]は大人になってからも、しばしば神殿や市場付近の競技場で観戦しているところを目撃されている。さらには試合を利用して行われる賭博にも手を染めているようで、本日[Root.Heir.GetName]から[Root.Heir.GetHerHis]の借金を肩代りして欲しいと嘆願があった。"
  nahuatl_events.18.a:0 "[Root.Heir.GetHerHim]を助ける"
  nahuatl_events.18.b:0 "[Root.Heir.GetHerHim]に今後の試合観戦を禁じる"
  nahuatl_events.19.t:0 "捕虜は盗まれた"

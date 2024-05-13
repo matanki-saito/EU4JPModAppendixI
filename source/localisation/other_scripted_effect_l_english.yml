@@ -12,7 +12,7 @@
  ME_yes:0 "£yes£"
  ME_no:0 "£no£"
  set_center_level_2_center_of_trade_tt:0 "§Y[This.GetName]§!の§Y交易中心地§!がレベル§G2§!にアップグレードされます。§Y交易中心地§!がない場合は、レベル§G2§!の§Y交易中心地§!が追加され、レベル§G2§!の§Y交易中心地§!がある場合は、§Y[This.GetName]§!の基本生産が§G2§!増えます。"
- set_center_level_3_center_of_trade_tt:0 "§Y[This.GetName]§!の§Y交易中心地§!がレベル§G3§!にアップグレードされます。§Y交易中心地§!がない場合は、レベル§G3§!の§Y交易中心地§!が追加されます。レベル§G2§!の§Y交易中心地§!がある場合は、§Y[This.GetName]§!の基本生産が§G2§!増え、レベルが§G3§!に、レベル§G3§!の§Y交易中心地§!がある場合は、§Y[This.GetName]§!の基本生産が§G4§!増えます。"
+ set_center_level_3_center_of_trade_tt:1 "§Y[This.GetName]§!の§Y交易中心地§!がレベル§G3§!にアップグレードされます。§Y交易中心地§!がない場合は、レベル§G3§!の§Y交易中心地§!が追加されます。レベル§G2§!の§Y交易中心地§!がある場合は、§Y[This.GetName]§!の基本生産が§G2§!増え、レベルが§G3§!に、レベル§G3§!の§Y交易中心地§!がある場合は、§Y[This.GetName]§!の基本生産が§G4§!増えます。"
  add_or_upgrade_naval_defense_building_tt:0 "§Y[This.GetName]§!の§Y沿岸防衛施設§!がアップグレードされます。施設がない場合は、§Y沿岸防衛§!が追加され、§Y沿岸砲台§!がある場合は、§Y[This.GetName]§!の基本生産が§G2§!増えます。"
  upgrade_trade_building_tt:0 "§Y[This.GetName]§!の§Y交易施設§!がアップグレードされます。§Y証券取引所§!がある場合は、§Y[This.GetName]§!の基本税が§G1§!、基本生産が§G1§!増えます。"
  upgrade_tax_building_tt:0 "§Y[This.GetName]§!の§Y税施設§!がアップグレードされます。§Y大聖堂§!がある場合は、§Y[This.GetName]§!の基本税が§G2§!増えます。"

@@ -1,0 +1,7 @@
+﻿l_english:
+ GREAT_PROJECT_OUTLINER:0 "大事業"
+ OL_GREATPROJECT_CONSTRUCTION:0 "$PROV$で$BUILDING$を建設しており、$DATE$に完了予定です。"
+ EDICT_ALREADY_SELECTED:0 "この布告は既に有効です。"
+ EDICT_EFFECT_REMOVED:0 "§R$EDICT$が廃止されたとき：§!$EFFECT$"
+ FREE_CULTURES_DESC:0 "無料で登用される文化："
+ FREELY_ACCEPTED_CULTURE_DESC:0 "この文化が受容されると、追加の文化の登用スロットを得ます。"

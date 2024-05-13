@@ -22,4 +22,4 @@
  LIBERTY_DESIRE_MAX:0 "§R- $SUBJECT$をこれ以上なだめられない。§!"
  GOTO_TRADENODE_DISABLED:0 "§R$NAME$交易ノードを未発見§!"
  want_your_and_subject_provinces:0 "あなたとあなたの従属国の州を望んでいる"
- HAVE_CORE_PROVINCE_IN: "$PROVINCE$に中核州がある"
+ HAVE_CORE_PROVINCE_IN:0 "$PROVINCE$に中核州がある"

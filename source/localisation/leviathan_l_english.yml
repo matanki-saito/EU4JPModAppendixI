@@ -1842,6 +1842,7 @@
  coup_in_palace_events.6.b:0 "君主の勝利！"
  estate_regency_mod_desc_tt:0 "§Y後継者§!が即位するまで"
  HOLY_SITE_4336_DESC:0 "バクーのアテシュギャーフは、ゾロアスター教の最も重要な火の寺院の一つだ。厳密にはスラカニにあるのだが、都市バクーに関連付けて「バクーの火」とも呼んできたように、古代から都市バクーと結びつけてきた。その火は地表から直接出ており、猛烈な勢いで、炎は永久に燃え続けている。今でも周辺には「火の崇拝者」が暮らしていると言われている。"
- HOLY_SITE_2212_DESC:0 "ホラズムがイスラム勢力に敗れたとき、一部の崇拝者はインドに逃れ、聖火を携えてサンジャンに共同体を設立した。この新共同体とペルシアの元々の共同体との間にはシルシラ、伝統的な系図が形成され、サンジャンの名の由来となった。1297年以来、火は転々と動き、最初はバーロット洞窟、次にバーンスダーの村落へ、そして最後はナブサーリへと移動した。"
+ HOLY_SITE_2212_DESC:1 "Since the times of the Sasanian Empire, on top of the mountains close to the city of Zanjan burned Adur Gushnasp, a fire of the highest grade. Although the temple was sacked by the Byzantines, its fire was saved by the faithful, but its light was made dark during the following Muslim invasions and consequent persecution. Now the fire burns brightly again in its sacred place linked once more to the warrior class, and it attracts pilgrims from all over."
  pegu_subject_ayu_tt:0 "\n§Yアユタヤ§!が朝貢国以外の従属国である状態でこのミッションを完了した場合、さらに以下も発生します："
  pegu_subject_lna_tt:0 "\n§Yラーンナー§!が朝貢国以外の従属国である状態でこのミッションを完了した場合、さらに以下も発生します："
+ merchant_basileus_personality_die_desc:0 "[Root.Monarch.GetHerHisCap]が国庫にもたらした良い影響が惜しまれる。"

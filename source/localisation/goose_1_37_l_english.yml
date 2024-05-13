@@ -1,0 +1,12 @@
+﻿l_english:
+ NO_ANNEX_PROGRESS_WHILE_PROVINCES_OCCUPIED:0 "従属国が自身の州を支配していないと併合が進みません。"
+ mechanic_heir:0 "後継者"
+ MOVE_WITH_TRANSPORT_LOCKED:0 "輸送船を使ってここに移動することが可能ですが、現在陸上ユニットの一部は移動が固定されています。"
+ MODIFIER_REVERSE_RELATION_WITH_HERETIC_RELIGION:0 "異端の国家からの評価"
+ MODIFIER_REVERSE_RELATION_WITH_HEATHEN_RELIGION:0 "異教の国家からの評価"
+ ROUND_VARIABLE:0 "$VAR|Y$を四捨五入します。"
+ CEILING_VARIABLE:0 "$VAR|Y$を切り上げます。"
+ FLOOR_VARIABLE:0 "$VAR|Y$を切り捨てます。"
+ SQRT_VARIABLE:0 "$VAR|Y$の平方根を得ます。"
+ RANDOM_VARIABLE:0 "$VAR|Y$を0から$VALUE|Y$の間のランダムな値に設定します。"
+ MODULO_VARIABLE:0 "$VAR|Y$を$VALUE|Y$で剰余演算します。"

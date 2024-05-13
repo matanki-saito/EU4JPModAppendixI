@@ -1494,7 +1494,7 @@
  estate_panacas:0 "パナカス"
  estate_warriors:0 "戦士"
  estate_mani:0 "マニ"
- estate_pochteca:0 "ポチテカ"
+ estate_pochteca:1 "ポチテカ"
  gain_access_to_estate_dhimmi_title:0 "ズィンミー階級の設立"
  gain_access_to_estate_dhimmi_desc:0 "自国の拡大に合わせて、[Root.GovernmentName]内に扱いきれないほどの異教徒が増えている。異教徒への対応を目的とした内部政治組織を設立すべきだろう。"
  brahmin_estate_is_not_in_power_tt:0 "§Yバラモン§!は権力を握っていない。"
