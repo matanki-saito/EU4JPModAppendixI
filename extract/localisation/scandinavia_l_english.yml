@@ -84,6 +84,7 @@
  unlock_militarized_crusader_order_reform_tt:0 "Unlock the '§YCrusading Empire§!' government reform."
  unlock_holy_horde_reform_tt:0 "Unlock the '§YHoly Horde§!' government reform."
  unlock_prussian_monarchy_tt:0 "Unlock the '§YPrussian Monarchy§!!' government reform."
+ unlock_prussian_monarchy_base_tt:0 "Unlock the '§YPrussian Monarchy§!!' government reform."
  unlock_prussian_republic_reform_tt:0 "Unlock the '§YStratocratic Administration§!' government reform."
  unlock_prussian_theocratic_reform_tt:0 "Unlock the '§YMilitaristic Divine State§!' government reform."
  unlock_livonian_military_monarchy_tt:1 "Unlock the '§YLivonian Militarist Monarchy§!' government reform."
@@ -1702,6 +1703,7 @@
  prussian_confederation_disaster_ct:0 "Has completed the mission '§YHandle the Confederation§!'."
  prussian_confederation_disaster_dt:0 "The event '§YThe End of the Teutonic State§!' has fired."
  ###MISSIONS FOR TEUTONIC ORDER###
+ teu_select_automatically_prussian_path_tt:0 "We will automatically select the §YPrussian Path§! of our mission tree."
  teu_dummy_mission_1_title:0 "[Root.GetSelectableMissionTitle]"
  teu_dummy_mission_1_desc:0 "[Root.GetSelectableMissionDescription]"
  teu_dummy_mission_2_title:0 "[Root.GetSelectableMissionTitle]"
@@ -1782,6 +1784,7 @@
  teu_conquest_hre_path_tt:0 "\nIf §Y[Root.GetName]§! chooses the §YGerman Conquest§! Path, the following conditions will be required to complete this mission:"
  teu_kingdom_prussia_path_tt:0 "\nIf §Y[Root.GetName]§! chooses the §YPrussian Kingdom§! Path, the following conditions will be required to complete this mission:"
  teu_kingdom_prussia_path_ct:0 "Has decided for §YPrussian Kingdom§! Path."
+ teu_prussia_path_ct:0 "Has decided for §YPrussian§! Path."
  teu_diplomacy_hre_path_effects_tt:0 "\nIf §Y[Root.GetName]§! chooses the §YHoly Roman Diplomacy§! Path, the following effects will occur:"
  teu_conquest_hre_path_effects_tt:1 "\nIf §Y[Root.GetName]§! chooses the §YGerman Conquest§! Path, the following effects will occur:"
  teu_kingdom_prussia_path_effects_tt:0 "\nIf §Y[Root.GetName]§! chooses the §YPrussian§! Path, the following effects will occur:"

@@ -303,6 +303,7 @@
  mechanic_free_city_yes:1 "Is §YFree City§!"
  ability_russian_mechanic:0 "Russian Government"
  ability_feudal_theocracy_mechanic:1 "Feudal Theocracy"
+ feudal_theocracy_mechanic:0 "Feudal Theocracy"
  monarchy_mechanic:0 "Monarchy"
  republic_mechanic:0 "Republic"
  theocracy_mechanic:0 "Theocracy"

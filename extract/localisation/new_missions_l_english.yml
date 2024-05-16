@@ -1637,7 +1637,7 @@
  gc_tun_air_title:1 "Air Strike"
  gc_tun_air_desc:0 "The Tuaregs of Agadez have established a sizable kingdom on the far side of the Sahara. This fledgling state is likely vulnerable to invasion from the north; we should seize it to establish a foothold in the south."
  gc_tun_kanem_title:0 "Conquer Kanem Bornu"
- gc_tun_kanem_desc:0 "The lands of Kanem and Bornu were once united as one nation, but that empire has since fallen into disarray. We should exploit this vulnerability and invade the territories surrounding Lake Tchad."
+ gc_tun_kanem_desc:0 "The lands of Kanem and Bornu were once united as one nation, but that empire has since fallen into disarray. We should exploit this vulnerability and invade the territories surrounding Lake Chad."
  gc_tun_genoa_title:0 "Raid on Genoa"
  gc_tun_genoa_desc:0 "We have grown rich from raiding Genoese merchant shipping, but we will become richer still if we sack the city itself."
  gc_tun_valencia_title:0 "Raid on Valencia"
