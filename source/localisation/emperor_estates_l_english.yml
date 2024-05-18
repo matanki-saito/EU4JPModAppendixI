@@ -1044,7 +1044,7 @@
  estate_brahmins_brahmin_governance_desc:0 "[Root.GetBrahminsName]は、ヒンドゥー教徒と非ヒンドゥー教徒の間で彼らの知識と知恵によりかなりの尊敬を集めている。彼らの能力と判断が国全体に利益をもたらすようにするため、彼らを政権に引き入れるという考えを疑う者はほとんどいないだろう。"
  estate_brahmins_legitimacy_to_rule_desc:0 "ヒンドゥー教徒の目から見た我々の支配の正統性は、[Root.GetBrahminsName]による支援またはその他の方法と結びついている。"
  estate_brahmins_brahmin_leadership_desc:0 "賢明で知識豊富な[Root.GetBrahminsName]の他に、我々の問題を管理する上でより良い助言を提供できる者がいるかは疑わしい。"
- estate_brahmins_flexible_deities_desc:0 "通常、主神の選択は生涯に一度だけである。ただし「説得」の正しい形式が使用されている場合、[Root.GetBrahminsName]は、このルールからのいくらかの逸脱を見逃すよう説得できる。"
+ estate_brahmins_flexible_deities_desc:0 "通常、主神の選択は生涯に一度だけである。しかし、適切な形で「説得」を行った場合、[Root.GetBrahminsName]は、このルールからの逸脱を見逃すよう説得できるかもしれない。"
  estate_brahmins_loyalty_privilege_desc:0 "[Root.GetBrahminsName]の評議会を設立し彼ら自身の問題を管理することで、[Root.Monarch.GetTitle]の他の決定に対する彼らの理解が深まるだろう。"
  estate_brahmins_guaranteed_autonomy_desc:0 "[Root.GetBrahminsName]は、ヒンドゥー教徒の国民から高く評価されている。彼らにより大きな自治を与えることは、[Root.GovernmentName]に対する彼らの支援を確保し、彼らと我々との違いが宗教的な争いに発展しないことを確実にする効果的な方法だろう。"
  estate_jains_diplomacy_desc:0 "[Root.GetJainsName]が[Root.Monarch.GetTitle]の政策をある程度統制するのを許可することで、商業的な利益を確実に守ることができるだろう。"

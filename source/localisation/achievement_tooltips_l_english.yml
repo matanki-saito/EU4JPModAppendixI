@@ -64,4 +64,5 @@
  achievement_mehmet_ambition_tooltip:0 "§Y[Root.GetName]§!またはその§Y中核エヤレト§!従属国が領有している。"
  completed_incan_missions:0 "インカミッションツリーを達成する（日沈む地からの侵略ミッションも含む）"
  achievement_baborg_tooltip:0 "§Y12§!以上の文化グループを同化する。（§Y[Root.GetNumAssimilatedCultureGroups]§!/§Y12§!）"
- achievement_the_hungarian_games_tooltip:0 "§Y黒軍§!もしくは§Y黒軍予備隊§!の傭兵団で、§Y12§!以上の異なる国家との戦闘に§Y23§!回勝利する。（§Y[Root.GetBlackArmyBattleVictories]§!/§Y23§!）"
+ achievement_the_hungarian_games_tooltip:1 "§Y黒軍§!もしくは§Y黒軍予備隊§!の傭兵団で、§Y12§!以上の異なる国家との戦闘に§Y23§!回勝利する。（§Y[Root.GetBlackArmyBattleVictories]§!/§Y23§!）\n同じ国に対しては§Y3§!回まで勝利できます"
+ achievement_there_khan_only_be_one_tooltip:0 "政府改革§Yステップの遊牧民§!や§Yモンゴル大ハーン国§!の国は、（§Y[Root.GetName]§!を除いて）他に存在しません。"

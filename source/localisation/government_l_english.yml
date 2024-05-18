@@ -359,3 +359,4 @@
  mechanic_can_inherit_personal_unions_no:0 "§Y同君連合の下位国の継承§!を無効にします。"
  mechanic_has_janissaries_yes:0 "§Yイェニチェリ§!を募集できます。"
  mechanic_has_janissaries_no:0 "§Yイェニチェリ§!をもう雇用できなくなります。"
+ feudal_theocracy_mechanic:0 "封建的神権制"
