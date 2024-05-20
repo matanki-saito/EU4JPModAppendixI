@@ -11,7 +11,7 @@
  command_aftercastle:0 "船尾楼指揮所"
  command_aftercastle_desc:0 "船尾楼付きの船の供給は、船長や船員の中でも有能な者たちのより良い収容を提供するだろう。"
  improved_crows_nest:0 "改良された見張り台"
- improved_crows_nest_desc:0 "我々のもののような旗艦を用いて、敵は我々の接近を見るつもりだ。我々は、確実に彼らを真っ先に見つけられるようにする必要がある。"
+ improved_crows_nest_desc:0 "我々のように旗艦を持っている場合、敵は我々の接近を察知してしまうであろう。我々は、確実に彼らに先んじて見つけるようにする必要がある。"
  mortars:0 "臼砲"
  mortars_desc:0 "長距離攻城兵器は他の船に対してはあまり効率的ではないが、陸上の建造物に与える脅威を大幅に向上させる。"
  standardized_signal_book:0 "暗号表の標準化"

@@ -156,7 +156,7 @@
  CONFIRM_ALL_JOIN_TRADE_COMPANY_DESC:0 "$NODE|Y$のすべての州の支配権を$COMPANY|Y$に与えると、建設する交易帝国の価値を大きく向上させますが、兵力や税金の源泉としての価値は低下します。\nまた母国が採用している制度のこの州への自動的な伝播も無効になります。"
  CONFIRM_ALL_JOIN_TRADE_COMPANY_DESC_NEW:0 "$REGION|Y$に新しい交易会社を設立します。$NODE|Y$のすべての州の支配権を新会社に与えると、建設する交易帝国の価値を大きく向上させますが、兵力や税金の源泉としての価値は低下します。\nまた母国が採用している制度のこの州への自動的な伝播も無効になります。"
  CONFIRM_ALL_LEAVE_TRADE_COMPANY_TITLE:0 "交易会社を閉鎖"
- CONFIRM_ALL_LEAVE_TRADE_COMPANY_DESC:0 "$COMPANY|Y$から$NODE|Y$のすべての州の支配権を取り消し、私たちが直接資源を支配します。\nこれにより、母国が採用している制度のこの州への自動的な伝播も有効になります。"
+ CONFIRM_ALL_LEAVE_TRADE_COMPANY_DESC:0 "$COMPANY|Y$から$NODE|Y$のすべての州の支配権を取り消し、資源を直接管理します。\nこれにより我が国が既に受容している制度は自動的にこの土地に広まってゆきます。"
  MAY_BE_IN_TRADE_COMPANY:0 "$PROVINCE|Y$は$REGION|Y$交易会社地域に属しています。"
  SV_TRADE_COMPANY_NAME:0 "$NAME|Y$は我々の支配下にある交易会社です。"
  SV_TRADE_COMPANY_INCOME:0 "交易会社の州によって生み出された収入：$INCOME|Y$¤"
