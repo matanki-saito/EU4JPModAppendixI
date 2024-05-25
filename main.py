@@ -357,7 +357,7 @@ def main():
         mod_title_name="JPMOD Main 2: Text",
         mod_tags={"Translation", "Localisation"},
         mod_image_file_path="title.jpg",
-        mod_supported_version="1.37.*.*")
+        mod_supported_version="v1.37.*.*")
 
     print("mod_pack_file_path:{}".format(mod_pack_file_path))
 
