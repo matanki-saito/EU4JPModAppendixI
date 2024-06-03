@@ -118,7 +118,7 @@
  total_naval_units_killed:0 "殺された全海上ユニット"
  total_naval_units_lost:0 "失った全海上ユニット"
  MODIFIER_HAS_STRELTSY:0 "ストレリツィ歩兵が国内で利用可能になる"
- MODIFIER_ALLOWED_STRELTSY_FRACTION:0 "ストレリツィ扶養限界分数"
+ MODIFIER_ALLOWED_STRELTSY_FRACTION:0 "ストレリツィ扶養限界比率"
  MODIFIER_AMOUNT_OF_STRELTSY:0 "ストレリツィ扶養限界"
  MODIFIER_LOCAL_HAS_STRELTSY:0 "ストレリツィ歩兵が州内で利用可能になる"
  STRELTSY_LIMIT_CULTURE:0 "$PROVINCE$は$CULTURE$文化の州なので、カロリアン歩兵を募集できません。"

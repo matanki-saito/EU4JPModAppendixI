@@ -353,7 +353,7 @@
  incident_urbanization_desc:0 "より多くの人々が田舎から城下町へと移り住んだことで、我々の社会は急速に変化している。昔からの商工業組合の力が増大しており、地主たちは農民が土地を簡単に離れてしまうと不満を述べている。"
  CONFIRM_HARMONIZATION:0 "調和の確認"
  CONFIRM_CANCEL_MISSIONARIES_DESC:0 "これにより宣教師は以下の州での作業を中止します：\n§Y$PROVS$§!\n"
- CONFIRM_HARMONIZATION_DESC:2 "調和を行っている間、調和は毎年$HARMONY|R$減少します。\n　調和は$MONTH_YEAR|Y$に終了します。"
+ CONFIRM_HARMONIZATION_DESC:2 "調和を行っている間、調和は毎年$HARMONY|R$減少します。\n 調和は$MONTH_YEAR|Y$に終了します。"
  CANCEL_HARMONIZATION_DESC:0 "中止した場合、これまでの調和の進捗（現在$PROGRESS|%|Y|0$）すべてを失います。"
  REFUSED_CALL_LIBERTY_DESIRE:0 "拒否した場合、$SUBJECT$の独立欲求が§R$VAL$§!増加します。"
  overlord_refused_call:0 "宗主国は参戦要請を拒否した"

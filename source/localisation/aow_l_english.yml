@@ -550,7 +550,7 @@
  revolution_target:0 "革命の発祥地"
  REVOLUTION_TARGET_DESC:0 "革命の間、国家は$SCORE|+0%$のスコアを得ます。"
  FOLLOWING_EFFECTS:0 "これは以下の効果があります："
- PEACE_DISMANTLE_REVOLUTION:0 "革命を解体"
+ PEACE_DISMANTLE_REVOLUTION:0 "革命の解体"
  PEACE_CHANGE_HRE_RELIGION:0 "宗教至上主義"
  DISMANTLE_REVOLUTION:0 "革命が終了すると$WHO$は君主制に戻ります。"
  REVOLUTIONARY_NAME:0 "革命$NAME$"

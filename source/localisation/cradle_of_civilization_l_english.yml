@@ -814,7 +814,7 @@
  RELIGION_VIEW_BANNER_DELAYED:0 "他の学派の関係は以下のとおりです：\n$RELATION$"
  RELIGIOUS_SCHOOL_ITEM_ICON_INSTANT:0 "$NAME|Y$\n$DESC$"
  RELIGIOUS_SCHOOL_ITEM_ICON_DELAYED:0 "他の学派の関係は以下のとおりです：\n$RELATION$"
- NATIONS_WITH_TRADING_POLICY_IN_NODE:1 "\n以下の国が$NAME$でこの政策を適用しています：\n$LIST$"
+ NATIONS_WITH_TRADING_POLICY_IN_NODE:1 "\n以下の国が$NAME$でこの政策を適用しています：\n $LIST$"
  CONFORM_TO_TEMPLATE_ALREADY_MATCHES:0 "§R選択されたユニットはすでにこのテンプレートと一致しています。§!"
  ONLY_JANISSARY_MODIFIER:0 "§Yイェニチェリ連隊のみに影響します§!"
  INVITE_SCHOLAR_COUNTRY_TEXT:0 "\n§Y[From.GetReligiousSchool]学派§!からの学者の招待は我々に以下を与えます："
