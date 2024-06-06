@@ -2909,7 +2909,7 @@
  arl_effective_governance_desc:0 "自国の行政は法の支配を強制する敬虔な知事に大きく左右される。彼らの資質と能力を確保することは、国家の中核の健全性を確保することである。"
  arl_promote_piety_title:0 "信仰の奨励"
  arl_promote_piety_desc:0 "危機や外部脅威に直面した際、自国や不信心者を根絶やしにしようとする者たちに対して、勢いと誇りを持って自国の信仰心や力を示さなければならない。"
- unite_home_region2_ct:0 "§Y[Root.Capital.GetRegionName]§!地方内の全州を§Y[Root.GetName]§!もしくは自国の非朝貢国以外の従属国が領有している。"
+ unite_home_region2_ct:0 "§Y[Root.Capital.GetRegionName]§!地方内の全州を§Y[Root.GetName]§!もしくは自国の従属国（非朝貢国）が領有している。"
  used_either_feudal_theocracy_buttons_tt:1 "現在、封建神権制の能力「§Y聖職者の土地の差押え§!'」もしくは「§Y海外からの少数派の招聘§!」を能動的に使用しています。"
  arl_clerical_reward_yes_tt:0 "£yes£ 「§Y聖職者の土地の差押え§!」が有効な状態でミッションを完了した場合の報酬："
  arl_clerical_reward_no_tt:0 "£no£ 「§Y聖職者の土地の差押え§!」が有効な状態でミッションを完了した場合の報酬："

@@ -1086,7 +1086,7 @@
  ND_SAVE_ERROR_LOADING_CORRUPT:0 "カスタム国家の設定の読み込みに失敗しました。ファイルが破損しています。"
  ND_SAVE_ERROR_WRITING:0 "国家書き込みエラー"
  ND_SAVE_ERROR_WRITING_UNKNOWN:0 "原因は不明ですが、カスタム国家の保存に失敗しました。\n\n十分な空き領域があるか確認してください。"
- seven_cities_events.1000.t:0 "足跡は冷たく育つ"
+ seven_cities_events.1000.t:0 "痕跡は冷えて"
  seven_cities_events.1000.d:0 "かつて我々が探し求めた伝説の秘宝は、もう手の届かないところにあるようだ。これほど長い間、何も見聞が得られなかったので、コンキスタドールは絶望し始めている。"
  seven_cities_events.1000.a:0 "我々は代わりに他の宝物を探す必要がある。"
  nahuatl_events.3.b.tt:1 "[Root.Monarch.GetName]は[Root.Monarch.GetHerHis]の血をいくらか捧げます。これは確実に我々の戦士を助けるでしょうが、戦士が敗北した場合、統治者の評判に影響があります。"

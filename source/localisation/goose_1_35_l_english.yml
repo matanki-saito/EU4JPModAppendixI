@@ -106,7 +106,7 @@
  RANDOM_PROVINCES_AMOUNT_TOOLTIP:0 "$AMOUNT$のランダム州で"
  ONE_RANDOM_PROVINCE_TOOLTIP:0 "ランダム州で"
  PROVINCE_GROUP:0 "州グループ"
- EVERY_OWNED_OR_NON_TRIBUTARY_PROV:0 "全州を自国もしくは自国の朝貢国以外の従属国で領有している"
+ EVERY_OWNED_OR_NON_TRIBUTARY_PROV:0 "全州を自国もしくは自国の従属国（非朝貢国）で領有している"
  FRONTIER_TOOLTIP:0 "$COUNTRY|Y$は$PROVINCE|Y$に植民地を建設しています。現在の人口は$AMOUNT|0$です。毎月$MIN$～$MAX$人増加します。"
  RETURN_CORE_COUNTRY_OFFDESC:0 "$RECIPIENT$に対し、同盟国への好意の証として$TAG$の中核州$PROV$を返還するよう要求します。これには好感度が$FAVOURS$かかります。"
  land_units_killed:1 "一会戦で殺された陸上ユニット"
