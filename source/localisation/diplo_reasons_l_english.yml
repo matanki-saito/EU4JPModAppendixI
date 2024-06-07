@@ -24,7 +24,7 @@
  DIPLO_ENEMIES_TOO_FAR_AWAY:0 "遠隔地での戦争："
  DIPLO_DEFENSIVE_WAR:0 "防衛戦争："
  DIPLO_BANKRUPT:0 "$WHO$は破産している："
- DIPLO_STABILITY_HIT:0 "承諾は$WHO$を不安定化させる："
+ DIPLO_STABILITY_HIT:0 "受諾すると$WHO$が不安定化してしまう："
  DIPLO_OLD_WAR:0 "開戦から$MONTHS$ヶ月以上経過している："
  DIPLO_RECENT_OFFENSIVE_CALL:0 "$WHO$は§Y$DATE$§!まで新たな攻撃戦争への参加を望まない："
  DIPLO_HAS_ALLIANCE:0 "同盟を結んでいる："
