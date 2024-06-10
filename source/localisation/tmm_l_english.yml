@@ -509,7 +509,7 @@
  REDUCE_OPINION_REQDESC:0 "$ACTOR$は、好感度と引き換えに、$WHOM$の評価を下げることを求めています。受け入れますか？"
  REDUCE_OPINIONTITLE:0 "評価の減少"
  REDUCE_OPINION_CANNOT_ALLIANCE:0 "$WHOM$と同盟しています。"
- REDUCE_OPINION_CANNOT_THEYRE_FRIENDS:0 "$WHOM$の我々に対する評価が$OPINION$以上である。"
+ REDUCE_OPINION_CANNOT_THEYRE_FRIENDS:0 "$WHOM$に対する自国の評価が$OPINION$以上である。"
  REDUCE_OPINION_FAVOR_DESC:0 "$THEM|Y$に対して、$WITH|Y$の評価を$AMOUNT|R$だけ変えるよう求めます。（現在値：$CURRENT$）"
  REDUCE_OPINION_FAVOR_REQDES1:0 "$ACTOR|Y$は、自国から$THEM|Y$への評価を下げるよう求めています。\nこれにより、自国から$THEM|Y$への評価が$OPINION$分下がります。"
  SELECT_COUNTRY_TO_REDUCE_RELATIONS_WITH:0 "彼らの評価を減らすために、国を選択してください。"
