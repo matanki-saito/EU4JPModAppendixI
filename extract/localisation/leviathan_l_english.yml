@@ -1609,7 +1609,7 @@
  monument_boost:0 "Monument Improvements"
  desc_monument_boost:0 "Hiring the best masons in our nation has helped to optimize the construction of our monuments."
  monument_church_of_the_people:0 "Church of the People"
- desc_monument_church_of_the_people:0 "From the lowly peasant to the highest of the clerics, everyone from our [Root.Government.GetName] is welcome in Saint Peter's Basilica."
+ desc_monument_church_of_the_people:1 "From the lowly peasant to the highest of the clerics, everyone from our [Root.GovernmentName] is welcome in Saint Peter's Basilica."
  monument_events.3.t:0 "The House of the Lord"
  monument_events.3.d:0 "God has eyes everywhere, but His overwhelming presence must find a place to rest. Saint Peter's Basilica has finished its construction and the house of the Lord is now ready to offer such an appropriate resting place. From there, [Root.Monarch.GetTitle] [Root.Monarch.GetName] is able to oversee everything as he was part of God's eyes. The most respected members of the Church have advised us to hold a big mass in order to celebrate and honor this moment of joy."
  monument_events.3.a:0 "We should invite our allies!"

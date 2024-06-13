@@ -709,7 +709,7 @@
  COT_NO_OF_LEVEL:0 "No Center of Trade of level $LEVEL|Y$\n"
  COT_OF_LEVEL:0 "At least one Center of Trade of level $LEVEL|Y$\n"
  COT_NO_OF_LEVEL_PROVINCE:0 "No Center of Trade of level $LEVEL|Y$\n"
- COT_OF_LEVEL_PROVINCE:0 "At least one Center of Trade of level $LEVEL|Y$\n"
+ COT_OF_LEVEL_PROVINCE:1 "Province has Center of Trade of level $LEVEL|Y$\n"
  COT_LESS_THAN:0 "Have less than $NUM|Y$ Centers of Trade\n"
  COT_AT_LEAST:0 "Have at least $NUM|Y$ Centers of Trade\n"
  COT_PROVINCE_GLOBAL_MODIFIER:0 "§Y$PROVINCE$:§! $NAME$"
