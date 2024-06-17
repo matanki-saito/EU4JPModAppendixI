@@ -1010,7 +1010,7 @@
  mechanic_revolutionary_client_state_yes:1 "§Y革命衛星国§!の作成が可能"
  emperor_landfriede:0 "永久ラント平和令"
  ESTATE_NOT_ENOUGH_CROWNLAND:0 "直轄地が十分でない"
- EXPAND_EMPIRE_CB:0 "帝国に隣接する非加盟国に対して帝国への参加を強制する開戦事由を与えます。"
+ EXPAND_EMPIRE_CB:0 "帝国に隣接する非領邦に対し帝国加入を強制する開戦事由が与えられます。"
  force_peasant_republic_desc:0 "[From.GetName]は農民共和国となります。"
  CB_ALLOWED_force_peasant_republic:0 "農民による支配を強制"
  PEACE_force_peasant_republic:0 "農民支配の強制"

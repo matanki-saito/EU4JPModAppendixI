@@ -660,7 +660,7 @@
  cb_force_migration_desc:0 "奴らを強制移住させなければならない。"
  CB_ALLOWED_FORCE_MIGRATION:0 "強制移住"
  PEACEOFFER_ALREADY_FORCED_TO_MIGRATE:0 "§Y$WHO$§!はすでに§Y$PROV$§!への移住を余儀なくされています。"
- FORCE_MIGRATE_TO_LIST_TEXT:0 "@$FLAG$を§Y$PROV$§!に移住"
+ FORCE_MIGRATE_TO_LIST_TEXT:0 "@$FLAG$ §Y$PROV$§!に移住"
  FORCE_MIGRATE_TO_TOOLTIP:0 "§Y$WHO$§!は§Y$PROV$§!への移住を余儀なくされています。"
  NATIVE_POLICIES:0 "原住民政策"
  NATIVE_UPRISING_COOLDOWN:0 "最近の原住民の蜂起の後、§Y$DATE$§!の後まで別の蜂起は予想されていません。"

@@ -87,7 +87,7 @@
  SHAREMAP_RIVAL:0 "ライバルに地図の共有を依頼することはできません。"
  SHAREMAP_ENEMY:0 "彼らは我々をライバルとみなしており、地図の共有をすることはないでしょう。"
  UNCONDITIONALSURRENDERTITLE:0 "無条件降伏"
- UNCONDITIONALSURRENDERDESC:1 "彼らに§Y無条件降伏§!することで、彼らに我々に対する和平を提案するため$MONTHS$ヶ月を与えます。"
+ UNCONDITIONALSURRENDERDESC:1 "§Y無条件降伏§!し、彼らが和平提案を送ってくるまで$MONTHS$ヶ月を与えます。"
  UNCONDITIONALSURRENDERREQDESC:1 "無条件降伏しますか？$COUNTRY$は$MONTHS|Y$ヶ月の間に和平提案を送ってきますが、これは自動的に受け入れられます。もし彼らが送らなければ、彼らの国で平和を求め、ますます厳しい声が上がるでしょう。\n\n本土にいる陸軍は流浪状態になるので、これを行うと保護されます。\n\n現在、我々が領有・支配している州の支配権はすべて敵に移管されます。"
  WEUNCONDITIONALLYSURRENDERED:1 "我々は§Y無条件降伏§!し、そして彼らの返答を待っています。"
  THEYUNCONDITIONALLYSURRENDERED:1 "$COUNTRY$は我々に§Y無条件降伏§!した。彼らに和平の条件を提示しなければならない。"
