@@ -1574,7 +1574,7 @@
  monumental_pride:0 "史跡への誇り"
  desc_monumental_pride:0 "自国最大級の史跡建造は、自領の一部であることを誇りに、国民の心を埋める。"
  monument_church_of_the_people:0 "民衆の教会"
- desc_monument_church_of_the_people:1 "From the lowly peasant to the highest of the clerics, everyone from our [Root.GovernmentName] is welcome in Saint Peter's Basilica."
+ desc_monument_church_of_the_people:1 "下位の農民から高位の聖職者まで、我々[Root.GovernmentName]の誰でも、サン・ピエトロ大聖堂は歓迎している。"
  self_governing_colony_government:0 "自治植民地"
  guru_teaching:0 "グルの教え"
  expanded_infrastructure:0 "インフラの拡張"

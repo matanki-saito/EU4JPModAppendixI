@@ -143,7 +143,7 @@
  tributary_events.12.t:0 "[ningbo_country.GetName]からの朝貢"
  tributary_events.12.d:0 "[ningbo_country.GetName]の大使が、[ningbo_province.GetCapitalName]で交わされた不愉快な行為の補償として、大きな贈り物と共に到着した。[ningbo_country.Monarch.GetTitle]は、彼の反抗的な部下に対して最も厳しい処分を行っており、将来の朝貢任務のために平和が維持されることを個人的に保証している。"
  tributary_events.12.a:0 "賢明な選択だ。"
- tributary_events.12.a.tt:1 "[Root.GetName] will receive §G[Root.money_to_give.GetValue]§! from [ningbo_country.GetName]."
+ tributary_events.12.a.tt:1 "[Root.GetName]は[ningbo_country.GetName]から§G[Root.money_to_give.GetValue]§!を受け取ります。"
  tributary_events.13.t:0 "[exotic_tributary.GetName]の異国情緒ある商品"
  tributary_events.13.d:0 "[Root.Capital.GetCapitalName]の我々の宮廷では、[exotic_tributary.GetName]から朝貢任務によってもたらされた多数の異国情緒あふれる商品に驚いている。先進的な役人や商人は、これらの商品がどのようにして得られたのか、また、提携がすでに形成されていることに注目している。我々が迅速に行動しなければ、より多くの異国情緒あふれる商品を首都にもたらすため密輸組織が設立されることは確実だ。"
  tributary_events.13.a:0 "それを許可するが、我々が分け前を得られるように！"

@@ -668,7 +668,7 @@
  COT_NO_OF_LEVEL:0 "レベル$LEVEL|Y$の交易中心地がない\n"
  COT_OF_LEVEL:0 "レベル$LEVEL|Y$の交易中心地がある\n"
  COT_NO_OF_LEVEL_PROVINCE:0 "レベル$LEVEL|Y$の交易中心地がない\n"
- COT_OF_LEVEL_PROVINCE:1 "Province has Center of Trade of level $LEVEL|Y$\n"
+ COT_OF_LEVEL_PROVINCE:1 "州にレベル$LEVEL|Y$の交易中心地がある\n"
  COT_LESS_THAN:0 "交易中心地が$NUM|Y$未満\n"
  COT_AT_LEAST:0 "交易中心地が$NUM|Y$以上\n"
  COT_PROVINCE_GLOBAL_MODIFIER:0 "§Y$PROVINCE$：§!$NAME$"

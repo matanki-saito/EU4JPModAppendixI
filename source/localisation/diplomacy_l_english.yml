@@ -283,7 +283,7 @@
  FORMCOALITION_ANOTHER_COALITION:0 "彼らはすでに別の包囲網に参加しています。"
  FORMCOALITION_NOTSUBJECTS:0 "独立国のみが包囲網に参加できます。"
  ICON_FORM_COALITION:0 "包囲網結成の提案"
- FABRICATECLAIMDESC_AT_WAR:0 "戦争中の他国に対して請求権の捏造を始めることはできません。"
+ FABRICATECLAIMDESC_AT_WAR:0 "戦争状態にある相手国に対して請求権の捏造を始めることはできません。"
  JUSTIFY_TRADE_CONFLICT_DESC_AT_WAR:0 "戦争中の国に対しては交易紛争の正当化を始めることはできません。"
  TRANSFER_TRADE_POWER_DESC_AT_WAR:0 "戦争中の国から交易力を求めることはできません。"
  FORMCOALITIONREQ:0 "対$TARGET$包囲網を結成しています。"
