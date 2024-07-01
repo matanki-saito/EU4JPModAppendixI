@@ -1193,7 +1193,7 @@
  EVTOPTA4030:0 "[Root.Dip_Advisor.GetHerHisCap]の努力は国内で賞賛されるだろう。"
  EVTOPTB4030:0 "[Root.Dip_Advisor.GetHerHisCap]の評判は我々の国境よりさらに遠くまで届くだろう。"
  EVTNAME4031:0 "$DIPLOMAT$"
- EVTDESC4031:0 "$DIPLOMAT$は、我々の国家を主要な外交勢力として確立するための$DIPLOMAT_POSS_PRONOUN$の努力でよく知られた非常に熟練した外交官である。"
+ EVTDESC4031:0 "$DIPLOMAT$は、我が国家を主要な外交勢力として確立するために尽力したことで名高い、非常に優秀な外交官である。"
  EVTOPTA4031:0 "[Root.Dip_Advisor.GetHerHisCap]の努力は国内で賞賛されるだろう。"
  EVTOPTB4031:0 "[Root.Dip_Advisor.GetHerHisCap]の評判は我々の国境よりさらに遠くまで届くだろう。"
  EVTNAME4032:0 "$TRADER$"

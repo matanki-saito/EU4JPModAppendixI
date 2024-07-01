@@ -1467,7 +1467,7 @@
  devious_ruler:0 "よこしまな支配者"
  desc_devious_ruler:0 "この支配者は非常に異常な状況の中で権力を握った。"
  consort_events.311.t:0 "人々の[Root.Consort.GetTitle]"
- consort_events.311.d:0 "[Root.Consort.GetTitle][Root.Consort.GetName]は黄金の心を持つ[Root.Consort.GetWomanMan]であることが明らかである。[Root.Consort.GetSheHeCap]は常に、[Root.Consort.GetHerHis]の[Root.Monarch.GetWifeHusband]である[Root.Monarch.GetTitle][Root.Monarch.GetName]を満足させるために[Root.Consort.GetHerHis]の最善を尽くし、比類なき優しさで[Root.Consort.GetHerHis]の友人に接する。最近の[poor_province.GetName]州への旅行中に[Root.Consort.GetTitle][Root.Consort.GetName]は、[Root.Consort.GetHerHis]の目で最も貧しい農民の苦しみを見た。以来、[Root.Consort.GetSheHe]は、[Root.Consort.GetHerHis]の最も貧しい人々を助ける計画を立てている。しかし、これらのアイデアを現実にするためには、[Root.Consort.GetName]には国庫からいくらかの資金が必要である。"
+ consort_events.311.d:0 "[Root.Consort.GetTitle][Root.Consort.GetName]は黄金の心を持つ[Root.Consort.GetWomanMan]であることが明らかである。[Root.Consort.GetSheHeCap]は常に、[Root.Monarch.GetWifeHusband]である[Root.Monarch.GetTitle][Root.Monarch.GetName]を満足させるために最善を尽くし、[Root.Consort.GetHerHis]の友人には比類なき優しさで接している。最近の[poor_province.GetName]州への旅行中に[Root.Consort.GetTitle][Root.Consort.GetName]は、最も貧しい農民の困窮ぶりを目の当たりにした。以来、[Root.Consort.GetSheHe]は、最貧の臣民を助ける計画を立てている。しかし、これらのアイデアを実現するためには、[Root.Consort.GetName]には国庫からいくらかの資金が必要である。"
  consort_events.311.a:0 "人々は我々が世話をする。[Root.Consort.GetSheHeCap]は我々を支援する。"
  consort_events.311.b:0 "対処すべき重要事項が他にある。"
  consort_events.312.t:0 "似た者同士"

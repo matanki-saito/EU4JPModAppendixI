@@ -5325,7 +5325,7 @@
  gresham_college_royal_society:0 "王立学会"
  desc_gresham_college_royal_society:0 "自然についての知識を改善するためのロンドン王立学会は、科学の進歩を促進する科学者と学者の学会である。"
  angevin_age:0 "アンジュー時代"
- desc_angevin_age:0 "[Root.GetAdjective][Root.GovernmentName]がまさに世界を自らのものだと請求し、新時代が明けようとしている。どうか、[Root.Monarch.GetTitle]が未制服の領土に視線を向けると自国の敵は震え上がり、自国の臣民は繁栄するように。"
+ desc_angevin_age:0 "[Root.GetAdjective][Root.GovernmentName]がまさに世界を自らのものだと請求し、新時代が明けようとしている。どうか、[Root.Monarch.GetTitle]が未征服の領土に視線を向けると自国の敵は震え上がり、自国の臣民は繁栄するように。"
  eng_taxation_of_the_clergy:0 "聖職者への課税"
  desc_eng_taxation_of_the_clergy:0 "聖職者は重税の圧力を受けている。聖職機関に対する王室の別の動きである。"
  eng_protects_the_clergy:0 "聖職者の保護"

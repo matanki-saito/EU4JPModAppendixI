@@ -4796,7 +4796,7 @@
  flavor_gra.3.b:0 "潰せ。"
  merino_wool_tooltip:0 "§Y羊毛§!を生産する§Yイベリア§!地方の領有州はすべて、§Y貴族§!または§Y聖職者§!の支配下に入ります。"
  flavor_fra.EVTNAME9000:0 "物議を醸す詩人"
- flavor_fra.EVTDESC9000:0 "慣例により、[Root.Monarch.GetTitle][Root.Monarch.GetName]の戴冠による恩赦が実施され、囚人が釈放された。その中の若い詩人はフランスの敵を砕くバラッドを書き感謝を示すのだった。しかしながら廷吏によると、どうやら彼はいまだ窃盗と喧嘩による司祭殺害によりパリで指名手配されているらしい。"
+ flavor_fra.EVTDESC9000:0 "慣例により、[Root.Monarch.GetTitle][Root.Monarch.GetName]の戴冠による恩赦が実施され、囚人が釈放された。その中には若い詩人がいて、彼はフランスの敵を砕くバラッドを書き感謝を示した。しかしながら廷吏の情報によると、どうやら彼は大学で金を盗み、喧嘩の末に司祭を殺害した罪によりパリで指名手配中であるらしい。"
  flavor_fra.EVTOPTA9000:0 "大罪だな。犯罪者を牢獄に連れ戻せ"
  flavor_fra.EVTOPTB9000:0 "気に入った。完全な赦免を与え宮廷に迎え入れよう"
  flavor_fra.EVTOPTC9000:0 "知ったことではない"
