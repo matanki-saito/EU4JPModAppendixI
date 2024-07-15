@@ -4772,7 +4772,7 @@
  flavor_mos.4.desc:0 "偉大なる[Root.Monarch.GetTitle]の飼い犬である[From.GetName]の[From.Monarch.GetTitle]は、要求した貢物を伴った使節を派遣してきた。ルーシは用心棒代を支払った。"
  flavor_mos.4.a:0 "素晴らしい！"
  flavor_mos.4.a.tt:0 "§Y[From.GetName]§!は§Y[Root.GetName]§!へ§Y[Root.mos_tribute_to_pay.GetValue]§!¤支払います。"
- flavor_mos.5.t:1 "[From.GetName]が年次貢物の納付拒否"
+ flavor_mos.5.t:1 "[From.GetName]が年次貢物を拒否"
  flavor_mos.5.desc:0 "[From.GetName]の[From.Monarch.GetTitle]、[Root.GetAdjective]の権力への反逆者は、要求された貢物の納付を拒否しました！ルーシ人は[Root.GetUsableName]の誇り高き馬乗りの怒りを買いました！"
  flavor_mos.5.a:0 "襲撃者を送り力ずくで貢物を取ってこい。"
  flavor_mos.5.a.tt:0 "§Yロシア§!地方内にある§Y[From.GetName]§!の領有州すべてで、§Y[Root.GetName]§!に§G5§! ¤略奪されます。"
