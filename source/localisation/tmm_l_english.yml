@@ -1236,7 +1236,7 @@
  RESCIND_UPGRADE_SUBJECT_TYPE_NAME:0 "$SUBJECTTYPEUPGRADE$を取り消す"
  GALLEY_BONUS_NOT_INLAND_SEA_NO_MALUS_DESC:0 "ここは内海・沿岸ではないので、ガレー船はここでダメージボーナスを得ることはできません。"
  CONCENTRATE_DEVELOPMENT_TAKE:0 "開発度$DEV$は、$STATE|Y$から取得します。これは、$ADM$£adm£、$DIP$£dip£、$MIL$£mil£に変換されます。"
- CONCENTRATE_DEVELOPMENT_DISTRIBUTION:0 "消費後に、首都は $ADM$, $DIP$, $MIL$ の追加開発度を支払います。"
+ CONCENTRATE_DEVELOPMENT_DISTRIBUTION:0 "その君主点（端数切り捨て）により首都に $ADM$, $DIP$, $MIL$ の開発度が追加されます。"
  CONCENTRATE_DEVELOPMENT_CONSEQUENCES:1 "これにより独立欲求$LIBERTYDESIRE$と外交評価$OPINION$が$COUNTRY|Y$に発生し、開発度を奪われた州に荒廃を与えます。"
  AGGRESSIVE_EXPANSION_REFORM_PREVENTS:0 "改革$REFORM$は可決している"
  GETEILTE_MACHT_EFFECT:0 "神聖ローマ皇帝が神聖ローマ帝国外の州を奪取した際、神聖ローマ帝国の加盟国は、皇帝への侵略的拡大を蓄積しなくなりました。"
