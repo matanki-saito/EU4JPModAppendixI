@@ -2587,7 +2587,7 @@
  SP_PRICE:0 "価値"
  DOMESTIC_RELEASE_VASSALL2:0 "盾をクリックして属国を解放します…"
  WEANNEX:0 "我々は、彼らの全土併合を求めています。"
- OTHERANNEX:0 "全土併合を要求しました。"
+ OTHERANNEX:0 "全土併合を要求されました。"
  AGREE:0 "受け入れる"
  DECLINE:0 "拒否する"
  LEDGER_AGE:0 "年齢"

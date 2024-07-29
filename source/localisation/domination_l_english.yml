@@ -3400,7 +3400,7 @@
  share_modern_ideas_desc:0 "§Y[From.GetName]§!の§G3ヶ月§!分の収入と引き換えに、§Y[From.GetModernizationGiven]の近代化§!を提案します。\n\n§Y[From.GetName]と[Root.GetName]の技術差に応じて、最大5.0の近代化を得ることができます。§!"
  share_modern_ideas_tooltip:0 "我々の技術的・文化的進歩を対象国に売り込み、近代化プロセスを加速させます。"
  share_modern_ideas_alert_tooltip:0 "§Y近代アイデア§!共有の売出し"
- share_modern_ideas_dialog:0 "[This.GetName]は自国に文化的および技術的進歩の知識を提供し、その代わりに自国の収入の§Y3§!ヶ月分に相当する出資を求めています。"
+ share_modern_ideas_dialog:0 "[This.GetName]は文化的および技術的進歩の知識を提供し、その代わりに我が国の収入の§Y3§!ヶ月分に相当する出資を求めています。"
  HAS_DEFICIT:0 "赤字である"
  SIZE_OF_LOANS:0 "借款の規模："
  AI_PERSONALITY:0 "個性"
