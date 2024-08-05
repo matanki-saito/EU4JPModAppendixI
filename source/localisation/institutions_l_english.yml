@@ -31,7 +31,7 @@
  CV_EMBRACE_INSTITUTION:0 "$NAME$を受容する。"
  INSTI_NOT_YET:0 "この制度はまだ確立されていない。"
  MBRACE_INSTITUTI:1 "毎月$SPEED$の速さで拡がっています。"
- INSTITUTION_SPREAD_HELP:0 "制度は時間をかけて州に広がっていく。地域の開発によって制度の広がりを直接増やすこともできる。"
+ INSTITUTION_SPREAD_HELP:0 "制度は時間をかけて州に普及していきます。州の開発によって制度の普及を直接増やすこともできます。"
  EMBRACE_STALLED_AT:0 "現在、$PROGRESS$で止まっている。"
  EMBRACE_DONE_WHEN:0 "$PROGRESS|G$では、$YEAR|Y$に出現すると予想される。"
  EMBRACE_DONE:0 "$PROVINCE_NAME|Y$に存在する。"

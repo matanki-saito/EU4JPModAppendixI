@@ -2314,7 +2314,7 @@
  NO_POTENTIAL_RELIGION:0 "今すぐに改宗できる可能性のある宗教はありません。"
  NO_POTENTIAL_SECONDARY_RELIGION:0 "今すぐに選択できる可能性のある融合した信仰はありません。"
  cb_defender_of_the_faith_desc:0 "奴らは真の信仰に忠実でない！"
- RELIGIUS_UNITY_LABEL_D:0 "同じ宗教の下に、すべての州を統一するのは常に良いことです。宗教統一度が100%を下回ると、州の不穏度が増加し、カトリック国家であれば、教皇への影響力が減少します。"
+ RELIGIUS_UNITY_LABEL_D:0 "すべての州を同じ宗教の下に統一するのは常に良いことです。宗教統一度が100%を下回ると、州の不穏度が増加し、カトリック国家であれば、教皇への影響力が減少します。"
  RELIG_PERFECT:0 "我々は$COUNTRY$で宗教統一度を達成し、調和して生きている！"
  RELIG_PROBLEMS:0 "我々の領域には$RELIGION$ではない州が存在しており、我々に問題を引き起こしています。下のリストには、現在真の信仰に従っていない州が含まれています。"
  RELIG_UNITY_FROM_PROVINCES:0 "州から：$VAL|G1%$"
