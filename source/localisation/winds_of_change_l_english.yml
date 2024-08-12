@@ -4476,7 +4476,7 @@
  TATARS_GRANT_UPGRADED_TATAR_YOKE:0 "§Yタタールのくびき§!州トリガー補正は貢物からの君主力を§G+1§!します。"
  TATARS_UNLOCK_RUS_MONUMENTS:0 "All of the Russian §YGreat Projects§! will be usable by us."
  TATARS_CREATE_RUSSIAN_TRIBUTARIES:0 "§Yタタールのくびき§!を復興し、ロシアで数多のユニークな§Yロシアの朝貢国§!を解放します。"
- TATARS_RAIZED_20_PROVINCES:0 "§Y20§!以上の州を破壊した。 (§Y[Root.HordeProvincesRazed.GetValue]/20§!)"
+ TATARS_RAIZED_20_PROVINCES:0 "§Y20§!以上の州を破壊した。(§Y[Root.HordeProvincesRazed.GetValue]/20§!)"
  TATARS_CULTURE_CONVERT_URALIC_PROVINCES:0 "Every province that we own and is part of the §YUralic§! Culture will be converted to §YKazani§!."
  TATAR_IF_WE_OWN_KAZAKH_PROVINCE:1 "If we own at least §YOne§! Province that is a core of @KZH §Y[KZH.GetName]§! and they do not exist:"
  TATARS_RELEASE_KAZAKH:1 "我々の属国として @KZH §Y[KZH.GetName]§!を解放します。"
