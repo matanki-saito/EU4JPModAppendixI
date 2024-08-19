@@ -270,7 +270,7 @@
  increased_force_limit_from_colony:0 "植民地からの不要限界増加"
  CANT_CONSOLIDATE_DEVELOPMENT_NEED_DLC:0 "Leviathan DLCが必要です"
  CONSOLIDATE_DEVELOPMENT_FROM_SUBJ:1 "$STATE$は$TAKER$から収奪され、$LD|-$によって$GIVER$%の独立欲求が増えます。"
- CONSOLIDATE_DEVELOPMENT_FROM_OTHER_NATION:0 "$STATE$は$TAKER$に収奪されるでしょう。"
+ CONSOLIDATE_DEVELOPMENT_FROM_OTHER_NATION:0 "$STATE$は$TAKER$に収奪されます。"
  PEACE_PILLAGE_CAPITAL_STATE:0 "@$TAKERFLAG$ による @$GIVERFLAG$ 首都略奪"
  capital_state_pillaged_by_rival:0 "$TARGET$は自国の首都を収奪した"
  PEACE_PILLAGE_CAPITAL_STATE_DESC:0 "$TAKER$は$GIVER$の首都ステートを収奪します。"
