@@ -386,7 +386,7 @@
  renegotiated_loans:0 "再交渉された借金"
  desc_renegotiated_loans:0 "我々の激しい支配者は、我々の借金の利息を減らすことができた。"
  personality_events.45.t:0 "最後の一滴"
- personality_events.45.d:0 "長い間、我々の外交官は、[Root.Monarch.GetTitle][Root.Monarch.GetName]と[Root.Monarch.GetHerHis]の誰であろうと侮辱する傾向に疲れていた。彼らは、我々の[Root.Monarch.GetTitle]が残したあらゆる混乱の後始末をするため、休息する時間もない。[angry_country.GetName]の[angry_country.Monarch.GetTitle][angry_country.Monarch.GetName]の使者の訪問中、我々の[Root.Monarch.GetTitle]は彼が癇癪を起こすほどに、その男を激怒させた。我々の偉大なホールでのそのような侮辱はこれまで聞いたことがない！"
+ personality_events.45.d:0 "これまでずっと我々の外交官は、誰彼かまわず侮辱しがちな[Root.Monarch.GetTitle][Root.Monarch.GetName]にうんざりしてきた。[Root.Monarch.GetTitle]が残したあらゆる混乱の後始末をするため、外交官は休息する時間もない。[angry_country.GetName]の[angry_country.Monarch.GetTitle][angry_country.Monarch.GetName]の使者が訪問した際には、我らが[Root.Monarch.GetTitle]はその男が癇癪を起こすほど、大激怒させた。ここの大広間でこれほどの侮辱は今まで聞いたことがない！"
  personality_events.45.a:0 "我々の偉大な[Root.GovernmentName]の名誉を守るべきだ！"
  personality_events.46.t:0 "金の裏張りのない雲はない"
  personality_events.46.d:0 "[Root.Monarch.GetTitle][Root.Monarch.GetName]の顧問の一人である$TREASURER$$MASTER_OF_MINT$は、最近、資金の一部が国庫から失われていることを発見した。$TREASURER_CAP_S_PRONOUN$$MASTER_OF_MINT_CAP_S_PRONOUN$は金が誰のポケットに入ったかを発見しても驚くことはなかった。当初、$TREASURER_S_PRONOUN$$MASTER_OF_MINT_S_PRONOUN$は[Root.Monarch.GetTitle]の感情を損なわない解決策を見つけるのに苦労していたが、今、$TREASURER_S_PRONOUN$$MASTER_OF_MINT_S_PRONOUN$には興味深い考えがある。財源を補充するために[Root.Monarch.GetTitle]の「才能」をなぜ利用しないのだろう？"
