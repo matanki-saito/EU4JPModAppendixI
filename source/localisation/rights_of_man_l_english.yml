@@ -1217,7 +1217,7 @@
  consort_events.51.a.tt:0 "§Y[origin_country_of_consort.GetName]§!の王族はもてなしの何たるかを知るだろう。"
  we_are_kin:0 "我々は親戚だ"
  consort_events.52.t:0 "王室の異端者"
- consort_events.52.da:0 "[Root.Monarch.GetTitle][Root.Monarch.GetName]が[Root.Monarch.GetHerHis]の[Root.Consort.GetName]との結婚を発表した時、[Root.Country.GetName]の人々は満足していた。当時、[Root.Consort.GetHerHis]の起源や[Root.Consort.GetHerHis]の[origin_country_of_consort.Capital.GetCapitalName]での育ちについては、[Root.Country.GetName]の王室で最も一般的な人々が、それらの血統であり、彼らがそのような詳細についてはほとんど気にかけていなかったため、ほとんど語られることはなかった。しかし、これらの問題を明るみにした噂が、最近広がり始めた…[Root.Consort.GetTitle]が[Root.Consort.GetHerHis]の古い[origin_country_of_consort.Religion.GetName]の信仰を放棄することを拒否したと言う者もおり、人々は外国人との結婚の必要性は理解しているかもしれないが、彼らはそのような異端者に支配される時が来るとは考えないだろう。"
+ consort_events.52.da:0 "[Root.Monarch.GetTitle][Root.Monarch.GetName]が[Root.Monarch.GetHerHis]の[Root.Consort.GetName]との結婚を発表した時、[Root.Country.GetName]の人々は満足していた。当時、[Root.Consort.GetHerHis]の出自や[origin_country_of_consort.Capital.GetCapitalName]で育ったことについてほとんど語られることはなかった。なぜなら、[Root.Country.GetName]の王室のほとんどの一般庶民にとって王族は独自の血統であり、そのような詳細についてはほとんど関心がなかったためである。しかし、これらの問題を浮き彫りにする噂が、最近広がり始めている…[Root.Consort.GetTitle]が従来の信仰である[origin_country_of_consort.Religion.GetName]を放棄することを拒否しているという話があるのだ。国民は外国人との結婚の必要性は理解しているかもしれないが、異端者に支配されるとなればそうはいかないだろう。"
  consort_events.52.a:0 "よくそんなことが言えたものだな？"
  consort_events.52.a.tt:0 "[Root.Consort.GetTitle]を非難する余地はありません。庶民はこれらの噂を時とともに乗り越えるでしょう。"
  consort_events.52.b:0 "[Root.Consort.GetName]は[Root.Consort.GetSheHe]が持つ価値以上に問題だ。"
