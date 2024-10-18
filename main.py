@@ -46,7 +46,7 @@ replace_parameter_map_definition = {
     "GetJanissariesName": "GetイェニチェリName",
     "GetEunuchsName": "Get宦官Name",
     "GetQizilbashName": "GetクズルバシュName",
-    "GetGhilmanName": "GetグラームName"
+    "GetGhilmanName": "GetグラームName",
     
     " ": " "
 }
