@@ -360,7 +360,7 @@
  PRESTIGE_FROM_CONV:0 "This increases our prestige by §G+$VAL$§!."
  KARMA_FROM_CONV:1 "This increases our Karma by §G+$VAL$§!."
  KARMA_FROM_CONV_CONFIRM:0 "Converting this province will increase our Karma by §G+$VAL$§!."
- MODIFIER_CAN_TRANSFER_VASSAL_WARGOAL:1 "Allows '§YTransfer Subject§!' Peace Treaty at half cost"
+ MODIFIER_CAN_TRANSFER_VASSAL_WARGOAL:2 "Allows '§YTransfer Subject§!' Peace Treaty"
  MODIFIER_CAN_CHAIN_CLAIM:0 "Allow Claims Bordering Claims"
  MODIFIER_FREE_MAINTENANCE_ON_EXPL_CONQ:0 "No Maintenance on Exploring Leaders"
  MODIFIER_CAN_COLONY_BOOST_DEVELOPMENT:2 "+1 of §Yeach Development§! when Colony Finished"

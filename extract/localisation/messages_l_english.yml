@@ -5251,7 +5251,7 @@
  IMPRELTOOTHER_BTN1:0 "OK"
  IMPRELTOOTHER_BTN2:0 "OK"
  IMPRELTOOTHER_BTN3:0 "Go to"
- RELIGIOUSUNITYDESC:0 "Demand that they change their religion to the One True Faith. If they refuse, it will cost us 20 Prestige."
+ RELIGIOUSUNITYDESC:1 "Demand that they change their religion to the One True Faith. If they refuse, we will receive a Casus Belli against them."
  RELIGIOUSUNITYNEWDESC:0 "A family that prays together stays together! Do you wish to demand that they change their religion to the One True Faith?"
  RELIGIOUSUNITYTITLE:0 "Enforce Religious Unity"
  RELIGIOUSUNITYREQDESC:0 "The Holy Roman Emperor (§Y$COUNTRY$§W) is demanding that we convert to the $RELIGION$ faith. Refusing will give them a Casus Belli on us."

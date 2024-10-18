@@ -631,14 +631,14 @@
  ancestor_papal_puppetmaster_personality_die_desc:0 "[Root.Monarch.GetHerHisCap] granted us access to incredible amounts of influence behind the seat of the Holy See."
  
  #Name Change  
- FU7:0 "Angevin Government of Genoa"
- FU7_ADJ:0 "Angevin-Genoese"
+ EU7:0 "Angevin Government of Genoa"
+ EU7_ADJ:0 "Angevin-Genoese"
  EU_KINGDOM_OF_GOD:0 "Kingdom of God"
  EU_KINGDOM_OF_GOD_ADJ:0 "Papal"
  #National Ideas 
- FU7_ideas:0 "Angevin-Genoese Ideas"
- FU7_ideas_start:0 "Angevin-Genoese Traditions"
- FU7_ideas_bonus:0 "Angevin-Genoese Ambition"
+ EU7_ideas:0 "Angevin-Genoese Ideas"
+ EU7_ideas_start:0 "Angevin-Genoese Traditions"
+ EU7_ideas_bonus:0 "Angevin-Genoese Ambition"
  EU_KINGDOM_OF_GOD_ideas:0 "Papal Ideas"
  EU_KINGDOM_OF_GOD_ideas_start:0 "Papal Traditions"
  EU_KINGDOM_OF_GOD_ideas_bonus:0 "Papal Ambition"
