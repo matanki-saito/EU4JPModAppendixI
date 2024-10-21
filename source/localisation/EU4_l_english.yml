@@ -5040,7 +5040,7 @@
  COLONIAL_AUSTRALIA_Hoju:0 "濠州"
  COLONIAL_AUSTRALIA_Hoju_ADJ:0 "濠州"
  ab_manchu_banner_tt:0 "満州八旗が有効な場合、雇える八旗が§G+50%§!されます"
- MODIFIER_CAN_TRANSFER_VASSAL_WARGOAL:1 "「§Y従属国の移譲§!」の和平協定のコストが半分になります"
+ MODIFIER_CAN_TRANSFER_VASSAL_WARGOAL:2 "Allows '§YTransfer Subject§!' Peace Treaty"
  MODIFIER_CAN_CHAIN_CLAIM:0 "請求権のある州に隣接する州への請求を可能にします"
  MODIFIER_FREE_MAINTENANCE_ON_EXPL_CONQ:0 "探検家と征服者に維持費がかかりません"
  MODIFIER_CAN_COLONY_BOOST_DEVELOPMENT:2 "植民地が完成すると、§Y各開発度§!が+1されます"
