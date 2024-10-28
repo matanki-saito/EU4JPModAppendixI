@@ -7995,7 +7995,7 @@
  COL_CONST_TIP_SETTLEMENT_GROWTH:0 "植民者はここに§Y$DATE$§!に到着し、移民成長に従事します。"
  CHARTERCOMPANY_REQDESC:0 "$ACTOR$は我々に$PROV$州を合計§Y$PRICE$§!¤で購入することを提案しています。受け入れますか？"
  CHARTERCOMPANYTITLE:0 "州を購入し交易会社を作成"
- CHARTERCOMPANY_OFFDESC:1 "$RECIPIENT$に$PROV|Y$を売却する機会を提供します。あなたは管理費として$BASE|Y$¤と、金銭的魅力を高める$GAIN|Y$¤を支払います。"
+ CHARTERCOMPANY_OFFDESC:1 "$PROV|Y$を売却する機会を$RECIPIENT$に提供します。あなたは管理費として$BASE|Y$¤と、金銭的魅力を高める$GAIN|Y$¤を支払います。"
  steppe_horde_legacy:1 "ステップの遊牧民"
  steppe_horde_legacy_desc:1 "君主や軍の支配者が部族の長となる政体で、すべての隣人に対して常に開戦事由を持ち、その軍隊は平原での戦いを得意とします。"
  revolutionary_republic_reform_desc:0 "革命共和国は代議院の支持を受けた少数の幹部が政府の代表となります。革命プロパガンダは革命を守る兵士に強い士気を与え、誰もが平等であるという主体は強い指導力を与えます。"

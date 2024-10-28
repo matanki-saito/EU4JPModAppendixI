@@ -1107,7 +1107,7 @@
  church_estate_events.9.a:0 "信仰の習合の根絶を試みる。"
  church_estate_events.9.b:0 "成り行きに任せるのがより良いだろう。"
  church_estate_events.10.t:0 "$ESTATE_CHURCH$の政治闘争"
- church_estate_events.10.d:0 "$ESTATE_CHURCH$が首都における我々の[Root.Monarch.GetTitle]を支援する新しい指導者を任命する時が来た。有力な候補者は、彼の背後にある$ESTATE_CHURCH$の著名な一員としての堅実な経歴を持つ古い聖職者である。しかし、彼は人生の間に、彼よりも醜い過去のより少ない、若干若い候補者が任命されることを期待する、多くの敵を抱えている。[Root.Monarch.GetTitle]として、この選挙において、より忠実な若い候補者への影響を与えることは難しいことではない。しかし、$ESTATE_CHURCH$の問題に干渉することは、長期的には派閥を弱める可能性が高いだろう。"
+ church_estate_events.10.d:0 "首都における我々の[Root.Monarch.GetTitle]を補佐する新しい指導者を$ESTATE_CHURCH$が任命する時が来た。有力な候補者は、$ESTATE_CHURCH$の著名な一員としての確かな経歴を背負っている年老いた聖職者である。しかし、彼は人生の間に多くの敵を抱えており、その敵は彼よりも醜い過去が少なくて若干若い候補者が任命されることを期待している。[Root.Monarch.GetTitle]として、この選挙において、より忠実な若い候補者への影響を与えることは難しいことではない。しかし、$ESTATE_CHURCH$の問題に干渉しているとみなされると、長期的には派閥を弱体化させる可能性が高いだろう。"
  church_estate_events.10.a:0 "$ESTATE_CHURCH$の問題に干渉してはならない。"
  church_estate_events.10.b:0 "若い候補者を支持する。"
  church_estate_events.11.t:0 "[Root.GetName]における$ESTATE_CHURCH$の反乱"
