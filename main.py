@@ -29,26 +29,29 @@ $ 階級について
 こちら参照のこと：https://gist.github.com/matanki-saito/a2afb80eeeef612a28426af31e226d3d
 """
 replace_parameter_map_definition = {
-    "GetNobilityName": "Get貴族Name",
-    "GetClergyName": "Get聖職者Name",
-    "GetBurghersName": "Get市民Name",
+    re.compile("GetNobilityName"): lambda _: "Get貴族Name",
+    re.compile("GetClergyName"): lambda _: "Get聖職者Name",
+    re.compile("GetBurghersName"): lambda _: "Get市民Name",
 
-    "GetCossacksName": "GetコサックName",
-    "GetDhimmiName": "GetズィンミーName",
-    "GetTribesName": "Get部族Name",
+    re.compile("GetCossacksName"): lambda _: "GetコサックName",
+    re.compile("GetDhimmiName"): lambda _: "GetズィンミーName",
+    re.compile("GetTribesName"): lambda _: "Get部族Name",
 
-    "GetBrahminsName": "GetバラモンName",
-    "GetJainsName": "Getジャイナ教徒Name",
-    "GetMarathasName": "GetマラーターName",
-    "GetRajputsName": "GetラージプートName",
-    "GetVaishyasName": "GetヴァイシャName",
+    re.compile("GetBrahminsName"): lambda _: "GetバラモンName",
+    re.compile("GetJainsName"): lambda _: "Getジャイナ教徒Name",
+    re.compile("GetMarathasName"): lambda _: "GetマラーターName",
+    re.compile("GetRajputsName"): lambda _: "GetラージプートName",
+    re.compile("GetVaishyasName"): lambda _: "GetヴァイシャName",
 
-    "GetJanissariesName": "GetイェニチェリName",
-    "GetEunuchsName": "Get宦官Name",
-    "GetQizilbashName": "GetクズルバシュName",
-    "GetGhilmanName": "GetグラームName",
-    
-    " ": " "
+    re.compile("GetJanissariesName"): lambda _: "GetイェニチェリName",
+    re.compile("GetEunuchsName"): lambda _: "Get宦官Name",
+    re.compile("GetQizilbashName"): lambda _: "GetクズルバシュName",
+    re.compile("GetGhilmanName"): lambda _: "GetグラームName",
+
+    re.compile(" "): lambda _: " ",
+
+    re.compile(r"£([a-zA-Z\\-_0-9]+)[   ]*£|£([a-zA-Z\\-_0-9]+)([   .]|$)"):
+        lambda match_obj: "£{:s}£".format(match_obj.group(1) if match_obj.group(1) is not None else match_obj.group(2)),
 }
 
 
@@ -163,9 +166,9 @@ def assembly_app_mod_zip_file(resource_image_file_path,
         return shutil.make_archive(_(out_directory_path, 'mod'), 'zip', root_dir=temp_dir_path)
 
 
-def replace_parameters(replace_parameter_map,
-                       source_dir_path,
-                       output_dir_path):
+def normalization(replace_parameter_map,
+                  source_dir_path,
+                  output_dir_path):
     """
     特殊なパラメータを置き換える
     :param replace_parameter_map:
@@ -177,19 +180,16 @@ def replace_parameters(replace_parameter_map,
     shutil.rmtree(output_dir_path, ignore_errors=True)
     os.makedirs(output_dir_path, exist_ok=True)
 
-    match_pattern = re.compile("{}".format(
-        r"|".join(replace_parameter_map.keys())
-    ))
-
-    def repl(match_obj):
-        return replace_parameter_map.get(match_obj.group(0))
-
     for source_file_path in pathlib.Path(source_dir_path).glob('**/*.yml'):
         with open(str(source_file_path), 'rt', encoding='utf_8_sig', errors='ignore', newline='') as f:
-            replaced_source_file_text = re.sub(match_pattern, repl, f.read())
+
+            text = f.read()
+            for pattern, repl in replace_parameter_map.items():
+                text = re.sub(pattern, repl, text)
+
             write_file_path = str(_(output_dir_path, source_file_path.name))
             with open(write_file_path, 'wt', encoding='utf_8') as w:
-                w.write(replaced_source_file_text)
+                w.write(text)
 
 
 def salvage_files_from_paratranz_trans_zip(out_dir_path,
@@ -329,9 +329,9 @@ def main():
     # 特殊なキーワードを置き換える
     # この後で特殊エンコードするためにbomは取る
     replaced_localization_dir_path = _(tmp_directory_path, "replaced_localization")
-    replace_parameters(replace_parameter_map=replace_parameter_map_definition,
-                       source_dir_path=localisation_dir_path,
-                       output_dir_path=replaced_localization_dir_path)
+    normalization(replace_parameter_map=replace_parameter_map_definition,
+                  source_dir_path=localisation_dir_path,
+                  output_dir_path=replaced_localization_dir_path)
 
     print("Finish replacing special keywords")
 
