@@ -1,7 +1,7 @@
 ﻿l_english:
- select_current_branch_batch_1_missions_title:0 "§Y現在のミッションツリーを選択：§!§O[Root.GetCurrentSelectedMissionBranchBatch1]§!"
- select_current_branch_batch_2_missions_title:0 "§Y現在のミッションツリーを選択：§!§O[Root.GetCurrentSelectedMissionBranchBatch2]§!"
- select_current_branch_batch_3_missions_title:0 "§Y現在のミッションツリーを選択：§!§O[Root.GetCurrentSelectedMissionBranchBatch3]§!"
+ select_current_branch_batch_1_missions_title:0 "§Y現在のミッションツリーを選択:§! §O[Root.GetCurrentSelectedMissionBranchBatch1]§!"
+ select_current_branch_batch_2_missions_title:0 "§Y現在のミッションツリーを選択:§! §O[Root.GetCurrentSelectedMissionBranchBatch2]§!"
+ select_current_branch_batch_3_missions_title:0 "§Y現在のミッションツリーを選択:§! §O[Root.GetCurrentSelectedMissionBranchBatch3]§!"
  preview_branch_batch_1_missions_1_title:0 "§Yミッションツリープレビュー：§O1§!§!"
  preview_branch_batch_1_missions_2_title:0 "§Yミッションツリープレビュー：§O2§!§!"
  preview_branch_batch_1_missions_3_title:0 "§Yミッションツリープレビュー：§O3§!§!"

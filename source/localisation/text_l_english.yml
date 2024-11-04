@@ -8026,7 +8026,7 @@
  MAPMODE_GOVERNMENT_TT:1 "$GOV|Y$は$COUNTRY|Y$の政府です。"
  MAPMODE_GOVERNMENT_DHARMA_TT:2 "$COUNTRY|Y$の政体は$GOV|Y$です。彼らは次の政府改革を制定しています：\n$REFORMS$"
  MAPMODE_GOVERNMENT_DHARMA_NATIVE_TT:0 "$COUNTRY|Y$は§Y原住民§!です。彼らは政府改革を制定していません。"
- EFFECT_ADD_TRIGGERED_MODIFIER:2 "§Y$PROV$§!は条件付き補正「§Y$MODIFIER$§!」獲得し、以下の効果を得ます：\n$VALUE$\n\n"
+ EFFECT_ADD_TRIGGERED_MODIFIER:2 "§Y$PROV$§!は条件付き補正「§Y$MODIFIER$§!」を獲得し、以下の効果を得ます：\n$VALUE$\n\n"
  southeastasian_group:2 "モン＝クメール"
  NEXT:0 "次"
  CHARTERCOMPANY_EXPENSEDESC:0 "自国の植民範囲を基に$BASE|Y$¤の最小費用を支払わなければならず、金銭的魅力を高めるために$GAIN|Y$¤をさらに追加で支払います。"

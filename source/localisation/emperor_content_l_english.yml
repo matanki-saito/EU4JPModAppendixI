@@ -804,7 +804,7 @@
  incident_generic.1.d:0 "神聖ローマ帝国が拡大することは確かに稀ではあるが、帝国の法でそれを禁じているものはない。[pu_hre_country.GetName]をかなり長い期間支配してきたことで、我々は帝国への加盟の主張を擁護するかどうかを検討できるかもしれない。"
  incident_generic.1.a:0 "これを帝国議会で諮るべきだ。"
  incident_generic.1.b:0 "[pu_hre_country.GetName]を含める必要はない。"
- pu_incident_start_tt:0 "帝国事件の開始：[pu_hre_country.GetName]と帝国"
+ pu_incident_start_tt:0 "帝国事件の開始: [pu_hre_country.GetName]と帝国"
  incident_generic.2.t:1 "加盟への請願"
  incident_generic.2.d:1 "神聖ローマ帝国が拡大することは確かに稀ではあるが、帝国の法でそれを禁じているものはない。[current_pu_incident_target.Overlord.GetName]は皇帝に対し、彼らが同君連合の下で統治する[current_pu_incident_target.GetName]を帝国の領土に加えることを検討するよう請願した。"
  incident_generic.2.a:0 "[current_pu_incident_target.GetName]は帝国に加わるべきだ。"
