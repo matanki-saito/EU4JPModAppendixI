@@ -372,7 +372,7 @@
  KNOWLEDGESHAREDESC:1 "（すでに彼らと$EXPIRY$まで知識を共有しています。）"
  OFFER_KNOWLEDGESHARETITLE:0 "知識共有を提案する"
  OFFER_KNOWLEDGESHAREDESC:0 "我々の制度の技術進歩に関する知識を共有することを提案します。"
- ASK_KNOWLEDGESHARE:0 "$COUNTRY|Y$の洗練された豊かさは、我々に知識共有を通じて技術進歩に追いつく機会を与えています。これは首都地域の州において$INSTITUTION$を$GROWTH$成長させます。当然、受け入れる場合は我々の収入の§R$PERCENT$%§!（$FEE$¤）が毎月支払われることになるでしょう。"
+ ASK_KNOWLEDGESHARE:0 "$COUNTRY|Y$の洗練された富裕層は、知識共有を通じて技術進歩に追いつく機会を我々に与えてくれます。これは首都地域の州において$INSTITUTION$を$GROWTH$成長させます。当然、受け入れる場合は我々の収入の§R$PERCENT$%§!（$FEE$¤）が毎月支払われることになるでしょう。"
  SELECT_NAVAL_DOCTRINE:0 "§Y海軍ドクトリンを選択§!"
  SELECT_NAVAL_DOCTRINE_HEADER:0 "海軍ドクトリンを選択"
  NO_NAVAL_DOCTRINE_SELECTED:3 "海軍ドクトリンは選択されていません。\n\n我々が強力な海軍を支えるための扶養限界に達した場合、我々は勇敢な船員たちが従う国家のドクトリンを選ぶことができます。これにより、我々の海軍に特定の恒久的な優位性が与えられるでしょう。"
