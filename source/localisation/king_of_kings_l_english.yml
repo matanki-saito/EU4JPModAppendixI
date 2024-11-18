@@ -387,7 +387,7 @@
  BYZ_this_province_will_lose_development:0 "§Y[This.GetName]§!は§Y開発度§!を§R-75.0%§!され、§Y[Root.GetName]§!は失った§Y開発度§!ごとに§G+75¤§!を得ます。"
  BYZ_may_only_build_in_112:1 "§Y[112.GetName]§!において、造船所やドックを必要とせずに§Yガレアス§!が建造できるようになります。"
  BYZ_upgrading_theodosian_walls_will_be_25_cheaper:0 "§Yテオドシウスの城壁§!のアップグレードコストが§G-25.0%§!されます。"
- BYZ_unlock_decision_to_upgrade_hexamilion_wall:0 "「§Yヘキサミリオン城壁の再建§!」の決断を解禁され、§Y[4701.GetName]§!州を要塞化できるようになります。"
+ BYZ_unlock_decision_to_upgrade_hexamilion_wall:0 "決断「§Yヘキサミリオン城壁の再建§!」が解禁され、§Y[4701.GetName]§!州を要塞化できるようになります。"
  BYZ_unlock_decision_for_theodosian_walls:0 "決断「§Yテオドシウスの城壁§!」が解禁され、§Y[151.GetName]§!州を要塞化できるようになります。"
  BYZ_upgraded_either_walls_to_level_2:0 "§Yエクサミリオンの城壁§!か§Yテオドシウスの城壁§!のどちらかをレベル2にアップグレードする。"
  BYZ_hexamilion_wall_is_being_upgraded:0 "§Yヘキサミリオンの城壁§!はアップグレードされていません。"
