@@ -2459,7 +2459,7 @@
  CONCEDING_REGION:0 "$WHO$は認めるでしょう"
  CANT_COLONIZE_WHILE_CONCEDING:0 "我々は@$TAG$$WHOM$のものだと考えているため$REGION|Y$を植民地化することはできず、条約を取り消すために戦争を開始する必要があるでしょう。"
  PEACE_ANNEX:0 "併合"
- PEACE_GIVE_UP_CLAIMS:0 "右記に対する請求権の放棄："
+ PEACE_GIVE_UP_CLAIMS:0 "右記請求権の放棄："
  AMOUNT_OF_TRADE_POWER_TRANSFERED:0 "送られる交易力の量"
  CONCEDE_COLONIAL_REGION_DESC:0 "$FROM$は$GIVER$に対し、$REGION$を$TO$に明け渡させることを余儀なくされるでしょう。"
  CONCEDE_COLONIAL_REGION_DESC_SIMPLE:0 "$FROM$は$REGION$を$TO$に明け渡すことを余儀なくされるでしょう。"
