@@ -3352,7 +3352,7 @@
  alert_can_call_allies_instant:0 "§Y同盟国に参戦要請可能！§!"
  alert_can_call_allies_delayed:0 "以下の同盟国はあなたの戦争に喜んで参戦するでしょう：\n"
  alert_unlawful_territory_instant:0 "§Y不法な領土！§!"
- alert_unlawful_territory_delayed:0 "$LIST$が持つ不法な領土を帝国に返還するよう求めることができます。"
+ alert_unlawful_territory_delayed:0 "次の国に不法な領土を帝国へ返還するよう要求できます：\n$LIST$"
  REVOKE_ELECTOR:0 "$WHO$は選帝侯の地位を失います。"
  REVOKE_ELECTOR_TITLE:0 "選帝侯位を剥奪する"
  CB_ALLOWED_ELECTOR_REVOKE:0 "選帝侯の剥奪"

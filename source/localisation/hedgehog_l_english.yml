@@ -121,7 +121,7 @@
  NATIVE_TRIBES_CANT_COLONISE:0 "§R先住民部族は入植できません。§!"
  FEDERATION_ADVANCEMENT_NO_FEDERATION:0 "§R連邦の一部ではありません。§!"
  NOT_MIGRATORY_TRIBE_TRIGGER:0 "移住部族ではありません\n"
- MIGRATORY_TRIBE_TRIGGER:0 "移住部族です\n"
+ MIGRATORY_TRIBE_TRIGGER:0 "移住部族である\n"
  native_diplomatic_cermonies_reform:0 "外交儀礼"
  native_hereditary_reform:0 "世襲による統治"
  SETTLE_PROVINCE_NO_DEVELOPMENT:0 "§R州に定住を行うだけの部族開発度が足りていません。§!"

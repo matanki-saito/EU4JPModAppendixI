@@ -347,7 +347,7 @@
  mng_eunuch_continue_stripping_privileges_tt:1 "§Y宦官§!階級の特権は、この決断が制定された時点で、彼らの影響力がその権力を抑制するのに十分低くなるまで、剥奪を継続します。"
  gov_coastal_government:0 "沿岸政府"
  scaling_with_estate_influence_tt:0 "§Y影響度に比例§!\n§Y100%§!の影響度でこの特権は以下の効果を与えます："
- scaling_with_estate_loyalty_tt:0 "§Y忠誠度に比例§!\n§Y100%§!の忠誠度でこの特権は以下の効果を与えます："
+ scaling_with_estate_loyalty_tt:0 "§Y忠誠度に比例§!\n忠誠度§Y100%§!で特権が与える効果："
  when_loyal_tt:1 "§G忠実（忠誠度60%以上）かつ影響度100%のとき§!："
  when_neutral_tt:1 "§Y中立（忠誠度30%～60%）かつ影響度100%のとき§!："
  when_disloyal_tt:1 "§R不忠（忠誠度30%以下）かつ影響度100%のとき§!："

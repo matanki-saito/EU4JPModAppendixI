@@ -397,7 +397,7 @@
  wooden_wall:0 "板壁"
  wooden_wall_desc:0 "急速に変化する世界において、海は我が国にとって非常に重要である。我々の支配を守る手段としても、防衛の第一線としても、木製の壁が優先されるべきだ。"
  alert_can_set_naval_doctrine_instant:1 "§Y海軍ドクトリンが選択可能§!"
- alert_can_set_naval_doctrine_delayed:1 "我々は、海軍ドクトリンを選択して恒久的な海軍のボーナスを得るため、十分に高い海軍扶養限界に達しています。"
+ alert_can_set_naval_doctrine_delayed:1 "我々は十分に高い海軍扶養限界に達しており、恒久的な海軍のボーナスを与える海軍ドクトリンを選択できるようになりました。"
  alert_losing_innovativeness_instant:0 "§Y革新性の低下§!"
  alert_losing_innovativeness_delayed:1 "我々の隣国は我々よりも技術的に先行しており、毎月$VAL|R$の革新性の変化を引き起こしています。"
  MACRO_BUILD_MANUFACTORY_TITLE:0 "製造工場の建設"
