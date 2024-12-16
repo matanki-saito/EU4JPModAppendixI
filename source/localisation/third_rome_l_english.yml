@@ -370,7 +370,7 @@
  patriarch_events.1.a:0 "[Root.GetAdjective]の聖人や祭りを強要しなくてはならない。"
  patriarch_events.1.b:0 "主張することで得られるものは少ない。"
  patriarch_events.2.t:0 "典礼の影響"
- patriarch_events.2.d:0 "[local_see_province.GetAreaName]の司教は[Root.Monarch.GetName]と[Root.Monarch.GetSheHe]が[local_see_province.GetCapitalName]の聖堂の建設を指揮したことの拡大に反対をしている。彼は、我らが与えた大規模な寄付に感謝していないわけではないと述べているが、司教は[Root.GovernmentName]の興味を引くために教会法を破るという使いかたを疑問に思っている。"
+ patriarch_events.2.d:0 "[local_see_province.GetAreaName]の主教は[Root.Monarch.GetName]と[Root.Monarch.GetSheHe]が[local_see_province.GetCapitalName]の大聖堂の献納式を強引に行ったことに異議を唱えている。彼は、我らが与えた大規模な寄付に感謝していないわけではないと述べているが、主教は[Root.GovernmentName]の興味を引くために教会法を破ることを疑問に思っている。"
  patriarch_events.2.a:0 "身の程を教えてやる！"
  patriarch_events.2.b:0 "謙虚さを示すために、さらなる寄付を教会に行なおう。"
  patriarch_events.3.t:0 "[local_see_province.GetName]の大聖堂"
