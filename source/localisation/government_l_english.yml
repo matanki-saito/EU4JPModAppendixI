@@ -303,7 +303,7 @@
  permanent_marathas_council_reform_desc:0 "マラーターの将軍と市民団体の指導者は、我が国家の力の均衡の重要な部分である。我々は会合を正式化し、国を導くためのマラーターの常設評議会を設立すべきである。"
  governmental_purbias_register_reform:0 "政府プルビア登録"
  governmental_purbias_register_reform_desc:0 "国家は、インド全土から熟練のラージプート兵を呼び寄せる対策を講じている。彼らをより効果的に配備できるよう、到着次第これらの戦士たちを組織して団結した連隊に編制する措置を講じるべきだ。"
- mechanic_maratha_general_interaction_yes:2 "マラーターの階級特権「§Yマラーターの軍事的指導§!」を有効にし、最大§G+10%§!の規律と§R-15%§!の税収を与え、マラーターの土地所有権に応じて値は調整されます。"
+ mechanic_maratha_general_interaction_yes:2 "マラーターの階級特権「§Yマラーターの軍事的指導§!」を有効にします。この特権は、マラーターの土地所有権に応じて最大で規律§G+10%§!と税収§R-15%§!をもたらします。"
  mechanic_maratha_general_interaction_no:0 " "
  mechanic_better_purbias_interaction_yes:1 "ラージプートの階級特権「§Yプルビヤの徴募§!」は、ラージプート連隊に対して§G5%§!の規律の増加を与えてくれます。"
  mechanic_better_purbias_interaction_no:0 " "

@@ -692,7 +692,7 @@
  plb_srivijaya_restored:0 "シュリーヴィジャヤの再興"
  desc_plb_srivijaya_restored:0 "何世紀も前にあった輝きに追いついた。"
  ne_birchbark_canoes_title:0 "バーチバークカヌー"
- ne_birchbark_canoes_desc:1 "カヌーは自国の主な輸送手段である。カヌーを制御することで、河川を制御しし、人と交易品双方の輸送を制御できる。最低一州は間違いなく良質な木材を容易に入手できるようにすべきだろう。"
+ ne_birchbark_canoes_desc:1 "カヌーは自国の主な輸送手段である。カヌーを制御することで、河川を制御し、人と交易品双方の輸送を制御できる。最低一州は間違いなく良質な木材を容易に入手できるようにすべきだろう。"
  ne_canoes:0 "カヌー生産"
  desc_ne_canoes:0 "自国のカヌー生産は増大している。"
  ne_longhouses_title:0 "ウィグワムとロングハウス"

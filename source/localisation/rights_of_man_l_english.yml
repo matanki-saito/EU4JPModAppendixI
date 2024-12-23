@@ -1302,7 +1302,7 @@
  denied_aid:0 "拒否された援助"
  outrageous_demands:0 "法外な要求"
  consort_events.61.t:0 "王室の影響力"
- consort_events.61.da:0 "[Root.Monarch.GetName]と[Root.Monarch.GetHerHis]の[Root.Consort.GetWifeHusband]である[Root.Consort.GetName]との結婚により、[Root.GetName]の人々は[origin_country_of_consort.GetAdjective]のあらゆるものに対する思い入れを高めている。特に[Root.Consort.GetTitle]の人気を考慮すると、ある程度の文化交流は予想されていたが、憂慮すべきことに、我々の統治顧問である[Root.Adm_Advisor.GetName]は、我々の州の一つで宗教的な変化が起こっていると警告している。我々の[origin_country_of_consort.GetAdjective]の[Root.Consort.GetTitle]の影響力は、我々の国民たちの礼拝方法にまで少しづつ及んできており、[origin_country_of_consort.Religion.GetName]信者の言葉は驚くほど多くの人々を改宗させている…\n\nそのことを問い詰められると、[Root.Consort.GetName]は肩をすくめ、[Root.Consort.GetSheHe]はとっくに[Root.Religion.GetName]の信仰に改宗しており、[Root.Monarch.GetTitle]もそれを知っているはずだと主張した。「私はこれとは無関係です」と、[Root.Consort.GetSheHe]は弁解している。"
+ consort_events.61.da:0 "[Root.Monarch.GetName]と[Root.Monarch.GetHerHis]の[Root.Consort.GetWifeHusband]である[Root.Consort.GetName]との結婚により、[Root.GetName]の人々は[origin_country_of_consort.GetAdjective]のあらゆるものに対する思い入れを高めている。特に[Root.Consort.GetTitle]の人気を考慮すると、ある程度の文化交流は予想されていたが、憂慮すべきことに、我々の統治顧問である[Root.Adm_Advisor.GetName]は、我々の州の一つで宗教的な変化が起こっていると警告している。我々の[origin_country_of_consort.GetAdjective]の[Root.Consort.GetTitle]の影響力は、我々の国民たちの礼拝方法にまで少しずつ及んできており、[origin_country_of_consort.Religion.GetName]信者の言葉は驚くほど多くの人々を改宗させている…\n\nそのことを問い詰められると、[Root.Consort.GetName]は肩をすくめ、[Root.Consort.GetSheHe]はとっくに[Root.Religion.GetName]の信仰に改宗しており、[Root.Monarch.GetTitle]もそれを知っているはずだと主張した。「私はこれとは無関係です」と、[Root.Consort.GetSheHe]は弁解している。"
  consort_events.61.a:0 "[Root.Consort.GetSheHeCap]は公に[Root.Consort.GetHerHis]の古い信仰を非難すべきだ！"
  consort_events.61.b:0 "それならそれでよい。"
  angered_believers:0 "怒った支持者"
