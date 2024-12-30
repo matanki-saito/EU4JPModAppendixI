@@ -202,7 +202,7 @@
  INFLUENCE_FROM_ESTATE_LOYALTY:0 "$OVERLORD|Y$の$ESTATE|Y$の忠誠度"
  vassal_liberty_affected_by_loyalty:0 "属国の独立欲求は忠誠度の影響を受けます。"
  can_give_agendas_without_interaction:1 "階級はいつでも議題を追求可能"
- CONDITIONAL_MODIFIER_DESC:0 "条件\n$CONDITIONS$が満たされている時：\n$MODIFIERS$"
+ CONDITIONAL_MODIFIER_DESC:0 "以下の条件\n$CONDITIONS$が満たされている時：\n$MODIFIERS$"
  FAILED_ESTATE_AGENDA_TITLE:0 "議題の失敗"
  FAILED_ESTATE_AGENDA_DESC:0 "国内状況の変化にともない、階級はもはや$NAME|Y$を追求しなくなります。それは以下の影響がありました：\n$EFFECT$"
  TIMED_OUT_ESTATE_AGENDA_DESC:0 "議題$NAME|Y$の完了見込みは、$EXPIRY|Y$だったのですが、階級はこれ以上我慢できなくなりました。このことにより、以下の効果がもたらされます：\n$EFFECT$"
