@@ -101,7 +101,7 @@
  DIPIRO_WARNED:0 "§Y$NAME$§!から警告を受けました。もし$WHO|Y$が第三者と開戦した場合、§Y$NAME$§!は$WHO|Y$に宣戦布告するでしょう。\nこの警告は§Y$DATE$§!まで有効です。"
  DIPIRO_WARNING:0 "$WHO|Y$は§Y$NAME$§!に警告しています。もし$NAME|Y$が開戦するなら、$WHO|Y$は彼らを攻撃できます。\nこの警告は§Y$DATE$§!まで有効です。"
  DIPIRO_CLAIMTRHONE:0 "$WHO|Y$は$NAME|Y$の王座を請求しています。\nこれにより$WHO|Y$は講和条約で王座を要求できます。"
- DIPIRO_WARSUBSIDIES:0 "$WHO|Y$は$NAME|Y$への戦争補助金として、毎月$AMOUNT|Y2$¤を支払います。\n$WHO|Y$は$DATE|Y$まで支払いを続けます。"
+ DIPIRO_WARSUBSIDIES:0 "$WHO|Y$は$NAME|Y$への補助金として、毎月$AMOUNT|Y2$¤を支払います。\n$WHO|Y$は$DATE|Y$まで支払いを続けます。"
  DIPIRO_MILACCESS:0 "$WHO|Y$は$NAME|Y$へ軍事通行権を与えます。\nこれは$NAME_ADJ|Y$の軍が$WHO_ADJ|Y$の州に入ることを許すものです。"
  DIPIRO_CONDITIONAL_ACCESS:0 "$TAKER|Y$は以下の理由により$GIVER|Y$領への軍事通行権を持っています：\n"
  DIPIRO_FLEETACCESS:0 "$WHO|Y$は$NAME|Y$へ艦隊通行権を与えます。\nこれは$NAME_ADJ|Y$の船が$WHO_ADJ|Y$の港に入り、修理することを許すものです。"

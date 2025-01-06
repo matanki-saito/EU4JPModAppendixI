@@ -6109,7 +6109,7 @@
  infiltrate_administration:0 "政府への潜入"
  infiltrate_administration_desc:0 "彼らが何をしているか知るために敵の官僚に諜報員を送り込みます。（戦争の霧を解除します。）"
  REMOVE_FOW:0 "$MONTHS$ヶ月間、$COUNTRY$から戦争の霧を解除します。"
- RENAME_PROV_EFF:0 "$OLD$は§Y$NEW$§Wへと名を改めました。\n"
+ RENAME_PROV_EFF:0 "$OLD$は§Y$NEW$§Wに改称されます。\n"
  make_st_petersburg_capital_title:0 "首都サンクトペテルブルクを建設せよ"
  make_st_petersburg_capital_desc:0 "より西洋的な国家として、ロシアは西に首都を持っていなければならない、サンクトペテルブルクは栄光の指針となるだろう！"
  establish_siberian_frontier_title:0 "シベリアを東へ！"

@@ -1425,7 +1425,7 @@
  GER_pommeranian_modifier:0 "文化統合：ポメラニア"
  desc_GER_pommeranian_modifier:0 ""
  GER_intervene_in_war_pp:0 "戦争に介入した"
- GER_crushed_revolution:0 "Crushed Revolution"
+ GER_crushed_revolution:0 "革命の崩壊"
  GER_upgrade_marienburg:0 "記念碑§Yマルボルク城§!が§Y有意義§!以上でない場合、§Y有意義§!にアップグレードされます。"
  GER_upgrade_traders:1 "今後「§Y交易商§!」の顧問は、顧問レベル毎に域内交易力を§G+5.0%§!します。"
  flavor_ger.1.t:0 "交易港の選択"
