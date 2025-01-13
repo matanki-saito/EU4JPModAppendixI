@@ -4069,7 +4069,7 @@
  lit_enable_nomads_for_30_years:0 "§Y30年間§!、§Y部族§!階級を有効にする"
  25_permanent_power_projection:1 "戦力投射のミッション報酬§Y（永続）§!"
  lit_has_3_toh_tt:0 "異端の寛容度が§G3§!以上"
- lit_every_province_with_man_base_production_tt:0 "\n§Y工場§!がある領有州はすべて、基礎生産が§G1§!増加"
+ lit_every_province_with_man_base_production_tt:0 "\n§Y工場§!がある領有州はすべて、基本生産が§G1§!増加"
  flavor_lit.14.t:0 "カジミェシュ・ヤギェウォの列聖"
  flavor_lit.14.d:0 "最初はワルシャワの王宮で誕生したカジミェシュはポーランド人の司祭のもとで成人しました。保守的な養育を受けた彼は信仰を重んじ、胸に紋章としてつけるようになりました。彼の治世中に行った働き、すなわちいくつかの寺院の建立や教皇庁との関係改善により、彼は聖人に宣言され、リトアニアの敬虔さと宗教的強さの活気に満ちた人物になりました。"
  flavor_lit.14.a:0 "我が主に祝福を！"

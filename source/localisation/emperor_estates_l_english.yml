@@ -154,7 +154,7 @@
  UNREST_NAMED:0 "$SOURCE$：$VALUE|-=$\n"
  estate_land_seized:0 "階級の土地の没収"
  ESTATES_SALE_OF_TITLES_DESC:0 "§Y直轄地の10%§!を§Y階級§!に売却します。"
- ESTATES_SEIZE_LAND_DESC:0 "§Y階級の領土の5%§!を接収し、§Y直轄領§!にします。"
+ ESTATES_SEIZE_LAND_DESC:0 "§Y階級の土地の5%§!を接収し、§Y直轄地§!にします。"
  ESTATES_SEIZE_LAND_UNREST_DESC:0 "開発度の階級の占有は§R+5§!の§Y不穏度§!を受け取り、最も影響力のある階級は愚かにもあなたに対して武器を取ります。"
  IS_NOT_MOST_POWERFUL_ESTATE:0 "$ESTATE$は最も強力な階級ではない。"
  IS_MOST_POWERFUL_ESTATE:0 "$ESTATE$は最も強力な階級である。"

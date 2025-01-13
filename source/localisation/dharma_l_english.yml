@@ -637,7 +637,7 @@
  EDIT_TEAM:0 "チームを作成"
  JOIN_TEAM:0 "チームへ加入"
  FROM_CENTER_OF_TRADE:0 "$COT$"
- COT_EFFECT:0 "$PROVINCE|G$にレベル$LEVEL|Y$交易中心地を作ります\n"
+ COT_EFFECT:0 "$PROVINCE|G$にレベル$LEVEL|Y$の交易中心地を造ります\n"
  COT_COASTAL:0 "沿岸"
  COT_INLAND:0 "内陸"
  COT_DESCRIPTION_SHORT:0 "$NAME|Y$（$TYPE$交易中心地 レベル$LEVEL|Y$）\n"
