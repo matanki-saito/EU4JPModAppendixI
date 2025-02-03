@@ -489,7 +489,7 @@
  flavor_kor.10.opt:0 "それならそれでよい。"
  flavor_kor.10.tt:2 "全階級で忠誠を§R10%§!喪失します。\n"
  flavor_kor.11.t:0 "激高した派閥"
- flavor_kor.11.d:0 "[Root.GetKorDHEEstate1]と[Root.GetKorDHEEstate2]の派閥間で、生きるか死ぬかの戦いにまで発展、突入しています。両派閥の指導者たちは、どうも両派の間で裁定を下すために[Root.GetKorFactionReason]が王権を行使しなければならないところまで発展した後、互いに大逆人だと非難しあっています。敵は我々がこうして分裂しているのを見て喜ばなければなりません！"
+ flavor_kor.11.d:0 "[Root.GetKorDHEEstate1]と[Root.GetKorDHEEstate2]の派閥間の相違は、生きるか死ぬかの戦いにまで発展、突入しています。両派閥の指導者たちは、どうも両派の間で裁定を下すために[Root.GetKorFactionReason]が王権を行使しなければならないところまで発展した後、互いに大逆人だと非難しあっています。敵は我々がこうして分裂しているのを見て喜ぶに違いない！"
  flavor_kor.11.A:0 "[Root.GetKorDHEEstate1]を支援せよ！"
  flavor_kor.11.B:0 "[Root.GetKorDHEEstate2]を支援せよ！"
  flavor_kor.11.tt:0 "\nこのイベントの再発を防ぐには、ミッション§Y派閥抗争からの解放§!を達成してください。"

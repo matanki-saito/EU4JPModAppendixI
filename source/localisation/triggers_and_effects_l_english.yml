@@ -120,7 +120,7 @@
  REMOVE_HISTORICAL_RIVAL_EFFECT:0 "$TARGET|Y$を史実ライバルから削除します\n"
  EXILE_RULER_AS_EFFECT:0 "$NAME|Y$が追放されます\n"
  EXILE_HEIR_AS_EFFECT:0 "$NAME|Y$が追放されます\n"
- SET_RULER_EFFECT:1 "$NAME|Y$（Age $AGE$, $ADM$/$DIP$/$MIL$）が統治者になります\n"
+ SET_RULER_EFFECT:1 "$NAME|Y$（$AGE$歳、$ADM$/$DIP$/$MIL$）が統治者になります\n"
  SET_HEIR_EFFECT:0 "$NAME|Y$（$ADM$/$DIP$/$MIL$）が後継者になります\n"
  DEFINE_LEADER_TO_RULER_EFFECT:0 "$LEADERTYPE$$NAME|Y$（$ADM$/$DIP$/$MIL$）が$CLAIM$請求権により統治者になります\n"
  CREATE_MARCH_EFFECT:0 "$WHO|Y$が辺境伯になります。\n"

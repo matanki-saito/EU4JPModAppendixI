@@ -246,7 +246,7 @@
  SOWDISCONTENTDESC:0 "対象国の住民の中に不満の種をまきます。"
  SOWDISCONTENTDESCDERIVED:0 "不満の種をまくと$ADJ|Y$における諜報網規模を$COST|R$減らし、以下の影響を及ぼします：\n$DESC$\n\nこれは$DATE|Y$まで続きます。"
  SOWDISCONTENTALREADYPRESENT:0 "対象国の住民の不満は、すでにかき混ぜられています。"
- UNTIL_DATE_EFFECTS:0 "\n§Y$DATE$§!までの間、以下の効果があります：\n$DESC$"
+ UNTIL_DATE_EFFECTS:0 "\n§Y$DATE$§!までの間、以下の影響があります：\n$DESC$"
  AGITATE_EFFECTS:0 "§Y独立欲求§!：§G+$VAL$%§!"
  AGITATEFORLIBERTYALREADYPRESENTDESC:0 "何者かが彼らを自由に向けて扇動しています。"
  CANCEL_SOWDISCONTENTTITLE:0 "不満の種をまくのを中止する"
