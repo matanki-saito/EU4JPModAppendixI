@@ -214,7 +214,7 @@
  obj_christian_convert:0 "改革への参加"
  obj_christian_convert_desc:2 "国教をプロテスタント、改革派、聖公会、フス派のいずれかに変更する。"
  obj_humanism_religious:0 "人文主義か信仰か"
- obj_humanism_religious_desc:0 "人文主義か信仰か、いずれかのアイデアを全て取得している。"
+ obj_humanism_religious_desc:0 "人文アイデアまたは宗教アイデアの全てのアイデアを取得している。"
  obj_convert_10_provinces:0 "州の改宗"
  obj_convert_10_provinces_desc:0 "少なくとも10州を自宗教に改宗させる。"
  obj_convert_10_provinces_tooltip:0 "§Y10§!の州を改宗させる\n"
