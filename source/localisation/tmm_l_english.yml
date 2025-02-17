@@ -2115,7 +2115,7 @@
  RESET_DEBATE_DELAYED_EFFECT:0 "新しい議題を始めることに加え、以下の効果を獲得します："
  NO_ACTIVE_DEBATE:0 "議会で有効な議題がない。"
  RESET_PARLIAMENT_DEBATE_COOLDOWN:0 "議会の議論を再設定できるのは、$YEARS|Y$年ごとに一度だけです。\n次回の再設定は$UNTIL|Y$に行えます。"
- reset_parliament_debate_modifier:0 "議会の議題を再設定する"
+ reset_parliament_debate_modifier:0 "議題の再設定"
  desc_reset_parliament_debate_modifier:0 "統治者は議会で有効な議論を取り消すために自身の影響力を利用しました。"
  CRSIP_NOSEAT:0 "$NAME|Y$は$PARL$に議席を持っていません。"
  CRSIP_NO_ABILITY:0 "あなたは$PARL$の議席を剥奪する能力を持っていません。"

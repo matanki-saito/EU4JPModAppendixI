@@ -144,7 +144,7 @@
  SUBJECT_FOCUS_NONE_DESC:0 "$WHO$は独自に戦略を決定します。"
  SUBJECT_FOCUS_AGGRESSIVE_DESC:1 "$WHO$は独自に敵領土で交戦しようとし、友軍に追随しようとはしません。"
  SUBJECT_FOCUS_SUPPORTIVE_DESC:0 "$WHO$は同盟軍に貼り付き、独自行動を避けます。"
- SUBJECT_FOCUS_PASSIVE_DESC:0 "$WHO$は自国領にとどまり、他所での交戦を避けます。"
+ SUBJECT_FOCUS_PASSIVE_DESC:0 "$WHO$は自領にとどまり、他所での交戦を避けます。"
  SUBJECT_FOCUS_DEFENSIVE_DESC:0 "$WHO$は同盟国領の周辺に貼り付きますが、侵攻作戦は開始しません。"
  SUBJECT_FOCUS_SIEGE_DESC:0 "$WHO$は交戦を避けながら、敵要塞を包囲・陥落させることに専念します。"
  SUBJECT_MILITARY_FOCUS:1 "すべての属国のフォーカスを設定する"
