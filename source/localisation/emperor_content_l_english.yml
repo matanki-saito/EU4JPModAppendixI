@@ -2995,7 +2995,7 @@
  mary_inheritance_reforms:0 "ブルゴーニュの継承改革"
  desc_mary_inheritance_reforms:0 "我々は継承法を改革し、男性と女性も称号の継承に対して平等な権利を持つようにした。"
  mary_reputation:0 "危機の回避"
- desc_mary_reputation:0 "継承危機は終わった。世界は今、我々に強い支配者と安定した領土があることを目にしている。"
+ desc_mary_reputation:0 "継承危機は終わった。世界は今、我々が強い支配者と安定した領土を持っているとみている。"
  trade_company_north_sea:0 "北海勅許"
  TRADE_COMPANY_NORTH_SEA_Root_Culture_GetName:0 "[Root.Culture.GetName]北海会社"
  TRADE_COMPANY_NORTH_SEA_European_Trade_Company:0 "北海交易会社"

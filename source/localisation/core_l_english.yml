@@ -747,7 +747,7 @@
  MAP_SAVED:0 "地図が保存されました！"
  SCREENSHOT_TAKEN:0 "スクリーンショットを撮影しました！"
  CONFIRMLOADSAVETITLE:0 "ロード"
- CONFIRMLOADSAVETEXT:0 "本当にセーブデータをロードして、現在のゲームを中断しますか？"
+ CONFIRMLOADSAVETEXT:0 "本当に現在のゲームを中断し、セーブデータをロードしますか？"
  CANNOT_RETURN_PROVINCE_NOT_CONTROLLED:0 "§R支配していない州を返すことはできません§!"
  CANNOT_RETURN_PROVINCE_SIEGE:0 "§R包囲下にある州を返すことはできません。§!"
  CANT_BUILD_UNDER_SIEGE:0 "包囲下にある州では建てられません。"

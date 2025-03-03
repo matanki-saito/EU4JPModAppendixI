@@ -273,7 +273,7 @@
  innovativeness_events.3.b:0 "彼らは、有罪となった者の遺体を解剖することができる。"
  innovativeness_events.3.c:0 "彼らの研究のため、遺体の安定供給の確保に努めよう。"
  innovativeness_events.4.t:0 "外国の発明家"
- innovativeness_events.4.d:0 "[inventor_country.GetName]出身の素晴らしい[inventor_country.GetAdjective]の発明家は[inventor_country.GovernmentName]との間で不和となった後、我々の後援を求めてきた。[Root.inventor.GetName]は、この時代の偉大な知性の一つとして、大多数の人々の理解を超え、多くの機械的および化学的な発明を生み出したことで、いくつかの書物に記述されている。"
+ innovativeness_events.4.d:0 "[inventor_country.GetName]出身の優秀な[inventor_country.GetAdjective]の発明家は[inventor_country.GovernmentName]と仲違いした後、我々の後援を求めてきた。[Root.inventor.GetName]は、この時代の偉大な頭脳の一人であると評されており、多くの人々の理解を超えた、機械的・化学的な発明をいくつも生み出した。"
  innovativeness_events.4.a:0 "[Root.inventor.GetName]を引き入れよう！"
  innovativeness_events.4.b:0 "我々は[inventor_country.GetDefiniteArticleBeforePluralCountry][inventor_country.GetName]の怒りを買う危険を冒すことはないだろう。"
  innovativeness_events.5.t:0 "貧困層への教育？"

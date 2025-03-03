@@ -366,7 +366,7 @@
  saints_enforced:0 "宗教の一致"
  desc_saints_enforced:0 "我々は、支配に強く不満を持つ人々を犠牲にしても、この州の人々を我が国の宗教的慣習に従わせたてきた。しかしながら、それによって時間を経て我が国の社会に彼らを統合できるだろう。"
  patriarch_events.1.t:0 "[local_saint_state_province.GetAreaName]の聖人"
- patriarch_events.1.d:0 "[local_saint_state_province.GetAreaName]の大主教管区では非常に不確かだ。我が国は信仰によって纏まっているのだが、その州の人々は地元の聖職者も含めて、国境の内側で慣例となった聖人の祝祭や儀式に参加することを拒否する。彼らはそれを聖典に基づかないと言い、またその地域で多くの尊崇を集めた聖人も含めた彼らの先祖達からの宗教的慣習の儀礼を執り行うのだという。"
+ patriarch_events.1.d:0 "[local_saint_state_province.GetAreaName]の大主教管区には大きな不安がある。我が国は信仰によって纏まっているのだが、地元の聖職者も含めてその州の人々は、国境内で慣例である聖人の祝祭や儀式に参加することを拒否している。彼らはそれを聖典に基づかないと言い、その地域の怪しき聖人の崇拝も含む、彼らの先祖達からの宗教的慣習の儀礼を執り行うのだという。"
  patriarch_events.1.a:0 "[Root.GetAdjective]の聖人や祭りを強要しなくてはならない。"
  patriarch_events.1.b:0 "主張することで得られるものは少ない。"
  patriarch_events.2.t:0 "典礼の影響"
