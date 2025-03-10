@@ -316,7 +316,7 @@
  mechanic_is_merchant_republic_yes:1 "§Y商人共和制§!である"
  mechanic_is_merchant_republic_no:0 " "
  lottery_reform:0 "くじ引き"
- lottery_reform_desc:0 "投票の過半数による選挙は、汚職または悪化、大衆主義となる傾向がある。我々は、適切な候補者の中からほぼランダムに選ぶことにより、誰が共和国を率いるべきかを決定するための複雑な分配制度を採用する。"
+ lottery_reform_desc:0 "多数決投票による選挙は汚職の傾向があり、悪ければ大衆主義となる傾向がある。我々は、適切な候補者の中からほぼランダムに選ぶことにより、誰が共和国を率いるべきかを決定するための複雑な分配制度を採用する。"
  appointment_by_committee_reform:0 "評議会による任命"
  appointment_by_committee_reform_desc:0 "政府官庁への恣意的な任命を放棄しよう。与えられた役割において、管理能力が我が領域内で達成基準にあることを保証するため、最良の候補者を決定する委員会を設立しよう。"
  bureaucratic_aparatus_reform:0 "官僚機構"

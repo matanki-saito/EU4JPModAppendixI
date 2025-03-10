@@ -3462,7 +3462,7 @@
  GLOBAL_SAILORS:0 "国内水兵補正"
  SAILORS_RECOVERY:0 "水兵の回復速度"
  MACRO_TOO_FEW_MERCS:0 "このひな形の分だけ作成するには傭兵連隊が足りません。"
- MACRO_NO_MONEY:0 "§R建設には$NEEDED|0$¤が必要です。§!"
+ MACRO_NO_MONEY:0 "§R作成には$NEEDED|0$¤が必要です。§!"
  MACRO_IN_COMBAT:0 "現在$PROVINCE$で戦闘が行われています。"
  MACRO_OPEN_INTERFACE_TOOLTIP:1 "§Y生産インターフェース§!\nユニットの雇用・建造物の建設をします。"
  MACRO_RULES:0 "ルールにより禁止。"

@@ -325,7 +325,7 @@
  devotion_events.200.d:0 "[Root.Heir.GetName]は、[Root.Heir.GetSheHe]が[Root.Monarch.GetTitle][Root.Monarch.GetName]の後に[Root.Country.GetName]の支配者として選ばれるまでは、マスジッドにおける祈りの指導者であり、金曜日の会衆の祈りの説教者であった。イマーム・カディブとして[Root.Heir.GetHerHim]を選んだ地元の社会は、イスラムの基礎を会衆に教えるのに[Root.Heir.GetHerHim]と同様に博識で、高潔な者はほとんどいないため、[Root.Heir.GetName]が去ったのを悲しんでいるだろう。[Root.Heir.GetSheHe]が去ったことで、[Root.Heir.GetName]よりも劣っている人に宗教的な質問をする必要があるが、それらを失うことで、我々が得るものもあるだろう。"
  devotion_events.200.a:0 "[Root.Heir.GetName]を次の[Root.Monarch.GetTitle]として選択することが賢明だった。"
  devotion_events.201.t:0 "基本理念"
- devotion_events.201.d:0 "評議会は支配構造の一部であるが、その柱の一つではないと主張する者もいるかもしれない。会議は、イスラムの教え、コーランとスンナ派の指針の諮問に従うべきである。指導者は、会議の主宰者から選出されるべきである。議論はmushawarahとmudhakarah－審議と総意－に基づくものである。コーランとスンナ派の教えに違反しない限り、誰もが意見を表明し、過半数の声を受け入れることができる。"
+ devotion_events.201.d:0 "評議会は支配構造の一部であるが、その柱の一つではないと主張する者もいるかもしれない。会議は、イスラムの教え、コーランとスンナ派の指針の諮問に従うべきである。指導者は会議の出席者から選出され、会議のトップに据えるべきである。議論はmushawarahとmudhakarah－審議と総意－に基づくものである。コーランとスンナ派の教えに違反しない限り、誰もが意見を表明することができ、多数派の声が受け入れられる。"
  devotion_events.201.a:0 "それを柱の一つにする。"
  devotion_events.201.b:0 "それは我が国を管理する簡単な方法のようだ。"
  devotion_events.202.t:0 "慈悲の心"

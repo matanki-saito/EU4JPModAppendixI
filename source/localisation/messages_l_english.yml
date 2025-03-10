@@ -4356,7 +4356,7 @@
  RMEND_HEADER:0 "使者からの報告"
  RMEND_1:0 "$KINGCOUNTRY$"
  RMEND_2:0 "悲しい知らせです。偉大な政治家である"
- RMEND_3:0 "$KINGCOUNTRY$$KING$が"
+ RMEND_3:0 "$KINGCOUNTRY$の$KING$が"
  RMEND_4:0 "死去しました。我々の"
  RMEND_5:0 "$KINGCOUNTRY$との"
  RMEND_6:0 "王室間の婚姻は終了しました。"
