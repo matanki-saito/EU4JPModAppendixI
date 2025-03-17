@@ -120,7 +120,7 @@
  mamluk_adm_power:1 "統治文化の進展"
  mamluk_dip_power:1 "外交文化の進展"
  mamluk_mil_power:1 "軍事文化の進展"
- MAMLUK_POWER_EXTRA_DESC:0 "$RULER$が死ぬとこの値はリセットされます。"
+ MAMLUK_POWER_EXTRA_DESC:0 "$RULER$が死去すると、この値はリセットされます。"
  NO_PROVINCES_OF_CULTURE:1 "$CULTURE|Y$の州を持っていません。\n"
  enlist_general:0 "将軍の徴用"
  enlist_general_desc:1 ""
