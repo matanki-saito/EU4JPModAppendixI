@@ -288,7 +288,7 @@
  canal_events.EVTNAME12:0 "優れたリーダーシップ？"
  canal_events.EVTDESC12:0 "驚いたことに、[Root.GetName]の私たちの運河プロジェクトが予定よりも速く進んでいるようです。"
  canal_events.EVTOPTA12:0 "これは本当か？"
- canal_events.EVTNAME13:0 "いい天気"
+ canal_events.EVTNAME13:0 "好天に恵まれて"
  canal_events.EVTDESC13:0 "[Root.GetName]の運河工事は、最近は天候にも恵まれ、予定よりも早く工事が進んでいます！"
  canal_events.EVTOPTA13:0 "ようやくの朗報だ"
  canal_events.EVTNAME20:0 "疫病の発生"

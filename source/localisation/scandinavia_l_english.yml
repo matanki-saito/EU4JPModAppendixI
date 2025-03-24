@@ -1609,7 +1609,7 @@
  prussian_confederation_disaster:0 "プロイセン同盟"
  prussian_confederation_disaster_at:0 "決断「§Yプロイセン同盟の縮小§!」を制定している。"
  prussian_confederation_disaster_bt:0 "イベント「§Yプロイセン同盟の反乱§!」が発生済みである。"
- prussian_confederation_disaster_ct:0 "ミッション「§Y同盟の掌握§!」を達成済み。"
+ prussian_confederation_disaster_ct:0 "ミッション「§Y同盟の掌握§!」を達成している。"
  prussian_confederation_disaster_dt:0 "イベント「§Yチュートン騎士団領の崩壊§!」が発生済みである。"
  teu_dummy_mission_1_title:0 "[Root.GetSelectableMissionTitle]"
  teu_dummy_mission_1_desc:0 "[Root.GetSelectableMissionDescription]"

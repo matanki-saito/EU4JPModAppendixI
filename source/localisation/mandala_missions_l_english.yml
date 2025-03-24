@@ -130,7 +130,7 @@
  mnd_siam_conquer_burma_title:0 "ビルマ侵攻"
  crush_burma_tt:0 "§Yビルマ§!地方に首都があり、総開発度が§Y50§!以上ある、独立国及び朝貢国が存在しない。"
  mnd_siam_conquer_burma_desc:0 "ビルマでは、永遠なる平和など約束されない。この地方を自国の支配下に置かねばならない。"
- had_siamese_revolution_tt:0 "国難§Yシャム革命§!を終えた"
+ had_siamese_revolution_tt:0 "国難§Yシャム革命§!を完了している"
  had_siamese_revolution_tt_2:0 "§Y東インド諸島§!亜大陸内の任意の州を領有する§Y西ヨーロッパ§!諸国が存在しない"
  mnd_siam_absolutism_title:0 "絶対王政"
  mnd_siam_absolutism_desc:0 "[Root.Monarch.GetTitle]が有する権限は申し分ないものだ。その輝きを全員が享受できるよう、国家を中央集権化し、独裁支配を成立させねばならない。"
