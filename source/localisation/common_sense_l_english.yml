@@ -1461,7 +1461,7 @@
  desc_fc_hre_privileges:0 "神聖ローマ帝国皇帝は、我々に関税と税の特権を与えた。"
  opinion_special_privileges:0 "皇帝によって付与された特権"
  opinion_agreed_league:0 "都市同盟は受け入れられた"
- opinion_refused_league:0 "都市同盟は拒否された"
+ opinion_refused_league:0 "都市同盟を拒否した"
  fc_city_league:0 "都市同盟"
  desc_fc_city_league:0 "シュヴァーベン同盟、ハンザ同盟、ロンバルディア同盟などの古い都市同盟に触発され、神聖ローマ帝国の自由都市はいくつかの問題で力を合わせ、協力することで合意した。"
  opinion_withheld_reforms:0 "保留された改革のアイデア"
