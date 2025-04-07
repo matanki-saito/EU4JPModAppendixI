@@ -698,7 +698,7 @@
  investment_events.1.a:0 "新たにセポイ連隊を設立する。"
  investment_events.1.b:0 "原住民を雇用する必要はない"
  investment_events.2.t:0 "交易会社購入に関する相違"
- investment_events.2.d:0 "紛争で取得した場合でも買収で取得した場合でも、[land_purchase_province.GetName]の交易会社の所有権を認めている条約について係争中となっています。[land_purchase_province.TradeCompany.GetName]の土地仲買人は、彼らの正当な領土は現在管理している土地よりも幾分か遠くにある、と主張しています。\n\n彼らの主張は、[land_purchase_country.GetName]が国境地域の交易会社の所有権を認めていると現在主張している仲買人により、問題の土地が特に高く評価されているという事実が動機となっています。[land_purchase_country.GetAdjective]の役人はこの予想外の拡大主義に快い反応をしておらず、彼らの条約の解釈の遵守を要求しています。"
+ investment_events.2.d:0 "紛争で取得したか買収で取得した土地で、[land_purchase_province.GetName]の交易会社の所有権を認めている条約について係争中となっています。[land_purchase_province.TradeCompany.GetName]の土地仲買人は、彼らの正当な領土は現在管理している土地よりも幾分か広い、と主張しています。\n\n彼らの主張は、[land_purchase_country.GetName]が国境地域の交易会社の所有権を認めていると現在主張している仲買人により、問題の土地が特に高く評価されているという事実が動機となっています。[land_purchase_country.GetAdjective]の役人はこの予想外の拡大主義に快い反応をしておらず、彼らの条約の解釈の遵守を要求しています。"
  investment_events.2.a:0 "彼らは注意事項を読むべきであった。"
  investment_events.2.b:0 "捨ておけ、我々にこの土地は必要ない。"
  investment_events.3.t:0 "アヘン貿易"

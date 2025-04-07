@@ -2423,7 +2423,7 @@
  dof_refused_join_war:0 "不名誉な信仰の擁護者"
  defender_of_faith_refused_cta:0 "不名誉な信仰の擁護者"
  COUNTRY_NAME_WILL_CHANGE_IN:0 "国名が$NAME|Y$に変更されます。"
- COUNTRY_NAME_WILL_BE_RESTORED:0 "国名は元の内容に復元されます"
+ COUNTRY_NAME_WILL_BE_RESTORED:0 "国家の名称が本来の価値を取り戻すでしょう"
  KINGDOM_OF_GOD:0 "神の王国"
  KINGDOM_OF_GOD_ADJ:0 "教皇領"
  pom_unite_pomerania_title:0 "ポメラニア統一"

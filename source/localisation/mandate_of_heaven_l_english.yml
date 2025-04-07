@@ -815,7 +815,7 @@
  ENEMY_ALLIES2:0 "$NAME|Y$は他に以下の同盟国を持っています：\n"
  ENEMY_ALLY_PLAYER:0 "@$TAG$ $NAME$（人間プレイヤー）\n"
  ENEMY_ALLY:0 "@$TAG$ $NAME$\n"
- eoc_nomadic_border_tooltip:0 "総開発度が最低でも§Y300§!"
+ eoc_nomadic_border_tooltip:0 "総開発度が§Y300§!以上"
  TRIBUTE_INCOME:0 "§Y$NAME$§!は我々に毎年§Y$VAL$§!¤を支払います。"
  TRIBUTARY_BREAK_TRUST:0 "彼らはもはや我々を信頼していません。"
  TRIBUTARY_BREAK_THREATENED:0 "彼らは我々が彼らの脅威になっていると感じています。"
