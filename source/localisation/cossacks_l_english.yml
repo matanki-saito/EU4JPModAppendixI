@@ -1103,7 +1103,7 @@
  church_estate_events.8.b:0 "$ESTATE_NOBLES$に味方する。"
  church_estate_events.8.c:0 "いずれの当事者も支持しない。"
  church_estate_events.9.t:0 "人気のある宗教"
- church_estate_events.9.d:0 "$ESTATE_CHURCH$によって実際に教えられ、擁護されてきた宗教と、地方の人々が実際に信仰するものとの間には、常に何らかの食い違いがある。たいていの場合、違いは小さいため、$ESTATE_CHURCH$はそれを無視し、人々のより正統な精神的な思想を強調することに力を注ぐ。\nしかし、古い伝統に根ざしているものの、あまり正統性のない思想が、[Root.Religion.GetName]信仰と共に非[Root.Religion.GetName]の国民の間で広まり始めているようだ。その結果、古い異教の思想、一般的な迷信、そして実際の[Root.Religion.GetName]そのものが習合し、我々の異教徒の国民のために改宗がより魅力的な提案となったように見えたとしても、$ESTATE_CHURCH$にとっては耐えがたいものである。"
+ church_estate_events.9.d:0 "$ESTATE_CHURCH$によって実際に教えられ、擁護されてきた宗教と、地方の人々が実際に信仰するものとの間には、常に何らかの食い違いがある。大抵の場合、違いは小さいため、$ESTATE_CHURCH$はそれを無視し、人々のより正統な精神的な思想を強調することに力を注ぐ。\nしかし、古い伝統に根ざしているものの、あまり正統性のない思想が、[Root.Religion.GetName]信仰と共に非[Root.Religion.GetName]の国民の間で広まり始めているようだ。その結果、古い異教の思想と、民間の迷信と、実際の[Root.Religion.GetName]そのものとが習合したことで、我々の異教徒の国民のために改宗がより魅力的な提案となったように見えたとしても、$ESTATE_CHURCH$にとっては耐えがたいものとなった。"
  church_estate_events.9.a:0 "信仰の習合の根絶を試みる。"
  church_estate_events.9.b:0 "成り行きに任せるのがより良いだろう。"
  church_estate_events.10.t:0 "$ESTATE_CHURCH$の政治闘争"

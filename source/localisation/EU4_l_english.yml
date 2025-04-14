@@ -3122,7 +3122,7 @@
  BASE_FACTOR:0 "基本要因："
  CLAIMINFO:0 "§Y$COUNTRY$§Wはこの州に対する請求権を持っています。"
  CLAIMINFO_PERMANENT:0 "§Y$COUNTRY$§Wはこの州に対する恒久的な請求権を持っています。"
- CLAIMINFO_DELAYED_START:0 "§Y$COUNTRY$§Wは彼らのものとしてこの州をいくらかの正統性を持って見ています。"
+ CLAIMINFO_DELAYED_START:0 "§Y$COUNTRY$§Wはこの州を彼らのものとしてみなすことに、いくらかの正統性があります。"
  CLAIMINFO_DELAYED_PERMANENT:0 "主張は恒久的であり、期限切れになることはありません。"
  CLAIMINFO_DELAYED_PEACE:0 "請求権は$DATE|Y$まで有効です。"
  CLAIMINFO_DELAYED_TRUCE:0 "請求権は$DATE|Y$、$PROVINCE_OWNER|Y$との停戦が終了する日まで有効です。"

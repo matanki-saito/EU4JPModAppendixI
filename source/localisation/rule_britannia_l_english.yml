@@ -281,7 +281,7 @@
  innovativeness_events.5.a:0 "素晴らしい取り組みだ！"
  innovativeness_events.5.b:0 "我々はこれを許可できない"
  innovativeness_events.6.t:0 "[Root.GetRoyalOrState]の後援"
- innovativeness_events.6.d:0 "[Root.GetNoblesReplacementForOtherGovernments]の間では、実験と哲学に時を費やすことがますます流行している。定期的に集まって議論する者もいれば、知的好奇心あふれる者同士で手紙をやり取りしている者もいる。\nそのような集団の一つが、[Root.Monarch.GetTitle]に接触し、後援と支持を求めてきた。彼らは、そのような保証が近い将来、[Root.GovernmentName]に大きな恩恵をもたらすと主張している。"
+ innovativeness_events.6.d:0 "[Root.GetNoblesReplacementForOtherGovernments]の間では、実験と哲学に時を費やすことがますます流行している。定期的に集まって議論する者もいれば、知的好奇心あふれる者同士で手紙をやり取りしている者もいる。\nそのような集団の一つが、[Root.Monarch.GetTitle]に接触し、後援と支持を求めてきた。彼らは、そのような支援が近い将来、[Root.GovernmentName]に大きな恩恵をもたらすと主張している。"
  innovativeness_events.6.a:0 "彼らを支援するべきだ。"
  innovativeness_events.6.b:0 "時間の無駄だ！"
  innovativeness_events.7.t:0 "[university_province.GetName]大学"
