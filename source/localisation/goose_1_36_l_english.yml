@@ -33,7 +33,7 @@
  AUTOMATIC_MISSIONARY_TOOLTIP:1 "この宣教師は自律的に働いています。改宗速度が0%を越えている不適切な宗教の州を、速度が速い順に改宗していきます。\n§Y右/左クリックで削除。§!"
  cossacks_regiment:0 "コサック連隊"
  rajput_regiment:0 "ラージプート連隊"
- PERMANENTLY_LEFT_HRE:0 "§R-神聖ローマ帝国から永久離脱します§!"
+ PERMANENTLY_LEFT_HRE:0 "§R-神聖ローマ帝国から永久離脱した§!"
  PI_GRANTS_SCALED:0 "さらに以後$DURATION|Y$年間、§Y$ESTATE$の影響力§!に比例して：\n$MOD$"
  PI_GRANTS_ENACTED:0 "$DATE|Y$まで、$COUNTRY|Y$は以下を得ます：\n$MOD$"
  PI_GRANTS_SCALED_ENACTED:0 "$DATE|Y$まで、$COUNTRY|Y$は§Y$ESTATE$の影響力§!に比例して以下を得ます：\n$MOD$"

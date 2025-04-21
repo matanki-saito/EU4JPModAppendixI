@@ -713,7 +713,7 @@
  emperor_per_prince_modifier:0 "帝国内の諸侯ごと"
  gemeinerpfennig_emperor_per_prince:0 "諸侯からの一般帝国税"
  hre_event.7.t:0 "[From.GetCapitalName]の永続的帝国議会"
- hre_event.7.d:0 "今日以降、帝国議会は以前のように臨時に開かれるものではなく、[From.GetCapitalName]の都市において恒久的な会期に入る。この段階により、帝国の結束は確実に高まり、皇帝と諸侯の間の関係を正式なものにするのに有用だ。一方、それはまた、[From.GetCapitalName]を帝国を傷つけることを望む者にとっての主要な目標にする…"
+ hre_event.7.d:0 "今日以降、帝国議会は以前のように臨時に開かれるものではなく、[From.GetCapitalName]の都市において恒久的な会期に入る。この段階により、帝国の結束は確実に高まり、皇帝と諸侯の間の関係を正式なものにするのに有用だ。一方、それはまた、[From.GetCapitalName]を帝国を傷つけることを望む者にとって格好のターゲットとなる…"
  hre_event.7.a:0 "安心・安全な社会のために。"
  PERPETUAL_DIET_ESTABLISHED:0 "議会を召集する恒久的な場所が確立されるだろう。"
  perpetual_diet:0 "永続的帝国議会"

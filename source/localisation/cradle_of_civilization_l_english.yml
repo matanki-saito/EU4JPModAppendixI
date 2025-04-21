@@ -41,7 +41,7 @@
  OPTION_DO_NOT_SHOW_AGAIN:0 "この設定は、ゲームを開始する前に§Yオプション§!から変更できます。"
  STARTUP_SCREEN_DLC_DELAYED:0 "本文中にアイコンが表示されている場合、以下の特徴は$DLC_NAME$によるものです。"
  efficient_tax_farming_modifier:0 "効率的な農業税"
- desc_efficient_tax_farming_modifier:0 "農業税は多くの点で我が国の資源を活用する最も効率的な方法である。我々の領土のさまざまな部分から利益を得る権利を売却することで、安定した収入が保証され、課税された農家自身が土地の収穫をさらに高める動機を得ることができる。"
+ desc_efficient_tax_farming_modifier:0 "農業税は多くの点で我が国の資源を活用する最も効率的な方法である。我々の領土のさまざまな地域から利益を得る権利を売却することで、安定した収入が保証され、課税された農家自身が土地の収穫をさらに高める動機を得ることができる。"
  land_acquisition_modifier:0 "土地収用"
  desc_land_acquisition_modifier:0 "使用されていなかった土地を開墾し、所有者のいない土地と統合することでスルタン周辺部は短期間で莫大な利益をあげた。"
  lenient_taxation_modifier:0 "寛大な課税"

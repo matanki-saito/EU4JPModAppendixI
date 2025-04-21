@@ -95,7 +95,7 @@
  emp_sax_conquer_silesia_title:0 "シレジアの獲得"
  emp_sax_conquer_silesia_desc:0 "シレジアの肥沃な土地は、ラウジッツと同様にザクセンの入植者にとって魅力的なターゲットであり、我らと更なる東方への拡張先との間にある。我々はこの戦略的要衝を征服すべきだ。"
  emp_sax_union_with_poland_title:0 "ポーランド王"
- emp_sax_union_with_poland_desc:0 "まだ目に見えていない最大の脅威の一つを[Root.GetAdjective][Root.Monarch.GetTitle]の財産として我々に結びつけることで、伸びゆく国力を確固たるものにすべきだ。"
+ emp_sax_union_with_poland_desc:0 "自国最大の潜在的脅威の一つを、[Root.GetAdjective][Root.Monarch.GetTitle]の所有領として我々に結びつけることで、伸びゆく国力を確固たるものにすべきだ。"
  emp_sax_conquer_franconia_title:0 "フランケンの征服"
  emp_sax_conquer_franconia_desc:1 "コーブルクはフランケン地方での自国の拠点と長らく思われてきた。おそらく、今が自国がその地で領地拡大をするための跳躍台としてそれを活用する時だ。"
  emp_sax_found_wittenberg_title:0 "ヴィッテンベルク大学"

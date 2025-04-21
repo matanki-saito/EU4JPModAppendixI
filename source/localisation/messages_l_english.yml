@@ -5095,7 +5095,7 @@
  IMPRELTOOTHER_BTN2:0 "OK"
  IMPRELTOOTHER_BTN3:0 "移動"
  RELIGIOUSUNITYDESC:1 "彼らの宗教を唯一真の信仰に変えることを要求します。彼らが拒否した場合、我々はそのことに対する開戦事由を獲得します。"
- RELIGIOUSUNITYNEWDESC:0 "一緒に祈っている家族は一緒にいます！彼らの宗教を「唯一真の信仰」に変えるよう要求しますか？"
+ RELIGIOUSUNITYNEWDESC:0 "ともに祈る家族はいつまでも別れない！彼らの宗教を「唯一真の信仰」に変えるよう要求しますか？"
  RELIGIOUSUNITYTITLE:0 "宗教統一の強制"
  RELIGIOUSUNITYREQDESC:0 "神聖ローマ皇帝（§Y$COUNTRY$§W）は我々に$RELIGION$信仰に改宗するよう要求しています。拒否した場合、彼らに我々への開戦事由を与えることになります。"
  RELUNITYWITHUS_TITLE:0 "宗教統一の受諾"
