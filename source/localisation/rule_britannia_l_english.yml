@@ -56,7 +56,7 @@
  industrialization_events.4.a:0 "とても素晴らしい。"
  industrialization_events.4.a.tt:0 "所有州は、今よりも産業革命イベントを誘発する可能性が高くなります。"
  industrialization_events.5.t:0 "飛び杼"
- industrialization_events.5.d:0 "[invention_province.GetName]で暮らす発明家の[Root.inventor_name.GetName]は、「車輪付き」杼の新しい設計について特許を取得しており、杼を通過するときに2つ目の杼で捕捉する必要性を省くことで機織りに革命を起こすだろう。生産性は依然として紡績速度によって制限されおり、すでに製織生産が大きなボトルネックになっているが、杼は、すばやく国中の製織業者に広がっている。"
+ industrialization_events.5.d:0 "[invention_province.GetName]で暮らす発明家の[Root.inventor_name.GetName]は、「車輪付き」杼の新しい設計について特許を取得した。彼は、杼を通過するときに2つ目の杼で捕捉する必要性を省くことで機織りに革命を起こすだろう。生産性は依然として紡績速度によって制限されおり、紡績速度はすでに製織生産の大きなボトルネックになっているが、この杼は急速に国中の製織業者に広がっている。"
  industrialization_events.5.a:0 "我々の紡績業者が追いつくことができれば…"
  industrialization_events.5.a.tt:0 "§Y羊毛§!、§Y布地§!、§Y絹織物§!または§Y綿花§!を産出する州は、今よりも工業化イベントを誘発する可能性が高くなります。"
  industrialization_events.6.t:0 "ジェニー紡績機"

@@ -1148,7 +1148,7 @@
  CONFIRMJOINHREWOULDMEMBER:0 "§Yこれにより、我々は帝国の加盟国となるでしょう。§!"
  CONFIRMJOINHREWOULDMEMBERWARN:0 "§Rこれにより、我々は帝国の加盟国となり、政府ランクが§Y$RANK$§Rレベルに下がります。§W"
  CONFIRMLEAVEHRE:0 "神聖ローマ帝国の放棄"
- CONFIRMLEAVEHRETEXT:0 "神聖ローマ帝国内の宗教的および政治的な絶え間ない争いは、$PROV$の人々の士気を枯渇させている。皇帝との関係は常に冷え込んでおり、$TITLE$$MONARCHNAME$の不名誉な評判は我々の状況を改善していない。多くの人は帝国を離れることが$PROV$の最善の利益になると考えている。\n本当によろしいですか？"
+ CONFIRMLEAVEHRETEXT:0 "神聖ローマ帝国内では宗教的な争いや政治的な争いが絶え間なく続いており、$PROV$の人々の気力は低下している。皇帝との関係は史上最低に達し、$TITLE$$MONARCHNAME$の不名誉な評判は我々の状況を改善していない。多くの人は帝国を離れることが$PROV$の最善の利益になると考えている。\n本当によろしいですか？"
  THE_RULER_IS:0 "統治者は以下である："
  THE_RULERIS_NOT:0 "統治者は以下ではない："
  THE_HEIR_IS:0 "後継者は以下である："

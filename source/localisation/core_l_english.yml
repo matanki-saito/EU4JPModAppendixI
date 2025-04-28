@@ -216,7 +216,7 @@
  PLAYER_ENTERING_GAME:0 "途中参加のプレイヤーがゲームにいます"
  SENDING_SAVEGAME:0 "$NAME|Y$にセーブデータを送信中"
  SAVE_TRANSFER_COMPLETE:0 "$NAME|Y$がセーブデータを受信しました"
- CURRENTLY_ASSIGNED_TO:0 "現在、$NAME|Y$は$WHERE|Y$に配属されている。"
+ CURRENTLY_ASSIGNED_TO:0 "現在、$WHERE|Y$の$NAME|Y$に配属している。"
  NOT_CURRENTLY_ASSIGNED:0 "この指揮官は現在割り当てられていません。"
  UNIT_VIEW_CHOOSE_LEADER_RETREAT:0 "ユニットは退却しているため、新たな指揮官を選ぶことはできません！"
  UNIT_VIEW_CHOOSE_LEADER_COMBAT:0 "ユニットは戦闘中のため、新しい指揮官を選ぶことはできません！"

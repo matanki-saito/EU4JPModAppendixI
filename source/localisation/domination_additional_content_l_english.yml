@@ -336,7 +336,7 @@
  new_world_discovery_decision_member:1 "天朝改革「新世界探検」"
  new_world_discovery_decision_emperor:1 "天朝改革「新世界探検」"
  jap_firearm_production_modifier:1 "鉄砲生産"
- fra_alternatively_10_dev_spread_and2_tt:1 "\nもしくは、£adm££dip££mil£の開発度§G10§!分が§Yブルゴーニュ§!の州にも分配されます："
+ fra_alternatively_10_dev_spread_and2_tt:1 "\nそうでない場合、£adm££dip££mil£の開発度§G10§!分が§Yブルゴーニュ§!の州にも分配されます："
  mng_tranquil_adm_modifier:1 "穏やかな統治"
  mng_tranquil_dip_modifier:1 "穏やかな外交"
  mng_has_enabled_grand_coordinator_offices_tt:1 "「巡撫の官衙」が利用可能である"
