@@ -2859,7 +2859,7 @@
  INSUTOUS_2:0 "$MONARCHTITLE$、$ACTOR$の信頼できない屑が"
  INSUTOUS_3:0 "我々を侮辱しました。"
  INSUTOUS_4:0 "我々は今、彼らに開戦事由を持っており、両国の関係は悪化しています。"
- INSUTOUS_6:0 "通常、$ACTOR$のような野蛮人からのメッセージは無視されます。"
+ INSUTOUS_6:0 "通常であれば、$ACTOR$のような無礼な野蛮人からのメッセージなど無視するだけですが。"
  INSUTOUS_LOG:0 "$ACTOR$、我々を侮辱"
  INSUTOUS_BTN1:0 "OK"
  INSUTOUS_BTN2:0 "OK"

@@ -746,7 +746,7 @@
  monsoon_events.1.a:0 "救援活動を組織せよ。"
  monsoon_events.1.b:0 "なんて悲劇なんだ。"
  monsoon_events.2.t:0 "[monsoon_failure_province.GetAreaName]の雨不足"
- monsoon_events.2.d:0 "[monsoon_failure_province.GetAreaName]には期待を裏切り雨季が来なかった。干ばつが始まり作物が枯れれば、飢饉がそれに続くだろう。"
+ monsoon_events.2.d:0 "[monsoon_failure_province.GetAreaName]では期待を裏切り雨季に雨が降らなかった。干ばつの時期が始まり、作物が枯れれば、飢饉が発生するだろう。"
  monsoon_events.2.a:0 "厳しい時代だ。"
  monsoon_events.3.t:0 "[good_monsoon_province.GetAreaName]に豊穣をもたらす雨"
  monsoon_events.3.d:0 "雨季は[good_monsoon_province.GetAreaName]に適度な雨と豊穣をもたらした。農業が盛んになり、人々は繁栄して地域の富は増えている。"

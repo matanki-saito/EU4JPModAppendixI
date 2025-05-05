@@ -455,7 +455,7 @@
  flagship_events.4.d:0 "[sunk_flagship_country.GetAdjective]海軍の中で、[sunk_flagship_country.GetLostFlagshipName]ほど高く評価されるものはない。このことを知って、我々は準備を続け、とうとう今日になって功を奏した。[sunk_flagship_country.GetLostFlagshipName]を今日の海戦で撃沈し、[sunk_flagship_country.GetAdjective]の士気を大きく低下させ、伝説の船であれなんであれ沈まぬ船はないことを思いしらせた。"
  flagship_events.4.a:0 "良い厄介払いだ！"
  flavor_pap.EVTNAME9:0 "崇高なる神"
- flavor_pap.EVTDESC9:0 "教皇は、アメリカの先住民は奴隷にしてはならないと宣言した。彼らを神の恩寵を受け取ることのできない劣った獣とする考えは、人類の敵によって広められた卑劣な嘘だと断じた。それどころか、教皇は、あらゆる人々と同じように、彼らもまた神の光を切望しており、すべての敬虔な王子たちは一刻も早く彼らに神の教えを広めるべきであると主張した。"
+ flavor_pap.EVTDESC9:0 "教皇は、アメリカの先住民を奴隷にしてはならないと宣言した。彼らを神の恩寵を受け取ることのできない劣った獣とする考えは、人類の敵によって広められた卑劣な嘘だと断じた。それどころか、教皇は、あらゆる人々と同じように、彼らもまた神の光を切望しており、すべての敬虔な諸侯たちは一刻も早く彼らに神の教えを広めるべきであると主張した。"
  flavor_pap.9.a:0 "教皇の意思に従おう。"
  flavor_pap.9.b:0 "教皇の知らないことが彼を傷つけることはできない。"
  IS_EXPELLING_FROM:0 "$SOURCE|Y$からマイノリティを追放中である"
