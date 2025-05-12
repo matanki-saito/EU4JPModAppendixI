@@ -145,4 +145,4 @@
  CULT_REMOVED_EFFECT:0 "このカルトを外した場合の影響：\n$EFFECT$"
  HEGEMONY_GAINED_EFFECT:0 "この覇権を獲得した場合の影響：\n$EFFECT$"
  HEGEMONY_LOST_EFFECT:0 "この覇権を喪失した場合の影響：\n$EFFECT$"
- ADVISOR_MORE_EXPENSIVE:0 "この顧問は、あなたの国家にとって$AMT$分だけ雇用コストが高い。"
+ ADVISOR_MORE_EXPENSIVE:0 "この顧問はあなたの国にとって$AMT$高くつきます。"

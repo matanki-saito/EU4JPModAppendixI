@@ -1240,7 +1240,7 @@
  seize_land_rebels_tt:0 "いずれかの階級の忠誠度が§R30§!を下回ると、反乱軍が蜂起する可能性があります。"
  no_other_mil_privilege:0 "§Y月間軍事力§!を付与する他の階級特権がない"
  desc_increase_crown_land_share:0 "土地の所有権を王家側へ集中させることで、広範に及ぶ階級の権力をさらにうまく管理できるようになる。"
- estate_dhimmi_increase_autonomy_in_province_x_tooltip:0 "[agenda_province.GetName]州の自治率が10%以上減少"
+ estate_dhimmi_increase_autonomy_in_province_x_tooltip:0 "[agenda_province.GetName]州の自治率が10以上減少"
  estate_maratha_subject_rights:0 "従属国の権利"
  estate_rajput_subject_rights:0 "従属国の権利"
  estate_dhimmi_grant_liberties:0 "[Root.GetDhimmiName]の自由の付与"

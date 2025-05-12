@@ -143,7 +143,7 @@
  TRADE_CURRENT_POWER:0 "現在の交易力：§Y$VAL$§W"
  STEER_NO_TRADER:0 "交易を操縦するための交易力を送るには、まず商人を配置する必要があります。"
  TRANSFER_TRADE_POWER_TO:0 "§Y$OTHER$§!へ交易力を送出：§R-$VAL$§!"
- TRANSFER_TRADE_POWER_FROM:0 "§Y$OTHER$§!から交易力を受け取る：§G+$VAL$§!"
+ TRANSFER_TRADE_POWER_FROM:0 "§Y$OTHER$§!から受け取る交易力：§G+$VAL$§!"
  TRADER_NOT_DISCOVERED:0 "交易ノードが発見されていません。"
  ADDED_VALUE_TRADE:0 "付加価値：§Y$VAL$§!"
  MERCHANT_DOWNSTREAM_BONUS:0 "下流の交易商からの転送：$VAL$"

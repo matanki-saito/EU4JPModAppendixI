@@ -1163,7 +1163,7 @@
  consort_events.2.a:0 "永遠の友情に！"
  consort_events.2.a.tt:0 "[origin_of_queens_family.GetName]は、[Root.Consort.GetTitle]の一族の中心地です。この州は反乱を起こしにくくなりますが、特権が与えられるため、課税や改宗が難しくなります。"
  consort_events.3.t:0 "大いなる遺産"
- consort_events.3.d:0 "政略結婚は相互支援の契約という意味で連合と同様である。[Root.Consort.Dynasty.GetName]一族は、[Root.Monarch.GetTitle]が[Root.Consort.GetTitle]の助言に耳を傾け、双方の利益となるよう積極的に対処することを期待している。"
+ consort_events.3.d:0 "政略結婚とは、相互支援の契約であると同時に、連合でもある。[Root.Consort.Dynasty.GetName]一族は、[Root.Monarch.GetTitle]が[Root.Consort.GetTitle]の助言に耳を傾け、双方の利益となるよう積極的に対処することを期待している。"
  consort_events.3.a:0 "愛する[Root.Consort.GetTitle]のためならば何でも。"
  consort_events.3.a.tt.0:0 "[Root.Consort.Dynasty.GetName]一族は、我々が助けに来たことを忘れないだろう。"
  consort_events.3.a.tt.1:0 "王室は、[Root.Consort.Dynasty.GetName]の土地の開発に資金を提供するだろう。"
