@@ -1091,7 +1091,7 @@
  son_invite_foreign_scholars_title:1 "[Root.GetPreviewColorSON]学者の招聘[Root.GetPreviewColorSON_end]"
  son_invite_foreign_scholars_desc:0 "自国はアラビアの信者仲間から遠く離れており、それは自国の学者たちも同じだ。そのため、自国の法律は彼らとは独立して変化している。東方から学者を招聘し、[Root.Religion.GetName]に関する最先端法について話を聞くべきだ。"
  son_invite_foreign_scholars_ct:0 "首都が§Yサヘル§!地方、§Yニジェール§!地方、§Yギニア§!地方のいずれにもなく、国教が§Y[Root.Religion.GetName]§!であり、§Y[Root.GetName]§!の同盟国である国家が存在する。"
- son_invite_foreign_scholars_bt:0 "[Root.GetName]は、外交要求せずに§Y学者§!を招聘できるようになります。\n"
+ son_invite_foreign_scholars_bt:0 "[Root.GetName]は、外交条件が無くても§Y学者§!を招聘できるようになります。\n"
  son_invite_foreign_scholars_at:0 "学者の種類は、このミッションの達成時点で招聘していた学派に依ります。"
  son_invite_foreign_scholars_tt:0 "首都が§Yサヘル§!地方、§Yニジェール§!地方、§Yギニア§!地方のいずれにもない\n　§Y[Root.Religion.GetName]§!である\n　§Y[Root.GetName]§!への外交評価が§Y150§!以上"
  son_power_to_the_ulema_title:1 "[Root.GetPreviewColorSON][Root.GetClergyName]にさらなる力を[Root.GetPreviewColorSON_end]"

@@ -3446,7 +3446,7 @@
  peoples_kingdom_reform_desc:0 "支配者は、臣下がいなければ平民以外の何者でもない。そのため、国民が君主に仕えるのと同じように、君主も国民に仕えるのだ。"
  deified_monarchy_reform:1 "王権神授説"
  deified_monarchy_reform_desc:0 "君主の支配は誰もが主張できる権利ではない。それは、我々の信仰によって与えられた神権なのだ。君主は、ひいては我々自身の信仰による神の意志を体現する存在である。"
- mechanic_free_noble_levies_yes:1 "「§Y徴募兵の増加§!」の階級特権は影響力の増加と最大絶対主義の減少を招かなくなる"
+ mechanic_free_noble_levies_yes:1 "階級特権「§Y徴募兵の増加§!」は影響力の増加と最大絶対主義の減少を招かなくなる"
  empowered_regency_modifier:0 "権力を持った摂政"
  desc_empowered_regency_modifier:0 "現在王位を掌握する貴族と緊密に連携することで、円滑な秩序と政治問題の効率化を実現できる。"
  mechanic_improved_nobles_regency_yes:1 "§Y貴族摂政制§!を有することで以下の効果を得ます：\n年間正統性：§G+1.00§!\n安定度コスト補正：§G-25.0%§!\n月間統治力：§G+1§!\n月間外交力：§G+1§!\n月間軍事力：§G+1§!"

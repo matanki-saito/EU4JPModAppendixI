@@ -305,7 +305,7 @@
  governmental_purbias_register_reform_desc:0 "国家は、インド全土から熟練のラージプート兵を呼び寄せる対策を講じている。彼らをより効果的に配備できるよう、到着次第これらの戦士たちを組織して団結した連隊に編制する措置を講じるべきだ。"
  mechanic_maratha_general_interaction_yes:2 "マラーターの階級特権「§Yマラーターの軍事的指導§!」を有効にします。この特権は、マラーターの土地所有権に応じて最大で規律§G+10%§!と税収§R-15%§!をもたらします。"
  mechanic_maratha_general_interaction_no:0 " "
- mechanic_better_purbias_interaction_yes:1 "ラージプートの階級特権「§Yプルビヤの徴募§!」は、ラージプート連隊に対して§G5%§!の規律の増加を与えてくれます。"
+ mechanic_better_purbias_interaction_yes:1 "ラージプートの階級特権「§Yプルビアの徴募§!」は、ラージプート連隊に対して§G5%§!の規律の増加を与えてくれます。"
  mechanic_better_purbias_interaction_no:0 " "
  venice_merchants_reform:0 "ヴェネツィア政府"
  venice_merchants_reform_desc:0 "最も高貴なる共和国ヴェネツィアは公務員を公職に選ぶための手間のかかる複雑な制度を採用している。一連の秘密投票が41人の選挙人を任命し、各選挙人はそれぞれ壺に票を投じる。1つの票が壷から抜き取られ、そこに名前が書かれた者が新しいドージェとなる。この制度は、選挙の汚職に有効で、公平な投票を保証しようとする。"

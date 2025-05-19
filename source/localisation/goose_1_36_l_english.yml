@@ -1,7 +1,7 @@
 ﻿l_english:
  CAN_NOT_FIRE_ADVISOR:0 "§Rこの顧問は解雇できません！§!"
- ASSIMILATED_EFFECT:0 "この文化と受容すると、以下が発生します："
- LOST_ASSIMILATED_EFFECT:0 "この文化との受容を失うと、以下が発生します："
+ ASSIMILATED_EFFECT:0 "この文化を同化すると、以下が発生します："
+ LOST_ASSIMILATED_EFFECT:0 "この文化との同化が失われると、以下が発生します："
  NAVAL_DOCTRINE_EFFECT:0 "このドクトリンを選択すると以下が発生します："
  REMOVE_NAVAL_DOCTRINE_EFFECT:0 "このドクトリンを喪失すると以下が発生します："
  NAVAL_DOCTRINE_CHANGE_EFFECT:0 "さらに以下を得ます："

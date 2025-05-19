@@ -2236,7 +2236,7 @@
  mechanic_theocratic_monarchy_mechanic_yes:0 "§Y神権制§!および§Y君主制§!の特性を有している"
  monarchistic_direction_tt:0 "この後継者が§Y[Root.Monarch.GetTitle]§!になった際、§Y君主制主義者§!が政権を握るでしょう。"
  theocratic_direction_tt:0 "この後継者が§Y[Root.Monarch.GetTitle]§!になった際、§Y神権制主義者§!が政権を握るでしょう。"
- mechanic_free_expansionist_zealotry_yes:0 "「§Y拡張主義への熱狂§!」の階級特権は、もはや平時におけるデメリットがなくなり、最大絶対主義値が減少しなくなりました。"
+ mechanic_free_expansionist_zealotry_yes:0 "階級特権「§Y拡張主義への熱狂§!」は、もはや平時におけるデメリットがなくなり、最大絶対主義値が減少しなくなりました。"
  estate_church_for_the_faith_effect_tooltip_a:0 "陸軍士気：異端または異教との戦争時§G+5%§!"
  mechanic_recruiting_generals_increases_church_loyalty_yes:0 "指揮官を雇用すると§Y聖職者階級§!の忠誠度が§G2%§!増加する"
  mechanic_seizing_land_no_rebels_from_estate_maratha_yes:0 "§Yマラーター§!からの領地の没収で反乱が発生しない"
