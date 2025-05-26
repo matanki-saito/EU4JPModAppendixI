@@ -240,7 +240,7 @@
  has_dip_advisor_3_tooltip:0 "スキル§Y3§!以上の§Y外交§!顧問を雇用している。"
  has_mil_advisor_tooltip:0 "§Y軍事§!顧問を雇用している。"
  has_mil_advisor_2_tooltip:0 "スキル§Y2§!以上の§Y軍事§!顧問を雇用している。"
- has_mil_advisor_3_tooltip:0 "スキル§Y3§!の§Y軍事§!顧問を雇用している。"
+ has_mil_advisor_3_tooltip:0 "スキル§Y3§!以上の§Y軍事§!顧問を雇用している。"
  has_completed_all_reforms_trigger_tooltip:0 "すべての政府改革を完了している。"
  has_been_insulted_by_root:1 "§Y[Root.GetName]§!から侮辱されている"
  new_flavour_bav.12.t:0 "インゴルシュタット：ビールの街？"

@@ -666,7 +666,7 @@
  COT_STATE_MODIFIER:1 "§Y地域内の自国の州§!：\n$MODIFIER$\n"
  COT_GLOBAL_MODIFIER:0 "§Y国の補正§!：\n$MODIFIER$\n"
  COT_NO_OF_LEVEL:0 "レベル$LEVEL|Y$の交易中心地がない\n"
- COT_OF_LEVEL:0 "レベル$LEVEL|Y$の交易中心地がある\n"
+ COT_OF_LEVEL:0 "レベル$LEVEL|Y$の交易中心地が一つ以上ある\n"
  COT_NO_OF_LEVEL_PROVINCE:0 "レベル$LEVEL|Y$の交易中心地がない\n"
  COT_OF_LEVEL_PROVINCE:1 "州にレベル$LEVEL|Y$の交易中心地がある\n"
  COT_LESS_THAN:0 "交易中心地が$NUM|Y$未満\n"
