@@ -1081,7 +1081,7 @@
  church_estate_events.2.d:0 "$ESTATE_CHURCH$の権力は、国家自体に決して依存していない。むしろ、多くの意味で、精神的な領域に結びついている$ESTATE_CHURCH$は、[Root.Monarch.GetTitle]に正統性を加えている。巧みな政治的な動き、感知された悪い前兆と我々の国民からの寛大な寄付の組み合わせが、最近、この階級の権力を固めている。"
  church_estate_events.2.a:0 "OK"
  church_estate_events.3.t:0 "$ESTATE_CHURCH$が権力を失う"
- church_estate_events.3.d:0 "他の階級よりも、$ESTATE_CHURCH$の影響力は一般の人々との立場に依存している。その理由を明確に指摘するのは難しいが、近年、$ESTATE_CHURCH$は、我が国の精神的な保護者とは見られなくなり、代わりに豊かで腐敗した陰謀を企てる者として見られるようになった。$ESTATE_CHURCH$の財産自体への適切でない投資に加え、貧弱な政治工作によって、$ESTATE_CHURCH$は権力と影響力の双方を失った。"
+ church_estate_events.3.d:0 "他の階級よりも、$ESTATE_CHURCH$の影響力は一般の人々との関係に左右される。その理由を明確に指摘するのは難しいが、近年、$ESTATE_CHURCH$は、我が国の精神的な保護者とは見られなくなり、代わりに金持ちで堕落した陰謀を企てる者として見られるようになった。$ESTATE_CHURCH$の物件そのものへの不運な投資に加え、政治的手腕の低さも相重なって、$ESTATE_CHURCH$は権力と影響力の双方を失いつつある。"
  church_estate_events.3.a:0 "OK"
  church_estate_events.4.t:0 "反教権主義"
  church_estate_events.4.d:0 "主要都市の$ESTATE_BURGHERS$が、$ESTATE_CHURCH$は貪欲で怠惰であると非難している。敬虔な庶民たちは、権威を悪用する最悪の見本である$ESTATE_CHURCH$に対する抗議として、十分の一税の支払いを保留している。敬虔な$ESTATE_BURGHERS$は、$ESTATE_CHURCH$には受け取る資格はないと考えているので、$ESTATE_CHURCH$への十分の一税の支払いに反対している。\n$ESTATE_CHURCH$は猛烈に怒り、強情な$ESTATE_BURGHERS$に罰金を科すよう要求している。"

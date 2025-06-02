@@ -2,7 +2,7 @@
  ENABLE_ESTATE_DECISION:0 "次の階級への決断を有効化："
  DISABLE_ESTATE_DECISION:0 "次の階級への決断を無効化："
  HAS_ESTATE_DECISION:0 "次の階級への決断が利用可能である："
- ESTATE_ACTION_DESCRIPTION:0 "§Y階級への決断§!\n階級からの好意を得るために影響力を行使したり、もしくは階級から利益を引き出すために我々への好感度を消費します。"
+ ESTATE_ACTION_DESCRIPTION:0 "§Y階級への決断§!\n階級からの忠誠度を得るために影響力を行使したり、階級から即座に利益を引き出すために我々への忠誠度を消費します。"
  ESTATE_ACTION_SHARED_COOLDOWN:0 "§Yこの相互作用は似たような効果を持つ行為とクールタイムを共有します。§!"
  has_any_estate_disaster_active_tt:0 "何らかの§Y階級の国難§!が有効である"
  has_not_any_estate_disaster_active_tt:0 "いずれの§Y階級の国難§!も有効でない"
