@@ -653,7 +653,7 @@
  COT_MAX_LEVEL_IN_STATE:0 "§Rあなたはすでに$STATE|Y$において最高レベルの交易中心地を持っています！§!"
  COT_THAT_CHANGES_OWNER_LOSES_LEVEL:0 "交易中心地は所有者が変わるたびにレベルが1下がります。"
  COT_UPGRADE_DOWNGRADE_AT_WAR:0 "§R戦争中に交易中心地のレベルを変えることはできません！§!"
- COT_UPGRADE_DOWNGRADE_NOT_OWNED:0 "§Rあなたが所有していない州にある交易中心地のレベルを変えることはできません！§!"
+ COT_UPGRADE_DOWNGRADE_NOT_OWNED:0 "§R領有していない州の交易中心地のレベルを変えることはできません！§!"
  COT_UPGRADE_DOWNGRADE_SIEGE:0 "§R包囲中の州にある交易中心地のレベルを変えることはできません！§!"
  COT_UPGRADE_DOWNGRADE_OCCUPIED:0 "§R占領中の州にある交易中心地のレベルを変えることはできません！§!"
  COT_UPGRADE_DOWNGRADE_NON_CORE:0 "§R中核州でない州にある交易中心地のレベルを変えることはできません！§!"

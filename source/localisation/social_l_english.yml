@@ -118,7 +118,7 @@
  WRONG_DOB_FORMAT:0 "有効な誕生日ではありません"
  CREATE_PARADOX_ACCOUNT:0 "Paradoxアカウントを作成"
  CREATE_PARADOX_ACCOUNT_DESCRIPTION:1 ""
- CREATE_PARADOX_ACCOUNT_FEATURES:0 "Paradoxアカウントを作成することで：\n - 他では入手不可なEUIVの肖像を獲得\n - クロスプラットフォームでのマルチプレイが可能\n - 実績を獲得\n - クラウドへのセーブが可能\n - Paradoxフォーラムへアクセス可能\n - 特別なオファーや取引を獲得"
+ CREATE_PARADOX_ACCOUNT_FEATURES:0 "Paradoxアカウントを作成することで：\n - 他では入手不可なEUIVの肖像を獲得\n - クロスプラットフォームでのマルチプレイが可能\n - 実績を獲得\n - クラウドへのセーブが可能\n - Paradoxフォーラムへアクセス可能\n - 特別なオファーや取引を獲得"
  NEWSLETTER_DESCRIPTION:1 "Paradox Interactiveからのニュースやオファーの受信を希望する"
  LOGIN_REQUIRED:0 "ログインが必要"
  LOGIN:0 "ログイン"

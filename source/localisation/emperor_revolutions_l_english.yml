@@ -190,7 +190,7 @@
  center_of_revolution.1600.desc:0 "[From.GetName]での革命軍の敗北は、彼らの大義の大きな後退を表している。彼らが国家を転覆させることに失敗したことで、[From.GetRegionName]のかつての支持者の多くは革命的な主張に対する信仰を失い、代わりに[Root.GovernmentName]の継続を受け入れることを選択している。"
  center_of_revolution.1600.A:0 "[Root.Monarch.GetTitle]のために！"
  root_is_most_powerful_in_europe:0 "§Y[Root.GetName]§!は§Yヨーロッパ§!で最も強力な国家である。"
- root_is_most_powerful_in_europe_2:0 "§Yヨーロッパ§!で最も強力な国家の国民として、我々の退廃的な市民はより多くの自由を望んでいる。"
+ root_is_most_powerful_in_europe_2:0 "§Yヨーロッパ§!で最も強力な国家の臣民として、我々の退廃的な市民はより多くの自由を望んでいる。"
  center_of_revolution.2950.name:0 "危機に瀕した革命"
  center_of_revolution.2950.desc:0 "過去10年間、革命は多くの挫折を経験してきた。革命は指導者がいない困難に喘いでおり、運動に再び火を灯さない限り、確実に衰退していくだろう。"
  center_of_revolution.2950.A:0 "心配だ。"
