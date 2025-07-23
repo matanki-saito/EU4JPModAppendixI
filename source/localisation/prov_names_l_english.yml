@@ -3337,7 +3337,7 @@
  PROV4389:0 "トゥーレーヌ"
  PROV4390:0 "トロワ"
  PROV4391:0 "ヴィヴァラワ"
- PROV4392:0 "オークセロワ"
+ PROV4392:0 "オーセロワ"
  test_province_name:0 "テスト州名"
  other_province_name:0 "その他の州名"
  rand_prov_straits_of:0 "$prov$海峡"

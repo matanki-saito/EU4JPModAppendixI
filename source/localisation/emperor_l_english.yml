@@ -1014,7 +1014,7 @@
  force_peasant_republic_desc:0 "[From.GetName]は農民共和国となります。"
  CB_ALLOWED_force_peasant_republic:0 "農民による支配を強制"
  PEACE_force_peasant_republic:0 "農民支配の強制"
- just_lost_war_timer:0 "戦争に敗戦しただけ"
+ just_lost_war_timer:0 "戦争で敗北した"
  REINTEGRATE_INTO_HRE_WAR_NAME:0 "$ORDER$$FIRST$・$SECOND$帝国領回復戦争"
  cb_reintegrate_into_hre:0 "皇帝の再征服"
  cb_reintegrate_into_hre_desc:0 "皇帝の統治から離反した奴らは、帝国に戻らなければならぬ！"

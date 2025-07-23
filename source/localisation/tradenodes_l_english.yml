@@ -51,7 +51,7 @@
  MERCHANT_PRESENT_TRANSIT:0 "$COUNTRY$は、商人にこの交易ノードで交易力を送らせています。"
  MERCHANT_NOT_PRESENT:0 "商人が存在しません。"
  MERCHANT_DAILY_INCREASE:0 "交易力が§Y$VAL$§W/日まで増えます。"
- TRADE_NODE_POWER_SHARE:0 "交易力共有：§G$VAL$§W%"
+ TRADE_NODE_POWER_SHARE:0 "交易力シェア：§G$VAL$§W%"
  TRADE_MAX_POWER_MOD:0 "交易力：$VAL$"
  TRADE_INCOME_MOD:0 "収入：$VAL$"
  TRADE_STEER:0 "現在$NAME$へ交易誘導しています。"

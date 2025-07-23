@@ -98,7 +98,7 @@
  mnd_siam_city_of_worlds_desire_title:0 "世界が焦がれる都"
  mnd_siam_city_of_worlds_desire_desc:0 "[Root.Capital.GetCapitalName]が大都市であるだけでは十分とはいえない。それは世界最大の都市であり、全世俗権力のお膝元でなければならない。"
  mnd_siam_devaraja_title:0 "デヴァラージャ"
- mnd_siam_devaraja_desc:0 "[Root.Monarch.GetTitle]は、単に現世の支配者であるだけでなく、領内の精神的な中心でもある。君主制というものは安心があり、信仰を保護するものという知識で、国民の心が満ち足りたものとせねばならない。。"
+ mnd_siam_devaraja_desc:0 "[Root.Monarch.GetTitle]は、単に現世の支配者であるだけでなく、領内の精神的な中心でもある。君主制というものは安心があり、信仰を保護するものという知識で、国民の心が満ち足りたものとせねばならない。"
  mnd_siam_revolution_title:0 "シャム革命"
  mnd_siam_revolution_desc:0 "西洋の海外勢力が[Root.GetName]に侵入し始めている。彼らの腹づもりを突き止め、彼らを追い出すか、もしくは彼らが存在することで恩恵を受ける方法を探し出すか、いずれかを行わなければならない。"
  mnd_siam_royal_duel_title:0 "王家闘争に勝て"
