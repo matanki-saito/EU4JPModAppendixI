@@ -470,7 +470,7 @@
  pap_moderate_inquisition:0 "穏健な聖異端審問"
  desc_pap_moderate_inquisition:0 "教皇はローマの異端審問を再編成した。"
  pap_burned_heretic:0 "異端者を火あぶりに"
- desc_pap_burned_heretic:0 "異端者ジョルダーノ・ブルーノは、ヴェネツィアで逮捕されてローマへ引き渡され、そこで裁判を受け火刑に処すよう非難された。"
+ desc_pap_burned_heretic:0 "異端者ジョルダーノ・ブルーノは、ヴェネツィアで逮捕されてローマへ引き渡され、そこで裁判を受け火刑に処すよう判決を受けた。"
  mch_jesuits:0 "イエズス会"
  desc_mch_jesuits:0 "イエズス会のメンバーと修道会は、満州での滞在を許可されていた。"
  kni_accepted_cultures:0 "文化的な人的資源"

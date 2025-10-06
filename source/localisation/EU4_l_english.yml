@@ -1513,7 +1513,7 @@
  ADD_AUTHORITY:0 "権威を$VALUE$$DIRECTION$"
  PATRIARCH_AUTHORITY_IN_PROVINCES:0 "あなたの正教会の州："
  FULL_PATRIARCH_AUTHORITY:0 "総主教の権威が最大に達すると獲得できます："
- NO_PATRIARCH_AUTHORITY:0 "総主教の権威がないので、なんの補正も取得しません。"
+ NO_PATRIARCH_AUTHORITY:0 "総主教の権威がない場合、得られる補正はありません。"
  mercantilism:0 "重商主義から"
  ADD_MERCANTILISM:0 "重商主義を$VALUE$$DIRECTION$"
  ADD_CORRUPTION:0 "汚職を$VALUE$$DIRECTION$"
