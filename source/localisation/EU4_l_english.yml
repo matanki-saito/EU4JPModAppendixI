@@ -66,7 +66,7 @@
  STAPAT_OTHER_REL:1 "$NAME$は$REL$です。"
  STAPAT_NOT_FULL_CORE:1 "$NAME$は単なるテリトリーの中核州です。"
  STAPAT_OTHER_CUL:1 "$NAME$は$CUL$です。"
- STAPAT_LOW_DEV:1 "主教座は少なくとも$NEED|Y$の開発度がある地域に奉献でき、$NAME$には$CUR|Y$しかない。"
+ STAPAT_LOW_DEV:1 "主教座は開発度$NEED|Y$以上の地域に奉献できますが、$NAME$には$CUR|Y$しかありません。"
  CONFIRCONSECRATEPATRIARCh:1 "主教座の奉献の確認"
  CONFIRCONSECRATEPATRIARCH_TEXT:0 "$EFFECT$\n本当によろしいですか？"
  CONSECRATE_BUTTON:1 "主教座の奉献"

@@ -337,7 +337,7 @@
  flavor_sax.7.A:0 "身代金を支払おう。"
  flavor_sax.7.B:0 "反逆者に支払う金などない！"
  flavor_sax.8.name:0 "ライプツィヒ条約"
- flavor_sax.8.desc:0 "フリードリヒ2世の死に伴い、今度は[Root.Monarch.GetName]と、その兄[Root.Monarch.GetHerHis]の間で、ザクセンの公爵位をめぐり継承問題が発生している。フリードリヒ2世の遺言によれば、エルンストは[Root.Monarch.GetSisterBrother]から独立して、チューリンゲンの支配者となるべき、とされている。しかし、[Root.Monarch.GetName]はエルンストより有利な立場にあり、父の遺言を受け入れることも可能だ。もっとも、[Root.Monarch.GetSheHe]がその結果を受け入れたらの話だが…"
+ flavor_sax.8.desc:0 "フリードリヒ2世の死に伴い、今度は[Root.Monarch.GetName]と、[Root.Monarch.GetHerHis]の弟のエンストとの間で、ザクセンの公爵位をめぐり継承問題が発生している。フリードリヒ2世の遺言によれば、エルンストは[Root.Monarch.GetSisterBrother]から独立して、チューリンゲンの支配者となるべき、とされている。しかし、[Root.Monarch.GetName]はエルンストより有利な立場にあり、父の遺言を無視することも可能だ。もっとも、[Root.Monarch.GetSheHe]がその結果を受け入れるならばの話だが…"
  flavor_sax.8.A:0 "遺言に従おう。"
  flavor_sax.8.B:0 "ザクセンを分割するなど論外だ！"
  flavor_sax.9.name:0 "ザクセン選帝侯"
