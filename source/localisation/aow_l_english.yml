@@ -108,7 +108,7 @@
  HRE_LEAGUE_LEADER_SCORE_WAR:0 "§Y$COUNTRY$§!の軍事評価は彼らが戦争中であるため、低下します。"
  HRE_LEAGUE_LEADER_SCORE_ELECTOR:0 "§Y$COUNTRY$§!の軍事評価は彼らが選帝侯であるため、上昇します。"
  HRE_LEAGUE_LEADER_SCORE_ONLY:0 "§Y$COUNTRY$§!の現在の軍事評価は§Y$SCORE_CURRENT$§!です。"
- HRE_LEADER_ALWAYS_EMPEROR:0 "皇帝は常に連盟の指導国です。"
+ HRE_LEADER_ALWAYS_EMPEROR:0 "皇帝が常に連盟の指導国となります。"
  FRONTEND_COUNTRY_DISCLAIMER:0 "§Gこれは近似値です。実際の値はゲーム内の建築物や補正、その他の要素によって異なる場合があります。§!"
  FRONTEND_COUNTRY_PROVINCES:0 "§Y国家規模§!"
  FRONTEND_COUNTRY_PROVINCES_DESC:0 "これは§Y$COUNTRY$§!が保有する州の数です。より多くの州を保有しているほど、潜在的な開発度が高まります。"

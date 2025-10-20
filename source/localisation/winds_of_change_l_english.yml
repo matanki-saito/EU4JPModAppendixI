@@ -3334,7 +3334,7 @@
  INC_unlock_the_idol_privilege:1 "§Y[Root.GetClergyName]§!の階級特権「§Y偶像の製造§!」が解禁されます。毎月のインカの権威§G+0.05§!、年間権威§G+0.5§!、真の信仰の寛容度§G+1.00§!、統治者の宗教を持つ顧問の費用§G-10.0%§!を与えます。"
  INC_remove_max_absolutism_penalty_from_city_expansion_privileges:0 "§Y[Root.GetBurghersName]§!の階級特権「§Y都市拡張特権§!」が強化され、§Y最大絶対主義§!のペナルティを削除します。"
  INC_modify_the_clerical_ministers:1 "§Y[Root.GetClergyName]§!の階級特権「§Y聖職者の大臣§!」が強化され、毎月のインカの権威§G+0.05§!、[Root.GetClergyName]階級の忠誠均衡値§G+5.0%§!になります。"
- INC_5_base_manpower_in_jungle:0 "§Yジャングル§!の地形の我々の州に、基本人的資源§G5§!を分配する。"
+ INC_5_base_manpower_in_jungle:0 "§Yジャングル§!の地形の我々の州に、基本人的資源§G5§!を分配します。"
  INC_upgrade_idol_estate_privilege:1 "§Y[Root.GetClergyName]§!の階級特権「§Y偶像の製造§!」が強化され、§Y補正§!が2倍になり、§Y最大絶対主義§!のペナルティを削除します。"
  INC_upgrade_potosi_monument:1 "大事業§Yポトシ§!の§Y条件付き補正§!が解禁されます。これにより、年間インフレ§G-0.1§!、真の信仰の寛容度§G+1.00§!を得ます。"
  INC_benefits_of_the_privilege_will_be_removed:0 "この特権による§Y補正§!は削除されます。"

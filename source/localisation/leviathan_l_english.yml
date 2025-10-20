@@ -1248,7 +1248,7 @@
  desc_religious_intolerance_mod:0 "国教に従わない者に対する不寛容の新しい波が始まった。"
  religious_intolerance_tooltip:1 "§Y[Root.Heir.GetName]§!が王位に就くまで、領内で§Y[Root.Religion.GetName]§!以外の他宗教が迫害される。"
  estate_regency_events.7.t:0 "勤王派の摂政"
- estate_regency_events.7.d:0 "我々は摂政に任じられた者に君主と国家に忠実であることを常に期待するが、職権の濫用、あからさまな不忠、指導的立場になってすぐに権力の掌握を図ろうとすることなどがなければ、それで十分満足できる。[Root.Monarch.GetName]はその例外である。忠実で礼儀を弁えており、我々が[Root.Monarch.GetHerHim]に最高のものを期待している為、摂政の一派からの献策は、この数ヶ月で最高の知らせであった。"
+ estate_regency_events.7.d:0 "我々は摂政に任じられた者に君主と国家に忠実であることを常に期待するが、職権の濫用、あからさまな不忠、指導的立場になってすぐに権力の掌握を図ろうとすることなどがなければ、それで十分満足できる。[Root.Monarch.GetName]はその例外である。忠実で礼儀を弁えている摂政の一派からの献策は、我々が[Root.Monarch.GetHerHim]に最大の期待しか寄せなくなって以来、この数ヶ月で最高の知らせであった。"
  estate_regency_events.7.a:0 "たまにはいい知らせってのもあるもんなんだな！"
  loyalist_leader_mod:0 "王党派のリーダー"
  desc_loyalist_leader_mod:0 "摂政は王室に忠誠を誓っている"

@@ -95,7 +95,7 @@
  army_professionalism_events.10.b:0 "我々は階層の上位に新しい者のための余地を作ることができる。"
  army_professionalism_events.11.t:0 "団結心"
  army_professionalism_events.11.d:1 "軍隊生活が兵士に与える緊張は、良い状況の下では、軍隊を大きく強化する帰属意識と協力の精神の発達へとつながる。最近の[enemy_country.GetName]との紛争の中で、我々の軍隊がより良く協力していること、そして数年前には想像もできなかったが、彼らが[Root.GetAdjective]の[Root.GetStateForm]に対する忠誠心と奉仕の精神を形成していることが明らかになった。"
- army_professionalism_events.11.a:0 "これは[Root.GetAdjective]の軍隊を他の部隊と区別するものだ。"
+ army_professionalism_events.11.a:0 "これが[Root.GetAdjective]の軍隊が他のすべての軍隊から一線を画す所以である。"
  army_professionalism_events.12.t:0 "士官の不足"
  army_professionalism_events.12.d:0 "大規模な職業軍を効率的に保つためには、[Root.GetStateForm]の命令と意志を実行するのに十分な数の訓練された士官が必要である。しかし、質の高い指導力に対する需要の増加は、我々の名簿に載っている士官の数とは一致していない。\n品質への要求が高まるにつれて、新しい士官も訓練に時間がかかり、募集するのが困難になる。"
  army_professionalism_events.12.a:0 "訓練を短くしよう。"
