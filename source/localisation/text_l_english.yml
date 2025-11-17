@@ -1881,7 +1881,7 @@
  RESIGN_DESC:0 "本当にメインメニューに戻りますか？"
  MAR_THEY_SUBJ:0 "彼らは$LORD$の従属国です。彼らは連合に参加することはできません。"
  DEFICIT_WHEN:0 "我々は§Y$WHEN$§!に破産するでしょう。"
- alert_call_to_peace_instant:0 "平和の呼びかけ！"
+ alert_call_to_peace_instant:0 "和平の呼びかけ！"
  alert_call_to_peace_delayed:0 "この戦争には勝利しており、人々は占領を続けることに疲弊しています。彼らは平和を叫んでいます！"
  alert_bankrupt_instant:0 "§Y迫り来る破産§!"
  alert_bankrupt_delayed:0 "収支がよくありません。毎月$BALANCE$¤を失っています。"
